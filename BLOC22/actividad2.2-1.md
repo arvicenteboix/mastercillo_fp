@@ -11,7 +11,7 @@ titlepage-rule-color: AA0000
 titlepage-text-color: AA0000
 titlepage-background: ../portades/U1.png
 
-date: "21-10-2025"
+# date: "21-10-2025"
 subject: "Proxmox"
 keywords: [Xarxa, Instal·lació]
 subtitle: "Actividad 2.2-1: El currículo en la Formación Profesional integrada"

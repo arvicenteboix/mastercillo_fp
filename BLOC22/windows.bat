@@ -1,3 +1,7 @@
 pandoc bloc22.md -o bloc22.pdf --from markdown+implicit_figures --template eisvogel --listings --filter pandoc-latex-environment --number-sections --toc
+pandoc BLOC22/actividad2.2-1.md -o BLOC22/actividad2.2-1.pdf --from markdown+implicit_figures --template eisvogel --listings --filter pandoc-latex-environment --number-sections --toc
+pandoc BLOC22/actividad2.2-2.md -o BLOC22/actividad2.2-2.pdf --from markdown+implicit_figures --template eisvogel --listings --filter pandoc-latex-environment --number-sections --toc
+pandoc BLOC22/actividad2.2-3.md -o BLOC22/actividad2.2-3.pdf --from markdown+implicit_figures --template eisvogel --listings --filter pandoc-latex-environment --number-sections --toc
+pandoc BLOC22/actividad2.2-4.md -o BLOC22/actividad2.2-4.pdf --from markdown+implicit_figures --template eisvogel --listings --filter pandoc-latex-environment --number-sections --toc
 pandoc bloc22.md -o index.html --from markdown+implicit_figures -c aqua.css --template ./plantilla.html --listings --filter pandoc-latex-environment --number-sections --toc --toc-depth 3
 powershell -NoProfile -Command "Compress-Archive -Path 'index.html','aqua.css','img','rsc','media' -DestinationPath 'bloc22.zip' -Force"
