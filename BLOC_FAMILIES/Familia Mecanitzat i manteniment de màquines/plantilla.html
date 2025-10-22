@@ -1,0 +1,498 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="$lang$" xml:lang="$lang$" $if(dir)$ dir="$dir$" $endif$>
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="generator" content="pandoc" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+    $for(author-meta)$
+    <meta name="author" content="$author-meta$" /> $endfor$
+    $if(date-meta)$
+    <meta name="dcterms.date" content="$date-meta$" /> $endif$
+    $if(keywords)$
+    <meta name="keywords" content="$for(keywords)$$keywords$$sep$, $endfor$" /> $endif$
+    $if(description-meta)$
+    <meta name="description" content="$description-meta$" /> $endif$
+    <title>$if(title-prefix)$$title-prefix$ – $endif$$pagetitle$</title>
+
+    <!-- Fuente moderna -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+
+    <style>
+
+
+
+        /* Imagen fija en esquina como fondo decorativo.
+            Cambia la ruta en --corner-bg-url y ajusta tamaño/offset según convenga. */
+        :root {
+             --corner-bg-url: url("rsc/fondo.png"); /* <- reemplazar por la ruta de la imagen */
+             --corner-size: 460px;     /* tamaño del recuadro de la imagen (contain) */
+             --corner-opacity: 0.32;   /* opacidad para que no distraiga */
+             --corner-offset: 1.5rem;  /* separación respecto a los bordes */
+        }
+
+        /* Asegurar que el contenido esté por encima del decorado */
+        #content { position: relative; z-index: 1; }
+
+        /* Pseudo-elemento fijo en esquina (por defecto: esquina superior derecha) */
+        body::before {
+             content: "";
+             position: fixed;
+             bottom: var(--corner-offset);
+             right: var(--corner-offset);
+             width: var(--corner-size);
+             height: var(--corner-size);
+             background-image: var(--corner-bg-url);
+             background-repeat: no-repeat;
+             background-size: contain;
+             background-position: center;
+             opacity: var(--corner-opacity);
+             pointer-events: none; /* no interfiere con clicks */
+             z-index: 0;
+        }
+
+        /* Si quieres otra esquina, sustituye top/right por:
+            top/left  -> usar top:var(--corner-offset); left:var(--corner-offset);
+            bottom/right -> bottom:var(--corner-offset); right:var(--corner-offset);
+            bottom/left -> bottom:var(--corner-offset); left:var(--corner-offset);
+        */
+
+        /* No imprimir la imagen decorativa */
+        @media print {
+             body::before { display: none !important; }
+        }
+
+        :root{
+            --bg: linear-gradient(linear-gradient(to right, #87625a82 25%, #ea9a9a 250%));
+            --panel: rgba(255,255,255,0.6);
+            --accent: #2563eb;
+            --muted: #6b7280;
+            --text: #0f172a;
+            --radius: 12px;
+            --max-width: 1200px; /* ancho de contenido para márgenes amplios */
+            --gutter: 3rem;
+        }
+
+        /* Reset básico */
+        html,body{height:100%;margin:0;padding:0;font-family:"Inter",system-ui,-apple-system,Segoe UI,Roboto,"Helvetica Neue",Arial;}
+        body{
+            background: var(--bg);
+            color: var(--text);
+            -webkit-font-smoothing:antialiased;
+            -moz-osx-font-smoothing:grayscale;
+            line-height:1.5;
+        }
+
+        #content{
+            box-sizing:border-box;
+            max-width: calc(var(--max-width) + 2 * var(--gutter));
+            margin: var(--gutter) auto;
+            padding: var(--gutter);
+            background: transparent;
+        }
+
+        /* Diseño de dos columnas en pantallas grandes */
+        .layout {
+            display: grid;
+            grid-template-columns: 320px 1fr;
+            gap: 2rem;
+            align-items:start;
+        }
+
+        @media (max-width: 980px){
+            .layout { grid-template-columns: 1fr; }
+        }
+
+        nav#TOC {
+            position: sticky;
+            top: 2rem;
+            height: calc(100vh - 4rem);
+            overflow:auto;
+            background: linear-gradient(180deg, rgba(255,255,255,0.6), rgba(255,255,255,0.4));
+            border-radius: var(--radius);
+            padding: 1rem;
+            box-shadow: 0 6px 18px rgba(12,18,31,0.06);
+            font-size: 0.95rem;
+        }
+
+        nav#TOC h2 { margin:0 0 0.75rem 0; font-size:1rem; color:var(--muted); }
+
+        nav#TOC a {
+            display:block;
+            color:var(--text);
+            text-decoration:none;
+            padding:0.35rem 0.5rem;
+            border-radius:8px;
+            transition: background .15s, transform .08s;
+        }
+        nav#TOC a:hover { background: rgba(37,99,235,0.06); transform: translateX(4px); }
+        nav#TOC a.navItemSelected { background: var(--accent); color: white; font-weight:600; }
+
+        header#title-block-header{
+            background: var(--panel);
+            padding: 1.2rem 1.4rem;
+            border-radius: 12px;
+            box-shadow: 0 8px 28px rgba(12,18,31,0.06);
+            margin-bottom: 1rem;
+        }
+        header#title-block-header .title { margin:0; font-size:1.6rem; font-weight:700; }
+        header#title-block-header .date { color:var(--muted); margin-top:0.35rem; font-size:0.95rem; }
+
+        main {
+            background: var(--panel);
+            padding: 1.6rem;
+            border-radius: 12px;
+            box-shadow: 0 8px 28px rgba(12,18,31,0.06);
+        }
+
+        main h1, main h2, main h3 {
+            color:var(--text);
+            margin-top:1.2rem;
+            margin-bottom:0.5rem;
+        }
+        main p, main ul, main ol {
+            color: #1f2937;
+            margin-bottom: 1rem;
+        }
+
+        /* Imágenes con borde suave y cursor */
+        main img {
+            max-width:100%;
+            border-radius:8px;
+            box-shadow: 0 6px 18px rgba(12,18,31,0.06);
+            cursor:zoom-in;
+        }
+
+        /* Suavizar redimensionado de main (crecer/encoger con transición) */
+        main {
+            transition: width .36s cubic-bezier(.2,.8,.2,1),
+                        max-width .36s cubic-bezier(.2,.8,.2,1),
+                        padding .24s ease,
+                        box-shadow .24s ease;
+            will-change: width, max-width, padding, box-shadow;
+        }
+
+        /* Suavizar cambios en la barra lateral (cuando se minimiza) */
+        nav#TOC {
+            transition: width .36s cubic-bezier(.2,.8,.2,1),
+                        transform .24s ease,
+                        background-color .24s ease;
+            will-change: width, transform;
+        }
+
+        /* Si el layout cambia a una sola columna, mantener la transición visual */
+        .layout {
+            transition: grid-template-columns .36s cubic-bezier(.2,.8,.2,1), gap .24s ease;
+            will-change: gap;
+        }
+
+        /* Opcional: evitar repintados pesados al hacer zoom en imágenes */
+        main img {
+            transition: transform .18s ease, box-shadow .18s ease;
+            will-change: transform, box-shadow;
+        }
+
+        /* Modal (mejorado visualmente) */
+        .modal {
+            display:none;
+            position:fixed;
+            z-index:9999;
+            padding-top:6vh;
+            left:0;top:0;width:100%;height:100%;
+            background: rgba(7,11,24,0.85);
+        }
+        .modal-content {
+            margin:auto;
+            display:block;
+            max-width:90%;
+            max-height:80vh;
+            border-radius:10px;
+            box-shadow: 0 18px 40px rgba(0,0,0,0.6);
+        }
+        #caption { color:#e6eefc; text-align:center; padding:0.8rem 1rem; font-size:0.95rem; }
+
+        /* TOC minimizado (cuando se hace clic) */
+        .minimizedToc { width: 48px !important; overflow:hidden; white-space:nowrap; }
+
+        /* Espacio extra para lecturas con márgenes amplios */
+        .spaced { padding: 1rem 1.25rem; }
+
+        /* -------------------------
+           IMPRESIÓN Y SALTO DE PÁGINA
+           ------------------------- */
+        @media print {
+            body { background: white; color: black; }
+            nav#TOC { display:none !important; }
+            #content { margin:0; padding:0; max-width: none; box-shadow:none; }
+            header#title-block-header, main { box-shadow:none; background: white; border-radius:0; padding:0; }
+
+            /* Forzar que cada sección mayor comience en una nueva página */
+            /* Pandoc suele envolver secciones en <section>, y/o usar h1/h2 como separadores */
+            main > section, main > div.section, main > h1, main > h2 {
+                break-before: page;
+                page-break-before: always;
+            }
+            /* Evitar salto antes de la primera sección */
+            main > section:first-child, main > div.section:first-child, main > h1:first-of-type, main > h2:first-of-type {
+                break-before: auto;
+                page-break-before: auto;
+            }
+
+            img { max-width: 100%; height: auto; page-break-inside: avoid; }
+            a[href]:after { content: " (" attr(href) ")"; font-size: 90%; }
+        }
+
+
+    /* Requadres amb notes, etc */
+
+    div.note,
+    div.tip,
+    div.warning,
+    div.caution,
+    div.important {
+        padding: 1em;
+        margin: 1em 0em 1em 5em;
+        border-radius: 3px;
+    }
+
+    div.note::before,
+    div.tip::before,
+    div.warning::before,
+    div.caution::before,
+    div.important::before {
+        position: relative;
+        left: -4em;
+        top: 3em;
+        margin-top: -3em;
+        height: 50px;
+        display: block;
+        padding-top: 0.5em;
+        font-size: x-large;
+        font-weight: bold;
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
+
+    div.note {
+        border-left: 3px solid #26c6da;
+    }
+
+    div.note::before {
+        background-image: url(rsc/note.svg);
+        content: "";
+        width: auto;
+    }
+
+    div.tip {
+        border-left: 3px solid #7cb342;
+        /* degradado animado entre verde claro y azul claro */
+        background: linear-gradient(90deg, rgba(124,179,66,0.12) 0%, rgba(96,165,250,0.12) 50%, rgba(124,179,66,0.12) 100%);
+        background-size: 200% 200%;
+        animation: pulseBG 6s ease-in-out infinite;
+        transition: box-shadow .2s, transform .15s;
+    }
+
+    @keyframes pulseBG {
+        0%   { background-position: 0% 50%; }
+        50%  { background-position: 100% 50%; }
+        100% { background-position: 0% 50%; }
+    }
+
+    /* Respectar preferencia de reducir movimiento */
+    @media (prefers-reduced-motion: reduce) {
+        div.tip {
+            animation: none;
+            background: rgba(124,179,66,0.06);
+        }
+    }
+
+    div.tip::before {
+        background-image: url(rsc/tip.svg);
+        content: "";
+        width: auto;
+    }
+
+    div.warning {
+        border-left: 3px solid #fb8c00
+    }
+
+    div.warning::before {
+        background-image: url(rsc/warning.svg);
+        content: "";
+        width: auto;
+    }
+
+    div.caution {
+        border-left: 3px solid #b71c1c;
+    }
+
+    div.caution::before {
+        background-image: url(rsc/caution.svg);
+        content: "";
+        width: auto;
+    }
+
+    div.important {
+        border-left: 3px solid #f9ce1d;
+    }
+
+    div.important::before {
+        background-image: url(rsc/important.svg);
+        content: "";
+        width: auto;
+    }
+
+    figure {
+        text-align: center;
+
+    }
+
+    figcaption {
+        font-size: 0.9em;
+        color: #555;
+        margin-top: 0.3em;
+    }
+
+    </style>
+
+    $for(css)$
+    <link rel="stylesheet" href="" /> $endfor$
+    $if(math)$ $math$ $endif$
+    <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+    <![endif]-->
+    $for(header-includes)$ $header-includes$ $endfor$
+</head>
+
+
+
+
+<body>
+    <div id="content">
+        <div class="layout">
+            $for(include-before)$ $include-before$ $endfor$
+
+            $if(toc)$
+            <nav id="$idprefix$TOC" role="doc-toc">
+                <div class="navContainer">
+                    $if(toc-title)$
+                    <h2 id="$idprefix$toc-title">$toc-title$</h2>
+                    $endif$
+                    $table-of-contents$
+                </div>
+            </nav>
+            $endif$
+
+            <div style="min-width:0;">
+                $if(title)$
+                <header id="title-block-header">
+                    <h1 class="title">$title$</h1>
+                    $if(date)$
+                    <p class="date">$date$</p>
+                    $endif$
+                    $if(author)$
+                    <p class="byline" aria-label="Authors">
+                        $for(author)$
+                            <span class="author-name">$author$</span>$sep$
+                        $endfor$
+                    </p>
+                    $endif$
+                </header>
+                $endif$
+
+                <main class="spaced">
+                    $body$
+                </main>
+
+                $for(include-after)$ $include-after$ $endfor$
+            </div>
+        </div>
+
+        <!-- Modal images -->
+        <div id="myModal" class="modal" aria-hidden="true">
+            <img class="modal-content" id="img01" alt="">
+            <div id="caption"></div>
+        </div>
+
+    </div>
+
+    <script>
+        /* Modalización de imágenes (mejorada): */
+        function ModalizeImages() {
+            var modal = document.getElementById("myModal");
+            var modalImg = document.getElementById("img01");
+            var captionText = document.getElementById("caption");
+
+            document.querySelectorAll("main img").forEach(img => {
+                img.style.cursor = "zoom-in";
+                img.addEventListener("click", function () {
+                    modal.style.display = "block";
+                    modal.setAttribute("aria-hidden","false");
+                    modalImg.src = this.src;
+                    modalImg.alt = this.alt || "";
+                    captionText.textContent = this.alt || "";
+                });
+            });
+
+            modal.addEventListener("click", function () {
+                modal.style.display = "none";
+                modal.setAttribute("aria-hidden","true");
+            });
+
+            // Escape para cerrar
+            document.addEventListener("keydown", function(e){
+                if(e.key === "Escape") {
+                    modal.style.display = "none";
+                    modal.setAttribute("aria-hidden","true");
+                }
+            });
+        }
+
+        /* Marcar item de TOC según sección visible */
+        function markItem(id) {
+            document.querySelectorAll("#TOC a").forEach(function(item) {
+                item.classList.remove("navItemSelected");
+            });
+
+            if (!id) return;
+            let items = document.querySelectorAll("#TOC a[href='#" + id + "']");
+            items.forEach(function(item) {
+                item.classList.add("navItemSelected");
+            });
+        }
+
+        /* Observer para resaltar sección activa */
+        var observer = new IntersectionObserver(function(entries) {
+            entries.forEach(function(entry){
+                if (entry.isIntersecting) {
+                    let id = entry.target.id;
+                    markItem(id);
+                }
+            });
+        }, { threshold: [0.25] });
+
+        window.addEventListener("load", function() {
+            document.querySelectorAll("main section[id], main h1[id], main h2[id], main h3[id]").forEach(function(item) {
+                observer.observe(item);
+            });
+
+            document.querySelectorAll("#TOC a").forEach(function(item) {
+                item.addEventListener("click", function(ev) {
+                    // Cuando se hace click en TOC, minimizar si el área es amplia (comportamiento previo)
+                    let toc = document.querySelector("#TOC");
+                    //if (toc && toc.offsetWidth > 10) toc.classList.add("minimizedToc");
+                });
+            });
+
+            // Hover devuelve
+            // var tocEl = document.querySelector("#TOC");
+            // if (tocEl) {
+            //     tocEl.addEventListener("mouseover", function() { tocEl.classList.remove("minimizedToc"); });
+            // }
+
+            ModalizeImages();
+        });
+    </script>
+</body>
+
+</html>

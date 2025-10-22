@@ -136,13 +136,13 @@ A la hora de definir la competencia profesional hemos de ser conscientes de que 
 
  Competencia es: 
 
- * Capacidad de usar el conocimiento y las destrezas relacionadas con productos y procesos y, por consiguiente, de actuar eficazmente para alcanzar un objetivo (Hates, 1985). 
+* Capacidad de usar el conocimiento y las destrezas relacionadas con productos y procesos y, por consiguiente, de actuar eficazmente para alcanzar un objetivo (Hates, 1985). 
 
- * Capacidad de actuar en papeles profesionales o en trabajos conforme el nivel requerido en el empleo (NVCQ, 1985). 
+* Capacidad de actuar en papeles profesionales o en trabajos conforme el nivel requerido en el empleo (NVCQ, 1985). 
 
- * Conjunto de conocimientos, destrezas y actitudes necesarias para ejercer una profesión, resolver problemas profesionales de forma autónoma y flexible, y ser capaz de colaborar en el entorno profesional y la organización del trabajo (Bunk, 1994). 
+* Conjunto de conocimientos, destrezas y actitudes necesarias para ejercer una profesión, resolver problemas profesionales de forma autónoma y flexible, y ser capaz de colaborar en el entorno profesional y la organización del trabajo (Bunk, 1994). 
 
- * Una persona es competente si posee los conocimientos, valores, habilidades y actitudes necesarios para el desempeño del trabajo de acuerdo con la norma apropiada (Mertens, 1998).  
+* Una persona es competente si posee los conocimientos, valores, habilidades y actitudes necesarios para el desempeño del trabajo de acuerdo con la norma apropiada (Mertens, 1998).  
 
 * Aplicación de los conocimientos, capacidades y actitudes, que permite realizar las actividades y roles de trabajo a los niveles requeridos en la producción y el empleo, y solucionar los problemas derivados del cambio en las situaciones de trabajo (Rueda, 2002).  
 
@@ -151,6 +151,9 @@ A la hora de definir la competencia profesional hemos de ser conscientes de que 
 En general, se pueden distinguir tres perspectivas principales: una primera que entiende la competencia como la capacidad de realizar tareas concretas de forma eficaz; una segunda centrada en los rasgos personales, como actitudes, valores o motivaciones; y una tercera, más integradora, que combina ambas visiones, entendiendo la competencia como la interacción entre saber, saber hacer y saber ser. 
 
 Este predominio del enfoque técnico ha sido especialmente visible en el ámbito de la Formación Profesional en España. Desde la reforma de 1970, la terminología utilizada en los títulos oficiales ha recurrido sistemáticamente al término “Técnico”, como forma de destacar el carácter especializado y profesionalizador de esta formación (Técnico Auxiliar, Técnico Especialista, Técnico Superior…). Esta elección no solo reflejaba una orientación hacia las capacidades operativas, sino también un intento de dotar a la FP de mayor reconocimiento y prestigio. 
+
+
+
 
 En este contexto histórico y formativo, la Ley Orgánica 3/2022, de 31 de marzo, que ordena e integra el sistema de Formación Profesional — derogando la Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional — introduce una definición más precisa y actualizada de las competencias. En su artículo 2, la ley distingue entre dos tipos fundamentales: la competencia básica y la competencia profesional, sentando así las bases conceptuales para el nuevo modelo formativo. 
 
@@ -1860,19 +1863,16 @@ Finanzas, donde se puede diferenciar claramente cada uno de estos aspectos.
 | El documento contiene portada, índice con títulos y subtítulos, presentación, desarrollo, conclusiones y bibliografía |                |             |               |                  |             |
 | El orden es adecuado a la estructura del trabajo |                |             |               |                  |             |
 | La redacción respeta las normas ortográficas y de sintaxis |                |             |               |                  |             |
-
-| **Contenidos (50%)**                         |                |             |               |                  |             |
+| **Contenidos (50%)**  |                |             |               |                  |             |
 | El problema a resolver o el objetivo final del proyecto está definido |                |             |               |                  |             |
-| Originalidad y/o novedades que aporta         |                |             |               |                  |             |
+| Originalidad y/o novedades que aporta |       |        |        |                  |             |
 | Se identifica el sector de actividad y el área de intervención dentro de la empresa |                |             |               |                  |             |
 | Se han definido objetivos de carácter intermedio para alcanzar la meta |                |             |               |                  |             |
 | Las estrategias establecidas son adecuadas    |                |             |               |                  |             |
-
-| **Exposición y Defensa (30%)**                |                |             |               |                  |             |
+| **Exposición y Defensa (30%)**  |       |      |         |              |           |
 | Argumentación clara y ordenada                |                |             |               |                  |             |
 | Capacidad de resolución de dudas              |                |             |               |                  |             |
 | Uso adecuado de recursos para la presentación |                |             |               |                  |             |
-
 
 
 Como se observa, para la evaluación del módulo de Proyecto, se han establecido tres
