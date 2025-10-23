@@ -1,0 +1,2633 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es" >
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="generator" content="pandoc" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+                <meta name="keywords" content="Xarxa, Instal·lació" />         <title>CERTIFICADO OFICIAL DE FORMACIÓN PEDAGÓGICA Y DIDÁCTICA PARA PROFESORADO TÉCNICO</title>
+
+    <!-- Fuente moderna -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+
+    <style>
+
+
+
+        /* Imagen fija en esquina como fondo decorativo.
+            Cambia la ruta en --corner-bg-url y ajusta tamaño/offset según convenga. */
+        :root {
+             --corner-bg-url: url("rsc/fondo.png"); /* <- reemplazar por la ruta de la imagen */
+             --corner-size: 460px;     /* tamaño del recuadro de la imagen (contain) */
+             --corner-opacity: 0.32;   /* opacidad para que no distraiga */
+             --corner-offset: 1.5rem;  /* separación respecto a los bordes */
+        }
+
+        /* Asegurar que el contenido esté por encima del decorado */
+        #content { position: relative; z-index: 1; }
+
+        /* Pseudo-elemento fijo en esquina (por defecto: esquina superior derecha) */
+        body::before {
+             content: "";
+             position: fixed;
+             bottom: var(--corner-offset);
+             right: var(--corner-offset);
+             width: var(--corner-size);
+             height: var(--corner-size);
+             background-image: var(--corner-bg-url);
+             background-repeat: no-repeat;
+             background-size: contain;
+             background-position: center;
+             opacity: var(--corner-opacity);
+             pointer-events: none; /* no interfiere con clicks */
+             z-index: 0;
+        }
+
+        /* Si quieres otra esquina, sustituye top/right por:
+            top/left  -> usar top:var(--corner-offset); left:var(--corner-offset);
+            bottom/right -> bottom:var(--corner-offset); right:var(--corner-offset);
+            bottom/left -> bottom:var(--corner-offset); left:var(--corner-offset);
+        */
+
+        /* No imprimir la imagen decorativa */
+        @media print {
+             body::before { display: none !important; }
+        }
+
+        :root{
+            --bg: linear-gradient(linear-gradient(to right, #87625a82 25%, #ea9a9a 250%));
+            --panel: rgba(255,255,255,0.6);
+            --accent: #2563eb;
+            --muted: #6b7280;
+            --text: #0f172a;
+            --radius: 12px;
+            --max-width: 1200px; /* ancho de contenido para márgenes amplios */
+            --gutter: 3rem;
+        }
+
+        /* Reset básico */
+        html,body{height:100%;margin:0;padding:0;font-family:"Inter",system-ui,-apple-system,Segoe UI,Roboto,"Helvetica Neue",Arial;}
+        body{
+            background: var(--bg);
+            color: var(--text);
+            -webkit-font-smoothing:antialiased;
+            -moz-osx-font-smoothing:grayscale;
+            line-height:1.5;
+        }
+
+        #content{
+            box-sizing:border-box;
+            max-width: calc(var(--max-width) + 2 * var(--gutter));
+            margin: var(--gutter) auto;
+            padding: var(--gutter);
+            background: transparent;
+        }
+
+        /* Diseño de dos columnas en pantallas grandes */
+        .layout {
+            display: grid;
+            grid-template-columns: 320px 1fr;
+            gap: 2rem;
+            align-items:start;
+        }
+
+        @media (max-width: 980px){
+            .layout { grid-template-columns: 1fr; }
+        }
+
+        nav#TOC {
+            position: sticky;
+            top: 2rem;
+            height: calc(100vh - 4rem);
+            overflow:auto;
+            background: linear-gradient(180deg, rgba(255,255,255,0.6), rgba(255,255,255,0.4));
+            border-radius: var(--radius);
+            padding: 1rem;
+            box-shadow: 0 6px 18px rgba(12,18,31,0.06);
+            font-size: 0.95rem;
+        }
+
+        nav#TOC h2 { margin:0 0 0.75rem 0; font-size:1rem; color:var(--muted); }
+
+        nav#TOC a {
+            display:block;
+            color:var(--text);
+            text-decoration:none;
+            padding:0.35rem 0.5rem;
+            border-radius:8px;
+            transition: background .15s, transform .08s;
+        }
+        nav#TOC a:hover { background: rgba(37,99,235,0.06); transform: translateX(4px); }
+        nav#TOC a.navItemSelected { background: var(--accent); color: white; font-weight:600; }
+
+        header#title-block-header{
+            background: var(--panel);
+            padding: 1.2rem 1.4rem;
+            border-radius: 12px;
+            box-shadow: 0 8px 28px rgba(12,18,31,0.06);
+            margin-bottom: 1rem;
+        }
+        header#title-block-header .title { margin:0; font-size:1.6rem; font-weight:700; }
+        header#title-block-header .date { color:var(--muted); margin-top:0.35rem; font-size:0.95rem; }
+
+        main {
+            background: var(--panel);
+            padding: 1.6rem;
+            border-radius: 12px;
+            box-shadow: 0 8px 28px rgba(12,18,31,0.06);
+        }
+
+        main h1, main h2, main h3 {
+            color:var(--text);
+            margin-top:1.2rem;
+            margin-bottom:0.5rem;
+        }
+        main p, main ul, main ol {
+            color: #1f2937;
+            margin-bottom: 1rem;
+        }
+
+        /* Imágenes con borde suave y cursor */
+        main img {
+            max-width:100%;
+            border-radius:8px;
+            box-shadow: 0 6px 18px rgba(12,18,31,0.06);
+            cursor:zoom-in;
+        }
+
+        /* Suavizar redimensionado de main (crecer/encoger con transición) */
+        main {
+            transition: width .36s cubic-bezier(.2,.8,.2,1),
+                        max-width .36s cubic-bezier(.2,.8,.2,1),
+                        padding .24s ease,
+                        box-shadow .24s ease;
+            will-change: width, max-width, padding, box-shadow;
+        }
+
+        /* Suavizar cambios en la barra lateral (cuando se minimiza) */
+        nav#TOC {
+            transition: width .36s cubic-bezier(.2,.8,.2,1),
+                        transform .24s ease,
+                        background-color .24s ease;
+            will-change: width, transform;
+        }
+
+        /* Si el layout cambia a una sola columna, mantener la transición visual */
+        .layout {
+            transition: grid-template-columns .36s cubic-bezier(.2,.8,.2,1), gap .24s ease;
+            will-change: gap;
+        }
+
+        /* Opcional: evitar repintados pesados al hacer zoom en imágenes */
+        main img {
+            transition: transform .18s ease, box-shadow .18s ease;
+            will-change: transform, box-shadow;
+        }
+
+        /* Modal (mejorado visualmente) */
+        .modal {
+            display:none;
+            position:fixed;
+            z-index:9999;
+            padding-top:6vh;
+            left:0;top:0;width:100%;height:100%;
+            background: rgba(7,11,24,0.85);
+        }
+        .modal-content {
+            margin:auto;
+            display:block;
+            max-width:90%;
+            max-height:80vh;
+            border-radius:10px;
+            box-shadow: 0 18px 40px rgba(0,0,0,0.6);
+        }
+        #caption { color:#e6eefc; text-align:center; padding:0.8rem 1rem; font-size:0.95rem; }
+
+        /* TOC minimizado (cuando se hace clic) */
+        .minimizedToc { width: 48px !important; overflow:hidden; white-space:nowrap; }
+
+        /* Espacio extra para lecturas con márgenes amplios */
+        .spaced { padding: 1rem 1.25rem; }
+
+        /* -------------------------
+           IMPRESIÓN Y SALTO DE PÁGINA
+           ------------------------- */
+        @media print {
+            body { background: white; color: black; }
+            nav#TOC { display:none !important; }
+            #content { margin:0; padding:0; max-width: none; box-shadow:none; }
+            header#title-block-header, main { box-shadow:none; background: white; border-radius:0; padding:0; }
+
+            /* Forzar que cada sección mayor comience en una nueva página */
+            /* Pandoc suele envolver secciones en <section>, y/o usar h1/h2 como separadores */
+            main > section, main > div.section, main > h1, main > h2 {
+                break-before: page;
+                page-break-before: always;
+            }
+            /* Evitar salto antes de la primera sección */
+            main > section:first-child, main > div.section:first-child, main > h1:first-of-type, main > h2:first-of-type {
+                break-before: auto;
+                page-break-before: auto;
+            }
+
+            img { max-width: 100%; height: auto; page-break-inside: avoid; }
+            a[href]:after { content: " (" attr(href) ")"; font-size: 90%; }
+        }
+
+
+    /* Requadres amb notes, etc */
+
+    div.note,
+    div.tip,
+    div.warning,
+    div.caution,
+    div.important {
+        padding: 1em;
+        margin: 1em 0em 1em 5em;
+        border-radius: 3px;
+    }
+
+    div.note::before,
+    div.tip::before,
+    div.warning::before,
+    div.caution::before,
+    div.important::before {
+        position: relative;
+        left: -4em;
+        top: 3em;
+        margin-top: -3em;
+        height: 50px;
+        display: block;
+        padding-top: 0.5em;
+        font-size: x-large;
+        font-weight: bold;
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
+
+    div.note {
+        border-left: 3px solid #26c6da;
+    }
+
+    div.note::before {
+        background-image: url(rsc/note.svg);
+        content: "";
+        width: auto;
+    }
+
+    div.tip {
+        border-left: 3px solid #7cb342;
+        /* degradado animado entre verde claro y azul claro */
+        background: linear-gradient(90deg, rgba(124,179,66,0.12) 0%, rgba(96,165,250,0.12) 50%, rgba(124,179,66,0.12) 100%);
+        background-size: 200% 200%;
+        animation: pulseBG 6s ease-in-out infinite;
+        transition: box-shadow .2s, transform .15s;
+    }
+
+    @keyframes pulseBG {
+        0%   { background-position: 0% 50%; }
+        50%  { background-position: 100% 50%; }
+        100% { background-position: 0% 50%; }
+    }
+
+    /* Respectar preferencia de reducir movimiento */
+    @media (prefers-reduced-motion: reduce) {
+        div.tip {
+            animation: none;
+            background: rgba(124,179,66,0.06);
+        }
+    }
+
+    div.tip::before {
+        background-image: url(rsc/tip.svg);
+        content: "";
+        width: auto;
+    }
+
+    div.warning {
+        border-left: 3px solid #fb8c00
+    }
+
+    div.warning::before {
+        background-image: url(rsc/warning.svg);
+        content: "";
+        width: auto;
+    }
+
+    div.caution {
+        border-left: 3px solid #b71c1c;
+    }
+
+    div.caution::before {
+        background-image: url(rsc/caution.svg);
+        content: "";
+        width: auto;
+    }
+
+    div.important {
+        border-left: 3px solid #f9ce1d;
+    }
+
+    div.important::before {
+        background-image: url(rsc/important.svg);
+        content: "";
+        width: auto;
+    }
+
+    figure {
+        text-align: center;
+
+    }
+
+    figcaption {
+        font-size: 0.9em;
+        color: #555;
+        margin-top: 0.3em;
+    }
+
+    </style>
+
+        <link rel="stylesheet" href="" />     
+    <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+    <![endif]-->
+                          
+</head>
+
+
+
+
+<body>
+    <div id="content">
+        <div class="layout">
+            
+
+                        <nav id="TOC" role="doc-toc">
+                <div class="navContainer">
+                                        <h2 id="toc-title">Continguts</h2>
+                                        <ul>
+                                        <li><a href="#introducción"
+                                        id="toc-introducción"><span
+                                        class="toc-section-number">1</span>
+                                        INTRODUCCIÓN</a></li>
+                                        <li><a
+                                        href="#modalidades-de-la-formación-profesional"
+                                        id="toc-modalidades-de-la-formación-profesional"><span
+                                        class="toc-section-number">2</span>
+                                        MODALIDADES DE LA FORMACIÓN
+                                        PROFESIONAL</a>
+                                        <ul>
+                                        <li><a
+                                        href="#tipología-de-ofertas-según-grados"
+                                        id="toc-tipología-de-ofertas-según-grados"><span
+                                        class="toc-section-number">2.1</span>
+                                        Tipología de ofertas según
+                                        grados</a></li>
+                                        <li><a
+                                        href="#modalidades-de-la-oferta-de-formación"
+                                        id="toc-modalidades-de-la-oferta-de-formación"><span
+                                        class="toc-section-number">2.2</span>
+                                        Modalidades de la oferta de
+                                        formación</a></li>
+                                        </ul></li>
+                                        <li><a
+                                        href="#niveles-formativos"
+                                        id="toc-niveles-formativos"><span
+                                        class="toc-section-number">3</span>
+                                        Niveles formativos</a>
+                                        <ul>
+                                        <li><a href="#grados"
+                                        id="toc-grados"><span
+                                        class="toc-section-number">3.1</span>
+                                        Grados</a>
+                                        <ul>
+                                        <li><a href="#grado-básico"
+                                        id="toc-grado-básico"><span
+                                        class="toc-section-number">3.1.1</span>
+                                        Grado Básico</a></li>
+                                        <li><a href="#grado-medio"
+                                        id="toc-grado-medio"><span
+                                        class="toc-section-number">3.1.2</span>
+                                        Grado Medio</a></li>
+                                        <li><a href="#grado-superior"
+                                        id="toc-grado-superior"><span
+                                        class="toc-section-number">3.1.3</span>
+                                        Grado Superior</a></li>
+                                        </ul></li>
+                                        <li><a
+                                        href="#acceso-a-los-ciclos-formativos"
+                                        id="toc-acceso-a-los-ciclos-formativos"><span
+                                        class="toc-section-number">3.2</span>
+                                        Acceso a los ciclos
+                                        formativos</a></li>
+                                        </ul></li>
+                                        <li><a
+                                        href="#distribución-horaria-ciclos-y-módulos-formativos"
+                                        id="toc-distribución-horaria-ciclos-y-módulos-formativos"><span
+                                        class="toc-section-number">4</span>
+                                        DISTRIBUCIÓN HORARIA CICLOS Y
+                                        MÓDULOS FORMATIVOS</a>
+                                        <ul>
+                                        <li><a
+                                        href="#módulos-profesionales-y-titulaciones-académicas-requeridas-para-su-impartición"
+                                        id="toc-módulos-profesionales-y-titulaciones-académicas-requeridas-para-su-impartición"><span
+                                        class="toc-section-number">4.1</span>
+                                        MÓDULOS PROFESIONALES Y
+                                        TITULACIONES ACADÉMICAS
+                                        REQUERIDAS PARA SU
+                                        IMPARTICIÓN</a></li>
+                                        <li><a
+                                        href="#la-familia-profesional"
+                                        id="toc-la-familia-profesional"><span
+                                        class="toc-section-number">4.2</span>
+                                        LA FAMILIA PROFESIONAL</a>
+                                        <ul>
+                                        <li><a
+                                        href="#la-familia-profesional-1"
+                                        id="toc-la-familia-profesional-1"><span
+                                        class="toc-section-number">4.2.1</span>
+                                        LA FAMILIA PROFESIONAL</a></li>
+                                        <li><a
+                                        href="#regulación-de-las-familias-profesionales"
+                                        id="toc-regulación-de-las-familias-profesionales"><span
+                                        class="toc-section-number">4.2.2</span>
+                                        REGULACIÓN DE LAS FAMILIAS
+                                        PROFESIONALES</a></li>
+                                        <li><a
+                                        href="#normativa-estatal-básica"
+                                        id="toc-normativa-estatal-básica"><span
+                                        class="toc-section-number">4.2.3</span>
+                                        Normativa estatal
+                                        básica</a></li>
+                                        <li><a
+                                        href="#normativa-autonómica-en-la-comunitat-valenciana"
+                                        id="toc-normativa-autonómica-en-la-comunitat-valenciana"><span
+                                        class="toc-section-number">4.2.4</span>
+                                        Normativa autonómica en la
+                                        Comunitat Valenciana</a></li>
+                                        <li><a href="#síntesis-general"
+                                        id="toc-síntesis-general"><span
+                                        class="toc-section-number">4.2.5</span>
+                                        Síntesis general</a></li>
+                                        <li><a
+                                        href="#los-títulos-y-grados-de-la-formación-profesional"
+                                        id="toc-los-títulos-y-grados-de-la-formación-profesional"><span
+                                        class="toc-section-number">4.2.6</span>
+                                        LOS TÍTULOS Y GRADOS DE LA
+                                        FORMACIÓN PROFESIONAL</a></li>
+                                        </ul></li>
+                                        <li><a
+                                        href="#los-módulos-profesionales"
+                                        id="toc-los-módulos-profesionales"><span
+                                        class="toc-section-number">4.3</span>
+                                        LOS MÓDULOS
+                                        PROFESIONALES</a></li>
+                                        <li><a
+                                        href="#ciclos-logse-loe-y-adaptación-curricular"
+                                        id="toc-ciclos-logse-loe-y-adaptación-curricular"><span
+                                        class="toc-section-number">4.4</span>
+                                        CICLOS LOGSE, LOE Y ADAPTACIÓN
+                                        CURRICULAR</a></li>
+                                        <li><a
+                                        href="#la-especialidad-del-profesorado"
+                                        id="toc-la-especialidad-del-profesorado"><span
+                                        class="toc-section-number">4.5</span>
+                                        LA ESPECIALIDAD DEL
+                                        PROFESORADO</a></li>
+                                        </ul></li>
+                                        <li><a
+                                        href="#la-especialidad-de-mecanizado-y-mantenimiento-de-máquinas"
+                                        id="toc-la-especialidad-de-mecanizado-y-mantenimiento-de-máquinas"><span
+                                        class="toc-section-number">5</span>
+                                        LA ESPECIALIDAD DE MECANIZADO Y
+                                        MANTENIMIENTO DE MÁQUINAS</a>
+                                        <ul>
+                                        <li><a
+                                        href="#el-currículo-en-la-formación-profesional"
+                                        id="toc-el-currículo-en-la-formación-profesional"><span
+                                        class="toc-section-number">5.1</span>
+                                        EL CURRÍCULO EN LA FORMACIÓN
+                                        PROFESIONAL</a></li>
+                                        <li><a
+                                        href="#alumnado.-perfiles-de-alumnado"
+                                        id="toc-alumnado.-perfiles-de-alumnado"><span
+                                        class="toc-section-number">5.2</span>
+                                        ALUMNADO. PERFILES DE
+                                        ALUMNADO</a></li>
+                                        <li><a
+                                        href="#el-alumno-en-los-talleres"
+                                        id="toc-el-alumno-en-los-talleres"><span
+                                        class="toc-section-number">5.3</span>
+                                        EL ALUMNO EN LOS
+                                        TALLERES</a></li>
+                                        <li><a href="#espacios"
+                                        id="toc-espacios"><span
+                                        class="toc-section-number">5.4</span>
+                                        ESPACIOS</a></li>
+                                        <li><a
+                                        href="#materiales-curriculares-de-dotación-para-los-centros-formativos"
+                                        id="toc-materiales-curriculares-de-dotación-para-los-centros-formativos"><span
+                                        class="toc-section-number">5.5</span>
+                                        MATERIALES CURRICULARES DE
+                                        DOTACIÓN PARA LOS CENTROS
+                                        FORMATIVOS</a></li>
+                                        <li><a
+                                        href="#las-instrucciones-de-inicio-de-curso"
+                                        id="toc-las-instrucciones-de-inicio-de-curso"><span
+                                        class="toc-section-number">5.6</span>
+                                        LAS INSTRUCCIONES DE INICIO DE
+                                        CURSO</a></li>
+                                        <li><a
+                                        href="#desdobles-del-profesorado"
+                                        id="toc-desdobles-del-profesorado"><span
+                                        class="toc-section-number">5.7</span>
+                                        DESDOBLES DEL
+                                        PROFESORADO</a></li>
+                                        <li><a
+                                        href="#el-profesor-como-autoridad"
+                                        id="toc-el-profesor-como-autoridad"><span
+                                        class="toc-section-number">5.8</span>
+                                        EL PROFESOR COMO
+                                        AUTORIDAD</a></li>
+                                        <li><a
+                                        href="#el-problema-de-saber-mucho.-saber-trasmitir-y-no-obviar-cosas"
+                                        id="toc-el-problema-de-saber-mucho.-saber-trasmitir-y-no-obviar-cosas"><span
+                                        class="toc-section-number">5.9</span>
+                                        EL PROBLEMA DE SABER MUCHO.
+                                        SABER TRASMITIR Y NO OBVIAR
+                                        COSAS</a></li>
+                                        </ul></li>
+                                        <li><a
+                                        href="#bibliografía-y-webs-de-interés"
+                                        id="toc-bibliografía-y-webs-de-interés"><span
+                                        class="toc-section-number">6</span>
+                                        BIBLIOGRAFÍA Y WEBS DE
+                                        INTERÉS</a>
+                                        <ul>
+                                        <li><a
+                                        href="#bibliografía-actualizada---formación-profesional-en-españa-2025"
+                                        id="toc-bibliografía-actualizada---formación-profesional-en-españa-2025"><span
+                                        class="toc-section-number">6.1</span>
+                                        Bibliografía actualizada -
+                                        Formación Profesional en España
+                                        (2025)</a></li>
+                                        </ul></li>
+                                        </ul>
+                </div>
+            </nav>
+            
+            <div style="min-width:0;">
+                                <header id="title-block-header">
+                    <h1 class="title">CERTIFICADO OFICIAL DE FORMACIÓN
+PEDAGÓGICA Y DIDÁCTICA PARA PROFESORADO TÉCNICO</h1>
+                                                        </header>
+                
+                <main class="spaced">
+                    <h1 data-number="1" id="introducción"><span
+                    class="header-section-number">1</span>
+                    INTRODUCCIÓN</h1>
+                    <p>La Formación Profesional constituye en la
+                    actualidad un elemento vertebrador del sistema
+                    educativo y de empleo en España, situándose en el
+                    centro de las políticas activas de aprendizaje a lo
+                    largo de la vida. Bajo el marco normativo
+                    establecido por la Ley Orgánica 3/2022 y su
+                    desarrollo reglamentario en el RD 659/2023, se
+                    configura un <strong>sistema unificado y
+                    flexible</strong>, capaz de responder a las
+                    necesidades cambiantes del entorno social y
+                    productivo.</p>
+                    <p>Desde la perspectiva docente, este modelo implica
+                    un cambio significativo en la concepción de la
+                    enseñanza-aprendizaje. La Formación Profesional ya
+                    no se limita únicamente a la transmisión de
+                    conocimientos técnicos, sino que se articula en
+                    torno a la <strong>adquisición, integración y
+                    transferencia de competencias
+                    profesionales</strong>, entendidas como el conjunto
+                    de conocimientos, destrezas, habilidades, actitudes
+                    y valores necesarios para el ejercicio cualificado
+                    de una actividad profesional, en contextos reales y
+                    diversos.</p>
+                    <p>El nuevo sistema sitúa la competencia profesional
+                    como eje estructurador de toda la acción
+                    formativa.</p>
+                    <p>Además, el modelo fomenta una fuerte vinculación
+                    con el entorno productivo mediante la formación en
+                    entornos reales de trabajo, el desarrollo de
+                    proyectos colaborativos con empresas, la formación
+                    dual y la evaluación de competencias adquiridas por
+                    vías no formales o informales. En este sentido, la
+                    labor docente requiere un enfoque metodológico
+                    activo y adaptativo, centrado en el desarrollo
+                    integral del alumnado y orientado a su
+                    empleabilidad, a su itinerario formativo y a su
+                    crecimiento profesional y personal.</p>
+                    <p>La Formación Profesional comprende distintos
+                    grados de estudios —tanto en régimen inicial como
+                    para la formación continua o de personas
+                    trabajadoras—, con una organización modular,
+                    articulada a través de oferta formativa ajustada al
+                    catálogo de competencias profesionales. En este
+                    sentido, el sistema se integra en el Catálogo
+                    Modular de Formación Profesional y otros
+                    instrumentos de acreditación que permiten reconocer
+                    competencias adquiridas por vías formales, no
+                    formales o informales, según lo regulado en el Real
+                    Decreto 659/2023 (Titular VI).</p>
+                    <p>Así mismo, el sistema normativo contempla que el
+                    currículo, los procedimientos de evaluación, los
+                    espacios de formación, los centros y los procesos de
+                    acreditación se adapten a los estándares
+                    profesionales vigentes, lo que favorece el
+                    desarrollo profesional y social del alumnado, así
+                    como una mejor respuesta a las exigencias del mundo
+                    productivo.</p>
+                    <h1 data-number="2"
+                    id="modalidades-de-la-formación-profesional"><span
+                    class="header-section-number">2</span> MODALIDADES
+                    DE LA FORMACIÓN PROFESIONAL</h1>
+                    <p>En el marco del Real Decreto 659/2023, la
+                    Formación Profesional se organiza mediante distintos
+                    grados (A, B, C, D y E) y modalidades que permiten
+                    una mayor accesibilidad, flexibilidad y adecuación a
+                    las trayectorias personales y profesionales.</p>
+                    <p>Entre las modalidades destacan:</p>
+                    <ul>
+                    <li><p>La modalidad <strong>modular</strong> para
+                    los Grados C, D y E, que permite cursar uno o varios
+                    módulos profesionales según el ritmo personal de
+                    aprendizaje y las necesidades de cualificación,
+                    adaptándose a personas adultas, en activo, o con
+                    experiencia laboral.</p></li>
+                    <li><p>La formación en alternancia con empresa
+                    (modalidades duales) y la oferta para personas
+                    trabajadoras o en transición profesional, de modo
+                    que se favorezca el aprendizaje en entornos reales
+                    de trabajo y la inserción laboral.</p></li>
+                    <li><p>La modalidad semipresencial o a distancia,
+                    especialmente para personas adultas, que
+                    compatibilizan formación con empleo o
+                    responsabilidades personales, mediante la
+                    combinación de actividades no presenciales y
+                    sesiones presenciales, así como recursos
+                    tecnológicos de apoyo (aunque la normativa estatal
+                    pone énfasis en modularización, flexibilidad y ritmo
+                    personalizado).</p></li>
+                    </ul>
+                    <h2 data-number="2.1"
+                    id="tipología-de-ofertas-según-grados"><span
+                    class="header-section-number">2.1</span> Tipología
+                    de ofertas según grados</h2>
+                    <p>El RD 659/2023 organiza las ofertas del sistema
+                    de FP en <strong>cinco grados</strong> (A, B, C, D
+                    y E), lo cual estructura de manera clara todo el
+                    sistema</p>
+                    <ul>
+                    <li><p>Grado A: Acreditación parcial de
+                    competencias.</p></li>
+                    <li><p>Grado B: Certificado de competencia.</p></li>
+                    <li><p>Grado C: Certificado profesional.</p></li>
+                    <li><p>Grado D: Ciclo formativo (Grado
+                    Básico/Medio/Superior).</p></li>
+                    <li><p>Grado E: Cursos de especialización.<br />
+                    Este enfoque remarca que no solamente hay ciclos
+                    básicos/media/superior como antes, sino una
+                    tipología mucho más amplia para itinerarios
+                    modulares, acumulativos y flexibles.</p></li>
+                    </ul>
+                    <h2 data-number="2.2"
+                    id="modalidades-de-la-oferta-de-formación"><span
+                    class="header-section-number">2.2</span> Modalidades
+                    de la oferta de formación</h2>
+                    <p>El sistema de Formación Profesional en España, de
+                    acuerdo con lo establecido en el <strong>Real
+                    Decreto 659/2023</strong>, por el que se ordena el
+                    sistema de Formación Profesional, y recogido a nivel
+                    autonómico en el <strong>Decreto 114/2025</strong>
+                    (Comunitat Valenciana), reconoce <strong>tres
+                    modalidades de oferta</strong> para los ciclos
+                    formativos: <strong>presencial, semipresencial y
+                    virtual (a distancia)</strong>.</p>
+                    <p>Estas modalidades responden a la necesidad de
+                    ofrecer una formación <strong>flexible, accesible y
+                    adaptada a distintos perfiles del alumnado</strong>,
+                    así como a las condiciones del entorno
+                    socioeconómico y productivo.</p>
+                    <p><strong>Modalidad Presencial</strong></p>
+                    <p>Es la forma tradicional de enseñanza, en la que
+                    el alumnado acude físicamente al centro educativo
+                    para realizar la formación teórica y práctica.</p>
+                    <p><strong>Características principales:</strong></p>
+                    <ul>
+                    <li><p><strong>Asistencia regular al aula</strong>:
+                    Requiere la presencia habitual del alumnado en el
+                    centro, según un horario establecido.</p></li>
+                    <li><p><strong>Interacción directa</strong>:
+                    Favorece la comunicación cara a cara entre alumnado
+                    y profesorado.</p></li>
+                    <li><p><strong>Entornos simulados o reales</strong>:
+                    Uso intensivo de talleres, laboratorios y espacios
+                    específicos del ciclo.</p></li>
+                    <li><p><strong>Evaluación continua</strong>: Mayor
+                    facilidad para aplicar una evaluación formativa y
+                    ajustada al ritmo del grupo.</p></li>
+                    </ul>
+                    <p><strong>Modalidad Semipresencial</strong></p>
+                    <p>Combina la asistencia al centro educativo con
+                    actividades formativas desarrolladas de forma
+                    virtual, utilizando plataformas de aprendizaje en
+                    línea.</p>
+                    <p><strong>Características principales:</strong></p>
+                    <ul>
+                    <li><p><strong>Flexibilidad horaria</strong>:
+                    Permite al alumnado organizar parte de su formación
+                    según su disponibilidad.</p></li>
+                    <li><p><strong>Parte presencial
+                    obligatoria</strong>: Se definen módulos o partes de
+                    módulos que requieren asistencia (por ejemplo,
+                    prácticas de taller).</p></li>
+                    <li><p><strong>Uso de entornos virtuales</strong>:
+                    Empleo de plataformas LMS (como Aules, Moodle, etc.)
+                    para contenidos, tareas y seguimiento.</p></li>
+                    <li><p><strong>Tutorías presenciales y
+                    virtuales</strong>: Seguimiento combinado por parte
+                    del profesorado.</p></li>
+                    </ul>
+                    <p><strong>Modalidad Virtual (o a
+                    Distancia)</strong></p>
+                    <p>La totalidad del ciclo formativo se desarrolla
+                    mediante plataformas digitales, sin exigencia de
+                    presencialidad salvo en momentos específicos (por
+                    ejemplo, exámenes o FCT si no se convalida).</p>
+                    <p><strong>Características principales:</strong></p>
+                    <ul>
+                    <li><p><strong>Autonomía del alumnado</strong>: El
+                    aprendizaje se organiza de forma autónoma,
+                    respetando los tiempos establecidos por el
+                    centro.</p></li>
+                    <li><p><strong>Sin presencialidad habitual</strong>:
+                    Aunque pueden fijarse sesiones presenciales
+                    voluntarias o puntuales (evaluaciones finales,
+                    prácticas concretas…).</p></li>
+                    <li><p><strong>Plataformas de aprendizaje</strong>:
+                    El entorno virtual es el espacio central del
+                    aprendizaje (contenidos, comunicación,
+                    evaluación).</p></li>
+                    <li><p><strong>Perfil adulto</strong>: Muy orientada
+                    a personas trabajadoras, con responsabilidades
+                    familiares o que no pueden acudir regularmente a un
+                    centro.</p></li>
+                    </ul>
+                    <p>En todas las modalidades, se asegura el
+                    cumplimiento de los resultados de aprendizaje y la
+                    adquisición de las competencias profesionales
+                    recogidas en el currículo oficial.</p>
+                    <h1 data-number="3" id="niveles-formativos"><span
+                    class="header-section-number">3</span> Niveles
+                    formativos</h1>
+                    <p>La Formación Profesional se estructura en
+                    diferentes niveles de cualificación profesional,
+                    definidos en el <strong>Catálogo de Estándares de
+                    Competencia</strong>, que sirve como eje vertebrador
+                    para toda la oferta formativa del sistema.</p>
+                    <p><strong>Independientemente de la modalidad en la
+                    que se imparta</strong> (presencial, semipresencial
+                    o virtual), la oferta de Formación Profesional se
+                    organiza en <strong>tres niveles: básico, medio y
+                    superior</strong>, agrupados bajo la denominación de
+                    <strong>Grados D</strong>.</p>
+                    <p>Esta clasificación responde a distintos grados de
+                    dominio competencial, itinerarios formativos y
+                    salidas tanto profesionales como académicas. A
+                    continuación, se desarrollan las características de
+                    cada uno de estos niveles:</p>
+                    <h2 data-number="3.1" id="grados"><span
+                    class="header-section-number">3.1</span> Grados</h2>
+                    <h3 data-number="3.1.1" id="grado-básico"><span
+                    class="header-section-number">3.1.1</span> Grado
+                    Básico</h3>
+                    <p><strong>Nivel 1 del Catálogo de Estándares de
+                    Competencia</strong></p>
+                    <p>Los ciclos de Grado Básico están dirigidos a
+                    alumnado que necesita una vía alternativa a la
+                    educación secundaria obligatoria convencional, y que
+                    requiere de un enfoque más práctico y adaptado a sus
+                    necesidades formativas. Su finalidad es
+                    <strong>favorecer la permanencia en el sistema
+                    educativo</strong>, reducir el abandono escolar
+                    temprano y facilitar la transición al empleo.</p>
+                    <p><strong>Características principales:</strong></p>
+                    <ul>
+                    <li><p>Forman parte de la <strong>educación básica
+                    obligatoria</strong>.</p></li>
+                    <li><p>Ofrecen una <strong>formación general
+                    adaptada</strong> y una iniciación profesional en un
+                    perfil ocupacional.</p></li>
+                    <li><p>Permiten obtener el <strong>Título
+                    Profesional Básico</strong>, con efectos académicos
+                    y laborales.</p></li>
+                    <li><p>Facilitan el acceso directo a ciclos de
+                    <strong>Grado Medio</strong> de la misma familia
+                    profesional.</p></li>
+                    <li><p>Tienen una duración es de dos
+                    cursos.</p></li>
+                    <li><p>Requieren haber cursado al menos 3.º de ESO
+                    o, de forma excepcional, 2.º, y contar con
+                    <strong>propuesta del equipo
+                    docente</strong>.</p></li>
+                    <li><p>Se contempla en módulo de Formación en
+                    Empresa con sus características
+                    particulares</p></li>
+                    </ul>
+                    <p><strong>Ordenación de los Ciclos de grado
+                    básico</strong></p>
+                    <p>Constará de tres ámbitos y Proyecto:</p>
+                    <ol type="a">
+                    <li><p>Ámbito de comunicación y Ciencias
+                    Sociales</p></li>
+                    <li><p>Ámbito de Ciencias Aplicadas</p></li>
+                    <li><p>Ámbito Profesional</p></li>
+                    <li><p>Proyecto intermodular de aprendizaje
+                    colaborativo vinculado a los tres ámbitos.</p></li>
+                    </ol>
+                    <h3 data-number="3.1.2" id="grado-medio"><span
+                    class="header-section-number">3.1.2</span> Grado
+                    Medio</h3>
+                    <p><strong>Nivel 2 del Catálogo de Estándares de
+                    Competencia</strong></p>
+                    <p>Los ciclos de Grado Medio están dirigidos a
+                    alumnado que ha superado la Educación Secundaria
+                    Obligatoria o que ha obtenido el título de
+                    Profesional Básico. Estos ciclos proporcionan la
+                    <strong>cualificación necesaria para el desempeño de
+                    una profesión técnica</strong> en un entorno
+                    productivo concreto. Forman parte de la educación
+                    secundaria postobligatoria.</p>
+                    <p><strong>Características principales:</strong></p>
+                    <ul>
+                    <li><p>Conducen a la obtención del <strong>Título de
+                    Técnico</strong>, con validez académica y
+                    profesional.</p></li>
+                    <li><p>Permiten el acceso directo a estudios de
+                    <strong>Grado Superior</strong>, una vez finalizado
+                    el ciclo.</p></li>
+                    <li><p>Se organizan en <strong>módulos
+                    profesionales</strong>, tanto teóricos como
+                    prácticos.</p></li>
+                    <li><p>Pueden impartirse en modalidad
+                    <strong>presencial, semipresencial o
+                    virtual</strong>.</p></li>
+                    <li><p>Su duración también es de dos
+                    cursos.</p></li>
+                    </ul>
+                    <h3 data-number="3.1.3" id="grado-superior"><span
+                    class="header-section-number">3.1.3</span> Grado
+                    Superior</h3>
+                    <p><strong>Nivel 3 del Catálogo de Estándares de
+                    Competencia</strong></p>
+                    <p>Los ciclos de Grado Superior están orientados a
+                    la <strong>especialización profesional
+                    avanzada</strong>, y capacitan al alumnado para
+                    desarrollar funciones de mayor complejidad técnica y
+                    de responsabilidad en el ámbito laboral. Forman
+                    parte de la educación superior.</p>
+                    <p><strong>Características principales:</strong></p>
+                    <ul>
+                    <li><p>Conducen al <strong>Título de Técnico
+                    Superior</strong>.</p></li>
+                    <li><p>Permiten el acceso a estudios universitarios,
+                    con posibilidad de reconocimiento de créditos
+                    ECTS.</p></li>
+                    <li><p>Incluyen formación en <strong>emprendimiento,
+                    digitalización, sostenibilidad</strong> y otros
+                    aspectos transversales.</p></li>
+                    <li><p>También incorporan el módulo de
+                    <strong>Formación en Empresa</strong></p></li>
+                    <li><p>Pueden ofrecerse en modalidad
+                    <strong>presencial, semipresencial o
+                    virtual</strong>, favoreciendo así la conciliación
+                    laboral y formativa.</p></li>
+                    <li><p>Su duración también es de dos
+                    cursos.</p></li>
+                    </ul>
+                    <p><strong>Ordenación de los Ciclos de grado medio y
+                    superior</strong></p>
+                    <ol type="a">
+                    <li>Una parte troncal obligatoria</li>
+                    </ol>
+                    <ol type="1">
+                    <li><p>Módulos Profesionales de Catálogo Modular de
+                    Formación Profesional.</p></li>
+                    <li><p>Módulos transversales</p>
+                    <ul>
+                    <li><p>Itinerario para la empleabilidad I y
+                    II</p></li>
+                    <li><p>Digitalización aplicada al sistema
+                    productivo</p></li>
+                    <li><p>Sostenibilidad aplicada al sistema
+                    productivo</p></li>
+                    <li><p>Inglés profesional</p></li>
+                    </ul></li>
+                    </ol>
+                    <ol start="2" type="a">
+                    <li>Una parte de optativa integrada de un módulo de
+                    los que se ofrecerán en el centro educativo que
+                    tendrá duración anual y se cursará en segundo
+                    curso.</li>
+                    </ol>
+                    <h2 data-number="3.2"
+                    id="acceso-a-los-ciclos-formativos"><span
+                    class="header-section-number">3.2</span> Acceso a
+                    los ciclos formativos</h2>
+                    <p>El <strong>acceso a los Ciclos
+                    Formativos</strong> se regula actualmente por un
+                    <strong>nuevo marco normativo</strong> establecido
+                    bajo la <strong>Ley Orgánica 3/2022, de 31 de
+                    marzo</strong>, de ordenación e integración de la
+                    Formación Profesional, y desarrollado por el
+                    <strong>Real Decreto 659/2023, de 18 de
+                    julio</strong>, que organiza los grados y vías de
+                    acceso dentro del sistema.</p>
+                    <p>En el año 2025, esta base se complementa con
+                    disposiciones actualizadas como:</p>
+                    <ul>
+                    <li>El <strong>Real Decreto 69/2025, de 4 de
+                    febrero</strong>, que desarrolla los elementos e
+                    instrumentos de gestión del Sistema Nacional de
+                    Formación Profesional y remite expresamente al RD
+                    659/2023 para la estructura y duración de los
+                    grados.</li>
+                    <li>Las <strong>convocatorias autonómicas</strong>
+                    (como las de la Generalitat Valenciana, mediante los
+                    Decretos 114/2025 y 117/2025) que especifican los
+                    <strong>procedimientos de admisión y reserva de
+                    plazas</strong>, de acuerdo con el nuevo sistema de
+                    grados A-E.</li>
+                    </ul>
+                    <p><strong>Acceso a ciclos de grado
+                    básico</strong></p>
+                    <ol type="1">
+                    <li>El acceso a los ciclos formativos de grado
+                    básico de los destinatarios del párrafo a) del
+                    apartado 1 del artículo anterior requerirá, conforme
+                    al artículo 41.1 de la Ley Orgánica 2/2006, de 3 de
+                    mayo, de Educación, el cumplimiento simultáneo de
+                    los siguientes requisitos:</li>
+                    </ol>
+                    <ol type="a">
+                    <li><p>Tener cumplidos quince años, o cumplirlos
+                    durante el año natural en curso.</p></li>
+                    <li><p>Haber cursado el tercer curso o,
+                    excepcionalmente y a criterio del equipo docente y
+                    el responsable de la orientación en el centro, el
+                    segundo curso de educación secundaria
+                    obligatoria.</p></li>
+                    <li><p>Ser objeto de propuesta o solicitar a
+                    petición propia, junto con los padres, madres o
+                    tutores legales, la incorporación a un ciclo
+                    formativo de grado básico, cuando el perfil
+                    vocacional del alumno o alumna así lo aconseje. Las
+                    administraciones educativas determinarán la
+                    intervención del alumnado, sus familias y los
+                    equipos o servicios de orientación en este
+                    proceso.</p></li>
+                    <li><p>En el supuesto de realización de ciclos
+                    formativos de grado básico en régimen intensivo, el
+                    alumno deberá tener cumplidos 16 años para poder
+                    acceder a la formación práctica en empresa por esta
+                    modalidad, al estar vinculada a la
+                    contratación.</p></li>
+                    </ol>
+                    <p><strong>Acceso a ciclos formativos de grado
+                    medio.</strong></p>
+                    <ol type="1">
+                    <li>Para el acceso a los ciclos formativos de grado
+                    medio se precisará el cumplimiento de uno de los
+                    siguientes requisitos:</li>
+                    </ol>
+                    <ol type="a">
+                    <li><p>Estar en posesión del título de graduado en
+                    Educación Secundaria Obligatoria.</p></li>
+                    <li><p>Estar en posesión del título de Técnico
+                    Básico o de Técnico.</p></li>
+                    <li><p>Haber superado una oferta formativa de Grado
+                    C incluida en el ciclo formativo.</p></li>
+                    <li><p>Haber superado un curso de formación
+                    específico preparatorio y gratuito para el acceso a
+                    ciclos formativos de grado medio en centros
+                    expresamente autorizados por la Administración
+                    educativa.</p></li>
+                    <li><p>Haber superado una prueba de acceso.</p></li>
+                    </ol>
+                    <p><strong>Acceso a ciclos formativos de grado
+                    superior.</strong></p>
+                    <ol type="1">
+                    <li>Para el acceso a los ciclos formativos de grado
+                    superior se precisará el cumplimiento de uno de los
+                    siguientes requisitos:</li>
+                    </ol>
+                    <ol type="a">
+                    <li><p>Poseer el título de Técnico de Grado Medio de
+                    Formación Profesional o el título de Técnico o
+                    Técnica de Artes Plásticas y Diseño.</p></li>
+                    <li><p>Poseer el título de Bachiller.</p></li>
+                    <li><p>Haber superado una oferta formativa de Grado
+                    C incluida en el ciclo formativo.</p></li>
+                    <li><p>Haber superado un curso de formación
+                    específico preparatorio y gratuito para el acceso a
+                    ciclos de grado superior en centros expresamente
+                    autorizados por la Administración
+                    educativa.</p></li>
+                    <li><p>Haber superado una prueba de acceso.</p></li>
+                    <li><p>Estar en posesión de un título de Técnico
+                    Superior de Formación Profesional o grado
+                    universitario.</p></li>
+                    </ol>
+                    <h1 data-number="4"
+                    id="distribución-horaria-ciclos-y-módulos-formativos"><span
+                    class="header-section-number">4</span> DISTRIBUCIÓN
+                    HORARIA CICLOS Y MÓDULOS FORMATIVOS</h1>
+                    <p>La distribución horaria de los ciclos formativos
+                    y de sus módulos profesionales viene establecida por
+                    el real decreto estatal que fija el currículo básico
+                    del título. En la Comunitat Valenciana, las
+                    administraciones educativas autonómicas pueden
+                    concretar y adaptar dicha distribución, de modo que
+                    responda a las necesidades y condiciones específicas
+                    del territorio.</p>
+                    <p>La duración de los ciclos formativos es de 2000
+                    horas que se distribuyen en los diferentes módulos
+                    formativos durante dos cursos escolares. Tanto el
+                    comienzo como la finalización del año académico se
+                    fija en un calendario escolar que viene publicado en
+                    una Resolución.</p>
+                    <p>A cada módulo formativo le corresponde una
+                    fijación horaria que se distribuye en horas
+                    semanales. Los días de la semana que se imparten
+                    estas horas son flexibles y vienen determinados por
+                    cada centro educativo. En los cuadros horarios se
+                    indica los módulos susceptibles de doblaje (DT) y
+                    también los módulos que pueden ser impartidos,
+                    indistintamente, por otro docente de otra
+                    especialidad.</p>
+                    <p>La secuenciación de los módulos y el horario de
+                    los diferentes ciclos de las Familias Profesionales
+                    están publicados en la web de Conselleria se pueden
+                    consultar el siguiente enlace:</p>
+                    <p><a
+                    href="https://ceice.gva.es/es/web/formacion-profesional/dossier-cicles">Dosier
+                    ciclos - Formación Profesional - Generalitat
+                    Valenciana</a></p>
+                    <h2 data-number="4.1"
+                    id="módulos-profesionales-y-titulaciones-académicas-requeridas-para-su-impartición"><span
+                    class="header-section-number">4.1</span> MÓDULOS
+                    PROFESIONALES Y TITULACIONES ACADÉMICAS REQUERIDAS
+                    PARA SU IMPARTICIÓN</h2>
+                    <p>La página web de <strong>Todo FP</strong> y el
+                    portal de la <strong>Conselleria d’Educació, Cultura
+                    i Esport</strong> en su sección de Formación
+                    Profesional constituyen una fuente viva y
+                    actualizada de información, imprescindible para
+                    todos los docentes. En estos espacios se dispone de
+                    toda la documentación y recursos necesarios para la
+                    elaboración y desarrollo de una programación
+                    didáctica adecuada y conforme a la normativa
+                    vigente.</p>
+                    <p>Es, por tanto, en estos portales donde debéis
+                    remitiros para consultar los diferentes módulos que
+                    conforman un ciclo formativo, así como para conocer
+                    la atribución docente correspondiente a cada uno de
+                    ellos.</p>
+                    <p>Los aspectos referentes al profesorado con
+                    atribución docente en los módulos profesionales de
+                    cada ciclo formativo, donde el profesorado técnico
+                    imparte docencia, están recogidos en los
+                    correspondientes reales decretos de título.
+                    Asimismo, estos decretos proporcionan información
+                    sobre los resultados de aprendizaje y los criterios
+                    de evaluación, que constituyen pilares fundamentales
+                    en nuestra programación didáctica.</p>
+                    <p>Es fundamental consultar los decretos y órdenes
+                    específicos de nuestra Comunidad Autónoma, ya que,
+                    como se ha señalado en apartados anteriores, estos
+                    concretan y detallan las instrucciones establecidas
+                    en los reales decretos de título correspondientes a
+                    cada ciclo formativo. Esta normativa autonómica
+                    ofrece directrices precisas sobre la organización,
+                    atribución docente y otros aspectos esenciales para
+                    el desarrollo de una programación didáctica conforme
+                    a las necesidades y características del sistema
+                    educativo valenciano.</p>
+                    <h2 data-number="4.2"
+                    id="la-familia-profesional"><span
+                    class="header-section-number">4.2</span> LA FAMILIA
+                    PROFESIONAL</h2>
+                    <h3 data-number="4.2.1"
+                    id="la-familia-profesional-1"><span
+                    class="header-section-number">4.2.1</span> LA
+                    FAMILIA PROFESIONAL</h3>
+                    <p>La Formación Profesional, conforme a la
+                    <strong>Ley Orgánica 3/2022, de 31 de marzo, de
+                    ordenación e integración de la Formación
+                    Profesional</strong>, y el <strong>Real Decreto
+                    659/2023, de 18 de julio</strong>, se estructura en
+                    una serie de familias profesionales que agrupan
+                    perfiles profesionales con características afines
+                    según su especialización socioproductiva. Existen
+                    actualmente 26 familias a nivel estatal, de las que
+                    en la <strong>Comunidad Valenciana</strong> se
+                    ofrecen 25, siendo la de industrias extractivas la
+                    única pendiente de incorporación.</p>
+                    <p>Las familias profesionales y sus títulos pueden
+                    consultarse en: - <a
+                    href="https://www.sepe.es/contenidos/personas/formacion/certificados_de_profesionalidad/familias_profesionales.html">Servicio
+                    Público de Empleo Estatal (SEPE)</a> - <a
+                    href="https://www.todofp.es/sobre-fp/informacion-general.html">TodoFP</a>
+                    - <a
+                    href="https://ceice.gva.es/web/formacion-profesional/oferta1">Conselleria
+                    de Educación, Universidades y Ocupación</a></p>
+                    <p>Cualquier itinerario, ya sea microformación
+                    (Grado A), Certificado de Competencia (B),
+                    Certificado Profesional (C), Ciclo Formativo (D),
+                    Curso de Especialización (E) o cualquier modalidad
+                    de FP Dual, se enmarca dentro de una familia
+                    profesional y se imparte conforme a los requisitos
+                    vigentes.</p>
+                    <h3 data-number="4.2.2"
+                    id="regulación-de-las-familias-profesionales"><span
+                    class="header-section-number">4.2.2</span>
+                    REGULACIÓN DE LAS FAMILIAS PROFESIONALES</h3>
+                    <p>La normativa que regula la Formación Profesional
+                    (FP) en España, y concretamente en la familia
+                    profesional de Transporte, Mantenimiento, Mecanizado
+                    y Fabricación Mecánica, está compuesta por un
+                    conjunto de leyes y reales decretos que configuran
+                    un sistema integrado, adaptable a nivel estatal y
+                    autonómico como en la Comunitat Valenciana.</p>
+                    <h3 data-number="4.2.3"
+                    id="normativa-estatal-básica"><span
+                    class="header-section-number">4.2.3</span> Normativa
+                    estatal básica</h3>
+                    <ul>
+                    <li><p><strong>Ley Orgánica 2/2006, de 3 de mayo, de
+                    Educación (LOE)</strong>: Establece el marco general
+                    del sistema educativo español, incluyendo la
+                    regulación básica de las titulaciones de FP en sus
+                    artículos. Esta ley es base para los títulos
+                    oficiales y el currículo de FP.</p></li>
+                    <li><p><strong>Ley Orgánica 3/2022, de 31 de marzo,
+                    de ordenación e integración de la Formación
+                    Profesional</strong>: Marco normativo que integra la
+                    oferta formativa de FP en un sistema articulado de
+                    itinerarios de aprendizaje y certificación,
+                    estructurado en cinco grados de
+                    aprendizaje.</p></li>
+                    <li><p><strong>Real Decreto 659/2023, de 18 de
+                    julio</strong>: Desarrolla la ordenación general del
+                    Sistema de Formación Profesional, estableciendo la
+                    estructura en grados A, B, C, D y E, la organización
+                    modular de los títulos y los principios pedagógicos
+                    comunes.</p></li>
+                    <li><p><strong>Real Decreto 208/2025, de 18 de
+                    marzo</strong>: Regula específicamente los grados A,
+                    B y C de FP para la familia profesional de
+                    Fabricación Mecánica, incluyendo títulos básicos y
+                    certificados profesionales en mecanizado.</p></li>
+                    <li><p><strong>Real Decreto 209/2025, de 18 de
+                    marzo</strong>: Regula los grados A, B y C de FP
+                    para la familia profesional de Instalación y
+                    Mantenimiento, con regulación detallada de módulos y
+                    competencias vinculadas al mantenimiento
+                    industrial.</p></li>
+                    <li><p><em>Real Decreto 618/2013, de 2 de agosto,
+                    por el que se establecen cuatro certificados de
+                    profesionalidad de la familia profesional de
+                    Fabricación Mecánica y se actualizan otros</em>.
+                    Boletín Oficial del Estado, nº 188, 13 de septiembre
+                    de 2013.</p></li>
+                    <li><p><em>Real Decreto 1216/2009, de 17 de julio,
+                    por el que se establecen los certificados de
+                    profesionalidad de la familia profesional de
+                    Instalación y Mantenimiento</em>. Boletín Oficial
+                    del Estado, nº 202, 20 de agosto de 2009.</p></li>
+                    </ul>
+                    <h3 data-number="4.2.4"
+                    id="normativa-autonómica-en-la-comunitat-valenciana"><span
+                    class="header-section-number">4.2.4</span> Normativa
+                    autonómica en la Comunitat Valenciana</h3>
+                    <ul>
+                    <li><p><strong>Decreto 114/2025, de 29 de julio, del
+                    Consell</strong>: Regula los currículos de los
+                    ciclos formativos de grado medio y superior de FP en
+                    la Comunitat Valenciana, adaptando los títulos
+                    estatales a las necesidades, contexto productivo y
+                    criterios pedagógicos autonómicos.</p></li>
+                    <li><p>Disposiciones autonómicas complementarias
+                    regulan aspectos organizativos, espacios,
+                    equipamientos y modalidades de impartición
+                    (presencial, virtual, dual) ajustados a la realidad
+                    valenciana.</p></li>
+                    </ul>
+                    <h3 data-number="4.2.5" id="síntesis-general"><span
+                    class="header-section-number">4.2.5</span> Síntesis
+                    general</h3>
+                    <table>
+                    <colgroup>
+                    <col style="width: 16%" />
+                    <col style="width: 26%" />
+                    <col style="width: 19%" />
+                    <col style="width: 38%" />
+                    </colgroup>
+                    <thead>
+                    <tr>
+                    <th>Nivel</th>
+                    <th>Normativa</th>
+                    <th>Ámbito</th>
+                    <th>Contenido clave</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr>
+                    <td>Estatal</td>
+                    <td>Ley Orgánica 2/2006 (LOE)</td>
+                    <td>España</td>
+                    <td>Base educativa y regulación general de
+                    titulaciones FP</td>
+                    </tr>
+                    <tr>
+                    <td>Estatal</td>
+                    <td>Ley Orgánica 3/2022</td>
+                    <td>España</td>
+                    <td>Integración y estructura modular de FP en grados
+                    A-E</td>
+                    </tr>
+                    <tr>
+                    <td>Estatal</td>
+                    <td>RD 659/2023</td>
+                    <td>España</td>
+                    <td>Ordenación general del sistema FP, estructura en
+                    grados</td>
+                    </tr>
+                    <tr>
+                    <td>Estatal</td>
+                    <td>RD 208/2025</td>
+                    <td>España</td>
+                    <td>Regulación específica de grados A, B y C para
+                    Fabricación Mecánica</td>
+                    </tr>
+                    <tr>
+                    <td>Estatal</td>
+                    <td>RD 209/2025</td>
+                    <td>España</td>
+                    <td>Regulación específica de grados A, B y C para
+                    Instalación y Mantenimiento</td>
+                    </tr>
+                    <tr>
+                    <td>Autonómico</td>
+                    <td>Decreto 114/2025</td>
+                    <td>Comunitat Valenciana</td>
+                    <td>Adaptación curricular autonómica para grados
+                    medio y superior FP</td>
+                    </tr>
+                    </tbody>
+                    </table>
+                    <h3 data-number="4.2.6"
+                    id="los-títulos-y-grados-de-la-formación-profesional"><span
+                    class="header-section-number">4.2.6</span> LOS
+                    TÍTULOS Y GRADOS DE LA FORMACIÓN PROFESIONAL</h3>
+                    <p>Dentro de cada familia profesional existen
+                    distintos títulos y ofertas formativas, con un
+                    componente socioproductivo compartido pero diversas
+                    especializaciones. Según la nueva estructura
+                    normativa establecida por la Ley Orgánica 3/2022 y
+                    el RD 659/2023, los grados de la FP son:</p>
+                    <ul>
+                    <li><em>Grado A</em>:
+                    Microformaciones/acreditaciones parciales (30-300
+                    horas certificadas)</li>
+                    <li><em>Grado B</em>: Certificado de competencia
+                    profesional (equivalente a un módulo
+                    profesional)</li>
+                    <li><em>Grado C</em>: Certificado profesional
+                    (varios módulos profesionales agrupados)</li>
+                    <li><em>Grado D</em>: Ciclos Formativos: Grado
+                    Básico, Medio, Superior</li>
+                    <li><em>Grado E</em>: Cursos de Especialización</li>
+                    </ul>
+                    <p>En el caso del profesorado técnico de la
+                    especialidad de <strong>Mecanizado y Mantenimiento
+                    de Máquinas</strong>, la docencia se centra
+                    principalmente en el área de máquina herramienta,
+                    sistemas y especialidades afines (según atribución
+                    docente vigente).</p>
+                    <p>Las principales familias profesionales donde se
+                    concentra esta docencia son: - Instalación y
+                    mantenimiento - Fabricación mecánica</p>
+                    <p>Cada familia cuenta con títulos agrupados por
+                    nivel:</p>
+                    <h4 data-number="4.2.6.1"
+                    id="formación-profesional-básica"><span
+                    class="header-section-number">4.2.6.1</span>
+                    Formación Profesional Básica</h4>
+                    <ul>
+                    <li>Título Profesional Básico en Fabricación y
+                    Montaje</li>
+                    <li>Título Profesional Básico en Mantenimiento de
+                    Viviendas</li>
+                    <li>Título Profesional Básico en Fabricación de
+                    Elementos Mecánicos</li>
+                    <li>Título Profesional Básico en Instalaciones
+                    Electrotécnicas y Mecánica</li>
+                    </ul>
+                    <h4 data-number="4.2.6.2"
+                    id="ciclos-formativos-de-grado-medio"><span
+                    class="header-section-number">4.2.6.2</span> Ciclos
+                    Formativos de Grado Medio</h4>
+                    <ul>
+                    <li>Técnico en Instalaciones de Producción de
+                    Calor</li>
+                    <li>Técnico en Instalaciones Frigoríficas y de
+                    Climatización</li>
+                    <li>Técnico Electromecánico</li>
+                    <li>Técnico en Joyería</li>
+                    <li>Técnico en Mecanizado</li>
+                    <li>Técnico en Conformado por Moldeo de Metales y
+                    Polímeros</li>
+                    </ul>
+                    <h4 data-number="4.2.6.3"
+                    id="ciclos-formativos-de-grado-superior"><span
+                    class="header-section-number">4.2.6.3</span> Ciclos
+                    Formativos de Grado Superior</h4>
+                    <ul>
+                    <li>Técnico Superior en Desarrollo de Proyectos de
+                    Instalaciones Térmicas y de Fluidos</li>
+                    <li>Técnico Superior en Mantenimiento de
+                    Instalaciones Térmicas y de Fluidos</li>
+                    <li>Técnico Superior en Mecatrónica Industrial</li>
+                    <li>Técnico Superior en Prevención de Riesgos
+                    Profesionales</li>
+                    <li>Técnico Superior en Construcciones
+                    Mecánicas</li>
+                    <li>Técnico Superior en Diseño en Fabricación
+                    Mecánica</li>
+                    <li>Técnico Superior en Óptica de Gafas (Óptica
+                    Ocular)</li>
+                    <li>Técnico Superior en Programación de la
+                    Producción en Fabricación Mecánica</li>
+                    <li>Técnico Superior en Programación de la
+                    Producción en Moldeo de Metales y Polímeros</li>
+                    </ul>
+                    <p>Con la nueva ley, <strong>toda la FP es
+                    dual</strong>. Esto implica integrar las prácticas
+                    formativas en empresas, en proceso continuo y
+                    supervisado tanto por el centro educativo como por
+                    el tutor de empresa. Existen las modalidades
+                    <em>General</em> (mínimo 25%) e <em>Intensiva</em>
+                    (hasta el 50%) de estancia en empresa.</p>
+                    <h2 data-number="4.3"
+                    id="los-módulos-profesionales"><span
+                    class="header-section-number">4.3</span> LOS MÓDULOS
+                    PROFESIONALES</h2>
+                    <p>Los módulos docentes atribuibles al profesorado
+                    están detallados en los reales decretos de título y
+                    órdenes autonómicas de currículo. Son dinámicos y
+                    pueden variar conforme a los currículos actualizados
+                    e instrucciones anuales. La participación del
+                    docente en cada módulo depende de las especialidades
+                    asignadas y de las condiciones particulares según el
+                    centro o la oferta educativa.</p>
+                    <p>El detalle completo, con relación a familias,
+                    ciclos y módulos impartibles, debe revisarse
+                    periódicamente en la web administrativa debido a su
+                    actualización constante (especialmente en
+                    microformaciones y nuevos grados).</p>
+                    <h2 data-number="4.4"
+                    id="ciclos-logse-loe-y-adaptación-curricular"><span
+                    class="header-section-number">4.4</span> CICLOS
+                    LOGSE, LOE Y ADAPTACIÓN CURRICULAR</h2>
+                    <p>Actualmente, la práctica totalidad de los ciclos
+                    están ya adaptados al marco LOMLOE-LOE y a la
+                    normativa estatal. Los pocos ciclos pendientes de
+                    adaptación se rigen por su currículo vigente y
+                    transitorio, mientras se publican los nuevos
+                    decretos autonómicos y estatales.</p>
+                    <p>La <em>programación didáctica</em> y la
+                    <em>concreción curricular</em> presenta tres
+                    niveles: 1. <strong>Estatal</strong>: El Ministerio
+                    desarrolla el currículo básico (respetando el
+                    porcentaje de horas asignado por cada CCAA). 2.
+                    <strong>Autonómico y de Centro</strong>: Proyecto
+                    Curricular y Proyecto Educativo. Se adapta la
+                    docencia a factores socioproductivos locales y la
+                    realidad de cada centro/entorno. 3.
+                    <strong>Aula</strong>: Programación adaptada a las
+                    características y perfiles del alumnado, con
+                    actualización continua según resultados y
+                    necesidades.</p>
+                    <h2 data-number="4.5"
+                    id="la-especialidad-del-profesorado"><span
+                    class="header-section-number">4.5</span> LA
+                    ESPECIALIDAD DEL PROFESORADO</h2>
+                    <p>La atribución docente se regula por los reales
+                    decretos de título y órdenes autonómicas, pudiendo
+                    impartirse los módulos por:</p>
+                    <ul>
+                    <li>Profesores de Secundaria (PS)</li>
+                    <li>Profesores Técnicos de Formación Profesional
+                    (PT)</li>
+                    <li>Profesores Especialistas (PE)</li>
+                    <li>Profesores de Idiomas</li>
+                    <li>Profesores de Formación y Orientación Laboral
+                    (FOL)</li>
+                    </ul>
+                    <p>Algunos módulos pueden estar impartidos
+                    indistintamente por diferentes especialidades o
+                    cuerpos. Es frecuente la docencia colaborativa (por
+                    ejemplo, en proyectos o módulos de inglés técnico,
+                    siempre con la titulación correspondiente).</p>
+                    <p>Se recomienda revisar anualmente las atribuciones
+                    docentes y las instrucciones de inicio de curso.</p>
+                    <h1 data-number="5"
+                    id="la-especialidad-de-mecanizado-y-mantenimiento-de-máquinas"><span
+                    class="header-section-number">5</span> LA
+                    ESPECIALIDAD DE MECANIZADO Y MANTENIMIENTO DE
+                    MÁQUINAS</h1>
+                    <h2 data-number="5.1"
+                    id="el-currículo-en-la-formación-profesional"><span
+                    class="header-section-number">5.1</span> EL
+                    CURRÍCULO EN LA FORMACIÓN PROFESIONAL</h2>
+                    <p>En el apartado anterior hemos visto las familias
+                    profesionales en las que actualmente tiene
+                    competencias docentes los profesores técnicos de
+                    Formación Profesional de la especialidad de
+                    Mecanizado y mantenimiento de máquinas. También
+                    hemos enumerado los distintos ciclos formativos en
+                    los que un profesor de ésta especialidad puede
+                    impartir docencia, enumerando todos y cada uno de
+                    los módulos profesionales en los que tiene
+                    atribuciones docentes. En primer término vamos a
+                    conocer ciertas peculiaridades del segundo y tercer
+                    nivel de concreción del desarrollo curricular.</p>
+                    <p>El primer nivel de concreción se encuentra a
+                    nivel estatal. El Ministerio de Educación y Ciencia
+                    desarrolla el currículo, que es de aplicación en
+                    todo el territorio nacional. A partir de la LOE, un
+                    55% de la temporalización y contenidos corresponde
+                    al Ministerio y el 45% restante corresponde a las
+                    distintas comunidades autónomas. En caso de que la
+                    comunidad autónoma no posea una segunda lengua
+                    cooficial, el porcentaje se sitúa en un 65-35%. Las
+                    comunidades autónomas pueden adaptar el currículo a
+                    sus propias características, sin modificar el 55%
+                    desarrollado por el MEC. De ello se deriva que los
+                    currículos difieren entre las distintas comunidades
+                    autónomas, pudiendo variar tanto en
+                    temporalizaciones, contenidos, etc.</p>
+                    <p>El segundo nivel de concreción curricular se
+                    encuentra en el Proyecto Educativo de Centro o
+                    Proyecto Curricular de Ciclo Formativo. En él se
+                    aúnan las concreciones idiosincráticas
+                    contextualizando el centro educativo a diversos
+                    factores. Por último, y como tercer nivel de
+                    concreción curricular, se encuentra la programación
+                    de aula.</p>
+                    <p>En el bloque 2.2 de esta formación ya se describe
+                    la programación de aula. Sólo vamos a remarcar
+                    aspectos que se deberán contemplar a la hora de
+                    realizar una programación de forma adecuada y
+                    adaptada a la especialidad en la que el profesor
+                    técnico de Mecanizado y mantenimiento de máquinas
+                    impartirá clase. Por supuesto, una programación no
+                    es un documento que deba repetirse anualmente, debe
+                    ser estudiada a fondo y modificada con la finalidad
+                    de poder mejorar los resultados de aprendizaje de
+                    los alumnos modificando y adaptando su contenido
+                    tras realizar una exhaustiva auto evaluación de los
+                    resultados obtenidos durante el curso. Cuando
+                    hablamos de concreción curricular entorno a la
+                    formación profesional, se deben contextualizar
+                    distintos factores que envuelven el centro
+                    educativo. Se debe tener en cuenta que una de las
+                    finalidades de la Formación Profesional es, entre
+                    otras, facilitar al alumno la inserción al mundo
+                    laboral. Por ende, es lógico pensar que la
+                    concreción en éste sentido debe tener presente
+                    valores y características del entorno como:</p>
+                    <ul>
+                    <li>Tipo de actividad empresarial que se realiza en
+                    la comarca</li>
+                    <li>Tipología del alumnado</li>
+                    </ul>
+                    <p>Los condicionantes o variables que se deben
+                    manejar a la hora de realizar una concreción
+                    curricular por el equipo docente son bastante
+                    diversas. De unas se puede desprender la
+                    aleatoriedad, como puede ser tener en cuenta el
+                    perfil del alumnado. En éste aspecto, la
+                    aleatoriedad se ve disminuida en cuanto se reduce la
+                    edad del estudiante.</p>
+                    <p>Así, en ciclos formativos de Formación
+                    Profesional Básica, el perfil del alumnado suele
+                    mantenerse dentro de unos estándares bastante
+                    concretos. Evidentemente, la experiencia del docente
+                    es fundamental para adecuar los contenidos al tipo
+                    de alumnado, de ello se deriva la importancia de
+                    adecuar la programación tras un primer análisis del
+                    grupo.</p>
+                    <p>En cambio, si tomamos en consideración un Ciclo
+                    Formativo de Grado Medio, el perfil del alumnado
+                    puede variar sustancialmente de un año académico a
+                    otro, siempre teniendo como referencia un mismo
+                    centro educativo. En éste aspecto, diversos factores
+                    pueden modificar el perfil del alumnado. En épocas
+                    de recesión es frecuente que se encuentren
+                    matriculados en el centro educativo alumnos de mayor
+                    edad, incluso que compaginan trabajo y estudios, o
+                    bien con vida familiar independiente.</p>
+                    <p>Este tipo de alumnado, puede reincorporarse al
+                    sistema educativo por diversas situaciones, como por
+                    ejemplo:</p>
+                    <p><strong>Mejora de empleo</strong></p>
+                    <p>Adecuar conocimientos o aptitudes Refrescarse en
+                    las nuevas tecnologías presentes en los entornos de
+                    trabajo Pérdida de empleo Carencia de titulaciones
+                    por acceso al mundo laboral en temprana edad…</p>
+                    <p>Este perfil de alumnado difiere bastante y crea
+                    grupos muy heterogéneos, sobre alumnos más jóvenes
+                    es más costoso centrar la atención e incluso en
+                    ocasiones la motivación.</p>
+                    <p>En cambio, el alumnado de mayor edad, suele
+                    favorecer enormemente el ejercicio de la docencia,
+                    pues tienen una premisa clara, la finalidad de sus
+                    estudios no se encuentra solamente en la titulación
+                    sino en el máximo aprovechamiento del tiempo para
+                    adquirir el máximo de conocimientos y poder
+                    aplicarlos en los entornos reales de trabajo. Éste
+                    hecho puede hacer que la variable del perfil del
+                    alumnado a la hora de realizar la adecuación de la
+                    programación sea bastante aleatoria, puesto que en
+                    un curso podemos encontrar un alto porcentaje de
+                    éste tipo de alumnado y al siguiente no tener ningún
+                    alumno en dicha situación.</p>
+                    <p>Sin embargo, existen otras variables que no
+                    responden a la aleatoriedad, como puede ser, por
+                    ejemplo, el entorno socio productivo del centro
+                    educativo. Veámoslo con un ejemplo.</p>
+                    <p>Pongamos dos centros ubicados en dos regiones
+                    distintas. Uno próximo a una mega factoría de
+                    producción de automóviles y otra en la que a su
+                    alrededor se encuentra un sistema productivo
+                    enfocado al servicio agrícola. Evidentemente, en la
+                    comarca próxima a la factoría de automóviles, tanto
+                    el sector principal como las empresas auxiliares
+                    colindantes estarán marcadas por el tipo de
+                    tecnología y especialización que necesita la comarca
+                    para sustentar ese sistema productivo. Es decir,
+                    precisará de alta tecnología, formación en esa alta
+                    tecnología y además la especialización en
+                    especialidades como matricería, soldadura,
+                    mantenimiento industrial…</p>
+                    <p>Sin embargo, en el centro educativo en el que se
+                    oferta la misma especialidad, pero enmarcado en un
+                    contexto más agrestre, las necesidades del sistema
+                    socio-productivo de la comarca diferirán,
+                    probablemente precisará personal formado en
+                    tecnologías afines a ésta, maquinaria agrícola,
+                    reparaciones a pie de campo, electromecánica general
+                    tecnológicamente menos específica…</p>
+                    <p>Evidentemente, si ambos centros ofertan el mismo
+                    ciclo formativo, pongámosle ya nombre, Ciclo de
+                    Grado Medio de Electromecánica, las adaptaciones
+                    curriculares deberán ser notables entre ambas.</p>
+                    <p>Si bien los contenidos mínimos son invariables,
+                    tal vez se deba dar un menor peso a los contenidos
+                    en robótica en un área agrícola y a su vez aumentar
+                    el peso de contenidos enfocados a la
+                    electromecánica.</p>
+                    <p>Es interesante en este aspecto lo que cita Manuel
+                    Fernández Balmón en el trabajo Atención pedagógica a
+                    la diversidad en Formación Profesional (octubre de
+                    2009): Adaptación al entorno socio-productivo y a la
+                    diversidad del alumnado El Sistema Educativo
+                    propuesto por la LOE y la LEA, establece que sus
+                    curricula sean abiertos y flexibles; y que a través
+                    de sus niveles de concreción se pueda atender de lo
+                    general a lo particular, dando respuestas a
+                    cualquier situación educativa concreta. Cómo vemos
+                    el Sistema Educativo está pensado para ofrecer un
+                    currículo “a la carta”: a cada entorno, a cada
+                    centro y a cada alumno.</p>
+                    <p>“Las Administraciones educativas tendrán en
+                    cuenta, al establecer el currículo de cada ciclo
+                    formativo, la realidad socioeconómica del territorio
+                    de su competencia teniendo en cuenta las
+                    perspectivas de desarrollo económico y social, con
+                    la finalidad de que las enseñanzas respondan en todo
+                    momento a las necesidades de cualificación de los
+                    sectores socioproductivos de su entorno. Las
+                    Administraciones educativas, con el fin de facilitar
+                    al alumnado la adquisición de las competencias del
+                    título correspondiente, promoverán la autonomía
+                    pedagógica organizativa y de gestión de los centros
+                    que impartan formación profesional, fomentarán el
+                    trabajo en equipo del profesorado y el desarrollo de
+                    planes de formación, investigación e innovación en
+                    su ámbito docente y las actuaciones que favorezcan
+                    la mejora continua de los procesos formativos. Los
+                    centros de formación profesional desarrollarán los
+                    curricula establecidos por la administración
+                    educativa correspondiente de acuerdo con las
+                    características y expectativas del alumnado, con
+                    especial atención a las necesidades de aquellas
+                    personas que presenten una discapacidad, y las
+                    posibilidades formativas del entorno, especialmente
+                    en el módulo profesional de formación en centros de
+                    trabajo. Es decir, dispondrán de la autonomía
+                    pedagógica necesaria para el desarrollo de las
+                    enseñanzas y su adaptación a las características
+                    concretas del entorno socioeconómico, cultural y
+                    profesional del mismo; así como a las
+                    individualidades del alumnado”.</p>
+                    <h2 data-number="5.2"
+                    id="alumnado.-perfiles-de-alumnado"><span
+                    class="header-section-number">5.2</span> ALUMNADO.
+                    PERFILES DE ALUMNADO</h2>
+                    <p>En el punto anterior destacábamos que el perfil
+                    del alumnado puede (y debe) ser una variable a
+                    contemplar a la hora de realizar la programación de
+                    aula. Vimos como el perfil suele ser más homogéneo e
+                    invariable con el transcurso del tiempo cuando
+                    hablamos de la Formación Profesional Básica. La
+                    edad, tipología y características del alumnado
+                    suelen ser bastante similares año tras año. Sin
+                    embargo, en ciclos de Grado Medio y Grado Superior,
+                    el perfil del alumnado resulta menos homogéneo. El
+                    perfil de alumno que nos encontramos en los grupos
+                    de Grado Medio, suelen variar considerablemente año
+                    tras año, por razones como las que se han descrito
+                    (presencia de alumnos de edad más madura, alumnos
+                    con acceso desde Formación Profesional Básica,
+                    alumnos que han cursado otros ciclos formativos…)
+                    Ello hace que la programación inicial deba ser
+                    adaptada tras una exhaustiva valoración inicial tras
+                    la toma de contacto del grupo.</p>
+                    <p>En los grupos de ciclos Formativos de Grado
+                    Superior, la homogeneidad del grupo es algo mayor.
+                    Si bien existen diferencias notables entre los
+                    alumnos y alumnas según el sistema de acceso por el
+                    que se han introducido, resultan grupos bastante
+                    homogéneos año tras año.</p>
+                    <p>La procedencia suele ser algo dispar. Pueden
+                    acceder directamente, como es sabido, desde
+                    Bachilerato, desde otro ciclo formativo de Grado
+                    Superior, desde un ciclo formativo de Grado Medio,
+                    por prueba de acceso… En estas condiciones, la
+                    disparidad del grupo se hace evidente, pero no así
+                    la homogeneidad del grupo en cuanto a la capacidad
+                    de asimilación o la disposición a la recepción. La
+                    madurez general del grupo se hace notable y se
+                    adaptan -por lo generalmejor al proceso formativo.
+                    Esto se debe en nuestra especialidad a un factor
+                    desencadenante de la evolución favorable del
+                    grupo.</p>
+                    <p>En estos grupos tendremos dos perfiles de
+                    alumnado bien diferenciados. Por un lado, los
+                    alumnos que NO acceden de un ciclo formativo de
+                    Grado Medio de la misma especialidad. Es decir,
+                    alumnos universitarios que desean poner en práctica
+                    sus conocimientos teóricos, alumnos de Bachillerato
+                    que están bastante acostumbrados al hábito del
+                    estudio… y por otro lado alumnos que proceden de
+                    Grado Medio de la misma especialidad.</p>
+                    <p>En los primeros, la carencia total de habilidades
+                    prácticas cuando entran a los talleres para formarse
+                    en los contenidos prácticos, hace que se deba
+                    comenzar desde niveles muy básicos, con lo que los
+                    alumnos procedentes de ciclos de Grado Medio con los
+                    que comparten grupo, tengan habilidades prácticas
+                    adquiridas, es decir, las destrezas necesarias para
+                    desenvolverse con bastante soltura en éstos módulos
+                    formativos con un alto componente práctico.</p>
+                    <p>Sin embargo, en los módulos profesionales con
+                    contenido mayoritariamente teórico, resultan más
+                    aventajados el perfil de alumnado procedente de
+                    niveles de Bachillerato, universitarios, etc. más
+                    acostumbrado a llevar hábitos de estudio que de
+                    contenidos prácticos.</p>
+                    <p>Esta simbiosis que se genera, si el docente es
+                    habilidoso, podrá sacar un alto partido del grupo,
+                    aprovechando que -por lo general- cada individuo del
+                    grupo, según su formación académica anterior, tenga
+                    unas habilidades, destrezas, hábitos o conocimientos
+                    previos bastante elevados sobre otra parte del
+                    grupo.</p>
+                    <p>Con el ejercicio de la motivación, y dada la
+                    madurez general del grupo, puede ser relativamente
+                    sencillo conseguir resultados académicos excelentes
+                    sin realizar adaptaciones excesivamente
+                    significativas año tras año.</p>
+                    <h2 data-number="5.3"
+                    id="el-alumno-en-los-talleres"><span
+                    class="header-section-number">5.3</span> EL ALUMNO
+                    EN LOS TALLERES</h2>
+                    <p>Hablábamos anteriormente de la homogeneidad o
+                    heterogeneidad del grupo, de cómo éste hecho nos
+                    puede hacer variar o adaptar en mayor o menor grado
+                    una programación inicial tras una evaluación inicial
+                    del grupo. El comportamiento de los alumnos en los
+                    talleres es un punto de inflexión a la hora de
+                    realizar una programación correcta que dé frutos
+                    positivos durante el curso. Nuevamente, difiere en
+                    gran medida el funcionamiento del curso en los
+                    módulos profesionales según el ciclo formativo del
+                    que se trate.</p>
+                    <p>Sea cual sea la formación previa, contrastaremos
+                    que en general será más sencillo motivar al alumno
+                    en módulos profesionales con contenidos
+                    teórico-prácticos que exclusivamente teóricos, ya
+                    que la realización de supuestos prácticos resulta
+                    bastante motivadora por sí sola con respecto a los
+                    supuestos exclusivamente teóricos.</p>
+                    <p><strong>Alumnos de Formación Profesional
+                    Básica</strong></p>
+                    <p>Groso modo, diremos que el alumnado que realiza
+                    ésta formación, necesita de un componente práctico
+                    importante para conseguir una buena motivación. No
+                    tiene, por lo general, hábitos de estudios
+                    importantes, por lo que el esfuerzo para asimilar
+                    los contenidos teóricos debe verse fomentado por
+                    prácticas reales en las que el alumno pueda
+                    entender, apreciar y practicar lo aprendido. Ésto
+                    parece un hecho obvio, pero será un recurso
+                    indispensable para conseguir un buen clima en el
+                    aula. Es más sencillo mantener a los alumnos de
+                    éstas características concentrados al realizar
+                    prácticas y conseguir las destrezas necesarias
+                    alternando frecuentemente los contenidos
+                    exclusivamente teóricos con los eminentemente
+                    prácticos.</p>
+                    <p>En segundo orden, pero no menos importante, se
+                    encuentra la seguridad en los talleres
+                    mecánicos.</p>
+                    <p>Este punto podría tratarse extensamente en un
+                    único apartado, pero como veremos a continuación,
+                    diferirá de forma exponencial dependiendo del ciclo
+                    formativo de que se trate.</p>
+                    <p>Si bien los alumnos de Formación Profesional
+                    Básica consiguen de forma más natural mejores
+                    resultados en los contenidos prácticos que en los
+                    teóricos, también aumenta de forma considerable los
+                    riesgos que pueden llegar a tomar en los talleres.
+                    Una diferencia que encontramos entre las familias
+                    profesionales en las que el profesor técnico de
+                    Formación Profesional de Mecanizado y mantenimiento
+                    de máquinas puede impartir docencia, con respecto a
+                    otros profesores técnicos de otras especialidades,
+                    es la presencia de talleres con maquinaria y los
+                    riesgos derivados de ella. Evidentemente, la
+                    manipulación de maquinaria contrae intrínsecamente
+                    unos riesgos mayores en estos ciclos formativos,
+                    que, por ejemplo, en ciclos formativos de
+                    Informática y telecomunicaciones o Comercio y
+                    marketing. La presencia de los riesgos en los
+                    talleres es idéntica a la de los entornos reales de
+                    trabajo. Existen riesgos de quemaduras,
+                    electrocución, cortes, atrapamientos, golpes,
+                    proyecciones, ambientes nocivos o peligrosos…</p>
+                    <p>Los talleres mecánicos deberán estar
+                    consecuentemente adaptados a las normativas de
+                    seguridad establecidas en concepto de seguridad e
+                    higiene. Pero no por tener una máquina las
+                    protecciones adecuadas y en perfecto estado de
+                    funcionamiento se convierte en un instrumento de
+                    trabajo seguro.</p>
+                    <p>Las máquinas por si solas no representan un
+                    peligro. Los operarios negligentes o sin la
+                    suficiente o adecuada formación son las que las
+                    convierten en peligrosas. El desconocimiento general
+                    por parte del alumno del funcionamiento de equipos
+                    mecánicos, y en especial las máquinas-herramienta,
+                    en las que el proceso de adaptación puede ser más
+                    longevo que en otras especialidades, hace que se
+                    deba preparar de manera muy concienzuda al
+                    alumnado.</p>
+                    <p>Si a ello le añadimos un perfil de alumnado de
+                    Formación Profesional Básica, siendo alumnos de
+                    temprana edad, con una madurez y un sentido de la
+                    responsabilidad aún en desarrollo, dará como
+                    resultado de la ecuación una necesaria programación
+                    muy progresiva en la adquisición de los contenidos
+                    prácticos. Es decir, tendremos que familiarizar al
+                    alumno con prácticas que incrementen su dificultad
+                    de forma muy progresiva. Como veremos en otras
+                    etapas educativas, los saltos en la dificultad de
+                    las prácticas será mucho mayor, pudiendo dejar al
+                    alumno un componente de investigación propia.</p>
+                    <p><strong>Alumnos de Grado Medio</strong></p>
+                    <p>El perfil de los alumnos de grado medio puede
+                    resultar, como se ha mencionado, muy dispar. Sin
+                    embargo, la formación previa de este alumnado
+                    permite una programación de los módulos
+                    profesionales que permite una progresión más
+                    escalonada, es decir, es posible aumentar la
+                    dificultad de las habilidades a desarrollar en los
+                    contenidos prácticos a impartir en las aulas-taller
+                    dando al alumno un mayor grado de autonomía. Este
+                    hecho no se basa en que el alumno posea ya destrezas
+                    adquiridas en etapas previas de su formación
+                    académica. Responde a un valor de formación previa
+                    semejante en todo el grupo.</p>
+                    <p>En la mayoría de los casos, la totalidad del
+                    grupo es totalmente neófita en las prácticas que van
+                    a realizar, independientemente de los conocimientos
+                    o estudios previos realizados, independientemente de
+                    la edad del alumno.</p>
+                    <p>La seguridad en este tipo de grupos es
+                    importante. Si la linealidad es una premisa, también
+                    es cierto que no todos los alumnos poseen las mismas
+                    capacidades. Las habilidades adquiridas en el
+                    proceso de enseñanza-aprendizaje de supuestos
+                    prácticos, será inevitablemente diferente entre
+                    distintos alumnos. Así pues, alumnos con capacidades
+                    mayores verán que sus prácticas formativas avanzan a
+                    un nivel muy superior a la de otros alumnos. Éste
+                    hecho, unida a una edad temprana, suele fomentar un
+                    exceso de confianza en el individuo, que puede
+                    repercutir negativamente en el uso de las
+                    instalaciones, especialmente en las
+                    máquina-herramienta. El exceso de confianza por
+                    parte del alumno en estos complejos procesos
+                    productivos, puede desencadenar en un accidente, y
+                    debemos tener siempre presente que estarán a los
+                    mandos de máquinas, equipos e instalaciones de
+                    cierta envergadura.</p>
+                    <p>En ocasiones el docente puede encontrarse
+                    requerido por bastantes alumnos al mismo tiempo en
+                    el aula taller. Éste no puede ser omnipresente en
+                    todos y cada uno de los puestos de trabajo y atender
+                    a todos al mismo tiempo. Sin embargo, no debe
+                    descuidar a ninguno de ellos ni un solo
+                    instante.</p>
+                    <p>Una de las diferencias de una clase teórica de
+                    una clase práctica, radica en que en una clase de
+                    componente eminentemente teórico, el profesor tiene
+                    a la vista a todos y cada uno de los alumnos.</p>
+                    <p>En las clases de componente práctico, el
+                    profesorado no suele tener a la vista a todo el
+                    grupo, normalmente, sólo a una parte de éste.</p>
+                    <p>En algunas familias profesionales, las prácticas
+                    se realizan en las aulas-taller, donde el docente,
+                    aunque no pueda observar a todos los alumnos al
+                    mismo tiempo, si puede ver a buena parte de
+                    ellos.</p>
+                    <p>Por citar un ejemplo, en un taller de prácticas
+                    de circuitos eléctricos, el docente puede ver a
+                    varios alumnos ya que las instalaciones sobre las
+                    que trabajan son de dimensiones menores y las
+                    prácticas, en ocasiones cuadros eléctricos, son de
+                    tamaño medio. Sin embargo, las prácticas realizadas
+                    en un taller de mecanizado, por poner un ejemplo, se
+                    realizan en máquinas de gran tamaño, se trata de
+                    maquinaria monopuesto, donde el grupo de personas
+                    -incluido el docente- que pueden albergar es muy
+                    reducido. A éste aspecto hay que añadir el gran
+                    tamaño y volumen de cada máquina, en especial las
+                    máquinas-herramienta.</p>
+                    <p>El resultado es evidente. Nos encontraremos con
+                    un campo visual muy reducido y será muy difícil
+                    poder controlar que está realizando cada uno de los
+                    alumnos. En este aspecto, también hay que señalar el
+                    alto nivel sonoro que se produce en los talleres
+                    mecánicos y de mecanizado, con lo que se acentúa más
+                    aún la dificultad para poder supervisar a la
+                    totalidad del grupo de alumnos.</p>
+                    <p>Con todas estas premisas, lo que se intenta
+                    trasmitir es que el docente, aún no teniendo un
+                    control visual, no ya de la totalidad del grupo, si
+                    no de tan sólo unos pocos alumnos, y a pesar de que
+                    el grupo pueda encontrarse con desdoble de
+                    profesorado, se debe realizar una programación que
+                    permita el mayor control posible del alumnado en
+                    todo momento.</p>
+                    <p>Aunque parezca una utopía, es posible controlar
+                    que está haciendo cada alumno en cada momento
+                    realizando una programación acorde a las capacidades
+                    de cada alumno. No se trata de realizar una
+                    programación totalmente individualizada, pero si
+                    fomentar el trabajo en grupo reducidos, no
+                    homogéneos en cuanto a capacidades y destrezas del
+                    alumnado, así como realizando una serie de
+                    actividades prácticas basadas en lo inmediatamente
+                    anterior aprendido, de tal forma que el alumno
+                    refuerce lo anteriormente asimilado aumentando el
+                    nivel de destreza justo sobre la anteriormente
+                    asimilada.</p>
+                    <p>Como hemos visto, el docente no podrá estar
+                    atendiendo a todos los alumnos al mismo tiempo. En
+                    caso de que un alumno tenga una duda sobre un
+                    proceso, y en ese momento no puede ser atendido,
+                    pueden pasar varias cosas. Si se realizan saltos
+                    demasiado evidentes en las prácticas, sin reforzar
+                    (repetir) lo anteriormente asimilado, el alumno
+                    puede intentar realizar la práctica siguiendo su
+                    instinto. También puede esperar a ser atendido…</p>
+                    <p>En el caso de que intente realizar la práctica
+                    siguiendo su instinto, los resultados pueden ser de
+                    lo más variopinto.</p>
+                    <p>Por todo esto, es importante fomentar el trabajo
+                    colaborativo o en grupo. Podemos constatar como los
+                    entornos reales de trabajo para los que preparamos a
+                    los alumnos, y máxime en las especialidades en las
+                    que formamos los profesores de la especialidad de
+                    Mecanizado y mantenimiento de máquinas, rara vez el
+                    trabajo se realiza de forma totalmente individual.
+                    Siempre dependerá de otras personas para llevar a
+                    cabo el trabajo. Bien por que ha habido un diseño
+                    previo realizado pro otras personas, bien por que el
+                    proceso se crea para otras personas…</p>
+                    <p>El trabajo en grupo tiene un valor muy importante
+                    en la Formación Profesional. Veamos una reflexión
+                    que cita Elena Martín Ortega, y asociémosla al
+                    perfil del alumnado del aula.</p>
+                    <p>“El trabajo colaborativo constituye asimismo uno
+                    de los pilares de aprender a aprender. Trabajar con
+                    otros ayuda a tomar conciencia de los propios
+                    procesos cognitivos y emocionales, al trabajar con
+                    los otros, debemos ponernos de acuerdo en los
+                    objetivos y, por tanto, pensar sobre ellos; debemos
+                    acordar cómo avanzar, pensar sobre las estrategias y
+                    pasos; debemos detectar errores propios y ajenos, y
+                    dar explicaciones de por qué lo consideramos un
+                    error; debemos llegar a una solución compartida, y
+                    explicar por qué ésa es la solución correcta. En
+                    resumen, el aprendizaje en colaboración no puede
+                    darse sin leer nuestra mente, leer la de los demás y
+                    buscar las vías de comunicación entre ambas. Nos
+                    conduce a explicarnos frente a nosotros mismos y los
+                    demás, a controlar y a inhibir nuestras respuestas y
+                    a ser flexibles para adaptarnos a la situación y al
+                    grupo”.</p>
+                    <p>Fuente: <a
+                    href="http://www.ceice.gva.es/consell/docs/jornadas/conferenciaelenamarti.pdf">http://www.ceice.gva.es/consell/docs/jornadas/conferenciaelenamarti.pdf</a></p>
+                    <p>En este aspecto, el trabajo colaborativo o en
+                    grupo, máxime en los talleres de Formación
+                    Profesional, es una herramienta de incalculable
+                    valor para el proceso de enseñanza aprendizaje.
+                    Cuando un alumno se encuentra ante una dificultad,
+                    sobre aspectos prácticos, la consulta a un compañero
+                    es un recurso que le ayudará a proseguir con sus
+                    actividades, ya que como hemos mencionado, en este
+                    tipo de aulas es muy complejo poder atender a todos
+                    los alumnos en el mismo instante en que tienen una
+                    duda. Este hecho tiene una doble finalidad, el
+                    alumno para cuestiones sencillas buscará la ayuda de
+                    compañeros, y este hecho es fundamental para su
+                    desarrollo como alumno y como futuro trabajador.
+                    Buscar soluciones a los problemas o dudas
+                    compartiendo conocimientos y destrezas con otros
+                    individuos. Por otro lado, el alumno se encuentra
+                    más cómodo al preguntar a un compañero para que le
+                    resuelva pequeñas dudas en los procesos, y esto
+                    fomentará el buen clima del aula y el compañerismo
+                    entre los alumnos. Si bien es cierto que se aprende
+                    tanto o más de error que de un acierto, el estar
+                    bien tutelados en un taller es fundamental para:</p>
+                    <ol type="A">
+                    <li><p>La seguridad del alumno, del grupo, de los
+                    docentes y del personal del centro. Un taller
+                    mecánico es un ámbito con instalaciones
+                    potencialmente peligrosas si no se emplean con la
+                    seguridad requerida. Trabajar con maquinaria pesada
+                    conlleva riesgos por mal uso, negligencia o
+                    desconocimiento. Éste hecho puede generar un
+                    accidente de mayores o menores consecuencias si el
+                    alumno no está correctamente tutelado.</p></li>
+                    <li><p>La integridad de los equipos, máquinas e
+                    instalaciones. Por pequeño que sea un lance, los
+                    equipos e instalaciones de los talleres son
+                    elementos de muy alta precisión y complejidad. Cada
+                    situación que compromete la integridad de los
+                    equipos merma significativamente la confiabilidad y
+                    de funcionamiento de éstos. Éste hecho unido al
+                    elevado coste de los equipos hace que no sea viable
+                    su reposición. Incluso las reparaciones por daños
+                    suelen tener costes muy elevados de difícil
+                    subsanación. Si unimos esto a que no existen un
+                    número de equipos igual al número de alumnos,
+                    veremos que cualquier indisposición de un equipo nos
+                    mermará la capacidad de trabajo y por ende de
+                    aprendizaje del grupo. Si tenemos más de 30 alumnos
+                    y 6 tornos, en el caso de avería de dos la merma en
+                    el tiempo de prácticas de los alumnos se verá
+                    considerablemente ampliada.</p></li>
+                    <li><p>La lineabilidad del proceso
+                    enseñanza-aprendizaje. Cuando un alumno comente un
+                    error en una práctica, en concreto por falta de
+                    tutela, suele tener que invertir bastante tiempo en
+                    rehacer dicha práctica hasta llegar al punto donde
+                    se cometió el error. El alumno se desmotiva por lo
+                    que puede considerar un fracaso y por ver que no ha
+                    avanzado y otros miembros del grupo avanzan. Pierde
+                    el ritmo de la clase y se desmotiva. Para evitar
+                    este sentimiento, lógicamente se deberá inculcar al
+                    alumno la conciencia de que no debe continuar con
+                    una práctica llegado a un punto de tener una duda
+                    razonable.</p></li>
+                    </ol>
+                    <p>Y debemos considerar razonable dudas que sean
+                    producto de que el alumno se pregunte ¿si hago esto
+                    no pasará que….? , evitando dudas por no haber
+                    preparado lo suficiente la práctica. En ocasiones,
+                    en especial con alumnos de grado medio, el alumno
+                    suele buscar la respuesta a la duda que se le
+                    plantea preguntando para tener que evitar el trabajo
+                    de pensar, deducir, crear… Éste tipo de actitud debe
+                    ser mayoritariamente rechazada, dando al alumno la
+                    oportunidad de pensar, razonar… pero ya fuera de lo
+                    que pudiera ser una situación de peligro.</p>
+                    <p><strong>Alumnos de Grado Superior</strong></p>
+                    <p>El perfil del alumnado presente en grado
+                    superior, como se ha mencionado, puede ser dispar en
+                    cuanto a sus capacidades y hábitos iniciales. Los
+                    alumnos que previamente han realizado un ciclo
+                    formativo, poseerán ciertas destrezas adquiridas que
+                    les ayudarán en los módulos profesionales de
+                    carácter eminentemente práctico y a su vez tendrán
+                    nociones de muchísimos conceptos de los contenidos
+                    teóricos.</p>
+                    <p>El resto de alumnado, por acceso desde
+                    Bachillerato, universitarios… tendrán unas
+                    capacidades adquiridas -por lo general- mayores en
+                    conceptos teóricos. Éste hecho que ya hemos
+                    comentado se debe tener presente para adecuar la
+                    programación acorde al perfil del grupo, sin
+                    embargo, en poco tiempo el grupo se vuelve muy
+                    homogéneo a la hora de ir adquiriendo las
+                    habilidades y destrezas así como los conocimientos
+                    necesarios para superar los distintos módulos
+                    profesionales. En el apartado de seguridad, dada la
+                    madurez general que presenta el perfil del alumnado
+                    que cursa estudios de Grado superior, aunque
+                    obviamente no deba descuidarse, si no vas a permitir
+                    realizar una programación más ambiciosa, dando un
+                    componente mayor de investigación y autonomía,
+                    dejando investigar al alumno en muchos aspectos.</p>
+                    <p>Si bien los alumnos de anteriores etapas
+                    educativas de formación profesional (Formación
+                    Profesional Básica y Formación Profesional de Grado
+                    Medio) precisan una tutorización importante, máxime
+                    cuando tratamos prácticas en los talleres, guiando
+                    exhaustivamente la práctica dejando pequeños
+                    indicios para que el alumno tome decisiones, en los
+                    grupos de Grado Superior es imprescindible
+                    desarrollar la capacidad resolutoria y de
+                    investigación. La madurez del alumnado nos permitirá
+                    crear prácticas con un componente en el que el
+                    alumno deba continuar formándose de una forma más
+                    escalonada, es decir, no precisará que una nueva
+                    práctica tenga un componente importante de la
+                    práctica anterior.</p>
+                    <h2 data-number="5.4" id="espacios"><span
+                    class="header-section-number">5.4</span>
+                    ESPACIOS</h2>
+                    <p>El profesor de Mecanizado y Mantenimiento de
+                    Máquinas tiene atribuciones docentes en módulos
+                    formativos de distinta índole, destacando
+                    especialmente aquellos módulos de naturaleza
+                    eminentemente práctica.</p>
+                    <p>Estos módulos deben impartirse en espacios
+                    adecuados para tal fin, denominados
+                    <strong>aulas-taller</strong>, que cuentan con el
+                    equipamiento, instalaciones y recursos necesarios
+                    para que el alumnado pueda desarrollar las
+                    competencias profesionales recogidas en los
+                    currículos oficiales.</p>
+                    <p>La dotación mínima y el diseño de estos espacios
+                    están definidos en los respectivos <strong>Reales
+                    Decretos</strong> y <strong>órdenes
+                    autonómicas</strong> que establecen cada título y
+                    regulan las enseñanzas mínimas y la organización de
+                    los ciclos. Además, la actualización normativa (Ley
+                    Orgánica 3/2022 y Real Decreto 659/2023) refuerza la
+                    obligatoriedad de que las prácticas y actividades se
+                    realicen en entornos seguros, inclusivos y adaptados
+                    a las nuevas exigencias tecnológicas y a la
+                    modalidad dual de la Formación Profesional.</p>
+                    <p>Así mismo, en la Comunitat Valenciana, se
+                    encuentran detallados tanto los espacios como el
+                    tamaño de éstos. Podemos consultarlo en el currículo
+                    de la Comunitat Valenciana de cada uno de ellos
+                    títulos ofertados.</p>
+                    <h2 data-number="5.5"
+                    id="materiales-curriculares-de-dotación-para-los-centros-formativos"><span
+                    class="header-section-number">5.5</span> MATERIALES
+                    CURRICULARES DE DOTACIÓN PARA LOS CENTROS
+                    FORMATIVOS</h2>
+                    <p>De acuerdo con la normativa vigente (Ley Orgánica
+                    3/2022 y Real Decreto 659/2023), en los centros
+                    educativos los espacios habilitados como talleres
+                    deben contar con el <strong>equipamiento, maquinaria
+                    y recursos tecnológicos</strong> adecuados tanto a
+                    los contenidos curriculares como a la modalidad
+                    dual, garantizando la formación práctica y la
+                    seguridad del alumnado.</p>
+                    <p>Este equipamiento y los materiales de dotación
+                    están detallados y actualizados en la web de la
+                    <strong>Conselleria de Educación, Universidades y
+                    Ocupación</strong> de la Generalitat Valenciana,
+                    conforme a las órdenes autonómicas y los reales
+                    decretos estatales que regulan cada título y familia
+                    profesional.</p>
+                    <p>Para acceder al listado de materiales
+                    actualizados: 1. Acceder al portal web oficial e
+                    ingresar en el dossier correspondiente a ciclos
+                    formativos. 2. Seleccionar la familia profesional y
+                    el ciclo formativo concreto. 3. En la ventana
+                    resultante, buscar el enlace o sección denominada
+                    “Materiales de dotación”.</p>
+                    <p>Ejemplo de consulta: - <a
+                    href="https://ceice.gva.es/es/web/formacion-profesional/publicador-de-cicles/-/asset_publisher/M0SqOt5YOf05/content/ciclo-formativo-mecatronica-industrial">Consulta
+                    oficial de materiales de dotación - Mecatrónica
+                    Industrial</a> - <a
+                    href="http://www.ceice.gva.es/documents/161863064/162743989/GS_MECATRONICA_INDUSTRIAL.pdf">Listado
+                    de materiales de dotación</a></p>
+                    <p>El acceso a este enlace permite visualizar el
+                    listado actualizado de materiales mínimos exigidos,
+                    incluyendo maquinaria, herramientas, recursos
+                    digitales y elementos de seguridad, todo ello
+                    conforme al currículo y la normativa técnica vigente
+                    para cada ciclo.</p>
+                    <p>Esta dotación se revisa periódicamente y se
+                    adapta a los cambios legislativos, tecnológicos y
+                    pedagógicos, asegurando que la enseñanza práctica en
+                    FP responde tanto</p>
+                    <h2 data-number="5.6"
+                    id="las-instrucciones-de-inicio-de-curso"><span
+                    class="header-section-number">5.6</span> LAS
+                    INSTRUCCIONES DE INICIO DE CURSO</h2>
+                    <p>Un documento con el que el docente de cualquier
+                    especialidad de Formación Profesional debe estar muy
+                    familiarizado es el denominado de instrucciones de
+                    inicio de curso. En él se dictan las instrucciones
+                    pertinentes sobre ordenación académica y la
+                    organización de la actividad docente. En el
+                    documento se regulan un sinfín de aspectos relativos
+                    al ejercicio de la docencia, que pueden variar de un
+                    curso académico a otro. Éste documento se publica a
+                    finales de un curso académico y dicta las citadas
+                    instrucciones que entrarán en vigor para el inicio
+                    del siguiente curso. Éste documento se puede
+                    consultar a partir de la página WEB de la
+                    Conselleria de Educación, Investigación, Cultura y
+                    Deporte.</p>
+                    <p>Fuente:
+                    https://ceice.gva.es/es/web/formacion-profesional/normativa-sobre-ordenacion-y-organizacion-academica-de-los-ciclos-formativos</p>
+                    <h2 data-number="5.7"
+                    id="desdobles-del-profesorado"><span
+                    class="header-section-number">5.7</span> DESDOBLES
+                    DEL PROFESORADO</h2>
+                    <p>Según la normativa vigente en la Comunitat
+                    Valenciana (actualizaciones a 2025 de las Órdenes de
+                    Plantillas, las Instrucciones de inicio de curso y
+                    la normativa de FP estatal y autonómica),
+                    determinados módulos profesionales, especialmente
+                    aquellos de marcado carácter práctico, pueden ser
+                    objeto de <strong>desdoble de profesorado</strong>.
+                    Este mecanismo está pensado para mejorar la calidad
+                    de la enseñanza práctica y garantizar la atención
+                    individualizada.</p>
+                    <p>El desdoble se aplica cuando el grupo de alumnado
+                    matriculado en un módulo supera el número mínimo
+                    requerido (fijado habitualmente entre 18-20 alumnos,
+                    según instrucción anual de inicio de curso). En
+                    estos casos: - Se autoriza impartir el módulo con
+                    dos profesores simultáneos (profesor titular y de
+                    apoyo). - Se incrementa la plantilla del centro si
+                    es necesario, con el objetivo de cubrir este
+                    refuerzo docente. - El centro debe consultar y
+                    atenerse tanto a la <strong>Orden</strong> vigente
+                    de criterios de plantillas como a la
+                    <strong>resolución anual</strong> sobre módulos y
+                    horas susceptibles de desdoble.</p>
+                    <p>Actualmente, el régimen normativo está recogido
+                    en: - <strong>Órdenes y resoluciones
+                    anuales</strong> (por ejemplo: Resolución de julio
+                    de 2025 de la Secretaría Autonómica de Educación,
+                    publicada cada inicio de curso, donde se determinan
+                    módulos, especialidades y requisitos de agrupamiento
+                    y desdoble para todos los ciclos formativos). -
+                    Orden 9/2025, de 5 de junio, de la Conselleria de
+                    Educación, Cultura, Universidades y Empleo, por la
+                    que se regulan los criterios para la determinación
+                    de las plantillas de personal docente
+                    correspondientes a los centros públicos de
+                    titularidad de la Generalitat que imparten
+                    enseñanzas no universitarias en el ámbito de la
+                    Comunitat Valenciana.</p>
+                    <p>Se recomienda consultar cada inicio de curso la
+                    <strong>resolución vigente</strong> en el portal
+                    oficial de la Conselleria sobre plantillas y
+                    desdobles, ya que los módulos, ratios y criterios
+                    pueden variar y adaptarse a la evolución de la FP
+                    Dual y los nuevos requerimientos de la Ley Orgánica
+                    3/2022 y el Real Decreto 659/2023.</p>
+                    <h2 data-number="5.8"
+                    id="el-profesor-como-autoridad"><span
+                    class="header-section-number">5.8</span> EL PROFESOR
+                    COMO AUTORIDAD</h2>
+                    <p><strong>Ley 15/2010, de 3 de diciembre, de la
+                    Generalitat, de autoridad del profesorado</strong>,
+                    tiene por objeto reconocer la autoridad del personal
+                    docente en el desempeño de sus funciones y
+                    garantizar su integridad, seguridad y respeto dentro
+                    de la comunidad educativa.</p>
+                    <p>Texto consolidado disponible en el siguiente
+                    enlace oficial del DOGV:<br />
+                    <a
+                    href="http://www.docv.gva.es/datos/2010/12/10/pdf/2010_13298.pdf">http://www.docv.gva.es/datos/2010/12/10/pdf/2010_13298.pdf</a></p>
+                    <p>Esta ley se complementa actualmente con el
+                    <strong>Decreto de Convivencia del Sistema Educativo
+                    Valenciano (2025)</strong>, que incide en la
+                    prevención activa de conflictos, la mediación y la
+                    protección del profesorado ante situaciones de
+                    violencia escolar.</p>
+                    <p><strong>Artículo 4. Derechos del personal
+                    docente</strong></p>
+                    <ol type="1">
+                    <li><p>El personal docente, dentro del ámbito de la
+                    convivencia escolar, tiene reconocidos los
+                    siguientes derechos:</p>
+                    <ol type="a">
+                    <li>A ser respetado, recibir un trato digno y ser
+                    valorado por la comunidad educativa y la
+                    sociedad.<br />
+                    </li>
+                    <li>A desempeñar su función en un entorno seguro,
+                    inclusivo y libre de violencia, conforme al
+                    <strong>Decreto de Convivencia de 2025</strong>, que
+                    promueve la “tolerancia cero” ante cualquier
+                    agresión.<br />
+                    </li>
+                    <li>A participar en la mejora de la convivencia y en
+                    el desarrollo integral del alumnado, con el apoyo
+                    institucional de la Conselleria de Educación,
+                    Cultura, Universidades y Empleo.<br />
+                    </li>
+                    <li>A ejercer su autoridad pedagógica y
+                    disciplinaria conforme a las normas de convivencia
+                    del centro, pudiendo adoptar las medidas necesarias
+                    para mantener un clima adecuado en las aulas y
+                    actividades escolares.<br />
+                    </li>
+                    <li>A la debida protección jurídica y asistencia por
+                    parte de la Administración educativa ante actos
+                    contrarios a su autoridad o integridad.<br />
+                    </li>
+                    <li>A la formación continua, actualización
+                    profesional y apoyo institucional para el desempeño
+                    de su labor docente.</li>
+                    </ol></li>
+                    <li><p>La Conselleria competente garantizará que los
+                    espacios institucionales y medios de comunicación
+                    oficiales se utilicen de forma respetuosa, evitando
+                    cualquier contenido ofensivo hacia el profesorado o
+                    el personal del sistema educativo.</p></li>
+                    </ol>
+                    <h2 data-number="5.9"
+                    id="el-problema-de-saber-mucho.-saber-trasmitir-y-no-obviar-cosas"><span
+                    class="header-section-number">5.9</span> EL PROBLEMA
+                    DE SABER MUCHO. SABER TRASMITIR Y NO OBVIAR
+                    COSAS</h2>
+                    <p>En obvio que un profesor técnico, como cualquier
+                    otro docente, cuanto mayor sea su experiencia previa
+                    en el campo en el que ejerce la docencia, mejores
+                    resultados puede obtener del alumnado dada que su
+                    preparación será mejor y poseerá recursos más que
+                    suficientes para afrontar con éxito cualquier
+                    situación que requiera el profundo conocimiento en
+                    la materia. Sin embargo, al igual que en cualquier
+                    otra especialidad, el tener grandes conocimientos en
+                    un determinado campo, puede hacer al docente
+                    vulnerable en el proceso de
+                    enseñanza-aprendizaje.</p>
+                    <p>En comparación con otras especialidades docentes,
+                    el profesor técnico no tiene la linealidad a la hora
+                    de aumentar el grado de dificultad de los contenidos
+                    como en otras especialidades.</p>
+                    <p>Así por ejemplo, los alumnos han ido aprendiendo
+                    matemáticas de forma lineal y durante muchos años.
+                    Sin embargo, al llegar a un taller mecánico, todo es
+                    nuevo para la inmensa mayoría de los alumnos. En
+                    poco tiempo despertarán habilidades que les
+                    motivarán a seguir creciendo, y en éste caso, hay
+                    que tener especial cuidado que como docentes, no
+                    obviar parte de la formación que podemos considerar
+                    obvia, valga la redundancia…</p>
+                    <p>Del alumno se espera que aumente la capacidad
+                    resolutoria conforme avanzan sus prácticas, pero en
+                    ocasiones, dado que no es posible seguir de cerca la
+                    totalidad del grupo en todo momento, el alumno puede
+                    cometer errores, sobre todo de componente práctico,
+                    al avanzar un paso o realizar una operación de forma
+                    no secuencial como se le había planteado.</p>
+                    <p>Pongamos un ejemplo para un mejor entendimiento.
+                    Después de una primera toma de contacto con el
+                    torno, el alumno pone la pieza en el torno entre
+                    plato y punto sin haber realizado el punto. Cuando
+                    ésto sucede, es que la lineabilidad no ha sido lo
+                    suficientemente estructurada, no se han detallado
+                    todos y cada uno de los pasos, y como decíamos al
+                    principio, hemos obviado algo que para nosotros,
+                    dada nuestra experiencia, era obvio.</p>
+                    <p>Como hemos mencionado, en otros aspectos
+                    formativos no es frecuente que ocurran estas
+                    situaciones, pero si pueden darse en un taller
+                    mecánico. Este hecho repercute negativamente en el
+                    alumno, ya que siguiendo su propio instinto, por
+                    olvido o insuficientes repeticiones, ha cometido un
+                    error en el proceso sin haber sido consciente de
+                    ello.</p>
+                    <p>La experiencia como docentes hará que con el
+                    tiempo, aspectos que nos parecen obvios, debamos
+                    darles un peso muy importante a la hora de
+                    planificar y tutorizar las prácticas en el aula.</p>
+                    <p>En el trabajo de Armando Zambrano Leal, “Tres
+                    tipos de saber del profesor y competencias: una
+                    relación compleja” (2005), nos cita lo siguiente:
+                    “El saber organizar y animar situaciones de
+                    aprendizaje exige del docente tener, a la vez, un
+                    dominio del conocimiento de su disciplina y de las
+                    representaciones de los alumnos, ponderar la
+                    importancia de los errores de éstos, saber construir
+                    secuencias de aprendizaje donde ellos operan por un
+                    factor de investigación más que por un factor de
+                    adición de saberes. En esta competencia el profesor
+                    debe saber implicar a los alumnos en el trabajo
+                    escolar y los aprendizajes que tal trabajo supone.
+                    Ello exige concebir las situaciones problemas que
+                    más se ajustan a la realidad del estudiante,
+                    adquirir una visión longitudinal en los objetivos
+                    que se proponen en cada una de las competencias
+                    expuestas en los programas escolares, establecer y
+                    observar la pertinencia de las teorías de
+                    aprendizaje que subyacen en los programas y las
+                    realidades concretas de los alumnos. El aprendizaje
+                    de los alumnos es diferente en cada uno, por esto
+                    mismo, el profesor debe ser capaz de concebir los
+                    dispositivos didácticos con base en tal
+                    diferenciación. Esto implica, saber administrar la
+                    heterogeneidad del grupo escolar, combinar los tipos
+                    didácticos e impulsar situaciones didácticas
+                    variadas de tal forma que siempre se busque al
+                    estudiante motivado por el aprendizaje. El profesor
+                    debe, igualmente, saber suscitar en cada estudiante
+                    una relación con el saber, dejando entrever la
+                    importancia para los sujetos, saber introducir
+                    dispositivos de evaluación personal a través de la
+                    cual el alumno aprenda a ponerse en distancia frente
+                    a las dificultades y logros y, sobre todo, estar
+                    dispuesto a trabajar sobre proyectos a la medida de
+                    los alumnos”.</p>
+                    <p>Fuente: <a
+                    href="http://www.scielo.org.ve/scielo.php?script=sci_arttext&amp;pid=S1316-49102006000200003">http://www.scielo.org.ve/scielo.php?script=sci_arttext&amp;pid=S1316-49102006000200003</a></p>
+                    <h1 data-number="6"
+                    id="bibliografía-y-webs-de-interés"><span
+                    class="header-section-number">6</span> BIBLIOGRAFÍA
+                    Y WEBS DE INTERÉS</h1>
+                    <h2 data-number="6.1"
+                    id="bibliografía-actualizada---formación-profesional-en-españa-2025"><span
+                    class="header-section-number">6.1</span>
+                    Bibliografía actualizada - Formación Profesional en
+                    España (2025)</h2>
+                    <ul>
+                    <li>Rial, Antonio &amp; Rego, Laura (2012).
+                    <em>Formación profesional en España: Conquistas de
+                    la formación profesional en España en los últimos
+                    veinticinco años</em>. Formación XXI (en
+                    línea).</li>
+                    <li><a
+                    href="https://www.todofp.es/comunes/noticias/2025/fp-cifras-historicas-1-millones-matriculados.html">Todofp:
+                    FP cifras históricas 2025</a><br />
+                    </li>
+                    <li><a
+                    href="https://exitoeducativo.net/la-fp-espanola-alcanza-cifras-historicas-con-mas-de-12-millones-de-matriculados/">Exito
+                    Educativo: 1,2 millones de matriculados en FP
+                    2025</a></li>
+                    <li>Ley Orgánica 3/2022, de 31 de marzo, de
+                    ordenación e integración de la Formación
+                    Profesional.<br />
+                    <a
+                    href="https://www.boe.es/buscar/act.php?id=BOE-A-2022-5346">BOE</a></li>
+                    <li>Real Decreto 69/2025, de 4 de febrero, por el
+                    que se desarrolla el Sistema Nacional de Formación
+                    Profesional.<br />
+                    <a
+                    href="https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-2039">Texto
+                    completo en BOE</a></li>
+                    <li>CEAC (2025). <em>Ley FP 2025-26: ¿qué novedades
+                    incorpora?</em><br />
+                    <a
+                    href="https://www.ceac.es/blog/formacion-profesional/ley-fp-2024">Blog
+                    CEAC</a></li>
+                    <li>STRATEGIK B&amp;F Consulting (2025). <em>FP
+                    Ranking 2025, contexto y novedades tras la nueva
+                    ley</em>.<br />
+                    <a href="https://strategik.es/fp-ranking-2025/">FP
+                    Ranking 2025</a></li>
+                    <li>ANPE (2024). <em>La Formación Profesional en
+                    España: desafíos y oportunidades en tiempos de
+                    transformación</em>.<br />
+                    <a
+                    href="https://revista.anpe.es/la-formacion-profesional-en-espana-desafios-y-oportunidades-en-tiempos-de-transformacion/">Revista
+                    ANPE</a></li>
+                    <li>Econosublime (2025). <em>Atención a la
+                    diversidad en la programación didáctica de
+                    FP</em>.<br />
+                    <a
+                    href="https://www.econosublime.com/2023/05/atencion-la-diversidad-en-la.html">Artículo
+                    actualizado Octubre 2025</a></li>
+                    <li>Ministerio de Trabajo y Economía Social.
+                    <em>Catálogo de certificados de profesionalidad y
+                    familias profesionales</em>.<br />
+                    <a
+                    href="https://www.sepe.es/contenidos/personas/formacion/certificados_de_profesionalidad/familias_profesionales.html">SEPE
+                    - Certificados de profesionalidad</a></li>
+                    <li>Todofp: <em>Normativa, títulos y familias
+                    profesionales</em>.<br />
+                    <a
+                    href="https://www.todofp.es/todofp/que-como-y-donde-estudiar/que-estudiar/familias/titulosloe.html">Familias
+                    profesionales, LOE</a><br />
+                    <a
+                    href="https://ceice.gva.es/es/web/formacion-professional/normativa-sobre-ordenacion-y-organizacion-academica-de-los-ciclos-formativos">Normativa
+                    sobre ordenación y organización académica</a></li>
+                    <li>Generalitat Valenciana. <em>Formación
+                    Profesional y normativa autonómica</em>.<br />
+                    <a
+                    href="https://ceice.gva.es/es/web/formacion-profesional">Página
+                    oficial FP Comunitat Valenciana</a></li>
+                    <li><a
+                    href="https://www.boe.es/eli/es/rd/2023/03/21/659">Real
+                    Decreto 659/2023 desarrollo FP</a><br />
+                    </li>
+                    <li><a
+                    href="https://www.grupo2000.es/se-publica-en-el-boe-la-nueva-ley-de-la-formacion-profesional/">Noticias
+                    nueva Ley FP</a><br />
+                    </li>
+                    <li><a
+                    href="https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16889">Gobierno
+                    de España. (2023). <em>Real Decreto 659/2023, de 18
+                    de julio, por el que se desarrolla la ordenación del
+                    Sistema de Formación Profesional.</em> Boletín
+                    Oficial del Estado, nº 172, 22 de julio de
+                    2023.</a></li>
+                    <li><a
+                    href="https://dogv.gva.es/datos/2025/08/04/pdf/2025_29742_es.pdf">Generalitat
+                    Valenciana. (2025). <em>Decreto 114/2025, de 29 de
+                    julio, del Consell, por el que se establecen los
+                    currículos de los ciclos formativos de grado medio y
+                    superior de Formación Profesional en la Comunitat
+                    Valenciana.</em> Diari Oficial de la Generalitat
+                    Valenciana, nº 10165, 4 de agosto de 2025.</a></li>
+                    <li><a
+                    href="https://todofp.es/que-estudiar/familias-profesionales/transporte-mantenimiento-vehiculos.html">Ministerio
+                    de Educación y Formación Profesional. (2025).
+                    <em>Catálogo Nacional de Cualificaciones
+                    Profesionales – Familia Profesional de Transporte y
+                    Mantenimiento de Vehículos.</em> Madrid: Ministerio
+                    de Educación.</a></li>
+                    <li><a
+                    href="https://www.boe.es/buscar/doc.php?id=BOE-A-2022-4970">Ley
+                    Orgánica 3/2022, de 31 de marzo, de ordenación e
+                    integración de la Formación Profesional. <em>Boletín
+                    Oficial del Estado</em>, nº 77, 31 de marzo de
+                    2022.</a></li>
+                    <li><a
+                    href="https://www.boe.es/buscar/doc.php?id=BOE-A-2006-7899">Ley
+                    Orgánica 2/2006, de 3 de mayo, de Educación (LOE).
+                    <em>Boletín Oficial del Estado</em>, nº 106, 4 de
+                    mayo de 2006.</a></li>
+                    <li><a
+                    href="https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-6699">Gobierno
+                    de España. (2025). <em>Real Decreto 209/2025, de 18
+                    de marzo, por el que se regulan aspectos específicos
+                    de los grados A, B y C de Formación Profesional para
+                    la familia profesional de Instalación y
+                    Mantenimiento</em>. Boletín Oficial del Estado, nº
+                    69, 22 de abril de 2025.</a></li>
+                    <li><a
+                    href="https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7040">Gobierno
+                    de España. (2025). <em>Real Decreto 208/2025, de 18
+                    de marzo, por el que se regulan aspectos específicos
+                    de los grados A, B y C de Formación Profesional para
+                    la familia profesional de Fabricación Mecánica</em>.
+                    Boletín Oficial del Estado, nº 74, 27 de abril de
+                    2025.</a></li>
+                    <li><em>Real Decreto 618/2013, de 2 de agosto, por
+                    el que se establecen cuatro certificados de
+                    profesionalidad de la familia profesional de
+                    Fabricación Mecánica y se actualizan otros</em>.
+                    Boletín Oficial del Estado, nº 188, 13 de septiembre
+                    de 2013.
+                    https://www.boe.es/diario_boe/txt.php?id=BOE-A-2013-9535</li>
+                    <li><em>Real Decreto 1216/2009, de 17 de julio, por
+                    el que se establecen los certificados de
+                    profesionalidad de la familia profesional de
+                    Instalación y Mantenimiento</em>. Boletín Oficial
+                    del Estado, nº 202, 20 de agosto de 2009.
+                    https://www.boe.es/diario_boe/txt.php?id=BOE-A-2009-13521</li>
+                    </ul>
+                </main>
+
+                
+            </div>
+        </div>
+
+        <!-- Modal images -->
+        <div id="myModal" class="modal" aria-hidden="true">
+            <img class="modal-content" id="img01" alt="">
+            <div id="caption"></div>
+        </div>
+
+    </div>
+
+    <script>
+        /* Modalización de imágenes (mejorada): */
+        function ModalizeImages() {
+            var modal = document.getElementById("myModal");
+            var modalImg = document.getElementById("img01");
+            var captionText = document.getElementById("caption");
+
+            document.querySelectorAll("main img").forEach(img => {
+                img.style.cursor = "zoom-in";
+                img.addEventListener("click", function () {
+                    modal.style.display = "block";
+                    modal.setAttribute("aria-hidden","false");
+                    modalImg.src = this.src;
+                    modalImg.alt = this.alt || "";
+                    captionText.textContent = this.alt || "";
+                });
+            });
+
+            modal.addEventListener("click", function () {
+                modal.style.display = "none";
+                modal.setAttribute("aria-hidden","true");
+            });
+
+            // Escape para cerrar
+            document.addEventListener("keydown", function(e){
+                if(e.key === "Escape") {
+                    modal.style.display = "none";
+                    modal.setAttribute("aria-hidden","true");
+                }
+            });
+        }
+
+        /* Marcar item de TOC según sección visible */
+        function markItem(id) {
+            document.querySelectorAll("#TOC a").forEach(function(item) {
+                item.classList.remove("navItemSelected");
+            });
+
+            if (!id) return;
+            let items = document.querySelectorAll("#TOC a[href='#" + id + "']");
+            items.forEach(function(item) {
+                item.classList.add("navItemSelected");
+            });
+        }
+
+        /* Observer para resaltar sección activa */
+        var observer = new IntersectionObserver(function(entries) {
+            entries.forEach(function(entry){
+                if (entry.isIntersecting) {
+                    let id = entry.target.id;
+                    markItem(id);
+                }
+            });
+        }, { threshold: [0.25] });
+
+        window.addEventListener("load", function() {
+            document.querySelectorAll("main section[id], main h1[id], main h2[id], main h3[id]").forEach(function(item) {
+                observer.observe(item);
+            });
+
+            document.querySelectorAll("#TOC a").forEach(function(item) {
+                item.addEventListener("click", function(ev) {
+                    // Cuando se hace click en TOC, minimizar si el área es amplia (comportamiento previo)
+                    let toc = document.querySelector("#TOC");
+                    //if (toc && toc.offsetWidth > 10) toc.classList.add("minimizedToc");
+                });
+            });
+
+            // Hover devuelve
+            // var tocEl = document.querySelector("#TOC");
+            // if (tocEl) {
+            //     tocEl.addEventListener("mouseover", function() { tocEl.classList.remove("minimizedToc"); });
+            // }
+
+            ModalizeImages();
+        });
+    </script>
+</body>
+
+</html>

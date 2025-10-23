@@ -1,0 +1,1526 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es" >
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="generator" content="pandoc" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+                <meta name="keywords" content="Xarxa, Instal·lació" />         <title>CERTIFICADO OFICIAL DE FORMACIÓN PEDAGÓGICA Y DIDÁCTICA PARA PROFESORADO TÉCNICO</title>
+
+    <!-- Fuente moderna -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+
+    <style>
+
+
+
+        /* Imagen fija en esquina como fondo decorativo.
+            Cambia la ruta en --corner-bg-url y ajusta tamaño/offset según convenga. */
+        :root {
+             --corner-bg-url: url("rsc/fondo.png"); /* <- reemplazar por la ruta de la imagen */
+             --corner-size: 460px;     /* tamaño del recuadro de la imagen (contain) */
+             --corner-opacity: 0.32;   /* opacidad para que no distraiga */
+             --corner-offset: 1.5rem;  /* separación respecto a los bordes */
+        }
+
+        /* Asegurar que el contenido esté por encima del decorado */
+        #content { position: relative; z-index: 1; }
+
+        /* Pseudo-elemento fijo en esquina (por defecto: esquina superior derecha) */
+        body::before {
+             content: "";
+             position: fixed;
+             bottom: var(--corner-offset);
+             right: var(--corner-offset);
+             width: var(--corner-size);
+             height: var(--corner-size);
+             background-image: var(--corner-bg-url);
+             background-repeat: no-repeat;
+             background-size: contain;
+             background-position: center;
+             opacity: var(--corner-opacity);
+             pointer-events: none; /* no interfiere con clicks */
+             z-index: 0;
+        }
+
+        /* Si quieres otra esquina, sustituye top/right por:
+            top/left  -> usar top:var(--corner-offset); left:var(--corner-offset);
+            bottom/right -> bottom:var(--corner-offset); right:var(--corner-offset);
+            bottom/left -> bottom:var(--corner-offset); left:var(--corner-offset);
+        */
+
+        /* No imprimir la imagen decorativa */
+        @media print {
+             body::before { display: none !important; }
+        }
+
+        :root{
+            --bg: linear-gradient(linear-gradient(to right, #87625a82 25%, #ea9a9a 250%));
+            --panel: rgba(255,255,255,0.6);
+            --accent: #2563eb;
+            --muted: #6b7280;
+            --text: #0f172a;
+            --radius: 12px;
+            --max-width: 1200px; /* ancho de contenido para márgenes amplios */
+            --gutter: 3rem;
+        }
+
+        /* Reset básico */
+        html,body{height:100%;margin:0;padding:0;font-family:"Inter",system-ui,-apple-system,Segoe UI,Roboto,"Helvetica Neue",Arial;}
+        body{
+            background: var(--bg);
+            color: var(--text);
+            -webkit-font-smoothing:antialiased;
+            -moz-osx-font-smoothing:grayscale;
+            line-height:1.5;
+        }
+
+        #content{
+            box-sizing:border-box;
+            max-width: calc(var(--max-width) + 2 * var(--gutter));
+            margin: var(--gutter) auto;
+            padding: var(--gutter);
+            background: transparent;
+        }
+
+        /* Diseño de dos columnas en pantallas grandes */
+        .layout {
+            display: grid;
+            grid-template-columns: 320px 1fr;
+            gap: 2rem;
+            align-items:start;
+        }
+
+        @media (max-width: 980px){
+            .layout { grid-template-columns: 1fr; }
+        }
+
+        nav#TOC {
+            position: sticky;
+            top: 2rem;
+            height: calc(100vh - 4rem);
+            overflow:auto;
+            background: linear-gradient(180deg, rgba(255,255,255,0.6), rgba(255,255,255,0.4));
+            border-radius: var(--radius);
+            padding: 1rem;
+            box-shadow: 0 6px 18px rgba(12,18,31,0.06);
+            font-size: 0.95rem;
+        }
+
+        nav#TOC h2 { margin:0 0 0.75rem 0; font-size:1rem; color:var(--muted); }
+
+        nav#TOC a {
+            display:block;
+            color:var(--text);
+            text-decoration:none;
+            padding:0.35rem 0.5rem;
+            border-radius:8px;
+            transition: background .15s, transform .08s;
+        }
+        nav#TOC a:hover { background: rgba(37,99,235,0.06); transform: translateX(4px); }
+        nav#TOC a.navItemSelected { background: var(--accent); color: white; font-weight:600; }
+
+        header#title-block-header{
+            background: var(--panel);
+            padding: 1.2rem 1.4rem;
+            border-radius: 12px;
+            box-shadow: 0 8px 28px rgba(12,18,31,0.06);
+            margin-bottom: 1rem;
+        }
+        header#title-block-header .title { margin:0; font-size:1.6rem; font-weight:700; }
+        header#title-block-header .date { color:var(--muted); margin-top:0.35rem; font-size:0.95rem; }
+
+        main {
+            background: var(--panel);
+            padding: 1.6rem;
+            border-radius: 12px;
+            box-shadow: 0 8px 28px rgba(12,18,31,0.06);
+        }
+
+        main h1, main h2, main h3 {
+            color:var(--text);
+            margin-top:1.2rem;
+            margin-bottom:0.5rem;
+        }
+        main p, main ul, main ol {
+            color: #1f2937;
+            margin-bottom: 1rem;
+        }
+
+        /* Imágenes con borde suave y cursor */
+        main img {
+            max-width:100%;
+            border-radius:8px;
+            box-shadow: 0 6px 18px rgba(12,18,31,0.06);
+            cursor:zoom-in;
+        }
+
+        /* Suavizar redimensionado de main (crecer/encoger con transición) */
+        main {
+            transition: width .36s cubic-bezier(.2,.8,.2,1),
+                        max-width .36s cubic-bezier(.2,.8,.2,1),
+                        padding .24s ease,
+                        box-shadow .24s ease;
+            will-change: width, max-width, padding, box-shadow;
+        }
+
+        /* Suavizar cambios en la barra lateral (cuando se minimiza) */
+        nav#TOC {
+            transition: width .36s cubic-bezier(.2,.8,.2,1),
+                        transform .24s ease,
+                        background-color .24s ease;
+            will-change: width, transform;
+        }
+
+        /* Si el layout cambia a una sola columna, mantener la transición visual */
+        .layout {
+            transition: grid-template-columns .36s cubic-bezier(.2,.8,.2,1), gap .24s ease;
+            will-change: gap;
+        }
+
+        /* Opcional: evitar repintados pesados al hacer zoom en imágenes */
+        main img {
+            transition: transform .18s ease, box-shadow .18s ease;
+            will-change: transform, box-shadow;
+        }
+
+        /* Modal (mejorado visualmente) */
+        .modal {
+            display:none;
+            position:fixed;
+            z-index:9999;
+            padding-top:6vh;
+            left:0;top:0;width:100%;height:100%;
+            background: rgba(7,11,24,0.85);
+        }
+        .modal-content {
+            margin:auto;
+            display:block;
+            max-width:90%;
+            max-height:80vh;
+            border-radius:10px;
+            box-shadow: 0 18px 40px rgba(0,0,0,0.6);
+        }
+        #caption { color:#e6eefc; text-align:center; padding:0.8rem 1rem; font-size:0.95rem; }
+
+        /* TOC minimizado (cuando se hace clic) */
+        .minimizedToc { width: 48px !important; overflow:hidden; white-space:nowrap; }
+
+        /* Espacio extra para lecturas con márgenes amplios */
+        .spaced { padding: 1rem 1.25rem; }
+
+        /* -------------------------
+           IMPRESIÓN Y SALTO DE PÁGINA
+           ------------------------- */
+        @media print {
+            body { background: white; color: black; }
+            nav#TOC { display:none !important; }
+            #content { margin:0; padding:0; max-width: none; box-shadow:none; }
+            header#title-block-header, main { box-shadow:none; background: white; border-radius:0; padding:0; }
+
+            /* Forzar que cada sección mayor comience en una nueva página */
+            /* Pandoc suele envolver secciones en <section>, y/o usar h1/h2 como separadores */
+            main > section, main > div.section, main > h1, main > h2 {
+                break-before: page;
+                page-break-before: always;
+            }
+            /* Evitar salto antes de la primera sección */
+            main > section:first-child, main > div.section:first-child, main > h1:first-of-type, main > h2:first-of-type {
+                break-before: auto;
+                page-break-before: auto;
+            }
+
+            img { max-width: 100%; height: auto; page-break-inside: avoid; }
+            a[href]:after { content: " (" attr(href) ")"; font-size: 90%; }
+        }
+
+
+    /* Requadres amb notes, etc */
+
+    div.note,
+    div.tip,
+    div.warning,
+    div.caution,
+    div.important {
+        padding: 1em;
+        margin: 1em 0em 1em 5em;
+        border-radius: 3px;
+    }
+
+    div.note::before,
+    div.tip::before,
+    div.warning::before,
+    div.caution::before,
+    div.important::before {
+        position: relative;
+        left: -4em;
+        top: 3em;
+        margin-top: -3em;
+        height: 50px;
+        display: block;
+        padding-top: 0.5em;
+        font-size: x-large;
+        font-weight: bold;
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
+
+    div.note {
+        border-left: 3px solid #26c6da;
+    }
+
+    div.note::before {
+        background-image: url(rsc/note.svg);
+        content: "";
+        width: auto;
+    }
+
+    div.tip {
+        border-left: 3px solid #7cb342;
+        /* degradado animado entre verde claro y azul claro */
+        background: linear-gradient(90deg, rgba(124,179,66,0.12) 0%, rgba(96,165,250,0.12) 50%, rgba(124,179,66,0.12) 100%);
+        background-size: 200% 200%;
+        animation: pulseBG 6s ease-in-out infinite;
+        transition: box-shadow .2s, transform .15s;
+    }
+
+    @keyframes pulseBG {
+        0%   { background-position: 0% 50%; }
+        50%  { background-position: 100% 50%; }
+        100% { background-position: 0% 50%; }
+    }
+
+    /* Respectar preferencia de reducir movimiento */
+    @media (prefers-reduced-motion: reduce) {
+        div.tip {
+            animation: none;
+            background: rgba(124,179,66,0.06);
+        }
+    }
+
+    div.tip::before {
+        background-image: url(rsc/tip.svg);
+        content: "";
+        width: auto;
+    }
+
+    div.warning {
+        border-left: 3px solid #fb8c00
+    }
+
+    div.warning::before {
+        background-image: url(rsc/warning.svg);
+        content: "";
+        width: auto;
+    }
+
+    div.caution {
+        border-left: 3px solid #b71c1c;
+    }
+
+    div.caution::before {
+        background-image: url(rsc/caution.svg);
+        content: "";
+        width: auto;
+    }
+
+    div.important {
+        border-left: 3px solid #f9ce1d;
+    }
+
+    div.important::before {
+        background-image: url(rsc/important.svg);
+        content: "";
+        width: auto;
+    }
+
+    figure {
+        text-align: center;
+
+    }
+
+    figcaption {
+        font-size: 0.9em;
+        color: #555;
+        margin-top: 0.3em;
+    }
+
+    </style>
+
+        <link rel="stylesheet" href="" />     
+    <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+    <![endif]-->
+                          
+</head>
+
+
+
+
+<body>
+    <div id="content">
+        <div class="layout">
+            
+
+                        <nav id="TOC" role="doc-toc">
+                <div class="navContainer">
+                                        <h2 id="toc-title">Continguts</h2>
+                                        <ul>
+                                        <li><a href="#introducción"
+                                        id="toc-introducción"><span
+                                        class="toc-section-number">1</span>
+                                        INTRODUCCIÓN</a></li>
+                                        <li><a
+                                        href="#modalidades-de-la-formación-profesional"
+                                        id="toc-modalidades-de-la-formación-profesional"><span
+                                        class="toc-section-number">2</span>
+                                        MODALIDADES DE LA FORMACIÓN
+                                        PROFESIONAL</a>
+                                        <ul>
+                                        <li><a
+                                        href="#tipología-de-ofertas-según-grados"
+                                        id="toc-tipología-de-ofertas-según-grados"><span
+                                        class="toc-section-number">2.1</span>
+                                        Tipología de ofertas según
+                                        grados</a></li>
+                                        <li><a
+                                        href="#modalidades-de-la-oferta-de-formación"
+                                        id="toc-modalidades-de-la-oferta-de-formación"><span
+                                        class="toc-section-number">2.2</span>
+                                        Modalidades de la oferta de
+                                        formación</a></li>
+                                        </ul></li>
+                                        <li><a
+                                        href="#niveles-formativos"
+                                        id="toc-niveles-formativos"><span
+                                        class="toc-section-number">3</span>
+                                        Niveles formativos</a>
+                                        <ul>
+                                        <li><a href="#grados"
+                                        id="toc-grados"><span
+                                        class="toc-section-number">3.1</span>
+                                        Grados</a>
+                                        <ul>
+                                        <li><a href="#grado-básico"
+                                        id="toc-grado-básico"><span
+                                        class="toc-section-number">3.1.1</span>
+                                        Grado Básico</a></li>
+                                        <li><a href="#grado-medio"
+                                        id="toc-grado-medio"><span
+                                        class="toc-section-number">3.1.2</span>
+                                        Grado Medio</a></li>
+                                        <li><a href="#grado-superior"
+                                        id="toc-grado-superior"><span
+                                        class="toc-section-number">3.1.3</span>
+                                        Grado Superior</a></li>
+                                        </ul></li>
+                                        <li><a
+                                        href="#acceso-a-los-ciclos-formativos"
+                                        id="toc-acceso-a-los-ciclos-formativos"><span
+                                        class="toc-section-number">3.2</span>
+                                        Acceso a los ciclos
+                                        formativos</a></li>
+                                        </ul></li>
+                                        <li><a
+                                        href="#distribución-horaria-ciclos-y-módulos-formativos"
+                                        id="toc-distribución-horaria-ciclos-y-módulos-formativos"><span
+                                        class="toc-section-number">4</span>
+                                        DISTRIBUCIÓN HORARIA CICLOS Y
+                                        MÓDULOS FORMATIVOS</a>
+                                        <ul>
+                                        <li><a
+                                        href="#módulos-profesionales-y-titulaciones-académicas-requeridas-para-su-impartición"
+                                        id="toc-módulos-profesionales-y-titulaciones-académicas-requeridas-para-su-impartición"><span
+                                        class="toc-section-number">4.1</span>
+                                        MÓDULOS PROFESIONALES Y
+                                        TITULACIONES ACADÉMICAS
+                                        REQUERIDAS PARA SU
+                                        IMPARTICIÓN</a></li>
+                                        </ul></li>
+                                        <li><a
+                                        href="#actividades-físicas-y-deportivas"
+                                        id="toc-actividades-físicas-y-deportivas"><span
+                                        class="toc-section-number">5</span>
+                                        ACTIVIDADES FÍSICAS Y
+                                        DEPORTIVAS</a>
+                                        <ul>
+                                        <li><a
+                                        href="#la-familia-profesional"
+                                        id="toc-la-familia-profesional"><span
+                                        class="toc-section-number">5.1</span>
+                                        LA FAMILIA PROFESIONAL </a></li>
+                                        <li><a href="#oferta-formativa"
+                                        id="toc-oferta-formativa"><span
+                                        class="toc-section-number">5.2</span>
+                                        OFERTA FORMATIVA </a></li>
+                                        <li><a
+                                        href="#reales-decretos-de-título-y-currículo"
+                                        id="toc-reales-decretos-de-título-y-currículo"><span
+                                        class="toc-section-number">5.3</span>
+                                        REALES DECRETOS DE TÍTULO Y
+                                        CURRÍCULO</a>
+                                        <ul>
+                                        <li><a href="#fp-básica"
+                                        id="toc-fp-básica"><span
+                                        class="toc-section-number">5.3.1</span>
+                                        FP BÁSICA </a></li>
+                                        <li><a href="#grado-medio-1"
+                                        id="toc-grado-medio-1"><span
+                                        class="toc-section-number">5.3.2</span>
+                                        GRADO MEDIO </a></li>
+                                        </ul></li>
+                                        <li><a href="#grado-superior-1"
+                                        id="toc-grado-superior-1"><span
+                                        class="toc-section-number">5.4</span>
+                                        GRADO SUPERIOR </a></li>
+                                        <li><a
+                                        href="#instalaciones-y-espacios-en-los-centros-educativos"
+                                        id="toc-instalaciones-y-espacios-en-los-centros-educativos"><span
+                                        class="toc-section-number">5.5</span>
+                                        INSTALACIONES Y ESPACIOS EN LOS
+                                        CENTROS EDUCATIVOS </a></li>
+                                        <li><a
+                                        href="#entorno-profesional"
+                                        id="toc-entorno-profesional"><span
+                                        class="toc-section-number">5.6</span>
+                                        ENTORNO PROFESIONAL </a></li>
+                                        </ul></li>
+                                        <li><a href="#bibliografía"
+                                        id="toc-bibliografía"><span
+                                        class="toc-section-number">6</span>
+                                        Bibliografía</a></li>
+                                        </ul>
+                </div>
+            </nav>
+            
+            <div style="min-width:0;">
+                                <header id="title-block-header">
+                    <h1 class="title">CERTIFICADO OFICIAL DE FORMACIÓN
+PEDAGÓGICA Y DIDÁCTICA PARA PROFESORADO TÉCNICO</h1>
+                                                        </header>
+                
+                <main class="spaced">
+                    <h1 data-number="1" id="introducción"><span
+                    class="header-section-number">1</span>
+                    INTRODUCCIÓN</h1>
+                    <p>La Formación Profesional constituye en la
+                    actualidad un elemento vertebrador del sistema
+                    educativo y de empleo en España, situándose en el
+                    centro de las políticas activas de aprendizaje a lo
+                    largo de la vida. Bajo el marco normativo
+                    establecido por la Ley Orgánica 3/2022 y su
+                    desarrollo reglamentario en el RD 659/2023, se
+                    configura un <strong>sistema unificado y
+                    flexible</strong>, capaz de responder a las
+                    necesidades cambiantes del entorno social y
+                    productivo.</p>
+                    <p>Desde la perspectiva docente, este modelo implica
+                    un cambio significativo en la concepción de la
+                    enseñanza-aprendizaje. La Formación Profesional ya
+                    no se limita únicamente a la transmisión de
+                    conocimientos técnicos, sino que se articula en
+                    torno a la <strong>adquisición, integración y
+                    transferencia de competencias
+                    profesionales</strong>, entendidas como el conjunto
+                    de conocimientos, destrezas, habilidades, actitudes
+                    y valores necesarios para el ejercicio cualificado
+                    de una actividad profesional, en contextos reales y
+                    diversos.</p>
+                    <p>El nuevo sistema sitúa la competencia profesional
+                    como eje estructurador de toda la acción
+                    formativa.</p>
+                    <p>Además, el modelo fomenta una fuerte vinculación
+                    con el entorno productivo mediante la formación en
+                    entornos reales de trabajo, el desarrollo de
+                    proyectos colaborativos con empresas, la formación
+                    dual y la evaluación de competencias adquiridas por
+                    vías no formales o informales. En este sentido, la
+                    labor docente requiere un enfoque metodológico
+                    activo y adaptativo, centrado en el desarrollo
+                    integral del alumnado y orientado a su
+                    empleabilidad, a su itinerario formativo y a su
+                    crecimiento profesional y personal.</p>
+                    <p>La Formación Profesional comprende distintos
+                    grados de estudios —tanto en régimen inicial como
+                    para la formación continua o de personas
+                    trabajadoras—, con una organización modular,
+                    articulada a través de oferta formativa ajustada al
+                    catálogo de competencias profesionales. En este
+                    sentido, el sistema se integra en el Catálogo
+                    Modular de Formación Profesional y otros
+                    instrumentos de acreditación que permiten reconocer
+                    competencias adquiridas por vías formales, no
+                    formales o informales, según lo regulado en el Real
+                    Decreto 659/2023 (Titular VI).</p>
+                    <p>Así mismo, el sistema normativo contempla que el
+                    currículo, los procedimientos de evaluación, los
+                    espacios de formación, los centros y los procesos de
+                    acreditación se adapten a los estándares
+                    profesionales vigentes, lo que favorece el
+                    desarrollo profesional y social del alumnado, así
+                    como una mejor respuesta a las exigencias del mundo
+                    productivo.</p>
+                    <h1 data-number="2"
+                    id="modalidades-de-la-formación-profesional"><span
+                    class="header-section-number">2</span> MODALIDADES
+                    DE LA FORMACIÓN PROFESIONAL</h1>
+                    <p>En el marco del Real Decreto 659/2023, la
+                    Formación Profesional se organiza mediante distintos
+                    grados (A, B, C, D y E) y modalidades que permiten
+                    una mayor accesibilidad, flexibilidad y adecuación a
+                    las trayectorias personales y profesionales.</p>
+                    <p>Entre las modalidades destacan:</p>
+                    <ul>
+                    <li><p>La modalidad <strong>modular</strong> para
+                    los Grados C, D y E, que permite cursar uno o varios
+                    módulos profesionales según el ritmo personal de
+                    aprendizaje y las necesidades de cualificación,
+                    adaptándose a personas adultas, en activo, o con
+                    experiencia laboral.</p></li>
+                    <li><p>La formación en alternancia con empresa
+                    (modalidades duales) y la oferta para personas
+                    trabajadoras o en transición profesional, de modo
+                    que se favorezca el aprendizaje en entornos reales
+                    de trabajo y la inserción laboral.</p></li>
+                    <li><p>La modalidad semipresencial o a distancia,
+                    especialmente para personas adultas, que
+                    compatibilizan formación con empleo o
+                    responsabilidades personales, mediante la
+                    combinación de actividades no presenciales y
+                    sesiones presenciales, así como recursos
+                    tecnológicos de apoyo (aunque la normativa estatal
+                    pone énfasis en modularización, flexibilidad y ritmo
+                    personalizado).</p></li>
+                    </ul>
+                    <h2 data-number="2.1"
+                    id="tipología-de-ofertas-según-grados"><span
+                    class="header-section-number">2.1</span> Tipología
+                    de ofertas según grados</h2>
+                    <p>El RD 659/2023 organiza las ofertas del sistema
+                    de FP en <strong>cinco grados</strong> (A, B, C, D
+                    y E), lo cual estructura de manera clara todo el
+                    sistema</p>
+                    <ul>
+                    <li><p>Grado A: Acreditación parcial de
+                    competencias.</p></li>
+                    <li><p>Grado B: Certificado de competencia.</p></li>
+                    <li><p>Grado C: Certificado profesional.</p></li>
+                    <li><p>Grado D: Ciclo formativo (Grado
+                    Básico/Medio/Superior).</p></li>
+                    <li><p>Grado E: Cursos de especialización.<br />
+                    Este enfoque remarca que no solamente hay ciclos
+                    básicos/media/superior como antes, sino una
+                    tipología mucho más amplia para itinerarios
+                    modulares, acumulativos y flexibles.</p></li>
+                    </ul>
+                    <h2 data-number="2.2"
+                    id="modalidades-de-la-oferta-de-formación"><span
+                    class="header-section-number">2.2</span> Modalidades
+                    de la oferta de formación</h2>
+                    <p>El sistema de Formación Profesional en España, de
+                    acuerdo con lo establecido en el <strong>Real
+                    Decreto 659/2023</strong>, por el que se ordena el
+                    sistema de Formación Profesional, y recogido a nivel
+                    autonómico en el <strong>Decreto 114/2025</strong>
+                    (Comunitat Valenciana), reconoce <strong>tres
+                    modalidades de oferta</strong> para los ciclos
+                    formativos: <strong>presencial, semipresencial y
+                    virtual (a distancia)</strong>.</p>
+                    <p>Estas modalidades responden a la necesidad de
+                    ofrecer una formación <strong>flexible, accesible y
+                    adaptada a distintos perfiles del alumnado</strong>,
+                    así como a las condiciones del entorno
+                    socioeconómico y productivo.</p>
+                    <p><strong>Modalidad Presencial</strong></p>
+                    <p>Es la forma tradicional de enseñanza, en la que
+                    el alumnado acude físicamente al centro educativo
+                    para realizar la formación teórica y práctica.</p>
+                    <p><strong>Características principales:</strong></p>
+                    <ul>
+                    <li><p><strong>Asistencia regular al aula</strong>:
+                    Requiere la presencia habitual del alumnado en el
+                    centro, según un horario establecido.</p></li>
+                    <li><p><strong>Interacción directa</strong>:
+                    Favorece la comunicación cara a cara entre alumnado
+                    y profesorado.</p></li>
+                    <li><p><strong>Entornos simulados o reales</strong>:
+                    Uso intensivo de talleres, laboratorios y espacios
+                    específicos del ciclo.</p></li>
+                    <li><p><strong>Evaluación continua</strong>: Mayor
+                    facilidad para aplicar una evaluación formativa y
+                    ajustada al ritmo del grupo.</p></li>
+                    </ul>
+                    <p><strong>Modalidad Semipresencial</strong></p>
+                    <p>Combina la asistencia al centro educativo con
+                    actividades formativas desarrolladas de forma
+                    virtual, utilizando plataformas de aprendizaje en
+                    línea.</p>
+                    <p><strong>Características principales:</strong></p>
+                    <ul>
+                    <li><p><strong>Flexibilidad horaria</strong>:
+                    Permite al alumnado organizar parte de su formación
+                    según su disponibilidad.</p></li>
+                    <li><p><strong>Parte presencial
+                    obligatoria</strong>: Se definen módulos o partes de
+                    módulos que requieren asistencia (por ejemplo,
+                    prácticas de taller).</p></li>
+                    <li><p><strong>Uso de entornos virtuales</strong>:
+                    Empleo de plataformas LMS (como Aules, Moodle, etc.)
+                    para contenidos, tareas y seguimiento.</p></li>
+                    <li><p><strong>Tutorías presenciales y
+                    virtuales</strong>: Seguimiento combinado por parte
+                    del profesorado.</p></li>
+                    </ul>
+                    <p><strong>Modalidad Virtual (o a
+                    Distancia)</strong></p>
+                    <p>La totalidad del ciclo formativo se desarrolla
+                    mediante plataformas digitales, sin exigencia de
+                    presencialidad salvo en momentos específicos (por
+                    ejemplo, exámenes o FCT si no se convalida).</p>
+                    <p><strong>Características principales:</strong></p>
+                    <ul>
+                    <li><p><strong>Autonomía del alumnado</strong>: El
+                    aprendizaje se organiza de forma autónoma,
+                    respetando los tiempos establecidos por el
+                    centro.</p></li>
+                    <li><p><strong>Sin presencialidad habitual</strong>:
+                    Aunque pueden fijarse sesiones presenciales
+                    voluntarias o puntuales (evaluaciones finales,
+                    prácticas concretas…).</p></li>
+                    <li><p><strong>Plataformas de aprendizaje</strong>:
+                    El entorno virtual es el espacio central del
+                    aprendizaje (contenidos, comunicación,
+                    evaluación).</p></li>
+                    <li><p><strong>Perfil adulto</strong>: Muy orientada
+                    a personas trabajadoras, con responsabilidades
+                    familiares o que no pueden acudir regularmente a un
+                    centro.</p></li>
+                    </ul>
+                    <p>En todas las modalidades, se asegura el
+                    cumplimiento de los resultados de aprendizaje y la
+                    adquisición de las competencias profesionales
+                    recogidas en el currículo oficial.</p>
+                    <h1 data-number="3" id="niveles-formativos"><span
+                    class="header-section-number">3</span> Niveles
+                    formativos</h1>
+                    <p>La Formación Profesional se estructura en
+                    diferentes niveles de cualificación profesional,
+                    definidos en el <strong>Catálogo de Estándares de
+                    Competencia</strong>, que sirve como eje vertebrador
+                    para toda la oferta formativa del sistema.</p>
+                    <p><strong>Independientemente de la modalidad en la
+                    que se imparta</strong> (presencial, semipresencial
+                    o virtual), la oferta de Formación Profesional se
+                    organiza en <strong>tres niveles: básico, medio y
+                    superior</strong>, agrupados bajo la denominación de
+                    <strong>Grados D</strong>.</p>
+                    <p>Esta clasificación responde a distintos grados de
+                    dominio competencial, itinerarios formativos y
+                    salidas tanto profesionales como académicas. A
+                    continuación, se desarrollan las características de
+                    cada uno de estos niveles:</p>
+                    <h2 data-number="3.1" id="grados"><span
+                    class="header-section-number">3.1</span> Grados</h2>
+                    <h3 data-number="3.1.1" id="grado-básico"><span
+                    class="header-section-number">3.1.1</span> Grado
+                    Básico</h3>
+                    <p><strong>Nivel 1 del Catálogo de Estándares de
+                    Competencia</strong></p>
+                    <p>Los ciclos de Grado Básico están dirigidos a
+                    alumnado que necesita una vía alternativa a la
+                    educación secundaria obligatoria convencional, y que
+                    requiere de un enfoque más práctico y adaptado a sus
+                    necesidades formativas. Su finalidad es
+                    <strong>favorecer la permanencia en el sistema
+                    educativo</strong>, reducir el abandono escolar
+                    temprano y facilitar la transición al empleo.</p>
+                    <p><strong>Características principales:</strong></p>
+                    <ul>
+                    <li><p>Forman parte de la <strong>educación básica
+                    obligatoria</strong>.</p></li>
+                    <li><p>Ofrecen una <strong>formación general
+                    adaptada</strong> y una iniciación profesional en un
+                    perfil ocupacional.</p></li>
+                    <li><p>Permiten obtener el <strong>Título
+                    Profesional Básico</strong>, con efectos académicos
+                    y laborales.</p></li>
+                    <li><p>Facilitan el acceso directo a ciclos de
+                    <strong>Grado Medio</strong> de la misma familia
+                    profesional.</p></li>
+                    <li><p>Tienen una duración es de dos
+                    cursos.</p></li>
+                    <li><p>Requieren haber cursado al menos 3.º de ESO
+                    o, de forma excepcional, 2.º, y contar con
+                    <strong>propuesta del equipo
+                    docente</strong>.</p></li>
+                    <li><p>Se contempla en módulo de Formación en
+                    Empresa con sus características
+                    particulares</p></li>
+                    </ul>
+                    <p><strong>Ordenación de los Ciclos de grado
+                    básico</strong></p>
+                    <p>Constará de tres ámbitos y Proyecto:</p>
+                    <ol type="a">
+                    <li><p>Ámbito de comunicación y Ciencias
+                    Sociales</p></li>
+                    <li><p>Ámbito de Ciencias Aplicadas</p></li>
+                    <li><p>Ámbito Profesional</p></li>
+                    <li><p>Proyecto intermodular de aprendizaje
+                    colaborativo vinculado a los tres ámbitos.</p></li>
+                    </ol>
+                    <h3 data-number="3.1.2" id="grado-medio"><span
+                    class="header-section-number">3.1.2</span> Grado
+                    Medio</h3>
+                    <p><strong>Nivel 2 del Catálogo de Estándares de
+                    Competencia</strong></p>
+                    <p>Los ciclos de Grado Medio están dirigidos a
+                    alumnado que ha superado la Educación Secundaria
+                    Obligatoria o que ha obtenido el título de
+                    Profesional Básico. Estos ciclos proporcionan la
+                    <strong>cualificación necesaria para el desempeño de
+                    una profesión técnica</strong> en un entorno
+                    productivo concreto. Forman parte de la educación
+                    secundaria postobligatoria.</p>
+                    <p><strong>Características principales:</strong></p>
+                    <ul>
+                    <li><p>Conducen a la obtención del <strong>Título de
+                    Técnico</strong>, con validez académica y
+                    profesional.</p></li>
+                    <li><p>Permiten el acceso directo a estudios de
+                    <strong>Grado Superior</strong>, una vez finalizado
+                    el ciclo.</p></li>
+                    <li><p>Se organizan en <strong>módulos
+                    profesionales</strong>, tanto teóricos como
+                    prácticos.</p></li>
+                    <li><p>Pueden impartirse en modalidad
+                    <strong>presencial, semipresencial o
+                    virtual</strong>.</p></li>
+                    <li><p>Su duración también es de dos
+                    cursos.</p></li>
+                    </ul>
+                    <h3 data-number="3.1.3" id="grado-superior"><span
+                    class="header-section-number">3.1.3</span> Grado
+                    Superior</h3>
+                    <p><strong>Nivel 3 del Catálogo de Estándares de
+                    Competencia</strong></p>
+                    <p>Los ciclos de Grado Superior están orientados a
+                    la <strong>especialización profesional
+                    avanzada</strong>, y capacitan al alumnado para
+                    desarrollar funciones de mayor complejidad técnica y
+                    de responsabilidad en el ámbito laboral. Forman
+                    parte de la educación superior.</p>
+                    <p><strong>Características principales:</strong></p>
+                    <ul>
+                    <li><p>Conducen al <strong>Título de Técnico
+                    Superior</strong>.</p></li>
+                    <li><p>Permiten el acceso a estudios universitarios,
+                    con posibilidad de reconocimiento de créditos
+                    ECTS.</p></li>
+                    <li><p>Incluyen formación en <strong>emprendimiento,
+                    digitalización, sostenibilidad</strong> y otros
+                    aspectos transversales.</p></li>
+                    <li><p>También incorporan el módulo de
+                    <strong>Formación en Empresa</strong></p></li>
+                    <li><p>Pueden ofrecerse en modalidad
+                    <strong>presencial, semipresencial o
+                    virtual</strong>, favoreciendo así la conciliación
+                    laboral y formativa.</p></li>
+                    <li><p>Su duración también es de dos
+                    cursos.</p></li>
+                    </ul>
+                    <p><strong>Ordenación de los Ciclos de grado medio y
+                    superior</strong></p>
+                    <ol type="a">
+                    <li><p>Una parte troncal obligatoria</p>
+                    <ol type="1">
+                    <li><p>Módulos Profesionales de Catálogo Modular de
+                    Formación Profesional.</p></li>
+                    <li><p>Módulos transversales</p>
+                    <ul>
+                    <li><p>Itinerario para la empleabilidad I y
+                    II</p></li>
+                    <li><p>Digitalización aplicada al sistema
+                    productivo</p></li>
+                    <li><p>Sostenibilidad aplicada al sistema
+                    productivo</p></li>
+                    <li><p>Inglés profesional</p></li>
+                    </ul></li>
+                    </ol></li>
+                    <li><p>Una parte de optativa integrada de un módulo
+                    de los que se ofrecerán en el centro educativo que
+                    tendrá duración anual y se cursará en segundo
+                    curso.</p></li>
+                    </ol>
+                    <h2 data-number="3.2"
+                    id="acceso-a-los-ciclos-formativos"><span
+                    class="header-section-number">3.2</span> Acceso a
+                    los ciclos formativos</h2>
+                    <p>El acceso a los Ciclos Formativos se regula por
+                    el Real Decreto 6523/2011, de 18 de julio</p>
+                    <p><strong>Acceso a ciclos de grado
+                    básico</strong></p>
+                    <ol type="1">
+                    <li><p>El acceso a los ciclos formativos de grado
+                    básico de los destinatarios del párrafo</p>
+                    <ol type="a">
+                    <li><p>del apartado 1 del artículo anterior
+                    requerirá, conforme al artículo 41.1 de la Ley
+                    Orgánica 2/2006, de 3 de mayo, de Educación, el
+                    cumplimiento simultáneo de los siguientes
+                    requisitos:</p></li>
+                    <li><p>Tener cumplidos quince años, o cumplirlos
+                    durante el año natural en curso.</p></li>
+                    <li><p>Haber cursado el tercer curso o,
+                    excepcionalmente y a criterio del equipo docente y
+                    el responsable de la orientación en el centro, el
+                    segundo curso de educación secundaria
+                    obligatoria.</p></li>
+                    <li><p>Ser objeto de propuesta o solicitar a
+                    petición propia, junto con los padres, madres o
+                    tutores legales, la incorporación a un ciclo
+                    formativo de grado básico, cuando el perfil
+                    vocacional del alumno o alumna así lo aconseje. Las
+                    administraciones educativas determinarán la
+                    intervención del alumnado, sus familias y los
+                    equipos o servicios de orientación en este
+                    proceso.</p></li>
+                    <li><p>En el supuesto de realización de ciclos
+                    formativos de grado básico en régimen intensivo, el
+                    alumno deberá tener cumplidos 16 años para poder
+                    acceder a la formación práctica en empresa por esta
+                    modalidad, al estar vinculada a la
+                    contratación.</p></li>
+                    </ol></li>
+                    </ol>
+                    <p><strong>Acceso a ciclos formativos de grado
+                    medio.</strong></p>
+                    <ol type="1">
+                    <li><p>Para el acceso a los ciclos formativos de
+                    grado medio se precisará el cumplimiento de uno de
+                    los siguientes requisitos:</p>
+                    <ol type="a">
+                    <li><p>Estar en posesión del título de graduado en
+                    Educación Secundaria Obligatoria.</p></li>
+                    <li><p>Estar en posesión del título de Técnico
+                    Básico o de Técnico.</p></li>
+                    <li><p>Haber superado una oferta formativa de Grado
+                    C incluida en el ciclo formativo.</p></li>
+                    <li><p>Haber superado un curso de formación
+                    específico preparatorio y gratuito para el acceso a
+                    ciclos formativos de grado medio en centros
+                    expresamente autorizados por la Administración
+                    educativa.</p></li>
+                    <li><p>Haber superado una prueba de acceso.</p></li>
+                    </ol></li>
+                    </ol>
+                    <p><strong>Acceso a ciclos formativos de grado
+                    superior.</strong></p>
+                    <ol type="1">
+                    <li><p>Para el acceso a los ciclos formativos de
+                    grado superior se precisará el cumplimiento de uno
+                    de los siguientes requisitos:</p>
+                    <ol type="a">
+                    <li><p>Poseer el título de Técnico de Grado Medio de
+                    Formación Profesional o el título de Técnico o
+                    Técnica de Artes Plásticas y Diseño.</p></li>
+                    <li><p>Poseer el título de Bachiller.</p></li>
+                    <li><p>Haber superado una oferta formativa de Grado
+                    C incluida en el ciclo formativo.</p></li>
+                    <li><p>Haber superado un curso de formación
+                    específico preparatorio y gratuito para el acceso a
+                    ciclos de grado superior en centros expresamente
+                    autorizados por la Administración
+                    educativa.</p></li>
+                    <li><p>Haber superado una prueba de acceso.</p></li>
+                    <li><p>Estar en posesión de un título de Técnico
+                    Superior de Formación Profesional o grado
+                    universitario.</p></li>
+                    </ol></li>
+                    </ol>
+                    <h1 data-number="4"
+                    id="distribución-horaria-ciclos-y-módulos-formativos"><span
+                    class="header-section-number">4</span> DISTRIBUCIÓN
+                    HORARIA CICLOS Y MÓDULOS FORMATIVOS</h1>
+                    <p>La distribución horaria de los ciclos formativos
+                    y de sus módulos profesionales viene establecida por
+                    el real decreto estatal que fija el currículo básico
+                    del título. En la Comunitat Valenciana, las
+                    administraciones educativas autonómicas pueden
+                    concretar y adaptar dicha distribución, de modo que
+                    responda a las necesidades y condiciones específicas
+                    del territorio.</p>
+                    <p>La duración de los ciclos formativos es de 2000
+                    horas que se distribuyen en los diferentes módulos
+                    formativos durante dos cursos escolares. Tanto el
+                    comienzo como la finalización del año académico se
+                    fija en un calendario escolar que viene publicado en
+                    una Resolución.</p>
+                    <p>A cada módulo formativo le corresponde una
+                    fijación horaria que se distribuye en horas
+                    semanales. Los días de la semana que se imparten
+                    estas horas son flexibles y vienen determinados por
+                    cada centro educativo. En los cuadros horarios se
+                    indica los módulos susceptibles de doblaje (DT) y
+                    también los módulos que pueden ser impartidos,
+                    indistintamente, por otro docente de otra
+                    especialidad.</p>
+                    <p>La secuenciación de los módulos y el horario de
+                    los diferentes ciclos de las Familias Profesionales
+                    están publicados en la web de Conselleria se pueden
+                    consultar el siguiente enlace:</p>
+                    <p><a
+                    href="https://ceice.gva.es/es/web/formacion-profesional/dossier-cicles">Dosier
+                    ciclos - Formación Profesional - Generalitat
+                    Valenciana</a></p>
+                    <h2 data-number="4.1"
+                    id="módulos-profesionales-y-titulaciones-académicas-requeridas-para-su-impartición"><span
+                    class="header-section-number">4.1</span> MÓDULOS
+                    PROFESIONALES Y TITULACIONES ACADÉMICAS REQUERIDAS
+                    PARA SU IMPARTICIÓN</h2>
+                    <p>La página web de <strong>Todo FP</strong> y el
+                    portal de la <strong>Conselleria d’Educació, Cultura
+                    i Esport</strong> en su sección de Formación
+                    Profesional constituyen una fuente viva y
+                    actualizada de información, imprescindible para
+                    todos los docentes. En estos espacios se dispone de
+                    toda la documentación y recursos necesarios para la
+                    elaboración y desarrollo de una programación
+                    didáctica adecuada y conforme a la normativa
+                    vigente.</p>
+                    <p>Es, por tanto, en estos portales donde debéis
+                    remitiros para consultar los diferentes módulos que
+                    conforman un ciclo formativo, así como para conocer
+                    la atribución docente correspondiente a cada uno de
+                    ellos.</p>
+                    <p>Los aspectos referentes al profesorado con
+                    atribución docente en los módulos profesionales de
+                    cada ciclo formativo, donde el profesorado técnico
+                    imparte docencia, están recogidos en los
+                    correspondientes reales decretos de título.
+                    Asimismo, estos decretos proporcionan información
+                    sobre los resultados de aprendizaje y los criterios
+                    de evaluación, que constituyen pilares fundamentales
+                    en nuestra programación didáctica.</p>
+                    <p>Es fundamental consultar los decretos y órdenes
+                    específicos de nuestra Comunidad Autónoma, ya que,
+                    como se ha señalado en apartados anteriores, estos
+                    concretan y detallan las instrucciones establecidas
+                    en los reales decretos de título correspondientes a
+                    cada ciclo formativo. Esta normativa autonómica
+                    ofrece directrices precisas sobre la organización,
+                    atribución docente y otros aspectos esenciales para
+                    el desarrollo de una programación didáctica conforme
+                    a las necesidades y características del sistema
+                    educativo valenciano.</p>
+                    <h1 data-number="5"
+                    id="actividades-físicas-y-deportivas"><span
+                    class="header-section-number">5</span> ACTIVIDADES
+                    FÍSICAS Y DEPORTIVAS</h1>
+                    <h2 data-number="5.1"
+                    id="la-familia-profesional"><span
+                    class="header-section-number">5.1</span> LA FAMILIA
+                    PROFESIONAL </h2>
+                    <p>La familia profesional de <strong>Actividades
+                    Físico-Deportivas</strong> abarca un conjunto de
+                    actividades orientadas a la <strong>promoción de la
+                    actividad física, el deporte, la salud y el ocio
+                    activo</strong>, a través de la planificación,
+                    organización y desarrollo de programas deportivos y
+                    recreativos para distintos grupos de población. Su
+                    ámbito de actuación se estructura en diversas áreas:
+                    la <strong>enseñanza y animación deportiva</strong>,
+                    la <strong>dirección y entrenamiento de equipos o
+                    deportistas</strong>, la <strong>gestión de
+                    instalaciones y eventos deportivos</strong> y la
+                    <strong>promoción de hábitos de vida
+                    saludables</strong> en diferentes contextos sociales
+                    y educativos. </p>
+                    <p>En la <strong>Comunitat Valenciana</strong>, esta
+                    familia profesional tiene una presencia destacada
+                    gracias a la amplia red de <strong>instalaciones
+                    deportivas, clubes, federaciones y empresas de
+                    servicios deportivos</strong>. El deporte y la
+                    actividad física representan un sector en
+                    crecimiento constante, vinculado tanto al
+                    rendimiento deportivo como al turismo activo y la
+                    salud. Ciudades como <strong>València, Alicante y
+                    Castelló</strong> cuentan con una gran concentración
+                    de entidades deportivas, así como con
+                    infraestructuras de primer nivel —como centros de
+                    alto rendimiento, complejos deportivos municipales y
+                    espacios naturales para la práctica de actividades
+                    al aire libre—. Además, la Comunitat Valenciana es
+                    sede de numerosos <strong>eventos deportivos
+                    nacionales e internacionales</strong>, que
+                    contribuyen al desarrollo económico y social del
+                    territorio. </p>
+                    <p>Esta sólida implantación del sector se refleja
+                    también en la <strong>oferta educativa</strong>, con
+                    <strong>ciclos formativos de Grado Medio y Grado
+                    Superior</strong> que se imparten en diferentes
+                    localidades de la región. Los principales títulos
+                    abarcan ámbitos como la <strong>enseñanza y
+                    animación sociodeportiva, la dirección técnica
+                    deportiva y el acondicionamiento físico</strong>, lo
+                    que permite formar profesionales versátiles y
+                    adaptados a las demandas del mercado. Además, la
+                    colaboración con <strong>ayuntamientos, federaciones
+                    y empresas del sector deportivo</strong> favorece
+                    una formación práctica y estrechamente vinculada a
+                    la realidad profesional. </p>
+                    <p>El sector de las actividades físico-deportivas ha
+                    experimentado en los últimos años una notable
+                    transformación impulsada por la
+                    <strong>digitalización, la innovación tecnológica y
+                    la conciencia sobre la salud y el
+                    bienestar</strong>. La incorporación de herramientas
+                    digitales para el entrenamiento, la monitorización
+                    del rendimiento, las aplicaciones de gestión
+                    deportiva o el auge de actividades al aire libre y
+                    sostenibles son algunos de los cambios más
+                    destacados. Estos avances han modificado los
+                    perfiles profesionales, que hoy demandan
+                    <strong>mayor competencia digital, habilidades
+                    comunicativas y capacidad para adaptar la práctica
+                    deportiva a distintos contextos y públicos</strong>.
+                    En este marco, la <strong>Formación
+                    Profesional</strong> se actualiza de forma continua,
+                    incorporando <strong>contenidos sobre nuevas
+                    metodologías de entrenamiento, seguridad, inclusión
+                    y salud</strong>, con el objetivo de garantizar una
+                    formación de calidad y ajustada a las necesidades
+                    del sector. </p>
+                    <h2 data-number="5.2" id="oferta-formativa"><span
+                    class="header-section-number">5.2</span> OFERTA
+                    FORMATIVA </h2>
+                    <p>Dentro de la familia profesional de Actividades
+                    físicas y deportivas se ofertan cuatro ciclos
+                    formativos. </p>
+                    <p><strong>TÍTULO DE FORMACIÓN PROFESIONAL
+                    BÁSICA</strong></p>
+                    <ul>
+                    <li>T.P.B. Acceso y conservación en instalaciones
+                    deportivas </li>
+                    </ul>
+                    <p><strong>TITULO DE FORMACIÓN PROFESIONAL DE GRADO
+                    MEDIO</strong></p>
+                    <ul>
+                    <li>T. Guía en el Medio Natural y de Tiempo
+                    Libre </li>
+                    </ul>
+                    <p><strong>TÍTULOS DE FORMACIÓN PROFESIONAL DE GRADO
+                    SUPERIOR</strong></p>
+                    <ul>
+                    <li><p>T.S Acondicionamiento Físico  </p></li>
+                    <li><p>T.S. Enseñanza y Animación
+                    Sociodeportiva </p></li>
+                    </ul>
+                    <h2 data-number="5.3"
+                    id="reales-decretos-de-título-y-currículo"><span
+                    class="header-section-number">5.3</span> REALES
+                    DECRETOS DE TÍTULO Y CURRÍCULO</h2>
+                    <p>Se estructura en distintos grados de enseñanza,
+                    básico, medio y superior.  </p>
+                    <p>En los siguientes enlaces se pueden encontrar
+                    toda la información acerca de los ciclos formativos
+                    y familias profesionales que se imparten en la
+                    Comunidad Valenciana. </p>
+                    <ul>
+                    <li><p><a
+                    href="https://ceice.gva.es/es/web/formacion-profesional/dossier-cicles"><em>Dosier
+                    ciclos - Formación Profesional - Generalitat
+                    Valenciana</em></a> </p></li>
+                    <li><p><a
+                    href="http://todofp.es/inicio.html">http://todofp.es/inicio.html</a> </p></li>
+                    </ul>
+                    <h3 data-number="5.3.1" id="fp-básica"><span
+                    class="header-section-number">5.3.1</span> FP
+                    BÁSICA </h3>
+                    <ul>
+                    <li>Ciclo de grado básico Acceso y conservación en
+                    instalaciones deportivas </li>
+                    </ul>
+                    <p>Real Decreto 73/2018, de 19 de febrero, por el
+                    que se establece el Título profesional básico en
+                    acceso y conservación en instalaciones deportivas y
+                    se fijan los aspectos básicos del currículo. </p>
+                    <p>DECRETO 67/2024, de 21 de junio, del Consell, por
+                    el que se establece el currículo del ciclo formativo
+                    de Formación Profesional Básica correspondiente al
+                    Título Profesional Básico en Acceso y Conservación
+                    en Instalaciones Deportivas en el ámbito de la
+                    Comunitat Valenciana. </p>
+                    <h3 data-number="5.3.2" id="grado-medio-1"><span
+                    class="header-section-number">5.3.2</span> GRADO
+                    MEDIO </h3>
+                    <p><strong>Ciclo de grado medio Guía en el Medio
+                    Natural y de Tiempo Libre</strong></p>
+                    <ul>
+                    <li><p>Real Decreto 402/2020, de 25 de febrero, por
+                    el que se establece el título de Técnico en Guía en
+                    el medio natural y de tiempo libre y se fijan los
+                    aspectos básicos del currículo. </p></li>
+                    <li><p>DECRETO 167/2023, de 29 de septiembre, del
+                    Consell, por el que se establece para la Comunitat
+                    Valenciana el currículo del ciclo formativo de grado
+                    medio correspondiente al título de técnico o técnica
+                    en Guía en el Medio Natural y de Tiempo
+                    Libre. </p></li>
+                    <li><p>Para elaborar la programación didáctica será
+                    necesario consultar el <strong>Decreto 114/2025, de
+                    29 de julio</strong>, con el fin de comprobar si el
+                    módulo que se va a programar ha experimentado alguna
+                    modificación. En caso de que el decreto introduzca
+                    cambios, se deberán tener en cuenta y aplicar las
+                    adaptaciones correspondientes en la
+                    programación. </p></li>
+                    </ul>
+                    <h2 data-number="5.4" id="grado-superior-1"><span
+                    class="header-section-number">5.4</span> GRADO
+                    SUPERIOR </h2>
+                    <p><strong>Ciclo de grado superior Acondicionamiento
+                    físico </strong></p>
+                    <ul>
+                    <li><p>Real Decreto 651/2017, de 23 de junio, por el
+                    que se establece el título de Técnico Superior en
+                    acondicionamiento físico y se fijan los aspectos
+                    básicos del currículo. </p></li>
+                    <li><p>DECRETO 39/2023, de 24 de marzo, del Consell,
+                    por el que se establece para la Comunitat Valenciana
+                    el currículo del ciclo formativo de grado superior
+                    correspondiente al título de técnico o técnica
+                    superiores en Acondicionamiento Físico.  </p></li>
+                    <li><p>Para elaborar la programación didáctica será
+                    necesario consultar el <strong>Decreto 114/2025, de
+                    29 de julio</strong>, con el fin de comprobar si el
+                    módulo que se va a programar ha experimentado alguna
+                    modificación. En caso de que el decreto introduzca
+                    cambios, se deberán tener en cuenta y aplicar las
+                    adaptaciones correspondientes en la
+                    programación. </p></li>
+                    </ul>
+                    <p><strong>Ciclo de grado superior Enseñanza y
+                    Animación sociodeportiva</strong></p>
+                    <ul>
+                    <li><p>Real Decreto 653/2017, de 23 de junio, por el
+                    que se establece el título de Técnico Superior en
+                    enseñanza y animación sociodeportiva y se fijan los
+                    aspectos básicos del currículo. </p></li>
+                    <li><p>DECRETO 134/2022 de 7 de octubre, del
+                    Consell, por el que se establece para la Comunitat
+                    Valenciana el currículo del ciclo formativo de grado
+                    superior correspondiente al título de técnico o
+                    técnica superiores en Enseñanza y Animación
+                    Sociodeportiva. </p></li>
+                    <li><p>Para elaborar la programación didáctica será
+                    necesario consultar el <strong>Decreto 114/2025, de
+                    29 de julio</strong>, con el fin de comprobar si el
+                    módulo que se va a programar ha experimentado alguna
+                    modificación. En caso de que el decreto introduzca
+                    cambios, se deberán tener en cuenta y aplicar las
+                    adaptaciones correspondientes en la
+                    programación. </p></li>
+                    </ul>
+                    <h2 data-number="5.5"
+                    id="instalaciones-y-espacios-en-los-centros-educativos"><span
+                    class="header-section-number">5.5</span>
+                    INSTALACIONES Y ESPACIOS EN LOS CENTROS
+                    EDUCATIVOS </h2>
+                    <p>En el marco de la oferta formativa
+                    correspondiente a la familia profesional de
+                    <strong>Actividades Físicas y Deportivas</strong>, y
+                    en cumplimiento de los criterios de calidad y
+                    especialización establecidos por la normativa
+                    vigente en materia de enseñanzas deportivas de
+                    régimen especial, la <strong>Conselleria
+                    d’Educació</strong> ha suscrito convenios de
+                    colaboración con diversas <strong>federaciones
+                    deportivas autonómicas y nacionales</strong>. Entre
+                    ellas se encuentran la <strong>Federación de Esgrima
+                    de la Comunidad Valenciana</strong>, la
+                    <strong>Federación de Hípica</strong>, la
+                    <strong>Federación de Vela</strong> y la
+                    <strong>Federación de Deportes de Montaña y Escalada
+                    de la Comunidad Valenciana (FEMECV)</strong>. </p>
+                    <p>El objeto de estos convenios es permitir que
+                    dichas federaciones asuman la <strong>impartición de
+                    los bloques específicos de las enseñanzas
+                    deportivas</strong> en sus respectivas modalidades,
+                    dado que la administración autonómica no dispone
+                    actualmente de la infraestructura técnica,
+                    instalaciones ni equipamiento específico necesarios
+                    para garantizar una formación de calidad y con las
+                    debidas condiciones de seguridad, que responda a los
+                    estándares exigidos por el sistema educativo. </p>
+                    <p>Esta colaboración público-privada tiene como
+                    finalidad <strong>garantizar la calidad formativa,
+                    técnica y pedagógica</strong> del alumnado inscrito
+                    en estas titulaciones, mediante el aprovechamiento
+                    de los recursos humanos y materiales especializados
+                    que poseen las federaciones deportivas, entidades
+                    reconocidas oficialmente como colaboradores
+                    necesarios en la organización de estas
+                    enseñanzas. </p>
+                    <p>Asimismo, la Conselleria continúa trabajando en
+                    el desarrollo de nuevos convenios con otras
+                    federaciones deportivas para ampliar la oferta de
+                    enseñanzas regladas en el territorio valenciano. En
+                    este sentido, se están valorando acuerdos futuros
+                    para incorporar las titulaciones correspondientes a
+                    disciplinas como el <strong>Piragüismo</strong>, el
+                    <strong>Judo</strong> y la <strong>Defensa
+                    Personal</strong>, cuya implantación está prevista a
+                    lo largo de la presente década. </p>
+                    <p>Cabe destacar que estas enseñanzas están
+                    adscritas al <strong>Centro Integrado Público de
+                    Formación Profesional (CIPFP) de Cheste</strong>,
+                    que actúa como centro de referencia autonómico para
+                    la gestión y coordinación de las enseñanzas
+                    deportivas de régimen especial en la Comunidad
+                    Valenciana. </p>
+                    <h2 data-number="5.6" id="entorno-profesional"><span
+                    class="header-section-number">5.6</span> ENTORNO
+                    PROFESIONAL </h2>
+                    <p><strong>Ciclo de grado medio Guía en el Medio
+                    Natural y de Tiempo Libre</strong></p>
+                    <p>Las ocupaciones más relevantes para este perfil
+                    profesional son las siguientes:  Acompañante de
+                    usuarios en instalaciones deportivas. </p>
+                    <ul>
+                    <li>Auxiliar de control de instalaciones
+                    deportivas. </li>
+                    <li>Auxiliar de servicios generales.  </li>
+                    <li>Ayudante Control y Mantenimiento.  </li>
+                    <li>Clasificador / clasificadora y/o repartidor de
+                    correspondencia.  </li>
+                    <li>Conserje de colegios.  </li>
+                    <li>Conserje de instalaciones.  </li>
+                    <li>Conserje de piscinas.  </li>
+                    <li>Moza / mozo vestuario de piscinas. </li>
+                    <li>Ordenanza.  </li>
+                    <li>Subalterna / subalterno de dependencias.
+                    Subalterna / subalterno de piscinas.  </li>
+                    <li>Taquillera / taquillero. </li>
+                    </ul>
+                    <!-- -->
+                    <p><strong>Ciclo de grado medio Guía en el Medio
+                    Natural y de Tiempo Libre</strong></p>
+                    <p>Las personas que obtienen este título ejercen su
+                    actividad en el ámbito de las actividades
+                    deportivo-recreativas en la naturaleza y turismo
+                    activo, deportivo o de aventura y en instalaciones
+                    de ocio y aventura, así como en actividades
+                    socioeducativas de tiempo libre, en las áreas de
+                    organización, desarrollo, dinamización, seguimiento
+                    y evaluación de dichas actividades y en las de
+                    prevención, vigilancia y rescate en espacios
+                    acuáticos naturales. También pueden ejercer su
+                    actividad en unidades de intervención acuática y
+                    equipos de rescate y socorrismo. </p>
+                    <p> </p>
+                    <p><strong>Ciclo de grado superior Acondicionamiento
+                    físico</strong></p>
+                    <ul>
+                    <li>Entrenador / entrenadora de acondicionamiento
+                    físico en las salas de entrenamiento polivalente de
+                    gimnasios o polideportivos y en instalaciones
+                    acuáticas. </li>
+                    <li>Entrenador / entrenadora de acondicionamiento
+                    físico para grupos con soporte musical en gimnasios,
+                    instalaciones acuáticas o en polideportivos. </li>
+                    <li>Entrenador / entrenadora personal. </li>
+                    <li>Instructor instructora de grupos de hidrocinesia
+                    y cuidado corporal. </li>
+                    <li>Promotor / promotora de actividades de
+                    acondicionamiento físico. </li>
+                    <li>Animador / animadora de actividades de
+                    acondicionamiento físico. </li>
+                    <li>Coordinador / coordinadora de actividades de
+                    acondicionamiento físico y de hidrocinesia. </li>
+                    <li>Monitor / monitora de aeróbic, de step, de ciclo
+                    indoor, de fitness acuático y actividades
+                    afines. </li>
+                    <li>Instructor / instructora de las actividades
+                    de</li>
+                    <li>acondicionamiento físico para colectivos
+                    especiales. </li>
+                    </ul>
+                    <!-- -->
+                    <p><strong>Ciclo de grado superior Enseñanza y
+                    Animación sociodeportiva</strong></p>
+                    <p>Las personas que obtienen este título ejercen su
+                    actividad profesional tanto en el ámbito público,
+                    administración general, autonómica o local, como en
+                    entidades de carácter privado, grandes, medianas o
+                    pequeñas empresas que ofrezcan servicios de
+                    enseñanza deportiva, acondicionamiento físico,
+                    inclusión sociodeportiva y recreación. </p>
+                    <p>Su actividad se desarrolla en las áreas de la
+                    animación social, la enseñanza físico-deportiva en
+                    diferentes contextos y edades, la animación
+                    turística y las actividades de tiempo libre
+                    educativo infantil y juvenil, ocupándose de la
+                    planificación, organización, dinamización y
+                    evaluación de las actividades. </p>
+                    <p>Asimismo, puede ocuparse de la organización de
+                    competiciones no oficiales y pequeños eventos
+                    físico-deportivos para todo tipo de usuarios y para
+                    empresas de turismo activo. </p>
+                    <p>Su actividad se desarrolla en instalaciones
+                    deportivas convencionales y no convencionales y en
+                    el entorno natural, así como en instalaciones
+                    turísticas, tales como hoteles, balnearios,
+                    campamentos para turismo y ciudades de
+                    vacaciones. </p>
+                    <p>Los sectores productivos de inserción profesional
+                    son los del deporte, turismo, ocio y tiempo libre
+                    educativo infantil y juvenil. </p>
+                    <h1 data-number="6" id="bibliografía"><span
+                    class="header-section-number">6</span>
+                    Bibliografía</h1>
+                    <ul>
+                    <li>Ley Orgánica 3/2022, de 28 de diciembre, de
+                    ordenación y regulación de la Formación Profesional
+                    en España.</li>
+                    <li>Real Decreto 659/2023, de 21 de marzo, por el
+                    que se regula el sistema de Formación
+                    Profesional.</li>
+                    <li>Decreto 114/2025, de la Generalitat Valenciana,
+                    por el que se regula la Formación Profesional en la
+                    Comunitat Valenciana.</li>
+                    <li>Real Decreto 6523/2011, de 18 de julio, por el
+                    que se regulan los ciclos formativos de Formación
+                    Profesional.</li>
+                    <li>Real Decreto 73/2018, de 19 de febrero, por el
+                    que se establece el título profesional básico en
+                    acceso y conservación en instalaciones
+                    deportivas.</li>
+                    <li>Decreto 67/2024, de 21 de junio, del Consell,
+                    por el que se establece el currículo del ciclo
+                    formativo de Formación Profesional Básica en la
+                    Comunitat Valenciana.</li>
+                    <li>Real Decreto 402/2020, de 25 de febrero, por el
+                    que se establece el título de Técnico en Guía en el
+                    medio natural y de tiempo libre.</li>
+                    <li>Decreto 167/2023, de 29 de septiembre, del
+                    Consell, que establece el currículo del ciclo
+                    formativo de grado medio en Guía en el Medio Natural
+                    y de Tiempo Libre.</li>
+                    <li>Real Decreto 651/2017, de 23 de junio, por el
+                    que se establece el título de Técnico Superior en
+                    acondicionamiento físico.</li>
+                    <li>Decreto 39/2023, de 24 de marzo, del Consell,
+                    que establece el currículo del ciclo formativo de
+                    grado superior en Acondicionamiento Físico en la
+                    Comunitat Valenciana.</li>
+                    <li>Real Decreto 653/2017, de 23 de junio, por el
+                    que se establece el título de Técnico Superior en
+                    enseñanza y animación sociodeportiva.</li>
+                    <li>Decreto 134/2022, de 7 de octubre, del Consell,
+                    que establece el currículo del ciclo formativo de
+                    grado superior en Enseñanza y Animación
+                    Sociodeportiva en la Comunitat Valenciana.</li>
+                    <li>Portal de la <a
+                    href="https://ceice.gva.es/es/web/formacion-profesional">Conselleria
+                    d’Educació, Cultura i Esport de la Generalitat
+                    Valenciana</a></li>
+                    <li>Portal <a
+                    href="http://todofp.es/inicio.html">Todo FP</a></li>
+                    <li>Dosier ciclos - Formación Profesional -
+                    Generalitat Valenciana <a
+                    href="https://ceice.gva.es/es/web/formacion-profesional/dossier-cicles">https://ceice.gva.es/es/web/formacion-profesional/dossier-cicles</a></li>
+                    </ul>
+                </main>
+
+                
+            </div>
+        </div>
+
+        <!-- Modal images -->
+        <div id="myModal" class="modal" aria-hidden="true">
+            <img class="modal-content" id="img01" alt="">
+            <div id="caption"></div>
+        </div>
+
+    </div>
+
+    <script>
+        /* Modalización de imágenes (mejorada): */
+        function ModalizeImages() {
+            var modal = document.getElementById("myModal");
+            var modalImg = document.getElementById("img01");
+            var captionText = document.getElementById("caption");
+
+            document.querySelectorAll("main img").forEach(img => {
+                img.style.cursor = "zoom-in";
+                img.addEventListener("click", function () {
+                    modal.style.display = "block";
+                    modal.setAttribute("aria-hidden","false");
+                    modalImg.src = this.src;
+                    modalImg.alt = this.alt || "";
+                    captionText.textContent = this.alt || "";
+                });
+            });
+
+            modal.addEventListener("click", function () {
+                modal.style.display = "none";
+                modal.setAttribute("aria-hidden","true");
+            });
+
+            // Escape para cerrar
+            document.addEventListener("keydown", function(e){
+                if(e.key === "Escape") {
+                    modal.style.display = "none";
+                    modal.setAttribute("aria-hidden","true");
+                }
+            });
+        }
+
+        /* Marcar item de TOC según sección visible */
+        function markItem(id) {
+            document.querySelectorAll("#TOC a").forEach(function(item) {
+                item.classList.remove("navItemSelected");
+            });
+
+            if (!id) return;
+            let items = document.querySelectorAll("#TOC a[href='#" + id + "']");
+            items.forEach(function(item) {
+                item.classList.add("navItemSelected");
+            });
+        }
+
+        /* Observer para resaltar sección activa */
+        var observer = new IntersectionObserver(function(entries) {
+            entries.forEach(function(entry){
+                if (entry.isIntersecting) {
+                    let id = entry.target.id;
+                    markItem(id);
+                }
+            });
+        }, { threshold: [0.25] });
+
+        window.addEventListener("load", function() {
+            document.querySelectorAll("main section[id], main h1[id], main h2[id], main h3[id]").forEach(function(item) {
+                observer.observe(item);
+            });
+
+            document.querySelectorAll("#TOC a").forEach(function(item) {
+                item.addEventListener("click", function(ev) {
+                    // Cuando se hace click en TOC, minimizar si el área es amplia (comportamiento previo)
+                    let toc = document.querySelector("#TOC");
+                    //if (toc && toc.offsetWidth > 10) toc.classList.add("minimizedToc");
+                });
+            });
+
+            // Hover devuelve
+            // var tocEl = document.querySelector("#TOC");
+            // if (tocEl) {
+            //     tocEl.addEventListener("mouseover", function() { tocEl.classList.remove("minimizedToc"); });
+            // }
+
+            ModalizeImages();
+        });
+    </script>
+</body>
+
+</html>

@@ -1,9 +1,10 @@
-Enseñanzas Deportivas de Régimen Especial (EDRE)
-Familia Estètica i Perruqueria
-Familia Fusteria i moble
-Familia Mecanitzat i manteniment de màquines
+Enseñanzas Deportivas de Régimen Especial (EDRE)
+Familia Profesional de Peluquería
+Familia Profesional de Estética
+Familia Profesional de Carpintería y Mueble
+Familia Profesional de Mecanizado y Mantenimiento de Máquinas
 Familia Profesional Hostelería y Turismo
-Familia Transport i manteniment de vehicles autopropulsats
-Familia de Família Tèxtil, confecció i pell
-Familia de Producció en arts gràfiques
-Familia soldadura y caldereria
+Familia Transporte y Mantenimiento de Vehículos Autopropulsados
+Familia de Textil, Confección y Piel
+Familia de Producción en Artes Gráficas
+Familia Soldadura y Calderería

@@ -9,12 +9,12 @@ titlepage: true
 titlepage-rule-height: 2
 titlepage-rule-color: AA0000
 titlepage-text-color: AA0000
-titlepage-background: ../portades/UX.png
+titlepage-background: ../portades/Udepor.png
 
 # date: "21-10-2025"
 subject: "Proxmox"
 keywords: [Xarxa, Instal·lació]
-subtitle: "Enseñanzas Deportivas de Régimen Especial (EDRE)"
+subtitle: "Enseñanzas Deportivas de Régimen Especial (EDRE)"
 lang: es
 page-background: img/bg.png
 
@@ -27,7 +27,7 @@ toc-title: Continguts
 toc-depth: 2
 
 # capçalera i peu \thetitle
-header-left: "Enseñanzas Deportivas de Régimen Especial"
+header-left: "Enseñanzas Deportivas de Régimen Especial"
 header-right: Curso 2025-2026
 footer-left: CEFIRE FP
 footer-right: \thepage/\pageref{LastPage}
@@ -422,7 +422,7 @@ El acceso a los Ciclos Formativos se regula por el Real Decreto 6523/2011, de 18
 
 **Acceso a ciclos de grado básico**
 
-1. El acceso a los ciclos formativos de grado básico de los
+1. El acceso a los ciclos formativos de grado básico de los
 destinatarios del párrafo 
 
     a) del apartado 1 del artículo anterior
@@ -430,64 +430,64 @@ destinatarios del párrafo
     mayo, de Educación, el cumplimiento simultáneo de los siguientes
     requisitos:
 
-    a) Tener cumplidos quince años, o cumplirlos durante el año natural en
+    a) Tener cumplidos quince años, o cumplirlos durante el año natural en
     curso.
 
-    b) Haber cursado el tercer curso o, excepcionalmente y a criterio del
+    b) Haber cursado el tercer curso o, excepcionalmente y a criterio del
     equipo docente y el responsable de la orientación en el centro, el
     segundo curso de educación secundaria obligatoria.
 
-    c) Ser objeto de propuesta o solicitar a petición propia, junto con los
+    c) Ser objeto de propuesta o solicitar a petición propia, junto con los
     padres, madres o tutores legales, la incorporación a un ciclo formativo
     de grado básico, cuando el perfil vocacional del alumno o alumna así lo
     aconseje. Las administraciones educativas determinarán la intervención
     del alumnado, sus familias y los equipos o servicios de orientación en
     este proceso.
 
-    d) En el supuesto de realización de ciclos formativos de grado básico en
+    d) En el supuesto de realización de ciclos formativos de grado básico en
     régimen intensivo, el alumno deberá tener cumplidos 16 años para poder
     acceder a la formación práctica en empresa por esta modalidad, al estar
     vinculada a la contratación.
 
 **Acceso a ciclos formativos de grado medio.**
 
-1. Para el acceso a los ciclos formativos de grado medio se precisará el
+1. Para el acceso a los ciclos formativos de grado medio se precisará el
 cumplimiento de uno de los siguientes requisitos:
 
-    a) Estar en posesión del título de graduado en Educación Secundaria
+    a) Estar en posesión del título de graduado en Educación Secundaria
     Obligatoria.
 
-    b) Estar en posesión del título de Técnico Básico o de Técnico.
+    b) Estar en posesión del título de Técnico Básico o de Técnico.
 
-    c) Haber superado una oferta formativa de Grado C incluida en el ciclo
+    c) Haber superado una oferta formativa de Grado C incluida en el ciclo
     formativo.
 
-    d) Haber superado un curso de formación específico preparatorio y
+    d) Haber superado un curso de formación específico preparatorio y
     gratuito para el acceso a ciclos formativos de grado medio en centros
     expresamente autorizados por la Administración educativa.
 
-    e) Haber superado una prueba de acceso.
+    e) Haber superado una prueba de acceso.
 
 **Acceso a ciclos formativos de grado superior.**
 
-1. Para el acceso a los ciclos formativos de grado superior se precisará
+1. Para el acceso a los ciclos formativos de grado superior se precisará
 el cumplimiento de uno de los siguientes requisitos:
 
-    a) Poseer el título de Técnico de Grado Medio de Formación Profesional o
+    a) Poseer el título de Técnico de Grado Medio de Formación Profesional o
     el título de Técnico o Técnica de Artes Plásticas y Diseño.
 
-    b) Poseer el título de Bachiller.
+    b) Poseer el título de Bachiller.
 
-    c) Haber superado una oferta formativa de Grado C incluida en el ciclo
+    c) Haber superado una oferta formativa de Grado C incluida en el ciclo
     formativo.
 
-    d) Haber superado un curso de formación específico preparatorio y
+    d) Haber superado un curso de formación específico preparatorio y
     gratuito para el acceso a ciclos de grado superior en centros
     expresamente autorizados por la Administración educativa.
 
-    e) Haber superado una prueba de acceso.
+    e) Haber superado una prueba de acceso.
 
-    f) Estar en posesión de un título de Técnico Superior de Formación
+    f) Estar en posesión de un título de Técnico Superior de Formación
     Profesional o grado universitario.
 
 # DISTRIBUCIÓN HORARIA CICLOS Y MÓDULOS FORMATIVOS
