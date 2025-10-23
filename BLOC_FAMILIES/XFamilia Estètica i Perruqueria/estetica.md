@@ -1,0 +1,994 @@
+---
+# Front matter
+# Metainformació del document
+title: "CERTIFICADO OFICIAL DE FORMACIÓN PEDAGÓGICA Y DIDÁCTICA PARA PROFESORADO TÉCNICO"
+# author:
+titlepage: true
+
+# portada
+titlepage-rule-height: 2
+titlepage-rule-color: AA0000
+titlepage-text-color: AA0000
+titlepage-background: ../portades/UX.png
+
+# date: "21-10-2025"
+subject: "Proxmox"
+keywords: [Xarxa, Instal·lació]
+subtitle: "Familia profesional:"
+lang: es
+page-background: img/bg.png
+
+colorlinks: true
+linkcolor: "blue"
+
+# configuració de l'índex
+toc-own-page: true
+toc-title: Continguts
+toc-depth: 2
+
+# capçalera i peu \thetitle
+header-left: "Familia profesional:"
+header-right: Curso 2025-2026
+footer-left: CEFIRE FP
+footer-right: \thepage/\pageref{LastPage}
+
+# Les figures que apareguen on les definim i centrades
+float-placement-figure: H
+caption-justification: centering 
+
+# No volem numerar les linies de codi
+listings-disable-line-numbers: true
+
+# Configuracions dels paquets de latex
+header-includes:
+
+  #  imatges i subfigures
+  - \usepackage{graphicx}
+  - \usepackage{subfigure}
+  - \usepackage{lastpage}
+
+
+
+  #  - \usepackage{adjustbox}
+  # marca d'aigua
+  #- \usepackage{draftwatermark}
+ # - \SetWatermarkText{\includegraphics{./img/Markdown.png}}
+  #- \SetWatermarkText{Per revisar}
+  #- \SetWatermarkScale{.5}
+  #- \SetWatermarkAngle{20}
+   
+  # caixes d'avisos 
+  - \usepackage{awesomebox}
+
+  # text en columnes
+  - \usepackage{multicol}
+  - \setlength{\columnseprule}{1pt}
+  - \setlength{\columnsep}{1em}
+
+  # pàgines apaïsades
+  - \usepackage{pdflscape}
+  # caixes mdframed
+  - \usepackage{mdframed}
+  
+  # per a permetre pandoc dins de blocs Latex
+  - \newcommand{\hideFromPandoc}[1]{#1}
+  - \hideFromPandoc {
+      \let\Begin\begin
+      \let\End\end
+    }
+ 
+# definició de les caixes d'avis
+pandoc-latex-environment:
+  noteblock: [note]
+  tipblock: [tip]
+  warningblock: [warning]
+  cautionblock: [caution]
+  importantblock: [important]
+...
+
+
+\vspace*{\fill}
+
+\begin{mdframed}[linecolor=gray, linewidth=0.5pt, leftline=true, rightline=false, topline=false, bottomline=false]
+{\scriptsize
+\textbf{EDITA:} \\
+Generalitat Valenciana \\
+Conselleria d’Educació, Investigació, Cultura i Esport \\
+Servei de Formació del Professorat \\
+CEFIRE de Formació Professional \\[1em]
+\textbf{AUTOR VERSIÓN ORIGINAL:} \\
+ \\
+\textbf{AUTORES REVISIÓN 25-26:} \\
+Gemma Cerezo Gil\\
+Alfredo Rafael Vicente Boix \\[1em]
+\textbf{MAQUETACIÓN:} \\
+Alfredo Rafael Vicente Boix \\[1em]
+Este material ha sido elaborado bajo una licencia de \\
+Reconocimiento-NoComercial-CompartirIgual 3.0 de Creative Commons. \\[0.5em]
+
+\includegraphics[height=8mm,keepaspectratio]{img/cc.png} \\
+El código fuente del documento se encuentra disponible en:
+\url{https://github.com/arvicenteboix/mastercillo_fp}
+}
+\end{mdframed}
+
+\newpage
+
+# INTRODUCCIÓN
+
+La Formación Profesional constituye en la actualidad un elemento
+vertebrador del sistema educativo y de empleo en España, situándose en
+el centro de las políticas activas de aprendizaje a lo largo de la vida.
+Bajo el marco normativo establecido por la Ley Orgánica 3/2022 y su
+desarrollo reglamentario en el RD 659/2023, se configura un **sistema
+unificado y flexible**, capaz de responder a las necesidades cambiantes
+del entorno social y productivo.
+
+Desde la perspectiva docente, este modelo implica un cambio
+significativo en la concepción de la enseñanza-aprendizaje. La Formación
+Profesional ya no se limita únicamente a la transmisión de conocimientos
+técnicos, sino que se articula en torno a la **adquisición, integración
+y transferencia de competencias profesionales**, entendidas como el
+conjunto de conocimientos, destrezas, habilidades, actitudes y valores
+necesarios para el ejercicio cualificado de una actividad profesional,
+en contextos reales y diversos.
+
+El nuevo sistema sitúa la competencia profesional como eje estructurador
+de toda la acción formativa.
+
+Además, el modelo fomenta una fuerte vinculación con el entorno
+productivo mediante la formación en entornos reales de trabajo, el
+desarrollo de proyectos colaborativos con empresas, la formación dual y
+la evaluación de competencias adquiridas por vías no formales o
+informales. En este sentido, la labor docente requiere un enfoque
+metodológico activo y adaptativo, centrado en el desarrollo integral del
+alumnado y orientado a su empleabilidad, a su itinerario formativo y a
+su crecimiento profesional y personal.
+
+La Formación Profesional comprende distintos grados de estudios ---tanto
+en régimen inicial como para la formación continua o de personas
+trabajadoras---, con una organización modular, articulada a través de
+oferta formativa ajustada al catálogo de competencias profesionales. En
+este sentido, el sistema se integra en el Catálogo Modular de Formación
+Profesional y otros instrumentos de acreditación que permiten reconocer
+competencias adquiridas por vías formales, no formales o informales,
+según lo regulado en el Real Decreto 659/2023 (Titular VI).
+
+Así mismo, el sistema normativo contempla que el currículo, los
+procedimientos de evaluación, los espacios de formación, los centros y
+los procesos de acreditación se adapten a los estándares profesionales
+vigentes, lo que favorece el desarrollo profesional y social del
+alumnado, así como una mejor respuesta a las exigencias del mundo
+productivo.
+
+# MODALIDADES DE LA FORMACIÓN PROFESIONAL
+
+En el marco del Real Decreto 659/2023, la Formación Profesional se
+organiza mediante distintos grados (A, B, C, D y E) y modalidades que
+permiten una mayor accesibilidad, flexibilidad y adecuación a las
+trayectorias personales y profesionales.
+
+Entre las modalidades destacan:
+
+- La modalidad **modular** para los Grados C, D y E, que permite cursar
+  uno o varios módulos profesionales según el ritmo personal de
+  aprendizaje y las necesidades de cualificación, adaptándose a personas
+  adultas, en activo, o con experiencia laboral.
+
+- La formación en alternancia con empresa (modalidades duales) y la
+  oferta para personas trabajadoras o en transición profesional, de modo
+  que se favorezca el aprendizaje en entornos reales de trabajo y la
+  inserción laboral.
+
+- La modalidad semipresencial o a distancia, especialmente para personas
+  adultas, que compatibilizan formación con empleo o responsabilidades
+  personales, mediante la combinación de actividades no presenciales y
+  sesiones presenciales, así como recursos tecnológicos de apoyo (aunque
+  la normativa estatal pone énfasis en modularización, flexibilidad y
+  ritmo personalizado).
+
+## Tipología de ofertas según grados
+
+El RD 659/2023 organiza las ofertas del sistema de FP en **cinco
+grados** (A, B, C, D y E), lo cual estructura de manera clara todo el
+sistema
+
+- Grado A: Acreditación parcial de competencias.
+
+- Grado B: Certificado de competencia.
+
+- Grado C: Certificado profesional.
+
+- Grado D: Ciclo formativo (Grado Básico/Medio/Superior).
+
+- Grado E: Cursos de especialización.\
+  Este enfoque remarca que no solamente hay ciclos
+  básicos/media/superior como antes, sino una tipología mucho más amplia
+  para itinerarios modulares, acumulativos y flexibles.
+
+## Modalidades de la oferta de formación
+
+El sistema de Formación Profesional en España, de acuerdo con lo
+establecido en el **Real Decreto 659/2023**, por el que se ordena el
+sistema de Formación Profesional, y recogido a nivel autonómico en el
+**Decreto 114/2025** (Comunitat Valenciana), reconoce **tres modalidades
+de oferta** para los ciclos formativos: **presencial, semipresencial y
+virtual (a distancia)**.
+
+Estas modalidades responden a la necesidad de ofrecer una formación
+**flexible, accesible y adaptada a distintos perfiles del alumnado**,
+así como a las condiciones del entorno socioeconómico y productivo.
+
+**Modalidad Presencial**
+
+Es la forma tradicional de enseñanza, en la que el alumnado acude físicamente al centro educativo para realizar la formación teórica y práctica.
+
+**Características principales:**
+
+- **Asistencia regular al aula**: Requiere la presencia habitual del
+  alumnado en el centro, según un horario establecido.
+
+- **Interacción directa**: Favorece la comunicación cara a cara entre
+  alumnado y profesorado.
+
+- **Entornos simulados o reales**: Uso intensivo de talleres,
+  laboratorios y espacios específicos del ciclo.
+
+- **Evaluación continua**: Mayor facilidad para aplicar una evaluación
+  formativa y ajustada al ritmo del grupo.
+
+**Modalidad Semipresencial**
+
+Combina la asistencia al centro educativo con actividades formativas desarrolladas de forma virtual, utilizando plataformas de aprendizaje en línea.
+
+**Características principales:**
+
+- **Flexibilidad horaria**: Permite al alumnado organizar parte de su
+  formación según su disponibilidad.
+
+- **Parte presencial obligatoria**: Se definen módulos o partes de
+  módulos que requieren asistencia (por ejemplo, prácticas de taller).
+
+- **Uso de entornos virtuales**: Empleo de plataformas LMS (como Aules,
+  Moodle, etc.) para contenidos, tareas y seguimiento.
+
+- **Tutorías presenciales y virtuales**: Seguimiento combinado por parte
+  del profesorado.
+
+**Modalidad Virtual (o a Distancia)**
+
+La totalidad del ciclo formativo se desarrolla mediante plataformas digitales, sin exigencia de presencialidad salvo en momentos específicos (por ejemplo, exámenes o FCT si no se convalida).
+
+**Características principales:**
+
+- **Autonomía del alumnado**: El aprendizaje se organiza de forma
+  autónoma, respetando los tiempos establecidos por el centro.
+
+- **Sin presencialidad habitual**: Aunque pueden fijarse sesiones
+  presenciales voluntarias o puntuales (evaluaciones finales, prácticas
+  concretas...).
+
+- **Plataformas de aprendizaje**: El entorno virtual es el espacio
+  central del aprendizaje (contenidos, comunicación, evaluación).
+
+- **Perfil adulto**: Muy orientada a personas trabajadoras, con
+  responsabilidades familiares o que no pueden acudir regularmente a un
+  centro.
+
+En todas las modalidades, se asegura el cumplimiento de los resultados
+de aprendizaje y la adquisición de las competencias profesionales
+recogidas en el currículo oficial.
+
+# Niveles formativos
+
+La Formación Profesional se estructura en diferentes niveles de
+cualificación profesional, definidos en el **Catálogo de Estándares de
+Competencia**, que sirve como eje vertebrador para toda la oferta
+formativa del sistema.
+
+**Independientemente de la modalidad en la que se imparta** (presencial,
+semipresencial o virtual), la oferta de Formación Profesional se
+organiza en **tres niveles: básico, medio y superior**, agrupados bajo
+la denominación de **Grados D**.
+
+Esta clasificación responde a distintos grados de dominio competencial,
+itinerarios formativos y salidas tanto profesionales como académicas. A
+continuación, se desarrollan las características de cada uno de estos
+niveles:
+
+## Grados
+
+### Grado Básico
+
+**Nivel 1 del Catálogo de Estándares de Competencia**
+
+Los ciclos de Grado Básico están dirigidos a alumnado que necesita una
+vía alternativa a la educación secundaria obligatoria convencional, y
+que requiere de un enfoque más práctico y adaptado a sus necesidades
+formativas. Su finalidad es **favorecer la permanencia en el sistema
+educativo**, reducir el abandono escolar temprano y facilitar la
+transición al empleo.
+
+**Características principales:**
+
+- Forman parte de la **educación básica obligatoria**.
+
+- Ofrecen una **formación general adaptada** y una iniciación
+  profesional en un perfil ocupacional.
+
+- Permiten obtener el **Título Profesional Básico**, con efectos
+  académicos y laborales.
+
+- Facilitan el acceso directo a ciclos de **Grado Medio** de la misma
+  familia profesional.
+
+- Tienen una duración es de dos cursos.
+
+- Requieren haber cursado al menos 3.º de ESO o, de forma excepcional,
+  2.º, y contar con **propuesta del equipo docente**.
+
+- Se contempla en módulo de Formación en Empresa con sus características
+  particulares
+
+**Ordenación de los Ciclos de grado básico**
+
+Constará de tres ámbitos y Proyecto:
+
+a)  Ámbito de comunicación y Ciencias Sociales
+
+b)  Ámbito de Ciencias Aplicadas
+
+c)  Ámbito Profesional
+
+d)  Proyecto intermodular de aprendizaje colaborativo vinculado a los
+    tres ámbitos.
+
+### Grado Medio
+
+**Nivel 2 del Catálogo de Estándares de Competencia**
+
+Los ciclos de Grado Medio están dirigidos a alumnado que ha superado la
+Educación Secundaria Obligatoria o que ha obtenido el título de
+Profesional Básico. Estos ciclos proporcionan la **cualificación
+necesaria para el desempeño de una profesión técnica** en un entorno
+productivo concreto. Forman parte de la educación secundaria
+postobligatoria.
+
+**Características principales:**
+
+- Conducen a la obtención del **Título de Técnico**, con validez
+  académica y profesional.
+
+- Permiten el acceso directo a estudios de **Grado Superior**, una vez
+  finalizado el ciclo.
+
+- Se organizan en **módulos profesionales**, tanto teóricos como
+  prácticos.
+
+- Pueden impartirse en modalidad **presencial, semipresencial o
+  virtual**.
+
+- Su duración también es de dos cursos.
+
+### Grado Superior
+
+**Nivel 3 del Catálogo de Estándares de Competencia**
+
+Los ciclos de Grado Superior están orientados a la **especialización
+profesional avanzada**, y capacitan al alumnado para desarrollar
+funciones de mayor complejidad técnica y de responsabilidad en el ámbito
+laboral. Forman parte de la educación superior.
+
+**Características principales:**
+
+- Conducen al **Título de Técnico Superior**.
+
+- Permiten el acceso a estudios universitarios, con posibilidad de
+  reconocimiento de créditos ECTS.
+
+- Incluyen formación en **emprendimiento, digitalización,
+  sostenibilidad** y otros aspectos transversales.
+
+- También incorporan el módulo de **Formación en Empresa**
+
+- Pueden ofrecerse en modalidad **presencial, semipresencial o
+  virtual**, favoreciendo así la conciliación laboral y formativa.
+
+- Su duración también es de dos cursos.
+
+**Ordenación de los Ciclos de grado medio y superior**
+
+a) Una parte troncal obligatoria
+
+1\. Módulos Profesionales de Catálogo Modular de Formación Profesional.
+
+2\. Módulos transversales
+
+\- Itinerario para la empleabilidad I y II
+
+\- Digitalización aplicada al sistema productivo
+
+\- Sostenibilidad aplicada al sistema productivo
+
+\- Inglés profesional
+
+b) Una parte de optativa integrada de un módulo de los que se ofrecerán
+en el centro educativo que tendrá duración anual y se cursará en segundo
+curso.
+
+## Acceso a los ciclos formativos
+
+El acceso a los Ciclos Formativos se regula por el Real Decreto
+6523/2011, de 18 de julio
+
+**Acceso a ciclos de grado básico**
+
+1. El acceso a los ciclos formativos de grado básico de los
+destinatarios del párrafo a) del apartado 1 del artículo anterior
+requerirá, conforme al artículo 41.1 de la Ley Orgánica 2/2006, de 3 de
+mayo, de Educación, el cumplimiento simultáneo de los siguientes
+requisitos:
+
+a) Tener cumplidos quince años, o cumplirlos durante el año natural en
+curso.
+
+b) Haber cursado el tercer curso o, excepcionalmente y a criterio del
+equipo docente y el responsable de la orientación en el centro, el
+segundo curso de educación secundaria obligatoria.
+
+c) Ser objeto de propuesta o solicitar a petición propia, junto con los
+padres, madres o tutores legales, la incorporación a un ciclo formativo
+de grado básico, cuando el perfil vocacional del alumno o alumna así lo
+aconseje. Las administraciones educativas determinarán la intervención
+del alumnado, sus familias y los equipos o servicios de orientación en
+este proceso.
+
+d) En el supuesto de realización de ciclos formativos de grado básico en
+régimen intensivo, el alumno deberá tener cumplidos 16 años para poder
+acceder a la formación práctica en empresa por esta modalidad, al estar
+vinculada a la contratación.
+
+**Acceso a ciclos formativos de grado medio.**
+
+1. Para el acceso a los ciclos formativos de grado medio se precisará el
+cumplimiento de uno de los siguientes requisitos:
+
+a) Estar en posesión del título de graduado en Educación Secundaria
+Obligatoria.
+
+b) Estar en posesión del título de Técnico Básico o de Técnico.
+
+c) Haber superado una oferta formativa de Grado C incluida en el ciclo
+formativo.
+
+d) Haber superado un curso de formación específico preparatorio y
+gratuito para el acceso a ciclos formativos de grado medio en centros
+expresamente autorizados por la Administración educativa.
+
+e) Haber superado una prueba de acceso.
+
+**Acceso a ciclos formativos de grado superior.**
+
+1. Para el acceso a los ciclos formativos de grado superior se precisará
+el cumplimiento de uno de los siguientes requisitos:
+
+a) Poseer el título de Técnico de Grado Medio de Formación Profesional o
+el título de Técnico o Técnica de Artes Plásticas y Diseño.
+
+b) Poseer el título de Bachiller.
+
+c) Haber superado una oferta formativa de Grado C incluida en el ciclo
+formativo.
+
+d) Haber superado un curso de formación específico preparatorio y
+gratuito para el acceso a ciclos de grado superior en centros
+expresamente autorizados por la Administración educativa.
+
+e) Haber superado una prueba de acceso.
+
+f) Estar en posesión de un título de Técnico Superior de Formación
+Profesional o grado universitario.
+
+# DISTRIBUCIÓN HORARIA CICLOS Y MÓDULOS FORMATIVOS
+
+La distribución horaria de los ciclos formativos y de sus módulos
+profesionales viene establecida por el real decreto estatal que fija el
+currículo básico del título. En la Comunitat Valenciana, las
+administraciones educativas autonómicas pueden concretar y adaptar dicha
+distribución, de modo que responda a las necesidades y condiciones
+específicas del territorio.
+
+La duración de los ciclos formativos es de 2000 horas que se distribuyen
+en los diferentes módulos formativos durante dos cursos escolares. Tanto
+el comienzo como la finalización del año académico se fija en un
+calendario escolar que viene publicado en una Resolución.
+
+A cada módulo formativo le corresponde una fijación horaria que se
+distribuye en horas semanales. Los días de la semana que se imparten
+estas horas son flexibles y vienen determinados por cada centro
+educativo. En los cuadros horarios se indica los módulos susceptibles de
+doblaje (DT) y también los módulos que pueden ser impartidos,
+indistintamente, por otro docente de otra especialidad.
+
+La secuenciación de los módulos y el horario de los diferentes ciclos de
+las Familias Profesionales están publicados en la web de Conselleria se
+pueden consultar el siguiente enlace:
+
+[Dosier ciclos - Formación Profesional - Generalitat Valenciana](https://ceice.gva.es/es/web/formacion-profesional/dossier-cicles)
+
+## MÓDULOS PROFESIONALES Y TITULACIONES ACADÉMICAS REQUERIDAS PARA SU IMPARTICIÓN
+
+La página web de **Todo FP** y el portal de la **Conselleria d'Educació,
+Cultura i Esport** en su sección de Formación Profesional constituyen
+una fuente viva y actualizada de información, imprescindible para todos
+los docentes. En estos espacios se dispone de toda la documentación y
+recursos necesarios para la elaboración y desarrollo de una programación
+didáctica adecuada y conforme a la normativa vigente.
+
+Es, por tanto, en estos portales donde debéis remitiros para consultar
+los diferentes módulos que conforman un ciclo formativo, así como para
+conocer la atribución docente correspondiente a cada uno de ellos.
+
+Los aspectos referentes al profesorado con atribución docente en los
+módulos profesionales de cada ciclo formativo, donde el profesorado
+técnico imparte docencia, están recogidos en los correspondientes reales
+decretos de título. Asimismo, estos decretos proporcionan información
+sobre los resultados de aprendizaje y los criterios de evaluación, que
+constituyen pilares fundamentales en nuestra programación didáctica.
+
+Es fundamental consultar los decretos y órdenes específicos de nuestra
+Comunidad Autónoma, ya que, como se ha señalado en apartados anteriores,
+estos concretan y detallan las instrucciones establecidas en los reales
+decretos de título correspondientes a cada ciclo formativo. Esta
+normativa autonómica ofrece directrices precisas sobre la organización,
+atribución docente y otros aspectos esenciales para el desarrollo de una
+programación didáctica conforme a las necesidades y características del
+sistema educativo valenciano.
+
+# LA FAMILIA PROFESIONAL DE IMAGEN PERSONAL
+
+## INTRODUCCIÓN
+
+La Formación Profesional se estructura en familias profesionales que
+engloban distintas especialidades, dentro de estas especialidades están
+los ciclos formativos que integran los módulos profesionales. La
+Comunitat Valenciana actualmente oferta 25 familias profesionales en la
+formación específica.
+
+Los ciclos formativos de una misma familia profesional tienen
+características comunes como la relación entre conocimientos y
+procedimientos, la similitud entre los procesos tecnológicos y los
+productos o servicios, y la aproximación con el sector industrial.
+
+La familia profesional de Imagen Personal pertenece al sector terciario
+de la economía, todos los ciclos formativos de la familia se engloban
+dentro del mismo sector socio- productivo, aunque podemos identificar
+tres subsectores, el subsector de la estética, el de la peluquería y el
+de la asesoría de imagen.
+
+Para conocer las diferentes Familias Profesionales que se ofertan en la
+Comunidad Valenciana, se puede acceder a través de la página web de la
+Conselleria de Educació, Investigació, Cultura i Esport a través del
+siguiente link:
+
+[Dosier ciclos - Formación Profesional - Generalitat Valenciana](https://ceice.gva.es/es/web/formacion-profesional/dossier-cicles)
+
+[Otros enlaces donde consultar: * Portal web del Servicio Público de Empleo Estatal (SEPE)](https://www.sepe.es/contenidos/personas/formacion/certificados_de_profesionalidad/familias_profesionales.html)
+
+[Portal TodoFP (Pertenece al Ministerio de Educación)](http://www.todofp.es/todofp/que-como-y-donde-estudiar/que-estudiar/familias/titulosloe.html)
+
+
+## Oferta formativa
+
+La familia profesional de "Imagen Personal" agrupa ciclos formativos de
+Formación Profesional que se insertan dentro del sector servicios, y en
+el marco actual los títulos ofertados según el Ministerio de Educación
+son: [Educación y Formación
+Profesional+1](https://www.educacionfpydeportes.gob.es/mc/secciones-todofp/titulos-fp/por-familias/loe/imagen-personal.html?utm_source=chatgpt.com)
+
+- Formación Profesional Básica: Título Profesional Básico en Peluquería
+  y Estética.
+
+- Grado Medio: Técnico en Estética y Belleza, Técnico en Peluquería y
+  Cosmética Capilar.
+
+- Grado Superior: Títulos como Técnico Superior en Caracterización y
+  Maquillaje Profesional, Técnico Superior en Estilismo y Dirección de
+  Peluquería, Técnico Superior en Estética Integral y Bienestar.
+  
+## Perfil del alumnado
+
+En esta familia profesional, el alumnado puede presentar perfiles
+diversos: jóvenes que han elegido una vía vocacional hacia el sector de
+imagen personal, personas adultas que buscan recualificación, y quienes
+compatibilizan formación con empleo. Normalmente se observa:
+
+- Para la FP Básica: alumnado con necesidad de acompañamiento, que se
+  beneficiará de una formación eminentemente práctica con apoyo
+  tutorial.
+
+- Para los Grados Medio y Superior: alumnado más decidido, con interés
+  en su desarrollo profesional y en el empleo directo o la progresión
+  hacia la universidad o el mundo laboral.\
+  El nuevo marco favorece itinerarios flexibles y acceso a lo largo de
+  la vida, por lo que se reconoce cada vez más la formación modular, la
+  acreditación de competencias por experiencia laboral y la adaptación a
+  las necesidades individuales.
+
+- Para acceder a los Ciclos Formativos de Grado Superior la edad mínima
+  es de quince años. El nivel del alumnado que cursa la Formación
+  Básica, en términos académicos es muy bajo, siendo alumnado que,
+  generalmente, presenta bloqueos que le impiden el desarrollo normal
+  del aprendizaje, problemas conductuales y de marginación social, por
+  lo que el profesorado ha de hacer una labor de "enganche" muy
+  importante. En la mayoría de las ocasiones esto se logra a través de
+  la práctica en el taller y utilizando la especialidad como hilo
+  conductor para desarrollar los módulos de formación más conceptuales.
+
+- La edad mínima para acceder a los Ciclos Formativos de Grado Medio es
+  de 17 años. A nivel general, en estos ciclos, se observan dos perfiles
+  muy diferenciados. Por una parte, un alumnado vocacional que tiene muy
+  claro su futuro profesional y conoce el sector económico demostrando
+  mucho empeño en su formación; y por otra un alumnado que cursa,
+  simplemente por continuar sus estudios.
+
+- Para acceder a los Ciclos Formativos de Grado Superior la edad mínima
+  es de dieciocho años. Al contrario que en los ciclos descritos
+  anteriormente, el alumnado es consciente de lo que implica su
+  formación demostrando un alto nivel de rendimiento e interés. En los
+  últimos años se observa un aumento de las inscripciones en los ciclos
+  formativos de grado medio y superior en edad adulta. Esta demanda
+  viene determinada por los cambios sociales producidos en los últimos
+  años entre ellos la crisis de empleo. El nivel cultural del alumnado
+  de los Ciclos de Imagen Personal es muy variado. Desde el alumnado que
+  accede mediante prueba, algunos con bachiller, de otros ciclos
+  formativos de la misma familia, de diferente familia profesional e
+  incluso con estudios universitarios. Muchos de ellos compaginan su
+  formación con el trabajo.
+
+# LA ESPECIALIDAD DE ESTÉTICA
+
+## REALES DECRETOS DE TÍTULO Y CURRICULO La especialidad de Estética
+
+Se estructura en distintos grados de enseñanza, básico, medio y
+superior.
+
+En los siguientes enlaces se pueden encontrar toda la información acerca
+de los ciclos formativos y familias profesionales que se imparten en la
+Comunidad Valenciana.
+
+- [Dosier ciclos - Formación Profesional - Generalitat Valenciana](https://ceice.gva.es/es/web/formacion-profesional/dossier-cicles)
+
+- [Todofp](http://todofp.es/inicio.html)
+
+**FP Básica: Título Profesional Básico en Peluquería y Estética**
+
+Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos
+específicos de la Formación Profesional Básica de las enseñanzas de
+Formación Profesional del sistema educativo, se aprueban catorce títulos
+profesionales básicos, se fijan sus currículos básicos.
+
+DECRETO 185/2014, de 31 de octubre, del Consell, por el que se
+establecen veinte currículos correspondientes a los ciclos formativos de
+Formación Profesional Básica en el ámbito de la Comunitat Valenciana.
+
+**Ciclo Formativo de Grado Medio: Estética y Belleza Real Decreto**
+
+Real Decreto 256/2011, de 28 de febrero, por el que se establece el
+título de Técnico en Estética y Belleza y se fijan sus enseñanzas
+mínimas.
+
+Decreto 158/2017 7, de 6 de octubre, del Consell, por el que se
+establece para la Comunitat Valenciana el currículo del ciclo formativo
+de grado medio correspondiente al título de Técnic o o Técnica en
+Estética y Belleza.
+
+**Ciclo Formativo de Grado Superior Estética Integral y Bienestar**
+
+Real Decreto 881/2011, de 24 de junio, por el que se establece el título
+de Técnico Superior en Estética Integral y Bienestar y se fijan sus
+enseñanzas mínimas.
+
+ORDEN 19/2015, de 5 de marzo, de la Consellería de Educación, Cultura y
+Deporte, por la que se establece para la Comunitat Valenciana el
+currículo del ciclo formativo de grado superior correspondiente al
+título de Técnico Superior en Estética Integral y Bienestar.
+
+**Caracterización y Maquillaje Profesional**
+
+Real Decreto 553/2012, de 23 de marzo, por el que se establece el título
+de Técnico Superior en Caracterización y Maquillaje Profesional y se
+fijan sus enseñanzas mínimas.
+
+DECRETO 41/2017, de 24 de marzo, del Consell, por el que se establece el
+currículo del ciclo formativo de grado superior correspondiente al
+título de técnico/a superior en caracterización y maquillaje
+profesional.
+
+**Termalismo y Bienestar.**
+
+Real Decreto 699/2919, de 29 de noviembre por el que se establece el
+título de Técnico Superior en Termalismo y Bienestar y se fijan los
+aspectos básicos del currículo. Este título ha visto la luz el 10 de
+enero de 2020 por lo que, hasta la fecha de hoy, no hay adaptación
+curricular específica para la Comunidad Valenciana.
+
+## INSTALACIONES Y ESPACIOS EN LOS CENTROS EDUCATIVOS
+
+Estas enseñanzas se imparten en las aulas polivalentes, en el
+laboratorio y principalmente en talleres dotados de una serie de
+mobiliario, aparatología, materiales y equipos que varían en función del
+módulo formativo. En los Reales Decretos donde se establecen los títulos
+de cada ciclo formativo, especifica las medidas que deben tener los
+espacios según el número de alumnos y el equipamiento necesario.
+
+Por otro lado, en las Órdenes por la que se establece para la Comunidad
+Valenciana los currículos de los Ciclos Formativos, se observa una mayor
+especificación de las instalaciones y espacios.
+
+**Ejemplo:**
+
+En el Real Decreto 881/2011, de 24 de junio, por el que se establece el
+título de Técnico Superior en Estética Integral y Bienestar y se fijan
+sus enseñanzas mínimas, en el Artículo 11 especifica:
+
+1.  Los espacios necesarios para el desarrollo de las enseñanzas de este
+    ciclo formativo son los establecidos en el Anexo II de este real
+    decreto.
+
+      - ANEXO II
+      - Espacios Aula polivalente Taller/es de estética
+      - Laboratorio de cosmetología y perfumería
+      - Aula taller de estética hidrotermal
+
+2.  Los espacios dispondrán de la superficie necesaria y suficiente para
+    desarrollar las actividades de enseñanza que se deriven de los
+    resultados de aprendizaje de cada uno de los módulos profesionales
+    que se imparten en cada uno de los espacios. Además, deberán cumplir
+    las siguientes condiciones:
+
+      a) La superficie se establecerá en función del número de personas que
+      ocupen el espacio formativo y deberá permitir el desarrollo de las
+      actividades de enseñanza-aprendizaje con la ergonomía y la movilidad
+      requeridas dentro del mismo.
+
+      b) Deberán cubrir la necesidad espacial de mobiliario, equipamiento e
+      instrumentos auxiliares de trabajo.
+
+      c) Deberán respetar los espacios o superficies de seguridad que exijan
+      las máquinas y equipos en funcionamiento.
+
+      d) Respetarán la normativa sobre prevención de riesgos laborales, la
+      normativa sobre seguridad y salud en el puesto de trabajo y cuantas
+      otras normas sean de aplicación.
+
+3.  Los espacios formativos establecidos podrán ser ocupados por
+    diferentes grupos de alumnos que cursen el mismo u otros ciclos
+    formativos, o etapas educativas.
+
+4.  Los diversos espacios formativos identificados no deben
+    diferenciarse necesariamente mediante cerramientos.
+
+5.  Los equipamientos que se incluyen en cada espacio han de ser los
+    necesarios y suficientes para garantizar al alumnado la adquisición
+    de los resultados de aprendizaje y la calidad de la enseñanza.
+    Además, deberán cumplir las siguientes condiciones:
+
+      a) El equipamiento (equipos, máquinas, etc.) dispondrá de la
+      instalación necesaria para su correcto funcionamiento, cumplirá con las
+      normas de seguridad y prevención de riesgos y con cuantas otras sean de
+      aplicación.
+
+      b) La cantidad y características del equipamiento deberán estar en
+      función del número de personas matriculadas y permitir la adquisición de
+      los resultados de aprendizaje, teniendo en cuenta los criterios de
+      evaluación y los contenidos que se incluyen en cada uno de los módulos
+      profesionales que se impartan en los referidos espacios.
+
+6.  Las Administraciones competentes velarán por que los espacios y el
+    equipamiento sean los adecuados en cantidad y características para
+    el desarrollo de los procesos de enseñanza y aprendizaje que se
+    derivan de los resultados de aprendizaje de los módulos
+    correspondientes y garantizar así la calidad de estas enseñanzas.
+
+Por otro lado, en el Artículo 5 de la ORDEN 19/2015, de 5 de marzo, de
+la Consellería de Educación, Cultura y Deporte, por la que se establece
+para la Comunitat Valenciana el currículo del ciclo formativo de grado
+superior correspondiente al título de Técnico Superior en Estética
+Integral y Bienestar, concreta el apartado de espacios y equipamiento.
+
+Los espacios y equipamiento mínimos que deben reunir los centros
+educativos para permitir el desarrollo de las enseñanzas de este ciclo
+formativo, cumpliendo con la normativa sobre prevención de riesgos
+laborales, así como la normativa sobre seguridad y salud en el puesto de
+trabajo son los establecidos en el anexo V de esta orden.
+
+**ANEXO V**
+
+Espacios mínimos
+
+  -----------------------------------------------------------------
+  Espacio formativo     Superficie m2 30      Superficie m2 20
+                        alumnos               alumnos
+  --------------------- --------------------- ---------------------
+  Aula polivalente      60                    40
+
+  Taller/es de estética 120                   90
+
+  Laboratorio de        90                    60
+  cosmetología y                              
+  perfumería                                  
+
+  Aula taller de        120                   90
+  estética hidrotermal                        
+  -----------------------------------------------------------------
+
+Los espacios formativos establecidos pueden ser ocupados por diferentes
+grupos de alumnado que cursen el mismo u otros ciclos formativos, o
+etapas educativas, y no necesariamente deben diferenciarse mediante
+cerramientos. El equipamiento, además de ser el necesario y suficiente
+para garantizar la adquisición de los resultados de aprendizaje y la
+calidad de la enseñanza al alumnado según el sistema de calidad
+adoptado, deberá cumplir las siguientes condiciones:
+
+a) Los equipos, máquinas, etc. dispondrán de la instalación necesaria
+para su correcto funcionamiento y cumplirán con las normas de seguridad
+y prevención de riesgos y con cuantas otras sean de aplicación.
+
+b) Su cantidad y características deberá estar en función del número de
+alumnos/ as y permitir la adquisición de los resultados de aprendizaje,
+teniendo en cuenta los criterios de evaluación y los contenidos que se
+incluyen en cada uno de los módulos profesionales que se impartan en los
+referidos espacios.
+
+Le corresponde al profesorado velar por el mantenimiento de las
+aula-taller, el departamento de cada centro establece protocolos de uso
+y mantenimiento.
+
+## ENTORNO PROFESIONAL
+
+**Título Profesional Básico en Peluquería y Estética**
+
+Este profesional ejerce generalmente su actividad por cuenta ajena en
+peluquerías y salones de belleza, así como en salas de peluquería y/o
+estética, gimnasios o centros de belleza de hoteles, residencias de
+personas mayores, hospitales y balnearios, supervisado por los técnicos
+responsables. También puede realizar de forma autónoma servicios básicos
+de peluquería, manicura y pedicura, depilación y maquillaje.
+
+Las ocupaciones y puestos de trabajo más relevantes son los siguientes:
+
+* Auxiliar de peluquería.
+
+* Ayudante de manicura y pedicura.
+
+* Ayudante de maquillaje.
+
+* Auxiliar de depilación.
+
+Ciclo Formativo de Grado Medio en Estética y Belleza Este profesional
+ejerce su actividad en medianas y pequeñas empresas que tienen relación
+directa con la imagen personal, particularmente en establecimientos del
+sector servicios de estética y peluquería, y en general en
+establecimientos relacionados con la venta de productos de imagen
+personal así como con la cosmética, desempeñando tareas de ejecución de
+maquillaje social, depilación mecánica, tratamientos básicos de higiene,
+hidratación facial y corporal, estética de manos y pies, asesoramiento
+sobre perfumes y cosmética natural, así como la comercialización de los
+productos y servicios estéticos, ofreciendo un servicio de atención a
+los clientes de la empresa.
+
+Podría ser trabajador por cuenta propia efectuando la organización de su
+propia empresa.
+
+Las ocupaciones y puestos de trabajo más relevantes son los siguientes:
+Técnico esteticista en centros de belleza y gabinetes de estética.
+
+* Maquillador/a.
+
+* Técnico en uñas artificiales.
+
+* Técnico en depilación.
+
+* Técnico en manicura y pedicura.
+
+* Recepcionista en empresas estéticas.
+
+* Demostrador de equipos, cosméticos y técnicas estéticas.
+
+* Agente comercial en empresas del sector.
+
+* Asesor/vendedor en perfumerías y droguerías.
+
+**Ciclo Formativo de Grado Superior en Estética Integral y Bienestar**
+
+Este profesional ejerce su actividad en el sector de cuidados de la
+imagen personal, en el subsector de cuidados estéticos, en pequeñas y
+medianas empresas, mayoritariamente privadas, en las áreas de
+tratamientos estéticos integrales, estética hidrotermal,
+microimplantación de pigmentos, depilación avanzada, masaje estético y
+drenaje, y asesoramiento en tratamientos y productos cosméticos.
+
+Se trata de profesionales por cuenta propia que trabajan gestionando su
+propia empresa o que trabajan por cuenta ajena, ejerciendo su actividad
+profesional como empleados o jefes de área o departamento.
+
+Las ocupaciones y puestos de trabajo más relevantes son los siguientes:
+
+* Esteticista.
+
+* Director técnico en empresas estéticas y áreas de imagen personal, de
+spas y balnearios.
+
+* Técnico en tratamientos estéticos integrales.
+
+* Especialista en técnicas hidroestéticas.
+
+* Técnico en micropigmentación.
+
+* Técnico en depilación mecánica y avanzada.
+
+* Técnico en aparatología estética.
+
+* Especialista en bronceado mediante radiación ultravioleta.
+
+* Técnico en masajes estéticos.
+
+* Técnico en drenaje linfático estético.
+
+* Trabajador cualificado en centros de medicina y cirugía estética.
+
+* Técnico comercial.
+
+* Asesor estético y cosmético.
+
+* Formador técnico en estética.
+
+**Ciclo Formativo de Grado Superior en Caracterización y Maquillaje Profesional**
+
+Las personas que obtienen este título ejercen su actividad en empresas,
+mayoritariamente privadas, dedicadas al desarrollo de proyectos de
+caracterización para producciones audiovisuales y escénicas, en talleres
+y estudios de caracterización y en empresas dedicadas al maquillaje
+profesional, donde desarrollan tareas individuales y en grupo en las
+áreas funcionales de gestión y supervisión, diseño, organización y
+prestación de servicios, así como en la fabricación de postizos, pelucas
+y prótesis de caracterización, bien como trabajador autónomo o por
+cuenta ajena.
+
+Las ocupaciones y puestos de trabajo más relevantes son los siguientes:
+
+* Caracterizador/a.
+
+* Jefe/a de maquillaje para medios audiovisuales y actividades y
+actuaciones escénicas.
+
+* Peluquero/a para caracterización.
+
+* Maquillador/a para medios audiovisuales y actividades y actuaciones
+escénicas.
+
+* Posticero/a.
+
+* Jefe/a de caracterización.
+
+* Jefe/a de peluquería para espectáculos y medios audiovisuales.
+
+* Especialista en prótesis y efectos especiales de caracterización.
+
+* Diseñador/a de personajes de caracterización.
+
+* Formador/a técnico en caracterización.
+
+* Técnico/a comercial.
+
+# BIBLIOGRAFÍA Y FUENTES
+
+- **RIAL, Antonio y REGO, Laura.** Formación profesional en España: Conquistas de la formación profesional en España en los últimos veinticinco años. *Formación XXI* (en línea). Enero de 2012, nº 19. (fecha de consulta: 15 febrero 2016). Disponible en: <http://formacionxxi.com/porqualMagazine/do/get/magazineArticle/2011/12/text/xml/Formacion_profesional_en_Espana.xml.html>
+- Material del curso del CEFIRE "PROGRAMACIÓ DIDÀCTICA PER COMPETÈNCIES PROFESSIONALS CONTEXTUALITZADES". Raül Solbes i Monzó
+- **Muro Jimenez, Jose Manuel** (2008). *Programación y unidades didácticas en Formación Profesional*. MAD
+- [www.ceice.gva.es](http://www.ceice.gva.es/)
+- [www.todofp.com](http://www.todofp.com/)
+- [RD 659/2023](https://www.boe.es/eli/es/rd/2023/07/18/659)
+- [DECRET 114/2025, de 29 de juliol](https://dogv.gva.es/es/eli/es-vc/d/2025/07/29/114)
+
