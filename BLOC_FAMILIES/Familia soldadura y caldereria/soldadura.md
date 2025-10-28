@@ -412,7 +412,7 @@ a) Una parte troncal obligatoria
 
 - Inglés profesional
 
-b\) Una parte de optativa integrada de un módulo de los que se ofrecerán
+b) Una parte de optativa integrada de un módulo de los que se ofrecerán
 en el centro educativo que tendrá duración anual y se cursará en segundo
 curso.
 
@@ -544,3 +544,254 @@ normativa autonómica ofrece directrices precisas sobre la organización,
 atribución docente y otros aspectos esenciales para el desarrollo de una
 programación didáctica conforme a las necesidades y características del
 sistema educativo valenciano.
+
+# SOLDADURA Y CALDERERÍA 
+
+La familia profesional de Fabricación Mecánica engloba un conjunto de
+actividades orientadas a la producción industrial de componentes y
+sistemas mecánicos, abarcando procesos como el mecanizado, la soldadura,
+la programación de la producción, la fabricación de elementos metálicos,
+el diseño de productos mecánicos, la programación de sistemas
+automáticos y la fabricación por moldeo de metales y polímeros. Esta
+familia es esencial para el sector industrial y manufacturero, siendo
+clave para la competitividad y sostenibilidad de la industria en la
+Comunitat Valenciana. 
+
+En la Comunitat Valenciana, esta familia tiene una importante presencia
+económica y formativa, con un tejido empresarial compuesto por empresas
+dedicadas a la fabricación de componentes mecánicos, maquinaria
+industrial, equipos electrónicos, instalaciones electrotécnicas y
+automatismos, entre otros. Las provincias de València, Alicante y
+Castelló concentran la mayor parte de esta actividad, especialmente en
+zonas industriales y tecnológicas, generando un elevado volumen de
+empleo y oportunidades de emprendimiento. 
+
+
+En la familia profesional de Fabricación Mecánica, los profesores
+técnicos de sector singular dentro de la Administración educativa tienen
+atribución docente exclusiva o principal en aquellas especialidades
+estrechamente vinculadas a su experiencia profesional en el sector
+industrial. 
+
+En esta familia profesional, los profesores de sector singular imparten
+generalmente especialidades técnicas directamente relacionadas con
+procesos productivos concretos, tales como: 
+
+- Mecanizado y mantenimiento de máquinas 
+- Soldadura y calderería
+- Fabricación por moldeo de metales y polímeros 
+
+Estos profesores combinan su experiencia profesional en la industria con
+competencias pedagógicas, garantizando que la formación proporcionada
+sea práctica, actualizada y ajustada a las necesidades reales del
+sector. 
+
+## OFERTA FORMATIVA 
+
+ 
+
+**F. P. Básica** 
+
+- Fabricación y montaje  
+-  Instalaciones electrotécnicas y mecánica  
+- Fabricación de elementos metálicos  
+
+**Grado Medio** 
+
+-  Técnico en Soldadura y Calderería  
+
+**Grado Superior** 
+
+- Técnico Superior en Construcciones Metálicas  
+
+## REALES DECRETOS Y CURRÍCULUM
+
+### F. P. Básica
+
+**Fabricación y montaje** 
+
+- Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos
+específicos de la Formación Profesional Básica de las enseñanzas de
+formación profesional del sistema educativo, se aprueban catorce títulos
+profesionales básicos, se fijan sus currículos básicos y se modifica el
+
+- Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos
+académicos y profesionales correspondientes a las enseñanzas
+establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación. 
+
+- DECRETO 185/2014, de 31 de octubre, del Consell, por el que se
+establecen veinte currículos correspondientes a los ciclos formativos de
+Formación Profesional Básica en el ámbito de la Comunitat Valenciana.
+
+**Instalaciones electrotécnicas y mecánica** 
+
+- Real Decreto 774/2015, de 28 de agosto, por el que se establecen seis
+Títulos de Formación Profesional Básica del catálogo de Títulos de las
+enseñanzas de Formación Profesional. 
+
+- DECRETO 23/2022, de 4 de marzo, del Consell, de establecimiento del
+currículum de los ciclos de formación profesional correspondientes a los
+títulos profesionales básicos en Actividades Marítimo-Pesqueras,
+Actividades de Horno y Pastelería, Actividades Domésticas y de Limpieza
+de Edificios, Mantenimiento de Viviendas, Fabricación de Elementos
+Metálicos, Instalaciones Electrotécnicas y Mecánica, y Mantenimiento de
+Embarcaciones Deportivas y de Recreo.  
+
+**Fabricación de elementos metálicos** 
+
+- Real Decreto 774/2015, de 28 de agosto, por el que se establecen seis
+Títulos de Formación Profesional Básica del catálogo de Títulos de las
+enseñanzas de Formación Profesional. 
+
+- DECRETO 23/2022, de 4 de marzo, del Consell, de establecimiento del
+currículum de los ciclos de formación profesional correspondientes a los
+títulos profesionales básicos en Actividades Marítimo-Pesqueras,
+Actividades de Horno y Pastelería, Actividades Domésticas y de Limpieza
+de Edificios, Mantenimiento de Viviendas, Fabricación de Elementos
+Metálicos, Instalaciones Electrotécnicas y Mecánica, y Mantenimiento de
+Embarcaciones Deportivas y de Recreo. 
+
+### Grado Medio
+
+**Técnico en Soldadura y Calderería** 
+
+- Real Decreto 1692/2007, de 14 de diciembre, por el que se establece el
+título de Técnico en Soldadura y Calderería y se fijan sus enseñanzas
+mínimas. 
+
+- ORDEN de 29 de julio 2009, de la Conselleria de Educación, por la que se
+establece para la Comunitat Valenciana el currículo del ciclo formativo
+de Grado Medio correspondiente al título de Técnico en Soldadura y
+Calderería. 
+
+- Para elaborar la programación didáctica será necesario consultar el
+**Decreto 114/2025, de 29 de julio**, con el fin de comprobar si el
+módulo que se va a programar ha experimentado alguna modificación. En
+caso de que el decreto introduzca cambios, se deberán tener en cuenta y
+aplicar las adaptaciones correspondientes en la programación. 
+
+
+### Grado Superior
+
+**Técnico Superior en Construcciones Metálicas** 
+
+- Real Decreto 174/2008, de 8 de febrero, por el que se establece el
+título de Técnico Superior en Construcciones Metálicas y se fijan sus
+enseñanzas mínimas. 
+
+- ORDEN de 29 de julio 2009, de la Conselleria de Educación, por la que se
+establece para la Comunitat Valenciana el currículo del ciclo formativo
+de Grado Superior correspondiente al título de Técnico Superior en
+Construcciones Metálicas.  
+
+## INSTALACIONES
+
+Estas enseñanzas se imparten en las aulas polivalentes, en el
+laboratorio y principalmente en talleres dotados de una serie de
+mobiliario, aparatología, materiales y equipos que varían en función del
+módulo formativo. 
+
+En los Reales Decretos donde se establecen los títulos de cada ciclo
+formativo, especifica las medidas que deben tener los espacios según el
+número de alumnos y el equipamiento necesario.  
+
+Por otro lado, en las Órdenes por la que se establece para la Comunidad
+Valenciana los currículos de los Ciclos Formativos, se observa una mayor
+especificación de las instalaciones y espacios.  
+
+Ejemplo: 
+
+En el Real Decreto 174/2008, de 8 de febrero, por el que se establece el
+título de Técnico Superior en Construcciones Metálicas y se fijan sus
+enseñanzas mínimas en su Anexo II nos proporciona una información
+general sin especificar de los espacios necesarios para impartir este
+ciclo: 
+
+
+- Aula polivalente.  
+- Aula Diseño.  
+- Laboratorio de ensayos.  
+- Taller de construcciones metálicas.  
+- Taller de mecanizado.  
+- Taller de automatismos. 
+
+
+Sin embargo, en la Orden autonómica que establece el currículo de este
+ciclo, en el anexo V, nos proporciona información más específica y
+detallada: 
+
+| Espacio formativo                                             | Superficie m² (30 alumnos) | Superficie m² (20 alumnos) |
+|---------------------------------------------------------------|----------------------------|----------------------------|
+| Aula polivalente                                              | 60                         | 40                         |
+| Aula Diseño + Taller de automatismos                          | 90                         | 60                         |
+| Laboratorio de ensayos                                        | 60                         | 40                         |
+| Taller de construcciones metálicas + Taller de mecanizado     | 300                        | 240                        |
+
+
+## ENTORNO PROFESIONAL
+
+### F.P. Básica 
+
+**Fabricación y montaje** 
+
+- Peones de industrias manufactureras.  
+- Auxiliares de procesos automatizados.  
+- Fontanero/a. Montador/a de equipos de calefacción.  
+- Mantenedor/a de equipos de calefacción.  
+- Montador/a de equipos de climatización.  
+- Mantenedor/a de equipos de climatización Instalador/a de redes de suministro y distribución de agua. 
+ 
+
+**Instalaciones electrotécnicas y mecánica** 
+
+- Operario/a de instalaciones eléctricas de baja tensión.  
+- Ayudando/a de montador/a de antenas receptoras/ televisión satélites.  
+- Ayudando/a de instalador/a y reparador/a de equipos telefónicos y telegráficos. 
+- Ayudando/a de instalador/a de equipos y sistemas de comunicación.  
+- Ayudando/a de instalador/a reparador/a de instalaciones telefónicas.  
+- Peón de la industria de producción y distribución de energía eléctrica.  
+- Peones de industrias manufactureras.  
+- Auxiliares de procesos automatizados. 
+
+**Fabricación de elementos metálicos** 
+
+- Operario/a de instalaciones eléctricas de baja tensión.  
+- Ayudante/a de montador/a de antenas receptoras/ televisión satélites.  
+- Operador/a de ensamblado de equipos eléctricos y electrónicos.  
+- Montador/a de componentes en placas de circuito impreso.  
+- Auxiliar de mantenimiento de equipos eléctricos y electrónicos.  
+- Probador/a-ajustador/a de placas y equipos eléctricos y electrónicos.  
+- Peones de industrias manufactureras.  
+- Auxiliares de procesos automatizados.  
+- Peones y auxiliares de industrias metalúrgicas, de fabricación de productos metálicos y manufactureras.  
+- Auxiliar soldador/a de materiales de acero al carbono por arco eléctrico con electrodo revestido de rutilo.  
+- Auxiliar de soldador/a de estructuras metálicas pesadas, ligeras y tubería. Auxiliar de oxicortador/a a mano.  
+- Auxiliar de cortador/a de metales por plasma, a mano. 
+- Auxiliares de procesos automatizados.  
+- Auxiliar de carpintero/a metálico. Auxiliar de montador/a de estructuras metálicas. 
+
+### Grado Medio
+
+**Técnico en Soldadura y Calderería** 
+
+- Soldadores y oxicortadores.  
+- Operadores de proyección térmica.  
+- Chapistas y caldereros.  
+- Montadores de estructuras metálicas.  
+- Carpintero metálico.  
+- Tubero industrial de industria pesada. 
+
+### Grado Superior
+
+**Técnico Superior en Construcciones Metálicas** 
+
+- Técnico en construcción mecánica.  
+- Encargado de fabricación en construcciones metálicas. 
+- Encargado de montadores en construcciones metálicas.  
+- Delineante proyectista de calderería y estructuras metálicas.  
+- Técnico en diseño asistido por ordenador (CAD) de calderería y estructuras metálicas. 
+- Diseñador técnico de calderería y estructuras.  
+- Programador de sistemas automatizados en fabricación mecánica.  
+- Programador de la producción en fabricación mecánica.  
+- Técnico en desarrollo de tuberías.  
+- Jefe de taller en construcciones metálicas y montaje. 

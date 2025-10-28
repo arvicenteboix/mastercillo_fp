@@ -544,3 +544,366 @@ normativa autonómica ofrece directrices precisas sobre la organización,
 atribución docente y otros aspectos esenciales para el desarrollo de una
 programación didáctica conforme a las necesidades y características del
 sistema educativo valenciano.
+
+
+# LA FAMILIA PROFESIONAL DE HOSTELERÍA Y TURISMO
+
+## INTRODUCCIÓN 
+
+La familia profesional de **Hostelería y Turismo** engloba un amplio
+conjunto de actividades relacionadas con la **prestación de servicios de
+alojamiento, restauración, gastronomía, organización de eventos y
+gestión turística**. Su ámbito de actuación se estructura en diversas
+áreas interconectadas: por un lado, la **hostelería**, que comprende la
+cocina, el servicio en restauración, la repostería y la atención al
+cliente en establecimientos hoteleros y de restauración; y, por otro, el
+**turismo**, orientado a la planificación, promoción y gestión de
+destinos, agencias de viajes, empresas de ocio y actividades
+culturales. 
+
+En la **Comunitat Valenciana**, esta familia profesional constituye uno
+de los pilares del sector servicios y un motor esencial de la economía
+regional. La región es uno de los principales destinos turísticos de
+España, con más de **30 millones de visitantes anuales**, lo que impulsa
+una alta demanda de profesionales cualificados. Provincias como
+**Alicante, Valencia y Castellón** concentran una importante oferta
+hotelera y gastronómica, así como una red de empresas dedicadas al
+turismo sostenible, la intermediación y la restauración de alto nivel.
+Destacan zonas como la **Costa Blanca, la ciudad de València y la Costa
+del Azahar**, donde la hostelería y el turismo generan miles de empleos
+directos e indirectos. 
+
+Esta sólida implantación se refleja también en la **oferta formativa**,
+que abarca ciclos de **Formación Profesional Básica, Grado Medio y Grado
+Superior**, impartidos en numerosos centros educativos de la Comunitat
+Valenciana. Entre ellos, sobresale la labor del **Centro de Referencia
+Nacional de Turismo, Hotelería y Restauración de Castelló**, que impulsa
+la innovación y la excelencia formativa en el sector. 
+
+El ámbito de Hostelería y Turismo ha experimentado una profunda
+transformación en los últimos años, impulsada por la **digitalización,
+la sostenibilidad y la internacionalización**. La implantación de
+tecnologías de gestión hotelera, la utilización de plataformas digitales
+de reservas, la gastronomía de vanguardia, la eficiencia energética en
+alojamientos o el turismo experiencial son algunos de los cambios más
+relevantes. Estas innovaciones han modificado los perfiles
+profesionales, orientándolos hacia la **atención personalizada, la
+gestión sostenible y el uso de herramientas digitales**. En este
+contexto, la Formación Profesional se adapta de manera continua,
+incorporando **contenidos actualizados, competencias lingüísticas y
+tecnológicas**, así como colaboraciones con empresas y organismos del
+sector, garantizando una formación alineada con las necesidades reales
+del mercado laboral. 
+
+## OFERTA FORMATIVA 
+
+Dentro de la familia profesional de Hostelería y turismo se ofertan 11 ciclos formativos. 
+
+**Títulos de FP. Básica:** 
+
+T.P.B. Alojamiento y Lavandería  
+T.P.B. Cocina y Restauración  
+T.P.B. Actividades de Panadería y Pastelería  
+
+**Títulos de FP. De grado medio:** 
+
+- T. Cocina y gastronomía  
+- T. Servicios de Restauración  
+- Curso de Especialización de Panadería y Bollería Artesana
+
+**Títulos de FP. Superior:** 
+
+- T.S. Agencias de Viajes y Gestión de Eventos  
+- T.S. Gestión de Alojamientos Turísticos 
+- T.S. Guía, Información y asistencias turísticas  
+- T.S. Dirección de Cocina 
+- T.S. Dirección de Servicios de Restauración 
+
+## REALES DECRETOS 
+
+**T.P.B. Alojamiento y Lavandería** 
+
+- Real Decreto 356/2014, de 16 de mayo, por el que se establecen siete
+títulos de Formación Profesional Básica del catálogo de títulos de las
+enseñanzas de Formación Profesional. 
+
+- DECRETO 185/2014, de 31 de octubre, del Consell, por el que se
+establecen veinte currículos correspondientes a los ciclos formativos de
+Formación Profesional Básica en el ámbito de la Comunitat Valenciana. 
+
+**T.P.B. Cocina y Restauración** 
+
+- Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos
+específicos de la Formación Profesional Básica de las enseñanzas de
+formación profesional del sistema educativo, se aprueban catorce títulos
+profesionales básicos, se fijan sus currículos básicos y se modifica el
+Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos
+académicos y profesionales correspondientes a las enseñanzas
+establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación. 
+
+- DECRETO 185/2014, de 31 de octubre, del Consell, por el que se
+establecen veinte currículos correspondientes a los ciclos formativos de
+Formación Profesional Básica en el ámbito de la Comunitat Valenciana.  
+
+**T.P.B. Actividades de Panadería y Pastelería** 
+
+- Real Decreto 774/2015, de 28 de agosto, por el que se establecen seis
+Títulos de Formación Profesional Básica del catálogo de Títulos de las
+enseñanzas de Formación Profesional. 
+
+- DECRETO 23/2022, de 4 de marzo, del Consell, de establecimiento del
+currículum de los ciclos de formación profesional correspondientes a los
+títulos profesionales básicos en Actividades Marítimo-Pesqueras,
+Actividades de Horno y Pastelería, Actividades Domésticas y de Limpieza
+de Edificios, Mantenimiento de Viviendas, Fabricación de Elementos
+Metálicos, Instalaciones Electrotécnicas y Mecánica, y Mantenimiento de
+Embarcaciones Deportivas y de Recreo.  
+
+**T. Cocina y gastronomía** 
+
+- Real Decreto 1396/2007, de 29 de octubre, por el que se establece el
+título de Técnico en Cocina y Gastronomía y se fijan sus enseñanzas
+mínimas. 
+
+- ORDEN de 29 de julio de 2009, de la Conselleria de Educación, por la que
+se establece para la Comunitat Valenciana el currículo del ciclo
+formativo de Grado Medio correspondiente al título de Técnico en Cocina
+y Gastronomía.  
+
+ 
+**T. Servicios de Restauración** 
+
+- Real Decreto 1690/2007, de 14 de diciembre, por el que se establece el
+título de Técnico en Servicios en Restauración y se fijan sus enseñanzas
+mínimas**.** 
+
+- ORDEN de 29 de julio 2009, de la Conselleria de Educación, por la que se
+establece para la Comunitat Valenciana el currículo del ciclo formativo
+de Grado Medio correspondiente al título de Técnico en Servicios en
+Restauración.  
+
+**Curso de Especialización de Panadería y Bollería Artesana** 
+
+- Real Decreto 482/2020, de 7 de abril, por el que se establece el Curso
+de especialización en panadería y bollería artesanales y se fijan los
+aspectos básicos del currículo, y se modifica el Real Decreto 651/2017,
+de 23 de junio, por el que se establece el Título de Técnico Superior en
+Acondicionamiento Físico y se fijan los aspectos básicos del currículo. 
+
+- Hoy en día, en la Comunitat Valenciana no se dispone de una concreción
+curricular propia para el *Curso de Especialización en Panadería y
+Bollería Artesanales*, perteneciente a la familia profesional de
+Hostelería y Turismo. 
+
+ **T.S. Agencias de Viajes y Gestión de Eventos** 
+
+- Real Decreto 1254/2009, de 24 de julio, por el que se establece el
+título de Técnico Superior en Agencias de Viajes y Gestión de Eventos y
+se fijan sus enseñanzas mínimas. 
+
+- ORDEN 33/2012, de 22 de junio, de la Conselleria de Educación, Formación
+y Empleo, por la que se establece para la Comunidad Valenciana el
+currículo del ciclo formativo de grado superior correspondiente al
+título de Técnico Superior en Agencias de Viajes y Gestión de Eventos. 
+ 
+
+- **T.S. Gestión de Alojamientos Turísticos** 
+
+Real Decreto 1686/2007, de 14 de diciembre, por el que se establece el
+título de Técnico Superior en Gestión de Alojamientos Turísticos y se
+fijan sus enseñanzas mínimas. 
+
+ORDEN de 29 de julio de 2009, de la Conselleria de Educación por la que
+se establece para la Comunitat Valenciana el currículo del ciclo
+formativo de Grado Superior correspondiente al título de Técnico
+Superior en Gestión de Alojamientos Turísticos.** ** 
+
+ 
+
+**T.S. Guía, Información y asistencias turísticas** 
+
+- Real Decreto 1255/2009, de 24 de julio, por el que se establece el
+título de Técnico Superior en Guía, Información y Asistencias Turísticas
+y se fijan sus enseñanzas mínimas 
+
+- ORDEN 34/2012, de 22 de junio, de la Conselleria de Educación, Formación
+y Empleo, por la que se establece para la Comunitat Valenciana el
+currículo del ciclo formativo de grado superior correspondiente al
+título de Técnico Superior en Guía, Información y Asistencias
+Turísticas 
+
+**T.S. Dirección de Cocina** 
+
+- Real Decreto 687/2010, de 20 de mayo, por el que se establece el título
+de Técnico Superior en Dirección de Cocina y se fijan sus enseñanzas
+mínimas. 
+
+- ORDEN 32/2013, de 26 de abril, de la Consellería de Educación, Cultura y
+Deporte, por la que se establece para la Comunitat Valenciana el
+currículo del ciclo formativo de grado superior correspondiente al
+título de Técnico Superior en Dirección de Cocina. 
+
+**T.S. Dirección de Servicios de Restauración** 
+
+- Real Decreto 688/2010, de 20 de mayo, por el que se establece el título
+de Técnico Superior en Dirección de Servicios de Restauración y se fijan
+sus enseñanzas mínimas. 
+
+- ORDEN 24/2013, de 21 de abril, de la Conselleria de Educación, Cultura y
+Deporte por la que se establece para la Comunitat Valenciana el
+currículo del ciclo formativo de Grado Superior correspondiente al
+título de Técnico Superior en Dirección de Servicios en
+Restauración.
+
+## INSTALACIONES 
+
+Estas enseñanzas se imparten en las aulas polivalentes, en el
+laboratorio y principalmente en talleres dotados de una serie de
+mobiliario, aparatología, materiales y equipos que varían en función del
+módulo formativo. 
+
+En los Reales Decretos donde se establecen los títulos de cada ciclo
+formativo, especifica las medidas que deben tener los espacios según el
+número de alumnos y el equipamiento necesario.  
+
+Por otro lado, en las Órdenes por la que se establece para la Comunidad
+Valenciana los currículos de los Ciclos Formativos, se observa una mayor
+especificación de las instalaciones y espacios.  
+
+Ejemplo: 
+
+En el Real Decreto 687/2010, de 20 de mayo, por el que se establece el
+título de Técnico Superior en Dirección de Cocina y se fijan sus
+enseñanzas mínimas 
+
+| Espacio formativo                        |
+|-------------------------------------------|
+| Aula polivalente.                        |
+| Taller de cocina.                        |
+| Taller de panadería y repostería.        |
+
+
+Sin embargo, en la Orden autonómica que establece el currículo de este
+ciclo, en el anexo IV, nos proporciona información más específica y
+detallada: 
+
+| Espacio formativo                        | Superficie m² (30 alumnos) | Superficie m² (20 alumnos) |
+|-------------------------------------------|----------------------------|----------------------------|
+| Aula polivalente                         | 60                         | 40                         |
+| Taller de cocina                         | 210                        | 210                        |
+| Taller de panadería y repostería         | 150                        | 120                        |
+ 
+
+## ENTORNO PROFESIONAL
+
+
+**T.P.B. Alojamiento y Lavandería** 
+
+- Cambrer/a de pisos, en establiments d\'allotjament turístic siga quin siga la seua tipologia, modalitat o categoria.
+- Valets o mossos/as d\'habitacions.
+- Auxiliar de pisos i neteja.  
+- Auxiliar de bugaderia i llenceria en establiments d\'allotjament.  
+- Operador de màquines llavadores i eixugadores de peces de roba.  
+- Operador de màquines i equips de planxat de peces de roba. 
+ 
+**T.P.B. Cocina y Restauración** 
+
+- Ayudante o auxiliar de cocina.  
+- Ayudante de economato de unidades de producción y servicio de alimentos y bebidas. 
+- Auxiliar o ayudante de camarero en sala.  
+- Auxiliar o ayudante de camarero en bar-cafetería.  
+- Auxiliar o ayudante de barman.  
+- Auxiliar o ayudante de cocina en establecimientos donde la oferta esté compuesta por elaboraciones sencillas y rápidas (tapas, platos combinados, entre otros) 
+
+**T.P.B. Actividades de Panadería y Pastelería** 
+
+- Auxiliar de panadería y bollería.  
+- Auxiliar de pastelería. 
+- Auxiliar de almacén de pastelería.  
+- Empleado/a de establecimiento de pastelería. Auxiliar de almacén.  
+- Auxiliar de venta. 
+
+ 
+**T. Cocina y gastronomía** 
+
+- Cocinero. Jefe de partida.  
+- Empleado de economato de unidades de producción y servicio de alimentos y bebidas. 
+ 
+
+**T. Servicios de Restauración** 
+
+- Camarero de bar-cafetería o restaurante. Jefe de rango.  
+- Empleado de economato de unidades de producción y servicio de alimentos y bebidas.  
+- Barman.  
+- Ayudante de sumiller.  
+- Auxiliar de servicios en medios de transporte. 
+
+**Curso de Especialización de Panadería y Bollería Artesana** 
+
+- Maestro Panadero 
+- Elaborador de bollería 
+- Elaborador de masas y bases de pizza 
+- Repostero 
+- Catador de productos de panificación artesanal 
+
+**T.S. Agencias de Viajes y Gestión de Eventos** 
+
+- Jefe/a de oficina de agencia de viajes.  
+- Jefe/a de departamento en agencia de viajes.  
+- Agente de viajes.  
+- Consultor/a de viajes.  
+- Organizador/a de eventos.  
+- Vendedor/a de servicios de viaje y viajes programados.  
+- Promotor/a comercial de viajes y servicios turísticos.  
+- Empleado/a del departamento de «booking» o reservas. 
+
+**T.S. Gestión de Alojamientos Turísticos** 
+
+- Subdirector de alojamientos de establecimientos turísticos.  
+- Jefe de recepción. Encargado de reservas.  
+- Jefe de reservas. 
+- Coordinador de calidad.  
+- Gobernanta o encargada general del servicio de pisos y limpieza.  
+- Subgobernanta o encargada de sección del servicio de pisos y limpieza.  
+- Gestor de alojamiento en residencias, hospitales y similares.  
+- Gestor de alojamiento en casas rurales.  
+- Coordinador de eventos.  
+- Jefe de ventas en establecimientos de alojamientos turísticos.  
+- Comercial de establecimientos de alojamientos turísticos. 
+
+**T.S. Guía, Información y asistencias turísticas** 
+
+- Guía local. 
+- Guía acompañante. 
+- Guía en emplazamientos de bienes de interés cultural.  
+- Informador/a turístico/a.  
+- Jefe/a de oficinas de información. 
+- Promotor/a turístico/a.  
+- Técnico/a de empresa de consultoría turística.  
+- Agente de desarrollo turístico local.  
+- Azafata/Asistente en medios de transporte terrestre o marítimo.  
+- Asistente en terminales (estaciones, puertos y aeropuertos).  
+- Encargado/a de facturación en terminales de transporte. 
+- Asistente en ferias, congresos y convenciones. 
+- Encargado/a de servicios en eventos. 
+
+**T.S. Dirección de Cocina** 
+
+- Director de alimentos y bebidas.  
+- Director de cocina. Jefe de producción en cocina.  
+- Jefe de cocina. Segundo jefe de cocina.  
+- Jefe de operaciones de catering.  
+- Jefe de partida. Cocinero.  
+- Encargado de economato y bodega. 
+
+**T.S. Dirección de Servicios de Restauración** 
+
+- Director de alimentos y bebidas.  
+- Supervisor de restauración moderna.  
+- Maître.  
+- Jefe de Sala.  
+- Encargado de bar-cafetería.  
+- Jefe de banquetes.  
+- Jefe de operaciones de catering. Sumiller.  
+- Responsable de compra de bebidas.  
+- Encargado de economato y bodega. 
