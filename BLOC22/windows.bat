@@ -3,5 +3,10 @@ pandoc actividad2.2-1.md -o actividad2.2-1.pdf --from markdown+implicit_figures 
 pandoc actividad2.2-2.md -o actividad2.2-2.pdf --from markdown+implicit_figures --template eisvogel --listings --filter pandoc-latex-environment --number-sections --toc
 pandoc actividad2.2-3.md -o actividad2.2-3.pdf --from markdown+implicit_figures --template eisvogel --listings --filter pandoc-latex-environment --number-sections --toc
 pandoc actividad2.2-4.md -o actividad2.2-4.pdf --from markdown+implicit_figures --template eisvogel --listings --filter pandoc-latex-environment --number-sections --toc
+
 pandoc bloc22.md -o index.html --from markdown+implicit_figures -c aqua.css --template ./plantilla.html --listings --filter pandoc-latex-environment --number-sections --toc --toc-depth 3
 powershell -NoProfile -Command "Compress-Archive -Path 'index.html','aqua.css','img','rsc','media' -DestinationPath 'bloc22.zip' -Force"
+
+
+pandoc bloc22_va.md -o index_va.html --from markdown+implicit_figures -c aqua.css --template ./plantilla.html --listings --filter pandoc-latex-environment --number-sections --toc --toc-depth 3
+powershell -NoProfile -Command "Compress-Archive -Path 'index_va.html','aqua.css','img','rsc','media' -DestinationPath 'bloc22_va.zip' -Force"
