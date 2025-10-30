@@ -9,12 +9,12 @@ titlepage: true
 titlepage-rule-height: 2
 titlepage-rule-color: AA0000
 titlepage-text-color: AA0000
-titlepage-background: ../portades/Utur.png
+titlepage-background: ../portades/Uartes.png
 
 # date: "21-10-2025"
 subject: "Proxmox"
 keywords: [Xarxa, Instal·lació]
-subtitle: "Familia profesional de Hostelería y Turismo"
+subtitle: "Familia profesional de Artes Gráficas"
 lang: es
 page-background: img/bg.png
 
@@ -23,11 +23,11 @@ linkcolor: "blue"
 
 # configuració de l'índex
 toc-own-page: true
-toc-title: Continguts
+toc-title: Contenidos
 toc-depth: 2
 
 # capçalera i peu \thetitle
-header-left: "Hostelería y Turismo"
+header-left: "Artes Gráficas"
 header-right: Curso 2025-2026
 footer-left: CEFIRE FP
 footer-right: \thepage/\pageref{LastPage}
@@ -404,13 +404,13 @@ a) Una parte troncal obligatoria
 
 2. Módulos transversales
 
-- Itinerario para la empleabilidad I y II
+      - Itinerario para la empleabilidad I y II
 
-- Digitalización aplicada al sistema productivo
+      - Digitalización aplicada al sistema productivo
 
-- Sostenibilidad aplicada al sistema productivo
+      - Sostenibilidad aplicada al sistema productivo
 
-- Inglés profesional
+      - Inglés profesional
 
 b\) Una parte de optativa integrada de un módulo de los que se ofrecerán
 en el centro educativo que tendrá duración anual y se cursará en segundo
@@ -546,82 +546,123 @@ programación didáctica conforme a las necesidades y características del
 sistema educativo valenciano.
 
 
-# LA FAMILIA PROFESIONAL DE HOSTELERÍA Y TURISMO
+# ARTES GRÁFICAS
 
-## INTRODUCCIÓN 
+## LA INDUSTRIA GRÁFICA
 
-La familia profesional de **Hostelería y Turismo** engloba un amplio
-conjunto de actividades relacionadas con la **prestación de servicios de
-alojamiento, restauración, gastronomía, organización de eventos y
-gestión turística**. Su ámbito de actuación se estructura en diversas
-áreas interconectadas: por un lado, la **hostelería**, que comprende la
-cocina, el servicio en restauración, la repostería y la atención al
-cliente en establecimientos hoteleros y de restauración; y, por otro, el
-**turismo**, orientado a la planificación, promoción y gestión de
-destinos, agencias de viajes, empresas de ocio y actividades
-culturales. 
+La familia profesional de Artes Gráficas engloba un conjunto de
+actividades relacionadas con la creación, producción y acabado de
+productos gráficos, que abarcan desde el diseño y la maquetación hasta
+la impresión, el encuadernado y la gestión de procesos gráficos. Este
+ámbito combina competencias artísticas, técnicas y tecnológicas,
+orientadas a la elaboración de materiales impresos y digitales que
+responden a las necesidades de comunicación, publicidad y edición del
+mercado actual. Su campo de actuación comprende áreas como el preimpreso
+digital, la impresión offset y digital, la postimpresión y el diseño
+gráfico, así como la gestión y control de la calidad en los procesos de
+producción gráfica. 
 
-En la **Comunitat Valenciana**, esta familia profesional constituye uno
-de los pilares del sector servicios y un motor esencial de la economía
-regional. La región es uno de los principales destinos turísticos de
-España, con más de **30 millones de visitantes anuales**, lo que impulsa
-una alta demanda de profesionales cualificados. Provincias como
-**Alicante, Valencia y Castellón** concentran una importante oferta
-hotelera y gastronómica, así como una red de empresas dedicadas al
-turismo sostenible, la intermediación y la restauración de alto nivel.
-Destacan zonas como la **Costa Blanca, la ciudad de València y la Costa
-del Azahar**, donde la hostelería y el turismo generan miles de empleos
-directos e indirectos. 
+En la Comunitat Valenciana, la familia de Artes Gráficas tiene una
+fuerte implantación económica y cultural, estrechamente vinculada a la
+industria editorial, publicitaria y del envase y embalaje. Las
+provincias de València, Alicante y Castelló concentran una gran cantidad
+de empresas de impresión, estudios de diseño, editoriales, imprentas y
+talleres de serigrafía y rotulación, muchas de ellas con una larga
+tradición profesional. Este tejido productivo, compuesto por pequeñas y
+medianas empresas, contribuye de manera significativa al desarrollo del
+sector gráfico, combinando la artesanía tradicional con las tecnologías
+más avanzadas de impresión y comunicación visual. 
 
-Esta sólida implantación se refleja también en la **oferta formativa**,
-que abarca ciclos de **Formación Profesional Básica, Grado Medio y Grado
-Superior**, impartidos en numerosos centros educativos de la Comunitat
-Valenciana. Entre ellos, sobresale la labor del **Centro de Referencia
-Nacional de Turismo, Hotelería y Restauración de Castelló**, que impulsa
-la innovación y la excelencia formativa en el sector. 
+La oferta formativa en la Comunitat Valenciana es diversa y se adapta a
+las demandas de un sector en constante evolución. Los ciclos formativos
+de Grado Medio y Grado Superior de esta familia incluyen especialidades
+como Preimpresión Digital, Impresión Gráfica, Diseño y Edición de
+Publicaciones Impresas y Multimedia, o Diseño y Gestión de la Producción
+Gráfica, donde el alumnado adquiere competencias en diseño digital,
+control de procesos, gestión de color, impresión y acabado. La estrecha
+colaboración entre los centros educativos y las empresas del sector
+gráfico y editorial facilita una formación práctica, creativa y
+conectada con la realidad profesional. 
 
-El ámbito de Hostelería y Turismo ha experimentado una profunda
-transformación en los últimos años, impulsada por la **digitalización,
-la sostenibilidad y la internacionalización**. La implantación de
-tecnologías de gestión hotelera, la utilización de plataformas digitales
-de reservas, la gastronomía de vanguardia, la eficiencia energética en
-alojamientos o el turismo experiencial son algunos de los cambios más
-relevantes. Estas innovaciones han modificado los perfiles
-profesionales, orientándolos hacia la **atención personalizada, la
-gestión sostenible y el uso de herramientas digitales**. En este
-contexto, la Formación Profesional se adapta de manera continua,
-incorporando **contenidos actualizados, competencias lingüísticas y
-tecnológicas**, así como colaboraciones con empresas y organismos del
-sector, garantizando una formación alineada con las necesidades reales
-del mercado laboral. 
+El ámbito de las Artes Gráficas ha vivido en los últimos años una
+profunda transformación digital, marcada por la incorporación de
+tecnologías de impresión avanzada, software de diseño y gestión de
+color, automatización de procesos, impresión 3D y producción sostenible.
+La creciente demanda de productos personalizados y la expansión de la
+comunicación visual digital han redefinido los perfiles profesionales,
+que ahora requieren competencias tecnológicas, creatividad, visión
+estética y capacidad de adaptación a nuevos medios. En este contexto, la
+Formación Profesional de la familia de Artes Gráficas en la Comunitat
+Valenciana se actualiza constantemente, incorporando contenidos sobre
+sostenibilidad, innovación, diseño digital, emprendimiento y gestión de
+proyectos, garantizando una enseñanza moderna, de calidad y ajustada a
+las necesidades actuales del sector. 
 
-## OFERTA FORMATIVA 
+Según el Ministerio de Industria, Energía y Turismo, el sector se
+engloba dentro del grupo 18 Artes Gráficas y servicios relacionados con
+las mismas, de la Clasificación Nacional de Actividades Económicas
+(CNAE-2009). 
 
-Dentro de la familia profesional de Hostelería y turismo se ofertan 11 ciclos formativos. 
+(Divisiones 17 y 18 de la CNAE-2009 y Rama 20 de la clasificación RAMI)
+comprende los siguientes subsectores:  
 
-**Títulos de FP. Básica:** 
+- Industria del papel (División 17, CNAE-2009) 
+- Artes gráficas y reproducción de soportes grabados (División 18, CNAE-2009)  
 
-T.P.B. Alojamiento y Lavandería  
-T.P.B. Cocina y Restauración  
-T.P.B. Actividades de Panadería y Pastelería  
+El sector de papel, artes gráficas y reproducción de soportes grabados
+engloba las siguientes agrupaciones de otras clasificaciones
+estadísticas: 
 
-**Títulos de FP. De grado medio:** 
+- TSIO-2010. Rama 8 (Papel y productos del papel) 
 
-- T. Cocina y gastronomía  
-- T. Servicios de Restauración  
-- Curso de Especialización de Panadería y Bollería Artesana
+- ISIC. Códigos de producto: 21 (papel y productos de papel) y 22 (artes gráficas y reproducción de soportes grabados) 
 
-**Títulos de FP. Superior:** 
+El proceso de trabajo se puede sintetizar en las siguientes tareas:  
 
-- T.S. Agencias de Viajes y Gestión de Eventos  
-- T.S. Gestión de Alojamientos Turísticos 
-- T.S. Guía, Información y asistencias turísticas  
-- T.S. Dirección de Cocina 
-- T.S. Dirección de Servicios de Restauración 
+- Manipulación de papel y cartón: Preparación del soporte según el
+proceso que se vaya a seguir. 
 
-## REALES DECRETOS 
+- Preimpresión: Preparación y disposición de textos e imágenes para
+obtener la forma impresora. 
 
-**T.P.B. Alojamiento y Lavandería** 
+- Impresión: Tipografía, litografía (offset), bajorrelieve
+(huecograbado), serigrafía, flexografía, impresión digital y
+reprografía; sistemas de impresión utilizados para transferir la imagen
+al soporte.  
+
+- Acabado y encuadernación (postimpresión): Plegado, perforado, cosido,
+troquelado, corte, laminados, acabados de ennoblecimiento y
+encuadernación. 
+
+## OFERTA FORMATIVA
+
+Dentro de la familia profesional de Artes Gráficas se ofertan seis
+ciclos formativos. 
+
+**TÍTULO DE FORMACIÓN PROFESIONAL BÁSICA**
+
+- Título Profesional Básico en Artes Gráficas 
+
+**TITULOS DE FORMACIÓN PROFESIONAL DE GRADO MEDIO**
+
+- Técnico en Impresión Gráfica 
+
+- Técnico en Postimpresión  y Acabados Gráficos 
+
+- Técnico en Preimpresión Digital 
+
+**TÍTULOS DE FORMACIÓN PROFESIONAL DE GRADO SUPERIOR**
+
+- Técnico Superior en Diseño y Ediciones de Publicaciones Impresas y
+Multimedia 
+
+- Técnico Superior en Diseño y Gestión de la Producción Gráfica 
+
+
+
+## REALES DECRETOS
+
+**Título Profesional Básico en Artes Gráficas** 
 
 - Real Decreto 356/2014, de 16 de mayo, por el que se establecen siete
 títulos de Formación Profesional Básica del catálogo de títulos de las
@@ -631,125 +672,92 @@ enseñanzas de Formación Profesional. 
 establecen veinte currículos correspondientes a los ciclos formativos de
 Formación Profesional Básica en el ámbito de la Comunitat Valenciana. 
 
-**T.P.B. Cocina y Restauración** 
 
-- Real Decreto 498/2024, de 21 de mayo, por el que se modifican determinados reales decretos por los que se establecen títulos de Formación Profesional de grado básico y se fijan sus enseñanzas mínimas.  
+**Técnico en Impresión Gráfica** 
 
-- DECRETO 185/2014, de 31 de octubre, del Consell, por el que se
-establecen veinte currículos correspondientes a los ciclos formativos de
-Formación Profesional Básica en el ámbito de la Comunitat Valenciana.  
-
-**T.P.B. Actividades de Panadería y Pastelería** 
-
-- Real Decreto 774/2015, de 28 de agosto, por el que se establecen seis
-Títulos de Formación Profesional Básica del catálogo de Títulos de las
-enseñanzas de Formación Profesional. 
-
-- DECRETO 23/2022, de 4 de marzo, del Consell, de establecimiento del
-currículum de los ciclos de formación profesional correspondientes a los
-títulos profesionales básicos en Actividades Marítimo-Pesqueras,
-Actividades de Horno y Pastelería, Actividades Domésticas y de Limpieza
-de Edificios, Mantenimiento de Viviendas, Fabricación de Elementos
-Metálicos, Instalaciones Electrotécnicas y Mecánica, y Mantenimiento de
-Embarcaciones Deportivas y de Recreo.  
-
-**T. Cocina y gastronomía** 
-
-- Real Decreto 1396/2007, de 29 de octubre, por el que se establece el
-título de Técnico en Cocina y Gastronomía y se fijan sus enseñanzas
+- Real Decreto 1590/2011, de 4 de noviembre, por el que se establece el
+Título de Técnico en Impresión Gráfica y se fijan sus enseñanzas
 mínimas. 
 
-- ORDEN de 29 de julio de 2009, de la Conselleria de Educación, por la que
-se establece para la Comunitat Valenciana el currículo del ciclo
-formativo de Grado Medio correspondiente al título de Técnico en Cocina
-y Gastronomía.  
+- DECRETO 36/2017, de 10 de marzo, del Consell, por el que se establece el
+currículo del ciclo formativo de grado medio correspondiente al título
+de Técnico/a en Impresión Gráfica.  
 
- 
-**T. Servicios de Restauración** 
+- Para elaborar la programación didáctica será necesario consultar el
+**Decreto 114/2025, de 29 de julio**, con el fin de comprobar si el
+módulo que se va a programar ha experimentado alguna modificación. En
+caso de que el decreto introduzca cambios, se deberán tener en cuenta y
+aplicar las adaptaciones correspondientes en la programación. 
 
-- Real Decreto 1690/2007, de 14 de diciembre, por el que se establece el
-título de Técnico en Servicios en Restauración y se fijan sus enseñanzas
-mínimas**.** 
+**Técnico en Postimpresión  y Acabados Gráficos** 
 
-- ORDEN de 29 de julio 2009, de la Conselleria de Educación, por la que se
+- Real Decreto 1683/2011, de 18 de noviembre, por el que se establece el
+título de Técnico en Postimpresión y Acabados Gráficos y se fijan sus
+enseñanzas mínimas. 
+
+- DECRETO 196/2022, de 18 de noviembre, del Consell, por el que se
 establece para la Comunitat Valenciana el currículo del ciclo formativo
-de Grado Medio correspondiente al título de Técnico en Servicios en
-Restauración.  
+de grado medio correspondiente al título de técnico o técnica en
+Postimpresión y Acabados Gráficos.  
 
-**Curso de Especialización de Panadería y Bollería Artesana** 
+- Para elaborar la programación didáctica será necesario consultar el
+**Decreto 114/2025, de 29 de julio**, con el fin de comprobar si el
+módulo que se va a programar ha experimentado alguna modificación. En
+caso de que el decreto introduzca cambios, se deberán tener en cuenta y
+aplicar las adaptaciones correspondientes en la programación. 
 
-- Real Decreto 482/2020, de 7 de abril, por el que se establece el Curso
-de especialización en panadería y bollería artesanales y se fijan los
-aspectos básicos del currículo, y se modifica el Real Decreto 651/2017,
-de 23 de junio, por el que se establece el Título de Técnico Superior en
-Acondicionamiento Físico y se fijan los aspectos básicos del currículo. 
+**Técnico en Preimpresión Digital** 
 
-- Hoy en día, en la Comunitat Valenciana no se dispone de una concreción
-curricular propia para el *Curso de Especialización en Panadería y
-Bollería Artesanales*, perteneciente a la familia profesional de
-Hostelería y Turismo. 
+- Real Decreto 1586/2011, de 4 de noviembre, por el que se establece el
+Título de Técnico en Preimpresión Digital y se fijan sus enseñanzas
+mínimas 
 
- **T.S. Agencias de Viajes y Gestión de Eventos** 
+- ORDEN 28/2015, de 12 de marzo, de la Consellería de Educación, Cultura y
+Deporte, por la que se establece para la Comunitat Valenciana el
+currículo del ciclo formativo de grado medio correspondiente al título
+de Técnico en Preimpresión Digital.  
 
-- Real Decreto 1254/2009, de 24 de julio, por el que se establece el
-título de Técnico Superior en Agencias de Viajes y Gestión de Eventos y
-se fijan sus enseñanzas mínimas. 
+- Para elaborar la programación didáctica será necesario consultar el
+**Decreto 114/2025, de 29 de julio**, con el fin de comprobar si el
+módulo que se va a programar ha experimentado alguna modificación. En
+caso de que el decreto introduzca cambios, se deberán tener en cuenta y
+aplicar las adaptaciones correspondientes en la programación. 
 
-- ORDEN 33/2012, de 22 de junio, de la Conselleria de Educación, Formación
-y Empleo, por la que se establece para la Comunidad Valenciana el
-currículo del ciclo formativo de grado superior correspondiente al
-título de Técnico Superior en Agencias de Viajes y Gestión de Eventos. 
- 
+**Técnico Superior en Diseño y Ediciones de Publicaciones Impresas y Multimedia** 
 
-- **T.S. Gestión de Alojamientos Turísticos** 
+- Real Decreto 174/2013, de 8 de marzo, por el que se establece el título
+de Técnico Superior en Diseño y Edición de Publicaciones Impresas y
+Multimedia y se fijan sus enseñanzas mínimas. 
 
-Real Decreto 1686/2007, de 14 de diciembre, por el que se establece el
-título de Técnico Superior en Gestión de Alojamientos Turísticos y se
+- DECRETO 22//2022, de 4 de marzo, del Consell, por el que se establece,
+para la Comunitat Valenciana, el currículo del ciclo formativo de grado
+superior correspondiente al título de técnico o técnica superiores en
+Diseño y Edición de Publicaciones Impresas y Multimedia.  
+
+- Para elaborar la programación didáctica será necesario consultar el
+**Decreto 114/2025, de 29 de julio**, con el fin de comprobar si el
+módulo que se va a programar ha experimentado alguna modificación. En
+caso de que el decreto introduzca cambios, se deberán tener en cuenta y
+aplicar las adaptaciones correspondientes en la programación. 
+
+**Técnico Superior en Diseño y Gestión de la Producción Gráfica** 
+
+- Real Decreto 175/2013, de 8 de marzo, por el que se establece el título
+de Técnico Superior en Diseño y Gestión de la Producción Gráfica y se
 fijan sus enseñanzas mínimas. 
 
-ORDEN de 29 de julio de 2009, de la Conselleria de Educación por la que
-se establece para la Comunitat Valenciana el currículo del ciclo
-formativo de Grado Superior correspondiente al título de Técnico
-Superior en Gestión de Alojamientos Turísticos.** ** 
+- DECRETO 63/2022, de 20 de mayo, del Consell, por el que se establece
+para la Comunitat Valenciana el currículo del ciclo formativo de grado
+superior correspondiente al título de técnico o técnica superiores en
+Diseño y Gestión de la Producción Gráfica. 
 
- 
+- Para elaborar la programación didáctica será necesario consultar el
+**Decreto 114/2025, de 29 de julio**, con el fin de comprobar si el
+módulo que se va a programar ha experimentado alguna modificación. En
+caso de que el decreto introduzca cambios, se deberán tener en cuenta y
+aplicar las adaptaciones correspondientes en la programación. 
 
-**T.S. Guía, Información y asistencias turísticas** 
-
-- Real Decreto 1255/2009, de 24 de julio, por el que se establece el
-título de Técnico Superior en Guía, Información y Asistencias Turísticas
-y se fijan sus enseñanzas mínimas 
-
-- ORDEN 34/2012, de 22 de junio, de la Conselleria de Educación, Formación
-y Empleo, por la que se establece para la Comunitat Valenciana el
-currículo del ciclo formativo de grado superior correspondiente al
-título de Técnico Superior en Guía, Información y Asistencias
-Turísticas 
-
-**T.S. Dirección de Cocina** 
-
-- Real Decreto 687/2010, de 20 de mayo, por el que se establece el título
-de Técnico Superior en Dirección de Cocina y se fijan sus enseñanzas
-mínimas. 
-
-- ORDEN 32/2013, de 26 de abril, de la Consellería de Educación, Cultura y
-Deporte, por la que se establece para la Comunitat Valenciana el
-currículo del ciclo formativo de grado superior correspondiente al
-título de Técnico Superior en Dirección de Cocina. 
-
-**T.S. Dirección de Servicios de Restauración** 
-
-- Real Decreto 688/2010, de 20 de mayo, por el que se establece el título
-de Técnico Superior en Dirección de Servicios de Restauración y se fijan
-sus enseñanzas mínimas. 
-
-- ORDEN 24/2013, de 21 de abril, de la Conselleria de Educación, Cultura y
-Deporte por la que se establece para la Comunitat Valenciana el
-currículo del ciclo formativo de Grado Superior correspondiente al
-título de Técnico Superior en Dirección de Servicios en
-Restauración.
-
-## INSTALACIONES 
+## INSTALACIONES
 
 Estas enseñanzas se imparten en las aulas polivalentes, en el
 laboratorio y principalmente en talleres dotados de una serie de
@@ -766,138 +774,112 @@ especificación de las instalaciones y espacios.  
 
 Ejemplo: 
 
-En el Real Decreto 687/2010, de 20 de mayo, por el que se establece el
-título de Técnico Superior en Dirección de Cocina y se fijan sus
-enseñanzas mínimas 
+En el Ciclo de Grado Medio de Impresión Gráfica, el R.D. en su Anexo II
+nos proporciona una información general sin especificar de los espacios
+necesarios para impartir este ciclo: 
 
-| Espacio formativo                        |
-|-------------------------------------------|
-| Aula polivalente.                        |
-| Taller de cocina.                        |
-| Taller de panadería y repostería.        |
+| Espacio Formativo |
+|---|
+| Aula polivalente |
+| Aula técnica de offset |
+| Aula técnica de impresión digital |
+| Aula de ordenadores con simuladores |
+| Aula técnica de flexografía |
+| Aula técnica de serigrafía y tampografía |
+| Laboratorio de materiales |
 
-
-Sin embargo, en la Orden autonómica que establece el currículo de este
+Sin embargo, en el Decreto autonómico que establece el currículo de este
 ciclo, en el anexo IV, nos proporciona información más específica y
 detallada: 
 
-| Espacio formativo                        | Superficie m² (30 alumnos) | Superficie m² (20 alumnos) |
-|-------------------------------------------|----------------------------|----------------------------|
-| Aula polivalente                         | 60                         | 40                         |
-| Taller de cocina                         | 210                        | 210                        |
-| Taller de panadería y repostería         | 150                        | 120                        |
+
+| Espacio Formativo / Espacio Formativo (EN/ES) | Superficie m² (30 alumnos) | Superficie m² (20 alumnos) |
+|---|---|---|
+| Aula polivalent / Aula polivalente | 90 | 60 |
+| Aula técnica d'offset / Aula técnica de offset | 200 | 130 |
+| Aula técnica de impressió digital / Aula técnica de impresión digital | 120 | 80 |
+| Aula d'ordinadors amb simuladors / Aula de ordenadores amb simuladores | 120 | 80 |
+| Aula técnica de flexografía / Aula técnica de flexografía | 200 | 130 |
+| Aula técnica de serigrafía i tampografia / Aula técnica de serigrafía y tampografía | 120 | 80 |
+| Laboratori de materials / Laboratorio de materiales | 90 | 60 |
  
 
-## ENTORNO PROFESIONAL
+## ENTORNO PROFESIONAL 
 
+**Título Profesional Básico en Artes Gráficas** 
 
-**T.P.B. Alojamiento y Lavandería** 
+Operario de reprografía.  
+Operario de acabados de reprografía.  
+Auxiliar técnico de máquinas y equipos de producción gráfica.  
+Auxiliar de taller en industrias gráficas.  
+Ayudante de máquinas y equipos de producción gráfica.  
+Auxiliar de máquinas y equipos de producción gráfica. 
+Operario de manipulados de papel, cartón y otros materiales.  
+Operario de oficios auxiliares de papel, cartón y otros materiales.  
+Manipulador de productos de gigantografía.  
+Peón de la industria gráfica. 
 
-- Cambrer/a de pisos, en establiments d\'allotjament turístic siga quin siga la seua tipologia, modalitat o categoria.
-- Valets o mossos/as d\'habitacions.
-- Auxiliar de pisos i neteja.  
-- Auxiliar de bugaderia i llenceria en establiments d\'allotjament.  
-- Operador de màquines llavadores i eixugadores de peces de roba.  
-- Operador de màquines i equips de planxat de peces de roba. 
+**Técnico en Impresión Gráfica** 
+
+Operador de máquinas de offset en general. 
+Maquinista de impresión offset.  
+Técnico de impresión offset.  
+Montador de planchas de flexografía.  
+Operador de máquina flexográfica.  
+Conductor de máquina de impresión flexográfica.  
+Operador de máquina de huecograbado. 
+Impresor digital.  
+Técnico en impresión digital.  
+Técnico de impresión serigráfica. Impresor de serigrafía. 
+
+**Técnico en Postimpresión  y Acabados Gráficos** 
+
+Las personas que obtienen este título ejercen su actividad en empresas
+de artes gráficas, editoriales, comunicación, publicidad, imprentas,
+encuadernaciones, empresas de packaging, acabados gráficos, fabricación
+de complejos, transformados de papel y cartón.  
+
+También pueden ejercer su actividad en otras empresas que tengan
+secciones de encuadernación industrial y fabricación de envases y
+embalajes 
+
+**Técnico en Preimpresión Digital** 
+
+- Técnico en preimpresión.  
+- Técnico en tratamiento de textos.  
+- Técnico en tratamiento de imágenes.  
+- Maquetador/compaginador digital.  
+- Técnico en publicaciones electrónicas/multimedia. 
+- Preparador de archivos digitales. Escanista/especialista de color. 
+- Técnico en imposición digital.  
+- Operador de equipos de filmación de ordenador a plancha (computer to plate-CTP).  
+- Operador de equipos de filmación de ordenador a pantalla (computer to screen-CTS). 
+- Operador de equipos de filmación de ordenador a fotopolímero (computer to photopolymer-CTP). 
+- Técnico en impresión digital. 
+
+**Técnico Superior en Diseño y Ediciones de Publicaciones Impresas y  Multimedia** 
+
+- Diseñador gráfico. 
+- Diseñador de publicaciones multimedia.  
+- Diseñador de envases y embalajes.  
+- Técnico en producción editorial.  
+- Asistente a la edición.  
+- Técnico en preimpresión.  
+- Técnico en gestión de producción gráfica. 
+- Técnico en desarrollo y publicación de productos multimedia.  
+- Técnico en comercialización de productos gráficos y multimedia 
+
+**Técnico Superior en Diseño y Gestión de la Producción Gráfica** 
+
+- Diseñador gráfico.  
+- Técnico en preimpresión.  
+- Técnico en impresión.  
+- Técnico de encuadernación industrial.  
+- Técnico en procesos de transformados de papel, cartón y otros soportes gráficos. 
+- Verificador de productos acabados de papel y cartón. 
+- Técnico en gestión de color en industrias gráficas. 
+- Ayudante de producción en industrias gráficas.  
+- Presupuestador de industrias gráficas.  
+- Técnico de oficina técnica en industrias gráficas. 
+
  
-**T.P.B. Cocina y Restauración** 
-
-- Ayudante o auxiliar de cocina.  
-- Ayudante de economato de unidades de producción y servicio de alimentos y bebidas. 
-- Auxiliar o ayudante de camarero en sala.  
-- Auxiliar o ayudante de camarero en bar-cafetería.  
-- Auxiliar o ayudante de barman.  
-- Auxiliar o ayudante de cocina en establecimientos donde la oferta esté compuesta por elaboraciones sencillas y rápidas (tapas, platos combinados, entre otros) 
-
-**T.P.B. Actividades de Panadería y Pastelería** 
-
-- Auxiliar de panadería y bollería.  
-- Auxiliar de pastelería. 
-- Auxiliar de almacén de pastelería.  
-- Empleado/a de establecimiento de pastelería. Auxiliar de almacén.  
-- Auxiliar de venta. 
-
- 
-**T. Cocina y gastronomía** 
-
-- Cocinero. Jefe de partida.  
-- Empleado de economato de unidades de producción y servicio de alimentos y bebidas. 
- 
-
-**T. Servicios de Restauración** 
-
-- Camarero de bar-cafetería o restaurante. Jefe de rango.  
-- Empleado de economato de unidades de producción y servicio de alimentos y bebidas.  
-- Barman.  
-- Ayudante de sumiller.  
-- Auxiliar de servicios en medios de transporte. 
-
-**Curso de Especialización de Panadería y Bollería Artesana** 
-
-- Maestro Panadero 
-- Elaborador de bollería 
-- Elaborador de masas y bases de pizza 
-- Repostero 
-- Catador de productos de panificación artesanal 
-
-**T.S. Agencias de Viajes y Gestión de Eventos** 
-
-- Jefe/a de oficina de agencia de viajes.  
-- Jefe/a de departamento en agencia de viajes.  
-- Agente de viajes.  
-- Consultor/a de viajes.  
-- Organizador/a de eventos.  
-- Vendedor/a de servicios de viaje y viajes programados.  
-- Promotor/a comercial de viajes y servicios turísticos.  
-- Empleado/a del departamento de «booking» o reservas. 
-
-**T.S. Gestión de Alojamientos Turísticos** 
-
-- Subdirector de alojamientos de establecimientos turísticos.  
-- Jefe de recepción. Encargado de reservas.  
-- Jefe de reservas. 
-- Coordinador de calidad.  
-- Gobernanta o encargada general del servicio de pisos y limpieza.  
-- Subgobernanta o encargada de sección del servicio de pisos y limpieza.  
-- Gestor de alojamiento en residencias, hospitales y similares.  
-- Gestor de alojamiento en casas rurales.  
-- Coordinador de eventos.  
-- Jefe de ventas en establecimientos de alojamientos turísticos.  
-- Comercial de establecimientos de alojamientos turísticos. 
-
-**T.S. Guía, Información y asistencias turísticas** 
-
-- Guía local. 
-- Guía acompañante. 
-- Guía en emplazamientos de bienes de interés cultural.  
-- Informador/a turístico/a.  
-- Jefe/a de oficinas de información. 
-- Promotor/a turístico/a.  
-- Técnico/a de empresa de consultoría turística.  
-- Agente de desarrollo turístico local.  
-- Azafata/Asistente en medios de transporte terrestre o marítimo.  
-- Asistente en terminales (estaciones, puertos y aeropuertos).  
-- Encargado/a de facturación en terminales de transporte. 
-- Asistente en ferias, congresos y convenciones. 
-- Encargado/a de servicios en eventos. 
-
-**T.S. Dirección de Cocina** 
-
-- Director de alimentos y bebidas.  
-- Director de cocina. Jefe de producción en cocina.  
-- Jefe de cocina. Segundo jefe de cocina.  
-- Jefe de operaciones de catering.  
-- Jefe de partida. Cocinero.  
-- Encargado de economato y bodega. 
-
-**T.S. Dirección de Servicios de Restauración** 
-
-- Director de alimentos y bebidas.  
-- Supervisor de restauración moderna.  
-- Maître.  
-- Jefe de Sala.  
-- Encargado de bar-cafetería.  
-- Jefe de banquetes.  
-- Jefe de operaciones de catering. Sumiller.  
-- Responsable de compra de bebidas.  
-- Encargado de economato y bodega. 

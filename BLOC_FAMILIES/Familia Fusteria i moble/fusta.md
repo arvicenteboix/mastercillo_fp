@@ -9,12 +9,12 @@ titlepage: true
 titlepage-rule-height: 2
 titlepage-rule-color: AA0000
 titlepage-text-color: AA0000
-titlepage-background: ../portades/Utur.png
+titlepage-background: ../portades/Umade.png
 
 # date: "21-10-2025"
 subject: "Proxmox"
 keywords: [Xarxa, Instal·lació]
-subtitle: "Familia profesional de Hostelería y Turismo"
+subtitle: "Familia Madera, mueble y corcho"
 lang: es
 page-background: img/bg.png
 
@@ -23,11 +23,11 @@ linkcolor: "blue"
 
 # configuració de l'índex
 toc-own-page: true
-toc-title: Continguts
+toc-title: Contenidos
 toc-depth: 2
 
 # capçalera i peu \thetitle
-header-left: "Hostelería y Turismo"
+header-left: "Familia Madera, mueble y corcho"
 header-right: Curso 2025-2026
 footer-left: CEFIRE FP
 footer-right: \thepage/\pageref{LastPage}
@@ -404,15 +404,15 @@ a) Una parte troncal obligatoria
 
 2. Módulos transversales
 
-- Itinerario para la empleabilidad I y II
+      - Itinerario para la empleabilidad I y II
 
-- Digitalización aplicada al sistema productivo
+      - Digitalización aplicada al sistema productivo
 
-- Sostenibilidad aplicada al sistema productivo
+      - Sostenibilidad aplicada al sistema productivo
 
-- Inglés profesional
+      - Inglés profesional
 
-b\) Una parte de optativa integrada de un módulo de los que se ofrecerán
+b) Una parte de optativa integrada de un módulo de los que se ofrecerán
 en el centro educativo que tendrá duración anual y se cursará en segundo
 curso.
 
@@ -545,211 +545,99 @@ atribución docente y otros aspectos esenciales para el desarrollo de una
 programación didáctica conforme a las necesidades y características del
 sistema educativo valenciano.
 
-
-# LA FAMILIA PROFESIONAL DE HOSTELERÍA Y TURISMO
+# MADERA, MUEBLE Y CORCHO
 
 ## INTRODUCCIÓN 
 
-La familia profesional de **Hostelería y Turismo** engloba un amplio
-conjunto de actividades relacionadas con la **prestación de servicios de
-alojamiento, restauración, gastronomía, organización de eventos y
-gestión turística**. Su ámbito de actuación se estructura en diversas
-áreas interconectadas: por un lado, la **hostelería**, que comprende la
-cocina, el servicio en restauración, la repostería y la atención al
-cliente en establecimientos hoteleros y de restauración; y, por otro, el
-**turismo**, orientado a la planificación, promoción y gestión de
-destinos, agencias de viajes, empresas de ocio y actividades
-culturales. 
+La familia profesional de Madera, Mueble y Corcho abarca un conjunto de
+actividades relacionadas con la transformación, fabricación, diseño e
+instalación de productos elaborados a partir de madera, derivados y
+corcho. Su ámbito de actuación se divide en dos grandes áreas: por un
+lado, la primera transformación de la madera y del corcho ---que incluye
+procesos como el aserrado, secado y fabricación de tableros--- y, por
+otro, la carpintería y la fabricación de muebles, que comprende desde el
+mecanizado de piezas hasta el diseño, montaje e instalación final de
+productos. 
 
-En la **Comunitat Valenciana**, esta familia profesional constituye uno
-de los pilares del sector servicios y un motor esencial de la economía
-regional. La región es uno de los principales destinos turísticos de
-España, con más de **30 millones de visitantes anuales**, lo que impulsa
-una alta demanda de profesionales cualificados. Provincias como
-**Alicante, Valencia y Castellón** concentran una importante oferta
-hotelera y gastronómica, así como una red de empresas dedicadas al
-turismo sostenible, la intermediación y la restauración de alto nivel.
-Destacan zonas como la **Costa Blanca, la ciudad de València y la Costa
-del Azahar**, donde la hostelería y el turismo generan miles de empleos
-directos e indirectos. 
+En la Comunitat Valenciana, esta familia profesional tiene un peso
+importante dentro del tejido productivo industrial. Según datos
+recientes, más de 2.400 empresas desarrollan su actividad en este
+sector, lo que representa más del 10 % de la industria regional. Las
+comarcas con mayor concentración de empresas del mueble y carpintería se
+encuentran en las provincias de Valencia y Castellón, especialmente en
+zonas como l'Horta, La Costera, La Safor, la Plana Alta y el Baix
+Maestrat. Esta fuerte implantación territorial se traduce también en una
+oferta formativa amplia y adaptada a las necesidades del sector, con
+ciclos formativos de grado básico, medio y superior en diferentes
+localidades, así como la presencia destacada del Centro de Referencia
+Nacional de Transformación e Instalación de Madera y Corcho en Paterna. 
 
-Esta sólida implantación se refleja también en la **oferta formativa**,
-que abarca ciclos de **Formación Profesional Básica, Grado Medio y Grado
-Superior**, impartidos en numerosos centros educativos de la Comunitat
-Valenciana. Entre ellos, sobresale la labor del **Centro de Referencia
-Nacional de Turismo, Hotelería y Restauración de Castelló**, que impulsa
-la innovación y la excelencia formativa en el sector. 
-
-El ámbito de Hostelería y Turismo ha experimentado una profunda
-transformación en los últimos años, impulsada por la **digitalización,
-la sostenibilidad y la internacionalización**. La implantación de
-tecnologías de gestión hotelera, la utilización de plataformas digitales
-de reservas, la gastronomía de vanguardia, la eficiencia energética en
-alojamientos o el turismo experiencial son algunos de los cambios más
-relevantes. Estas innovaciones han modificado los perfiles
-profesionales, orientándolos hacia la **atención personalizada, la
-gestión sostenible y el uso de herramientas digitales**. En este
-contexto, la Formación Profesional se adapta de manera continua,
-incorporando **contenidos actualizados, competencias lingüísticas y
-tecnológicas**, así como colaboraciones con empresas y organismos del
-sector, garantizando una formación alineada con las necesidades reales
-del mercado laboral. 
+El sector ha experimentado importantes transformaciones en los últimos
+años debido a la incorporación de nuevas tecnologías. Entre los
+principales avances destacan el uso de maquinaria de control numérico
+(CNC), la automatización de procesos, el diseño asistido por ordenador
+(CAD), así como la aplicación de nuevos materiales y sistemas de
+ensamblaje y acabado. Estos cambios han implicado una evolución en los
+perfiles profesionales, cada vez más orientados hacia la digitalización,
+la precisión técnica y la gestión eficiente de la producción. En este
+contexto, la Formación Profesional se adapta progresivamente para
+responder a estos retos, incorporando contenidos actualizados,
+competencias digitales y colaboraciones con empresas del sector para
+garantizar una formación conectada con la realidad laboral. 
 
 ## OFERTA FORMATIVA 
 
-Dentro de la familia profesional de Hostelería y turismo se ofertan 11 ciclos formativos. 
+Dentro de la familia profesional de Madera, Mueble y Corcho se ofertan
+cuatro ciclos formativos. 
 
-**Títulos de FP. Básica:** 
+**TÍTULO DE FORMACIÓN PROFESIONAL BÁSICA **
 
-T.P.B. Alojamiento y Lavandería  
-T.P.B. Cocina y Restauración  
-T.P.B. Actividades de Panadería y Pastelería  
+- Título Profesional Básico Carpintería y mueble 
 
-**Títulos de FP. De grado medio:** 
+**TITULOS DE FORMACIÓN PROFESIONAL DE GRADO MEDIO **
 
-- T. Cocina y gastronomía  
-- T. Servicios de Restauración  
-- Curso de Especialización de Panadería y Bollería Artesana
+- Técnico en Carpinterita y Mueble
+- Técnico en Instalación y Amueblamiento 
 
-**Títulos de FP. Superior:** 
+**TÍTULOS DE FORMACIÓN PROFESIONAL DE GRADO SUPERIOR**
 
-- T.S. Agencias de Viajes y Gestión de Eventos  
-- T.S. Gestión de Alojamientos Turísticos 
-- T.S. Guía, Información y asistencias turísticas  
-- T.S. Dirección de Cocina 
-- T.S. Dirección de Servicios de Restauración 
+- Técnico Superior en Diseño y Amueblamiento 
 
 ## REALES DECRETOS 
 
-**T.P.B. Alojamiento y Lavandería** 
+**Título Profesional Básico Carpintería y mueble** 
 
-- Real Decreto 356/2014, de 16 de mayo, por el que se establecen siete
-títulos de Formación Profesional Básica del catálogo de títulos de las
-enseñanzas de Formación Profesional. 
+- Real Decreto 498/2024, de 21 de mayo, por el que se modifican determinados reales decretos por los que se establecen títulos de Formación Profesional de grado básico y se fijan sus enseñanzas mínimas.
+- DECRETO 185/2014, de 31 de octubre, del Consell, por el que se establecen veinte currículos correspondientes a los ciclos formativos de Formación Profesional Básica en el ámbito de la Comunitat Valenciana 
 
-- DECRETO 185/2014, de 31 de octubre, del Consell, por el que se
-establecen veinte currículos correspondientes a los ciclos formativos de
-Formación Profesional Básica en el ámbito de la Comunitat Valenciana. 
+**Técnico en Carpinterita y Mueble** 
 
-**T.P.B. Cocina y Restauración** 
-
-- Real Decreto 498/2024, de 21 de mayo, por el que se modifican determinados reales decretos por los que se establecen títulos de Formación Profesional de grado básico y se fijan sus enseñanzas mínimas.  
-
-- DECRETO 185/2014, de 31 de octubre, del Consell, por el que se
-establecen veinte currículos correspondientes a los ciclos formativos de
-Formación Profesional Básica en el ámbito de la Comunitat Valenciana.  
-
-**T.P.B. Actividades de Panadería y Pastelería** 
-
-- Real Decreto 774/2015, de 28 de agosto, por el que se establecen seis
-Títulos de Formación Profesional Básica del catálogo de Títulos de las
-enseñanzas de Formación Profesional. 
-
-- DECRETO 23/2022, de 4 de marzo, del Consell, de establecimiento del
-currículum de los ciclos de formación profesional correspondientes a los
-títulos profesionales básicos en Actividades Marítimo-Pesqueras,
-Actividades de Horno y Pastelería, Actividades Domésticas y de Limpieza
-de Edificios, Mantenimiento de Viviendas, Fabricación de Elementos
-Metálicos, Instalaciones Electrotécnicas y Mecánica, y Mantenimiento de
-Embarcaciones Deportivas y de Recreo.  
-
-**T. Cocina y gastronomía** 
-
-- Real Decreto 1396/2007, de 29 de octubre, por el que se establece el
-título de Técnico en Cocina y Gastronomía y se fijan sus enseñanzas
+- Real Decreto 1128/2010, de 10 de septiembre, por el que se establece el
+título de Técnico en Carpintería y Mueble y se fijan sus enseñanzas
 mínimas. 
 
-- ORDEN de 29 de julio de 2009, de la Conselleria de Educación, por la que
-se establece para la Comunitat Valenciana el currículo del ciclo
-formativo de Grado Medio correspondiente al título de Técnico en Cocina
-y Gastronomía.  
+- Currículo: DECRETO 114/2025, de 29 de julio, del Consell, por el que se establecen los currículos de los ciclos formativos de grado medio y de grado superior de Formación Profesional, en aplicación de la Ley orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación Profesional. Deroga la ORDEN 59/2015, de 27 de mayo. 
 
- 
-**T. Servicios de Restauración** 
+**Técnico en Instalación y Amueblamiento** 
 
-- Real Decreto 1690/2007, de 14 de diciembre, por el que se establece el
-título de Técnico en Servicios en Restauración y se fijan sus enseñanzas
-mínimas**.** 
-
-- ORDEN de 29 de julio 2009, de la Conselleria de Educación, por la que se
-establece para la Comunitat Valenciana el currículo del ciclo formativo
-de Grado Medio correspondiente al título de Técnico en Servicios en
-Restauración.  
-
-**Curso de Especialización de Panadería y Bollería Artesana** 
-
-- Real Decreto 482/2020, de 7 de abril, por el que se establece el Curso
-de especialización en panadería y bollería artesanales y se fijan los
-aspectos básicos del currículo, y se modifica el Real Decreto 651/2017,
-de 23 de junio, por el que se establece el Título de Técnico Superior en
-Acondicionamiento Físico y se fijan los aspectos básicos del currículo. 
-
-- Hoy en día, en la Comunitat Valenciana no se dispone de una concreción
-curricular propia para el *Curso de Especialización en Panadería y
-Bollería Artesanales*, perteneciente a la familia profesional de
-Hostelería y Turismo. 
-
- **T.S. Agencias de Viajes y Gestión de Eventos** 
-
-- Real Decreto 1254/2009, de 24 de julio, por el que se establece el
-título de Técnico Superior en Agencias de Viajes y Gestión de Eventos y
-se fijan sus enseñanzas mínimas. 
-
-- ORDEN 33/2012, de 22 de junio, de la Conselleria de Educación, Formación
-y Empleo, por la que se establece para la Comunidad Valenciana el
-currículo del ciclo formativo de grado superior correspondiente al
-título de Técnico Superior en Agencias de Viajes y Gestión de Eventos. 
- 
-
-- **T.S. Gestión de Alojamientos Turísticos** 
-
-Real Decreto 1686/2007, de 14 de diciembre, por el que se establece el
-título de Técnico Superior en Gestión de Alojamientos Turísticos y se
-fijan sus enseñanzas mínimas. 
-
-ORDEN de 29 de julio de 2009, de la Conselleria de Educación por la que
-se establece para la Comunitat Valenciana el currículo del ciclo
-formativo de Grado Superior correspondiente al título de Técnico
-Superior en Gestión de Alojamientos Turísticos.** ** 
-
- 
-
-**T.S. Guía, Información y asistencias turísticas** 
-
-- Real Decreto 1255/2009, de 24 de julio, por el que se establece el
-título de Técnico Superior en Guía, Información y Asistencias Turísticas
-y se fijan sus enseñanzas mínimas 
-
-- ORDEN 34/2012, de 22 de junio, de la Conselleria de Educación, Formación
-y Empleo, por la que se establece para la Comunitat Valenciana el
-currículo del ciclo formativo de grado superior correspondiente al
-título de Técnico Superior en Guía, Información y Asistencias
-Turísticas 
-
-**T.S. Dirección de Cocina** 
-
-- Real Decreto 687/2010, de 20 de mayo, por el que se establece el título
-de Técnico Superior en Dirección de Cocina y se fijan sus enseñanzas
+- Real Decreto 880/2011, de 24 de junio, por el que se establece el título
+de Técnico en Instalación y Amueblamiento y se fijan sus enseñanzas
 mínimas. 
 
-- ORDEN 32/2013, de 26 de abril, de la Consellería de Educación, Cultura y
+- Currículo: DECRETO 114/2025, de 29 de julio, del Consell, por el que se establecen los currículos de los ciclos formativos de grado medio y de grado superior de Formación Profesional, en aplicación de la Ley orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación Profesional. Deroga la ORDEN 35/2015, de 30 de marzo. 
+
+**Técnico Superior en Diseño y Amueblamiento** 
+
+- Real Decreto 1579/2011, de 4 de noviembre, por el que se establece el
+Título de Técnico Superior en Diseño y Amueblamiento y se fijan sus
+enseñanzas mínimas. 
+
+- ORDEN 35/2015, de 30 de marzo, de la Consellería de Educación, Cultura y
 Deporte, por la que se establece para la Comunitat Valenciana el
-currículo del ciclo formativo de grado superior correspondiente al
-título de Técnico Superior en Dirección de Cocina. 
+currículo del ciclo formativo de Grado Medio correspondiente al título
+de Técnico en Instalación y Amueblamiento 
 
-**T.S. Dirección de Servicios de Restauración** 
-
-- Real Decreto 688/2010, de 20 de mayo, por el que se establece el título
-de Técnico Superior en Dirección de Servicios de Restauración y se fijan
-sus enseñanzas mínimas. 
-
-- ORDEN 24/2013, de 21 de abril, de la Conselleria de Educación, Cultura y
-Deporte por la que se establece para la Comunitat Valenciana el
-currículo del ciclo formativo de Grado Superior correspondiente al
-título de Técnico Superior en Dirección de Servicios en
-Restauración.
-
-## INSTALACIONES 
+# INSTALACIONES
 
 Estas enseñanzas se imparten en las aulas polivalentes, en el
 laboratorio y principalmente en talleres dotados de una serie de
@@ -766,138 +654,71 @@ especificación de las instalaciones y espacios.  
 
 Ejemplo: 
 
-En el Real Decreto 687/2010, de 20 de mayo, por el que se establece el
-título de Técnico Superior en Dirección de Cocina y se fijan sus
-enseñanzas mínimas 
+En el Real Decreto 1579/2011, de 4 de noviembre, por el que se establece
+el Título de Técnico Superior en Diseño y Amueblamiento y se fijan sus
+enseñanzas mínimas especifica los espacios necesarios para el desarrollo
+de las enseñanzas de este ciclo formativo son los establecidos en el
+Anexo II de este real decreto. 
 
-| Espacio formativo                        |
-|-------------------------------------------|
-| Aula polivalente.                        |
-| Taller de cocina.                        |
-| Taller de panadería y repostería.        |
-
+| Espacio Formativo |
+|---|
+| Aula técnica |
+| Taller de mecanizado |
+| Taller de montaje y acabado |
+| Almacén |
 
 Sin embargo, en la Orden autonómica que establece el currículo de este
 ciclo, en el anexo IV, nos proporciona información más específica y
-detallada: 
+detallada:
 
-| Espacio formativo                        | Superficie m² (30 alumnos) | Superficie m² (20 alumnos) |
-|-------------------------------------------|----------------------------|----------------------------|
-| Aula polivalente                         | 60                         | 40                         |
-| Taller de cocina                         | 210                        | 210                        |
-| Taller de panadería y repostería         | 150                        | 120                        |
- 
+| Espacio Formativo | Superficie m² (30 alumnos) | Superficie m² (20 alumnos) |
+|---|---|---|
+| Aula técnica | 120 | 90 |
+| Taller de mecanizado | 270 | 200 |
+| Taller de montaje y instalación | 210 | 140 |
+| Almacén | 60 | 60 |
 
 ## ENTORNO PROFESIONAL
 
+**Título Profesional Básico Carpintería y mueble** 
 
-**T.P.B. Alojamiento y Lavandería** 
+- Montador de productos de ebanistería en general.  
+- Montador de muebles de madera o similares.  
+- Montador productos de madera excepto ebanistería.  
+- Montador de envases/embalajes de madera y similares. 
+- Acabador de muebles de madera. Acuchillador-barnizador de parquet.  
+- Barnizador-lacador de artesanía de madera.  
+- Barnizador-lacador de mueble de madera.  
+- Operador de tren de acabado de mueble.
+- Embalador/empaquetador/etiquetador a mano.  
+- Peón de la industria de la madera y del corcho.  
+- Tapicero de muebles. 
 
-- Cambrer/a de pisos, en establiments d\'allotjament turístic siga quin siga la seua tipologia, modalitat o categoria.
-- Valets o mossos/as d\'habitacions.
-- Auxiliar de pisos i neteja.  
-- Auxiliar de bugaderia i llenceria en establiments d\'allotjament.  
-- Operador de màquines llavadores i eixugadores de peces de roba.  
-- Operador de màquines i equips de planxat de peces de roba. 
- 
-**T.P.B. Cocina y Restauración** 
+**Técnico en Carpinterita y Mueble** 
 
-- Ayudante o auxiliar de cocina.  
-- Ayudante de economato de unidades de producción y servicio de alimentos y bebidas. 
-- Auxiliar o ayudante de camarero en sala.  
-- Auxiliar o ayudante de camarero en bar-cafetería.  
-- Auxiliar o ayudante de barman.  
-- Auxiliar o ayudante de cocina en establecimientos donde la oferta esté compuesta por elaboraciones sencillas y rápidas (tapas, platos combinados, entre otros) 
+- Operador de máquinas fijas para fabricar productos de madera. 
+- Operador de prensas. Operador-armador en banco.  
+- Montador-ensamblador de elementos de carpintería.  
+- Barnizador-lacador.  
+- Responsable de sección de acabados. 
 
-**T.P.B. Actividades de Panadería y Pastelería** 
+**Técnico en Instalación y Amueblamiento** 
 
-- Auxiliar de panadería y bollería.  
-- Auxiliar de pastelería. 
-- Auxiliar de almacén de pastelería.  
-- Empleado/a de establecimiento de pastelería. Auxiliar de almacén.  
-- Auxiliar de venta. 
+- Jefe de equipos de carpinteros de madera.  
+- Carpintero de armar en construcción.  
+- Carpintero en general.  
+- Carpintero de decorados.  
+- Ebanista y trabajador asimilado.  
+- Montador-instalador de muebles.  
+- Fabricación de estructuras de madera y piezas de carpintería y ebanistería para la construcción. 
 
- 
-**T. Cocina y gastronomía** 
+**Técnico Superior en Diseño y Amueblamiento** 
 
-- Cocinero. Jefe de partida.  
-- Empleado de economato de unidades de producción y servicio de alimentos y bebidas. 
- 
-
-**T. Servicios de Restauración** 
-
-- Camarero de bar-cafetería o restaurante. Jefe de rango.  
-- Empleado de economato de unidades de producción y servicio de alimentos y bebidas.  
-- Barman.  
-- Ayudante de sumiller.  
-- Auxiliar de servicios en medios de transporte. 
-
-**Curso de Especialización de Panadería y Bollería Artesana** 
-
-- Maestro Panadero 
-- Elaborador de bollería 
-- Elaborador de masas y bases de pizza 
-- Repostero 
-- Catador de productos de panificación artesanal 
-
-**T.S. Agencias de Viajes y Gestión de Eventos** 
-
-- Jefe/a de oficina de agencia de viajes.  
-- Jefe/a de departamento en agencia de viajes.  
-- Agente de viajes.  
-- Consultor/a de viajes.  
-- Organizador/a de eventos.  
-- Vendedor/a de servicios de viaje y viajes programados.  
-- Promotor/a comercial de viajes y servicios turísticos.  
-- Empleado/a del departamento de «booking» o reservas. 
-
-**T.S. Gestión de Alojamientos Turísticos** 
-
-- Subdirector de alojamientos de establecimientos turísticos.  
-- Jefe de recepción. Encargado de reservas.  
-- Jefe de reservas. 
-- Coordinador de calidad.  
-- Gobernanta o encargada general del servicio de pisos y limpieza.  
-- Subgobernanta o encargada de sección del servicio de pisos y limpieza.  
-- Gestor de alojamiento en residencias, hospitales y similares.  
-- Gestor de alojamiento en casas rurales.  
-- Coordinador de eventos.  
-- Jefe de ventas en establecimientos de alojamientos turísticos.  
-- Comercial de establecimientos de alojamientos turísticos. 
-
-**T.S. Guía, Información y asistencias turísticas** 
-
-- Guía local. 
-- Guía acompañante. 
-- Guía en emplazamientos de bienes de interés cultural.  
-- Informador/a turístico/a.  
-- Jefe/a de oficinas de información. 
-- Promotor/a turístico/a.  
-- Técnico/a de empresa de consultoría turística.  
-- Agente de desarrollo turístico local.  
-- Azafata/Asistente en medios de transporte terrestre o marítimo.  
-- Asistente en terminales (estaciones, puertos y aeropuertos).  
-- Encargado/a de facturación en terminales de transporte. 
-- Asistente en ferias, congresos y convenciones. 
-- Encargado/a de servicios en eventos. 
-
-**T.S. Dirección de Cocina** 
-
-- Director de alimentos y bebidas.  
-- Director de cocina. Jefe de producción en cocina.  
-- Jefe de cocina. Segundo jefe de cocina.  
-- Jefe de operaciones de catering.  
-- Jefe de partida. Cocinero.  
-- Encargado de economato y bodega. 
-
-**T.S. Dirección de Servicios de Restauración** 
-
-- Director de alimentos y bebidas.  
-- Supervisor de restauración moderna.  
-- Maître.  
-- Jefe de Sala.  
-- Encargado de bar-cafetería.  
-- Jefe de banquetes.  
-- Jefe de operaciones de catering. Sumiller.  
-- Responsable de compra de bebidas.  
-- Encargado de economato y bodega. 
+- Dibujante proyectista de muebles.  
+- Técnico en desarrollo de productos de carpintería y muebles.  
+- Proyectista de carpintería y mueble.  
+- Gerente de empresas de madera, mueble y otras manufacturas.  
+- Técnico de control de calidad en industrias de madera y corcho. 
+- Encargado de oficina técnica. Jefe de fabricación.  
+- Controlador de producción. Jefe de sección.  
+- Jefe de equipo. 

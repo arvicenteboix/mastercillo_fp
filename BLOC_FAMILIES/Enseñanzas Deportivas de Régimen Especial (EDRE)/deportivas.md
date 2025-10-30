@@ -9,12 +9,12 @@ titlepage: true
 titlepage-rule-height: 2
 titlepage-rule-color: AA0000
 titlepage-text-color: AA0000
-titlepage-background: ../portades/Usold.png
+titlepage-background: ../portades/Udepor.png
 
 # date: "21-10-2025"
 subject: "Proxmox"
 keywords: [Xarxa, Instal·lació]
-subtitle: "Familia profesional de soldadura y calderería"
+subtitle: "Enseñanzas Deportivas de Régimen Especial (EDRE)"
 lang: es
 page-background: img/bg.png
 
@@ -27,7 +27,7 @@ toc-title: Contenidos
 toc-depth: 2
 
 # capçalera i peu \thetitle
-header-left: "Soldadura y calderería"
+header-left: "Enseñanzas Deportivas de Régimen Especial"
 header-right: Curso 2025-2026
 footer-left: CEFIRE FP
 footer-right: \thepage/\pageref{LastPage}
@@ -400,17 +400,17 @@ laboral. Forman parte de la educación superior.
 
 a) Una parte troncal obligatoria
 
-1. Módulos Profesionales de Catálogo Modular de Formación Profesional.
+    1. Módulos Profesionales de Catálogo Modular de Formación Profesional.
 
-2. Módulos transversales
+    2. Módulos transversales
 
-- Itinerario para la empleabilidad I y II
+          - Itinerario para la empleabilidad I y II
 
-- Digitalización aplicada al sistema productivo
+          - Digitalización aplicada al sistema productivo
 
-- Sostenibilidad aplicada al sistema productivo
+          - Sostenibilidad aplicada al sistema productivo
 
-- Inglés profesional
+          - Inglés profesional
 
 b) Una parte de optativa integrada de un módulo de los que se ofrecerán
 en el centro educativo que tendrá duración anual y se cursará en segundo
@@ -418,76 +418,77 @@ curso.
 
 ## Acceso a los ciclos formativos
 
-El acceso a los Ciclos Formativos se regula por el Real Decreto
-6523/2011, de 18 de julio
+El acceso a los Ciclos Formativos se regula por el Real Decreto 6523/2011, de 18 de julio
 
 **Acceso a ciclos de grado básico**
 
 1. El acceso a los ciclos formativos de grado básico de los
-destinatarios del párrafo a) del apartado 1 del artículo anterior
-requerirá, conforme al artículo 41.1 de la Ley Orgánica 2/2006, de 3 de
-mayo, de Educación, el cumplimiento simultáneo de los siguientes
-requisitos:
+destinatarios del párrafo 
 
-a) Tener cumplidos quince años, o cumplirlos durante el año natural en
-curso.
+    a) del apartado 1 del artículo anterior
+    requerirá, conforme al artículo 41.1 de la Ley Orgánica 2/2006, de 3 de
+    mayo, de Educación, el cumplimiento simultáneo de los siguientes
+    requisitos:
 
-b) Haber cursado el tercer curso o, excepcionalmente y a criterio del
-equipo docente y el responsable de la orientación en el centro, el
-segundo curso de educación secundaria obligatoria.
+    a) Tener cumplidos quince años, o cumplirlos durante el año natural en
+    curso.
 
-c) Ser objeto de propuesta o solicitar a petición propia, junto con los
-padres, madres o tutores legales, la incorporación a un ciclo formativo
-de grado básico, cuando el perfil vocacional del alumno o alumna así lo
-aconseje. Las administraciones educativas determinarán la intervención
-del alumnado, sus familias y los equipos o servicios de orientación en
-este proceso.
+    b) Haber cursado el tercer curso o, excepcionalmente y a criterio del
+    equipo docente y el responsable de la orientación en el centro, el
+    segundo curso de educación secundaria obligatoria.
 
-d) En el supuesto de realización de ciclos formativos de grado básico en
-régimen intensivo, el alumno deberá tener cumplidos 16 años para poder
-acceder a la formación práctica en empresa por esta modalidad, al estar
-vinculada a la contratación.
+    c) Ser objeto de propuesta o solicitar a petición propia, junto con los
+    padres, madres o tutores legales, la incorporación a un ciclo formativo
+    de grado básico, cuando el perfil vocacional del alumno o alumna así lo
+    aconseje. Las administraciones educativas determinarán la intervención
+    del alumnado, sus familias y los equipos o servicios de orientación en
+    este proceso.
+
+    d) En el supuesto de realización de ciclos formativos de grado básico en
+    régimen intensivo, el alumno deberá tener cumplidos 16 años para poder
+    acceder a la formación práctica en empresa por esta modalidad, al estar
+    vinculada a la contratación.
 
 **Acceso a ciclos formativos de grado medio.**
 
 1. Para el acceso a los ciclos formativos de grado medio se precisará el
 cumplimiento de uno de los siguientes requisitos:
 
-a) Estar en posesión del título de graduado en Educación Secundaria
-Obligatoria.
+    a) Estar en posesión del título de graduado en Educación Secundaria
+    Obligatoria.
 
-b) Estar en posesión del título de Técnico Básico o de Técnico.
+    b) Estar en posesión del título de Técnico Básico o de Técnico.
 
-c) Haber superado una oferta formativa de Grado C incluida en el ciclo
-formativo.
+    c) Haber superado una oferta formativa de Grado C incluida en el ciclo
+    formativo.
 
-d) Haber superado un curso de formación específico preparatorio y
-gratuito para el acceso a ciclos formativos de grado medio en centros
-expresamente autorizados por la Administración educativa.
+    d) Haber superado un curso de formación específico preparatorio y
+    gratuito para el acceso a ciclos formativos de grado medio en centros
+    expresamente autorizados por la Administración educativa.
 
-e) Haber superado una prueba de acceso.
+    e) Haber superado una prueba de acceso.
 
 **Acceso a ciclos formativos de grado superior.**
 
 1. Para el acceso a los ciclos formativos de grado superior se precisará
 el cumplimiento de uno de los siguientes requisitos:
 
-a) Poseer el título de Técnico de Grado Medio de Formación Profesional o
-el título de Técnico o Técnica de Artes Plásticas y Diseño.
+    a) Poseer el título de Técnico de Grado Medio de Formación Profesional o
+    el título de Técnico o Técnica de Artes Plásticas y Diseño.
 
-b) Poseer el título de Bachiller.
+    b) Poseer el título de Bachiller.
 
-c) Haber superado una oferta formativa de Grado C incluida en el ciclo
-formativo.
+    c) Haber superado una oferta formativa de Grado C incluida en el ciclo
+    formativo.
 
-d) Haber superado un curso de formación específico preparatorio y
-gratuito para el acceso a ciclos de grado superior en centros
-expresamente autorizados por la Administración educativa.
+    d) Haber superado un curso de formación específico preparatorio y
+    gratuito para el acceso a ciclos de grado superior en centros
+    expresamente autorizados por la Administración educativa.
 
-e) Haber superado una prueba de acceso.
+    e) Haber superado una prueba de acceso.
 
-f) Estar en posesión de un título de Técnico Superior de Formación
-Profesional o grado universitario.
+    f) Estar en posesión de un título de Técnico Superior de Formación
+    Profesional o grado universitario.
 
 # DISTRIBUCIÓN HORARIA CICLOS Y MÓDULOS FORMATIVOS
 
@@ -518,8 +519,7 @@ pueden consultar el siguiente enlace:
 
 ## MÓDULOS PROFESIONALES Y TITULACIONES ACADÉMICAS REQUERIDAS PARA SU IMPARTICIÓN
 
-La página web de **Todo FP** y el portal de la **Conselleria d'Educació,
-Cultura i Esport** en su sección de Formación Profesional constituyen
+La página web de **Todo FP** y el portal de la **Conselleria d'Educació, Cultura i Esport** en su sección de Formación Profesional constituyen
 una fuente viva y actualizada de información, imprescindible para todos
 los docentes. En estos espacios se dispone de toda la documentación y
 recursos necesarios para la elaboración y desarrollo de una programación
@@ -545,244 +545,250 @@ atribución docente y otros aspectos esenciales para el desarrollo de una
 programación didáctica conforme a las necesidades y características del
 sistema educativo valenciano.
 
-# SOLDADURA Y CALDERERÍA 
+# ACTIVIDADES FÍSICAS Y DEPORTIVAS
 
-La familia profesional de Fabricación Mecánica engloba un conjunto de
-actividades orientadas a la producción industrial de componentes y
-sistemas mecánicos, abarcando procesos como el mecanizado, la soldadura,
-la programación de la producción, la fabricación de elementos metálicos,
-el diseño de productos mecánicos, la programación de sistemas
-automáticos y la fabricación por moldeo de metales y polímeros. Esta
-familia es esencial para el sector industrial y manufacturero, siendo
-clave para la competitividad y sostenibilidad de la industria en la
-Comunitat Valenciana. 
+## LA FAMILIA PROFESIONAL 
 
-En la Comunitat Valenciana, esta familia tiene una importante presencia
-económica y formativa, con un tejido empresarial compuesto por empresas
-dedicadas a la fabricación de componentes mecánicos, maquinaria
-industrial, equipos electrónicos, instalaciones electrotécnicas y
-automatismos, entre otros. Las provincias de València, Alicante y
-Castelló concentran la mayor parte de esta actividad, especialmente en
-zonas industriales y tecnológicas, generando un elevado volumen de
-empleo y oportunidades de emprendimiento. 
+La familia profesional de **Actividades Físico-Deportivas** abarca un
+conjunto de actividades orientadas a la **promoción de la actividad
+física, el deporte, la salud y el ocio activo**, a través de la
+planificación, organización y desarrollo de programas deportivos y
+recreativos para distintos grupos de población. Su ámbito de actuación
+se estructura en diversas áreas: la **enseñanza y animación deportiva**,
+la **dirección y entrenamiento de equipos o deportistas**, la **gestión
+de instalaciones y eventos deportivos** y la **promoción de hábitos de
+vida saludables** en diferentes contextos sociales y educativos. 
 
+En la **Comunitat Valenciana**, esta familia profesional tiene una
+presencia destacada gracias a la amplia red de **instalaciones
+deportivas, clubes, federaciones y empresas de servicios deportivos**.
+El deporte y la actividad física representan un sector en crecimiento
+constante, vinculado tanto al rendimiento deportivo como al turismo
+activo y la salud. Ciudades como **València, Alicante y Castelló**
+cuentan con una gran concentración de entidades deportivas, así como con
+infraestructuras de primer nivel ---como centros de alto rendimiento,
+complejos deportivos municipales y espacios naturales para la práctica
+de actividades al aire libre---. Además, la Comunitat Valenciana es sede
+de numerosos **eventos deportivos nacionales e internacionales**, que
+contribuyen al desarrollo económico y social del territorio. 
 
-En la familia profesional de Fabricación Mecánica, los profesores
-técnicos de sector singular dentro de la Administración educativa tienen
-atribución docente exclusiva o principal en aquellas especialidades
-estrechamente vinculadas a su experiencia profesional en el sector
-industrial. 
+Esta sólida implantación del sector se refleja también en la **oferta
+educativa**, con **ciclos formativos de Grado Medio y Grado Superior**
+que se imparten en diferentes localidades de la región. Los principales
+títulos abarcan ámbitos como la **enseñanza y animación sociodeportiva,
+la dirección técnica deportiva y el acondicionamiento físico**, lo que
+permite formar profesionales versátiles y adaptados a las demandas del
+mercado. Además, la colaboración con **ayuntamientos, federaciones y
+empresas del sector deportivo** favorece una formación práctica y
+estrechamente vinculada a la realidad profesional. 
 
-En esta familia profesional, los profesores de sector singular imparten
-generalmente especialidades técnicas directamente relacionadas con
-procesos productivos concretos, tales como: 
-
-- Mecanizado y mantenimiento de máquinas 
-- Soldadura y calderería
-- Fabricación por moldeo de metales y polímeros 
-
-Estos profesores combinan su experiencia profesional en la industria con
-competencias pedagógicas, garantizando que la formación proporcionada
-sea práctica, actualizada y ajustada a las necesidades reales del
-sector. 
+El sector de las actividades físico-deportivas ha experimentado en los
+últimos años una notable transformación impulsada por la
+**digitalización, la innovación tecnológica y la conciencia sobre la
+salud y el bienestar**. La incorporación de herramientas digitales para
+el entrenamiento, la monitorización del rendimiento, las aplicaciones de
+gestión deportiva o el auge de actividades al aire libre y sostenibles
+son algunos de los cambios más destacados. Estos avances han modificado
+los perfiles profesionales, que hoy demandan **mayor competencia
+digital, habilidades comunicativas y capacidad para adaptar la práctica
+deportiva a distintos contextos y públicos**. En este marco, la
+**Formación Profesional** se actualiza de forma continua, incorporando
+**contenidos sobre nuevas metodologías de entrenamiento, seguridad,
+inclusión y salud**, con el objetivo de garantizar una formación de
+calidad y ajustada a las necesidades del sector. 
 
 ## OFERTA FORMATIVA 
 
-**F. P. Básica** 
+Dentro de la familia profesional de Actividades físicas y deportivas se
+ofertan cuatro ciclos formativos. 
 
-- Fabricación y montaje  
--  Instalaciones electrotécnicas y mecánica  
-- Fabricación de elementos metálicos  
+**TÍTULO DE FORMACIÓN PROFESIONAL BÁSICA**
 
-**Grado Medio** 
+- T.P.B. Acceso y conservación en instalaciones deportivas 
 
--  Técnico en Soldadura y Calderería  
+**TITULO DE FORMACIÓN PROFESIONAL DE GRADO MEDIO**
 
-**Grado Superior** 
+- T. Guía en el Medio Natural y de Tiempo Libre 
 
-- Técnico Superior en Construcciones Metálicas  
+**TÍTULOS DE FORMACIÓN PROFESIONAL DE GRADO SUPERIOR**
 
-## REALES DECRETOS Y CURRÍCULUM
+- T.S Acondicionamiento Físico  
 
-### F. P. Básica
+- T.S. Enseñanza y Animación Sociodeportiva 
 
-**Fabricación y montaje** 
+## REALES DECRETOS DE TÍTULO Y CURRÍCULO
 
-- Real Decreto 498/2024, de 21 de mayo, por el que se modifican determinados reales decretos por los que se establecen títulos de Formación Profesional de grado básico y se fijan sus enseñanzas mínimas. 
+Se estructura en distintos grados de enseñanza, básico, medio y
+superior.  
 
-- DECRETO 185/2014, de 31 de octubre, del Consell, por el que se
-establecen veinte currículos correspondientes a los ciclos formativos de
-Formación Profesional Básica en el ámbito de la Comunitat Valenciana.
+En los siguientes enlaces se pueden encontrar toda la información acerca
+de los ciclos formativos y familias profesionales que se imparten en la
+Comunidad Valenciana. 
 
-**Instalaciones electrotécnicas y mecánica** 
+- [*Dosier ciclos - Formación Profesional - Generalitat Valenciana*](https://ceice.gva.es/es/web/formacion-profesional/dossier-cicles) 
 
-- Real Decreto 774/2015, de 28 de agosto, por el que se establecen seis
-Títulos de Formación Profesional Básica del catálogo de Títulos de las
-enseñanzas de Formación Profesional. 
+- [http://todofp.es/inicio.html](http://todofp.es/inicio.html) 
 
-- DECRETO 23/2022, de 4 de marzo, del Consell, de establecimiento del
-currículum de los ciclos de formación profesional correspondientes a los
-títulos profesionales básicos en Actividades Marítimo-Pesqueras,
-Actividades de Horno y Pastelería, Actividades Domésticas y de Limpieza
-de Edificios, Mantenimiento de Viviendas, Fabricación de Elementos
-Metálicos, Instalaciones Electrotécnicas y Mecánica, y Mantenimiento de
-Embarcaciones Deportivas y de Recreo.  
+### FP BÁSICA 
 
-**Fabricación de elementos metálicos** 
+**Ciclo de grado básico Acceso y conservación en instalaciones deportivas**
 
-- Real Decreto 774/2015, de 28 de agosto, por el que se establecen seis
-Títulos de Formación Profesional Básica del catálogo de Títulos de las
-enseñanzas de Formación Profesional. 
+- Título: Real Decreto 73/2018, de 19 de febrero, por el que se establece el Título profesional básico en acceso y conservación en instalaciones deportivas y se fijan los aspectos básicos del currículo. 
 
-- DECRETO 23/2022, de 4 de marzo, del Consell, de establecimiento del
-currículum de los ciclos de formación profesional correspondientes a los
-títulos profesionales básicos en Actividades Marítimo-Pesqueras,
-Actividades de Horno y Pastelería, Actividades Domésticas y de Limpieza
-de Edificios, Mantenimiento de Viviendas, Fabricación de Elementos
-Metálicos, Instalaciones Electrotécnicas y Mecánica, y Mantenimiento de
-Embarcaciones Deportivas y de Recreo. 
+- Currículo: DECRETO 117/2025, de 5 de agosto, del Consell, por el que establecen los currículos de los ciclos formativos de Grado Básico de Formación Profesional, en aplicación de la Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación Profesional. DECRETO 67/2024, de 21 de junio. 
 
-### Grado Medio
+### GRADO MEDIO 
 
-**Técnico en Soldadura y Calderería** 
+**Ciclo de grado medio Guía en el Medio Natural y de Tiempo Libre**
 
-- Real Decreto 1692/2007, de 14 de diciembre, por el que se establece el
-título de Técnico en Soldadura y Calderería y se fijan sus enseñanzas
-mínimas. 
+- TÍTULO: Real Decreto 402/2020, de 25 de febrero, por el que se establece el título de Técnico en Guía en el medio natural y de tiempo libre y se fijan los aspectos básicos del currículo. 
 
-- ORDEN de 29 de julio 2009, de la Conselleria de Educación, por la que se
-establece para la Comunitat Valenciana el currículo del ciclo formativo
-de Grado Medio correspondiente al título de Técnico en Soldadura y
-Calderería. 
+- Currículo: DECRETO 114/2025, de 29 de julio, del Consell, por el que se establecen los currículos de los ciclos formativos de grado medio y de grado superior de Formación Profesional, en aplicación de la Ley orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación Profesional. Deroga el DECRETO 167/2023, de 29 de septiembre. 
 
-- Para elaborar la programación didáctica será necesario consultar el
-**Decreto 114/2025, de 29 de julio**, con el fin de comprobar si el
-módulo que se va a programar ha experimentado alguna modificación. En
-caso de que el decreto introduzca cambios, se deberán tener en cuenta y
-aplicar las adaptaciones correspondientes en la programación. 
+## GRADO SUPERIOR 
 
+**Ciclo de grado superior Acondicionamiento físico**
 
-### Grado Superior
+- Título: Real Decreto 651/2017, de 23 de junio, por el que se establece el título de Técnico Superior en acondicionamiento físico y se fijan los aspectos básicos del currículo. 
 
-**Técnico Superior en Construcciones Metálicas** 
+- Currículo: DECRETO 114/2025, de 29 de julio, del Consell, por el que se establecen los currículos de los ciclos formativos de grado medio y de grado superior de Formación Profesional, en aplicación de la Ley orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación Profesional. Deroga el DECRETO 39/2023, de 24 de marzo. 
 
-- Real Decreto 174/2008, de 8 de febrero, por el que se establece el
-título de Técnico Superior en Construcciones Metálicas y se fijan sus
-enseñanzas mínimas. 
+**Ciclo de grado superior Enseñanza y Animación sociodeportiva**
 
-- ORDEN de 29 de julio 2009, de la Conselleria de Educación, por la que se
-establece para la Comunitat Valenciana el currículo del ciclo formativo
-de Grado Superior correspondiente al título de Técnico Superior en
-Construcciones Metálicas.  
+- Título: Real Decreto 653/2017, de 23 de junio, por el que se establece el título de Técnico Superior en enseñanza y animación sociodeportiva y se fijan los aspectos básicos del currículo. 
 
-## INSTALACIONES
+- Currículo: DECRETO 114/2025, de 29 de julio, del Consell, por el que se establecen los currículos de los ciclos formativos de grado medio y de grado superior de Formación Profesional, en aplicación de la Ley orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación Profesional. Deroga el DECRETO 134/2022 de 7 de octubre. 
 
-Estas enseñanzas se imparten en las aulas polivalentes, en el
-laboratorio y principalmente en talleres dotados de una serie de
-mobiliario, aparatología, materiales y equipos que varían en función del
-módulo formativo. 
+## INSTALACIONES Y ESPACIOS EN LOS CENTROS EDUCATIVOS 
 
-En los Reales Decretos donde se establecen los títulos de cada ciclo
-formativo, especifica las medidas que deben tener los espacios según el
-número de alumnos y el equipamiento necesario.  
+En el marco de la oferta formativa correspondiente a la familia
+profesional de **Actividades Físicas y Deportivas**, y en cumplimiento
+de los criterios de calidad y especialización establecidos por la
+normativa vigente en materia de enseñanzas deportivas de régimen
+especial, la **Conselleria d'Educació** ha suscrito convenios de
+colaboración con diversas **federaciones deportivas autonómicas y
+nacionales**. Entre ellas se encuentran la **Federación de Esgrima de la
+Comunidad Valenciana**, la **Federación de Hípica**, la **Federación de
+Vela** y la **Federación de Deportes de Montaña y Escalada de la
+Comunidad Valenciana (FEMECV)**. 
 
-Por otro lado, en las Órdenes por la que se establece para la Comunidad
-Valenciana los currículos de los Ciclos Formativos, se observa una mayor
-especificación de las instalaciones y espacios.  
+El objeto de estos convenios es permitir que dichas federaciones asuman
+la **impartición de los bloques específicos de las enseñanzas
+deportivas** en sus respectivas modalidades, dado que la administración
+autonómica no dispone actualmente de la infraestructura técnica,
+instalaciones ni equipamiento específico necesarios para garantizar una
+formación de calidad y con las debidas condiciones de seguridad, que
+responda a los estándares exigidos por el sistema educativo. 
 
-Ejemplo: 
+Esta colaboración público-privada tiene como finalidad **garantizar la
+calidad formativa, técnica y pedagógica** del alumnado inscrito en estas
+titulaciones, mediante el aprovechamiento de los recursos humanos y
+materiales especializados que poseen las federaciones deportivas,
+entidades reconocidas oficialmente como colaboradores necesarios en la
+organización de estas enseñanzas. 
 
-En el Real Decreto 174/2008, de 8 de febrero, por el que se establece el
-título de Técnico Superior en Construcciones Metálicas y se fijan sus
-enseñanzas mínimas en su Anexo II nos proporciona una información
-general sin especificar de los espacios necesarios para impartir este
-ciclo: 
+Asimismo, la Conselleria continúa trabajando en el desarrollo de nuevos
+convenios con otras federaciones deportivas para ampliar la oferta de
+enseñanzas regladas en el territorio valenciano. En este sentido, se
+están valorando acuerdos futuros para incorporar las titulaciones
+correspondientes a disciplinas como el **Piragüismo**, el **Judo** y la
+**Defensa Personal**, cuya implantación está prevista a lo largo de la
+presente década. 
 
+Cabe destacar que estas enseñanzas están adscritas al **Centro Integrado
+Público de Formación Profesional (CIPFP) de Cheste**, que actúa como
+centro de referencia autonómico para la gestión y coordinación de las
+enseñanzas deportivas de régimen especial en la Comunidad Valenciana. 
 
-- Aula polivalente.  
-- Aula Diseño.  
-- Laboratorio de ensayos.  
-- Taller de construcciones metálicas.  
-- Taller de mecanizado.  
-- Taller de automatismos. 
+## ENTORNO PROFESIONAL 
 
+**Ciclo de grado medio Guía en el Medio Natural y de Tiempo Libre**
 
-Sin embargo, en la Orden autonómica que establece el currículo de este
-ciclo, en el anexo V, nos proporciona información más específica y
-detallada: 
+Las ocupaciones más relevantes para este perfil profesional son las siguientes: 
+Acompañante de usuarios en instalaciones deportivas. 
 
-| Espacio formativo                                             | Superficie m² (30 alumnos) | Superficie m² (20 alumnos) |
-|---------------------------------------------------------------|----------------------------|----------------------------|
-| Aula polivalente                                              | 60                         | 40                         |
-| Aula Diseño + Taller de automatismos                          | 90                         | 60                         |
-| Laboratorio de ensayos                                        | 60                         | 40                         |
-| Taller de construcciones metálicas + Taller de mecanizado     | 300                        | 240                        |
+- Auxiliar de control de instalaciones deportivas. 
+- Auxiliar de servicios generales.  
+- Ayudante Control y Mantenimiento.  
+- Clasificador / clasificadora y/o repartidor de correspondencia.  
+- Conserje de colegios.  
+- Conserje de instalaciones.  
+- Conserje de piscinas.  
+- Moza / mozo vestuario de piscinas. 
+- Ordenanza.  
+- Subalterna / subalterno de dependencias. Subalterna / subalterno de piscinas.  
+- Taquillera / taquillero. 
 
+<!-- -->
 
-## ENTORNO PROFESIONAL
+**Ciclo de grado medio Guía en el Medio Natural y de Tiempo Libre**
 
-### F.P. Básica 
+Las personas que obtienen este título ejercen su actividad en el ámbito
+de las actividades deportivo-recreativas en la naturaleza y turismo
+activo, deportivo o de aventura y en instalaciones de ocio y aventura,
+así como en actividades socioeducativas de tiempo libre, en las áreas de
+organización, desarrollo, dinamización, seguimiento y evaluación de
+dichas actividades y en las de prevención, vigilancia y rescate en
+espacios acuáticos naturales. También pueden ejercer su actividad en
+unidades de intervención acuática y equipos de rescate y socorrismo. 
 
-**Fabricación y montaje** 
-
-- Peones de industrias manufactureras.  
-- Auxiliares de procesos automatizados.  
-- Fontanero/a. Montador/a de equipos de calefacción.  
-- Mantenedor/a de equipos de calefacción.  
-- Montador/a de equipos de climatización.  
-- Mantenedor/a de equipos de climatización Instalador/a de redes de suministro y distribución de agua. 
  
 
-**Instalaciones electrotécnicas y mecánica** 
+**Ciclo de grado superior Acondicionamiento físico**
 
-- Operario/a de instalaciones eléctricas de baja tensión.  
-- Ayudando/a de montador/a de antenas receptoras/ televisión satélites.  
-- Ayudando/a de instalador/a y reparador/a de equipos telefónicos y telegráficos. 
-- Ayudando/a de instalador/a de equipos y sistemas de comunicación.  
-- Ayudando/a de instalador/a reparador/a de instalaciones telefónicas.  
-- Peón de la industria de producción y distribución de energía eléctrica.  
-- Peones de industrias manufactureras.  
-- Auxiliares de procesos automatizados. 
+- Entrenador / entrenadora de acondicionamiento físico en las salas de entrenamiento polivalente de gimnasios o polideportivos y en instalaciones acuáticas. 
+- Entrenador / entrenadora de acondicionamiento físico para grupos con soporte musical en gimnasios, instalaciones acuáticas o en polideportivos. 
+- Entrenador / entrenadora personal. 
+- Instructor instructora de grupos de hidrocinesia y cuidado corporal. 
+- Promotor / promotora de actividades de acondicionamiento físico. 
+- Animador / animadora de actividades de acondicionamiento físico. 
+- Coordinador / coordinadora de actividades de acondicionamiento físico y de hidrocinesia. 
+- Monitor / monitora de aeróbic, de step, de ciclo indoor, de fitness acuático y actividades afines. 
+- Instructor / instructora de las actividades de
+- acondicionamiento físico para colectivos especiales. 
 
-**Fabricación de elementos metálicos** 
+<!-- -->
 
-- Operario/a de instalaciones eléctricas de baja tensión.  
-- Ayudante/a de montador/a de antenas receptoras/ televisión satélites.  
-- Operador/a de ensamblado de equipos eléctricos y electrónicos.  
-- Montador/a de componentes en placas de circuito impreso.  
-- Auxiliar de mantenimiento de equipos eléctricos y electrónicos.  
-- Probador/a-ajustador/a de placas y equipos eléctricos y electrónicos.  
-- Peones de industrias manufactureras.  
-- Auxiliares de procesos automatizados.  
-- Peones y auxiliares de industrias metalúrgicas, de fabricación de productos metálicos y manufactureras.  
-- Auxiliar soldador/a de materiales de acero al carbono por arco eléctrico con electrodo revestido de rutilo.  
-- Auxiliar de soldador/a de estructuras metálicas pesadas, ligeras y tubería. Auxiliar de oxicortador/a a mano.  
-- Auxiliar de cortador/a de metales por plasma, a mano. 
-- Auxiliares de procesos automatizados.  
-- Auxiliar de carpintero/a metálico. Auxiliar de montador/a de estructuras metálicas. 
+**Ciclo de grado superior Enseñanza y Animación sociodeportiva**
 
-### Grado Medio
+Las personas que obtienen este título ejercen su actividad profesional
+tanto en el ámbito público, administración general, autonómica o local,
+como en entidades de carácter privado, grandes, medianas o pequeñas
+empresas que ofrezcan servicios de enseñanza deportiva,
+acondicionamiento físico, inclusión sociodeportiva y recreación. 
 
-**Técnico en Soldadura y Calderería** 
+Su actividad se desarrolla en las áreas de la animación social, la
+enseñanza físico-deportiva en diferentes contextos y edades, la
+animación turística y las actividades de tiempo libre educativo infantil
+y juvenil, ocupándose de la planificación, organización, dinamización y
+evaluación de las actividades. 
 
-- Soldadores y oxicortadores.  
-- Operadores de proyección térmica.  
-- Chapistas y caldereros.  
-- Montadores de estructuras metálicas.  
-- Carpintero metálico.  
-- Tubero industrial de industria pesada. 
+Asimismo, puede ocuparse de la organización de competiciones no
+oficiales y pequeños eventos físico-deportivos para todo tipo de
+usuarios y para empresas de turismo activo. 
 
-### Grado Superior
+Su actividad se desarrolla en instalaciones deportivas convencionales y
+no convencionales y en el entorno natural, así como en instalaciones
+turísticas, tales como hoteles, balnearios, campamentos para turismo y
+ciudades de vacaciones. 
 
-**Técnico Superior en Construcciones Metálicas** 
+Los sectores productivos de inserción profesional son los del deporte,
+turismo, ocio y tiempo libre educativo infantil y juvenil. 
 
-- Técnico en construcción mecánica.  
-- Encargado de fabricación en construcciones metálicas. 
-- Encargado de montadores en construcciones metálicas.  
-- Delineante proyectista de calderería y estructuras metálicas.  
-- Técnico en diseño asistido por ordenador (CAD) de calderería y estructuras metálicas. 
-- Diseñador técnico de calderería y estructuras.  
-- Programador de sistemas automatizados en fabricación mecánica.  
-- Programador de la producción en fabricación mecánica.  
-- Técnico en desarrollo de tuberías.  
-- Jefe de taller en construcciones metálicas y montaje. 
+# Bibliografía
+
+- Ley Orgánica 3/2022, de 28 de diciembre, de ordenación y regulación de la Formación Profesional en España.
+- Real Decreto 659/2023, de 21 de marzo, por el que se regula el sistema de Formación Profesional.
+- Decreto 114/2025, de la Generalitat Valenciana, por el que se regula la Formación Profesional en la Comunitat Valenciana.
+- Real Decreto 6523/2011, de 18 de julio, por el que se regulan los ciclos formativos de Formación Profesional.
+- Real Decreto 73/2018, de 19 de febrero, por el que se establece el título profesional básico en acceso y conservación en instalaciones deportivas.
+- Decreto 67/2024, de 21 de junio, del Consell, por el que se establece el currículo del ciclo formativo de Formación Profesional Básica en la Comunitat Valenciana.
+- Real Decreto 402/2020, de 25 de febrero, por el que se establece el título de Técnico en Guía en el medio natural y de tiempo libre.
+- Decreto 167/2023, de 29 de septiembre, del Consell, que establece el currículo del ciclo formativo de grado medio en Guía en el Medio Natural y de Tiempo Libre.
+- Real Decreto 651/2017, de 23 de junio, por el que se establece el título de Técnico Superior en acondicionamiento físico.
+- Decreto 39/2023, de 24 de marzo, del Consell, que establece el currículo del ciclo formativo de grado superior en Acondicionamiento Físico en la Comunitat Valenciana.
+- Real Decreto 653/2017, de 23 de junio, por el que se establece el título de Técnico Superior en enseñanza y animación sociodeportiva.
+- Decreto 134/2022, de 7 de octubre, del Consell, que establece el currículo del ciclo formativo de grado superior en Enseñanza y Animación Sociodeportiva en la Comunitat Valenciana.
+- Portal de la [Conselleria d’Educació, Cultura i Esport de la Generalitat Valenciana](https://ceice.gva.es/es/web/formacion-profesional)
+- Portal [Todo FP](http://todofp.es/inicio.html)
+- Dosier ciclos - Formación Profesional - Generalitat Valenciana [https://ceice.gva.es/es/web/formacion-profesional/dossier-cicles](https://ceice.gva.es/es/web/formacion-profesional/dossier-cicles)

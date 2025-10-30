@@ -9,12 +9,12 @@ titlepage: true
 titlepage-rule-height: 2
 titlepage-rule-color: AA0000
 titlepage-text-color: AA0000
-titlepage-background: ../portades/Utur.png
+titlepage-background: ../portades/Utransport.png
 
 # date: "21-10-2025"
 subject: "Proxmox"
 keywords: [Xarxa, Instal·lació]
-subtitle: "Familia profesional de Hostelería y Turismo"
+subtitle: "Familia Transporte y mantenimiento de vehículos autopropulsados"
 lang: es
 page-background: img/bg.png
 
@@ -23,11 +23,11 @@ linkcolor: "blue"
 
 # configuració de l'índex
 toc-own-page: true
-toc-title: Continguts
+toc-title: Contenidos
 toc-depth: 2
 
 # capçalera i peu \thetitle
-header-left: "Hostelería y Turismo"
+header-left: "Transporte y mantenimiento de vehículos autopropulsados"
 header-right: Curso 2025-2026
 footer-left: CEFIRE FP
 footer-right: \thepage/\pageref{LastPage}
@@ -96,8 +96,6 @@ Generalitat Valenciana \\
 Conselleria d’Educació, Investigació, Cultura i Esport \\
 Servei de Formació del Professorat \\
 CEFIRE de Formació Professional \\[1em]
-\textbf{AUTOR VERSIÓN ORIGINAL:} \\
- \\
 \textbf{AUTORES REVISIÓN 25-26:} \\
 Gemma Cerezo Gil\\
 Alfredo Rafael Vicente Boix \\[1em]
@@ -404,15 +402,15 @@ a) Una parte troncal obligatoria
 
 2. Módulos transversales
 
-- Itinerario para la empleabilidad I y II
+      - Itinerario para la empleabilidad I y II
 
-- Digitalización aplicada al sistema productivo
+      - Digitalización aplicada al sistema productivo
 
-- Sostenibilidad aplicada al sistema productivo
+      - Sostenibilidad aplicada al sistema productivo
 
-- Inglés profesional
+      - Inglés profesional
 
-b\) Una parte de optativa integrada de un módulo de los que se ofrecerán
+b) Una parte de optativa integrada de un módulo de los que se ofrecerán
 en el centro educativo que tendrá duración anual y se cursará en segundo
 curso.
 
@@ -546,358 +544,139 @@ programación didáctica conforme a las necesidades y características del
 sistema educativo valenciano.
 
 
-# LA FAMILIA PROFESIONAL DE HOSTELERÍA Y TURISMO
-
-## INTRODUCCIÓN 
-
-La familia profesional de **Hostelería y Turismo** engloba un amplio
-conjunto de actividades relacionadas con la **prestación de servicios de
-alojamiento, restauración, gastronomía, organización de eventos y
-gestión turística**. Su ámbito de actuación se estructura en diversas
-áreas interconectadas: por un lado, la **hostelería**, que comprende la
-cocina, el servicio en restauración, la repostería y la atención al
-cliente en establecimientos hoteleros y de restauración; y, por otro, el
-**turismo**, orientado a la planificación, promoción y gestión de
-destinos, agencias de viajes, empresas de ocio y actividades
-culturales. 
-
-En la **Comunitat Valenciana**, esta familia profesional constituye uno
-de los pilares del sector servicios y un motor esencial de la economía
-regional. La región es uno de los principales destinos turísticos de
-España, con más de **30 millones de visitantes anuales**, lo que impulsa
-una alta demanda de profesionales cualificados. Provincias como
-**Alicante, Valencia y Castellón** concentran una importante oferta
-hotelera y gastronómica, así como una red de empresas dedicadas al
-turismo sostenible, la intermediación y la restauración de alto nivel.
-Destacan zonas como la **Costa Blanca, la ciudad de València y la Costa
-del Azahar**, donde la hostelería y el turismo generan miles de empleos
-directos e indirectos. 
-
-Esta sólida implantación se refleja también en la **oferta formativa**,
-que abarca ciclos de **Formación Profesional Básica, Grado Medio y Grado
-Superior**, impartidos en numerosos centros educativos de la Comunitat
-Valenciana. Entre ellos, sobresale la labor del **Centro de Referencia
-Nacional de Turismo, Hotelería y Restauración de Castelló**, que impulsa
-la innovación y la excelencia formativa en el sector. 
-
-El ámbito de Hostelería y Turismo ha experimentado una profunda
-transformación en los últimos años, impulsada por la **digitalización,
-la sostenibilidad y la internacionalización**. La implantación de
-tecnologías de gestión hotelera, la utilización de plataformas digitales
-de reservas, la gastronomía de vanguardia, la eficiencia energética en
-alojamientos o el turismo experiencial son algunos de los cambios más
-relevantes. Estas innovaciones han modificado los perfiles
-profesionales, orientándolos hacia la **atención personalizada, la
-gestión sostenible y el uso de herramientas digitales**. En este
-contexto, la Formación Profesional se adapta de manera continua,
-incorporando **contenidos actualizados, competencias lingüísticas y
-tecnológicas**, así como colaboraciones con empresas y organismos del
-sector, garantizando una formación alineada con las necesidades reales
-del mercado laboral. 
-
-## OFERTA FORMATIVA 
-
-Dentro de la familia profesional de Hostelería y turismo se ofertan 11 ciclos formativos. 
-
-**Títulos de FP. Básica:** 
-
-T.P.B. Alojamiento y Lavandería  
-T.P.B. Cocina y Restauración  
-T.P.B. Actividades de Panadería y Pastelería  
-
-**Títulos de FP. De grado medio:** 
-
-- T. Cocina y gastronomía  
-- T. Servicios de Restauración  
-- Curso de Especialización de Panadería y Bollería Artesana
-
-**Títulos de FP. Superior:** 
-
-- T.S. Agencias de Viajes y Gestión de Eventos  
-- T.S. Gestión de Alojamientos Turísticos 
-- T.S. Guía, Información y asistencias turísticas  
-- T.S. Dirección de Cocina 
-- T.S. Dirección de Servicios de Restauración 
-
-## REALES DECRETOS 
-
-**T.P.B. Alojamiento y Lavandería** 
-
-- Real Decreto 356/2014, de 16 de mayo, por el que se establecen siete
-títulos de Formación Profesional Básica del catálogo de títulos de las
-enseñanzas de Formación Profesional. 
-
-- DECRETO 185/2014, de 31 de octubre, del Consell, por el que se
-establecen veinte currículos correspondientes a los ciclos formativos de
-Formación Profesional Básica en el ámbito de la Comunitat Valenciana. 
-
-**T.P.B. Cocina y Restauración** 
-
-- Real Decreto 498/2024, de 21 de mayo, por el que se modifican determinados reales decretos por los que se establecen títulos de Formación Profesional de grado básico y se fijan sus enseñanzas mínimas.  
-
-- DECRETO 185/2014, de 31 de octubre, del Consell, por el que se
-establecen veinte currículos correspondientes a los ciclos formativos de
-Formación Profesional Básica en el ámbito de la Comunitat Valenciana.  
-
-**T.P.B. Actividades de Panadería y Pastelería** 
-
-- Real Decreto 774/2015, de 28 de agosto, por el que se establecen seis
-Títulos de Formación Profesional Básica del catálogo de Títulos de las
-enseñanzas de Formación Profesional. 
-
-- DECRETO 23/2022, de 4 de marzo, del Consell, de establecimiento del
-currículum de los ciclos de formación profesional correspondientes a los
-títulos profesionales básicos en Actividades Marítimo-Pesqueras,
-Actividades de Horno y Pastelería, Actividades Domésticas y de Limpieza
-de Edificios, Mantenimiento de Viviendas, Fabricación de Elementos
-Metálicos, Instalaciones Electrotécnicas y Mecánica, y Mantenimiento de
-Embarcaciones Deportivas y de Recreo.  
 
-**T. Cocina y gastronomía** 
+# LA FAMILIA PROFESIONAL DE TRANSPORTE Y MANTENIMIENTO DE VEHÍCULOS AUTOPROPULSADOS
 
-- Real Decreto 1396/2007, de 29 de octubre, por el que se establece el
-título de Técnico en Cocina y Gastronomía y se fijan sus enseñanzas
-mínimas. 
+## MARCO NORMATIVO DE LA FAMILIA PROFESIONAL DE TRANSPORTE Y MANTENIMIENTO DE VEHÍCULOS AUTOPROPULSADOS
 
-- ORDEN de 29 de julio de 2009, de la Conselleria de Educación, por la que
-se establece para la Comunitat Valenciana el currículo del ciclo
-formativo de Grado Medio correspondiente al título de Técnico en Cocina
-y Gastronomía.  
-
- 
-**T. Servicios de Restauración** 
+El título de Formación Profesional de la familia profesional Transporte y Mantenimiento de Vehículos se regula dentro del marco estatal del **Real Decreto 659/2023, de 18 de julio**, de ordenación del Sistema de Formación Profesional , y se apoya en la Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación Profesional, derivada a su vez del marco general de la **Ley Orgánica 2/2006, de Educación (LOE)**. En la Comunidad Valenciana, el desarrollo curricular específico se lleva a cabo mediante el **Decreto 114/2025, de 29 de julio, del Consell**, aplicable a los ciclos formativos de grado medio y superior.
 
-- Real Decreto 1690/2007, de 14 de diciembre, por el que se establece el
-título de Técnico en Servicios en Restauración y se fijan sus enseñanzas
-mínimas**.** 
+### Real Decreto estatal del título
 
-- ORDEN de 29 de julio 2009, de la Conselleria de Educación, por la que se
-establece para la Comunitat Valenciana el currículo del ciclo formativo
-de Grado Medio correspondiente al título de Técnico en Servicios en
-Restauración.  
-
-**Curso de Especialización de Panadería y Bollería Artesana** 
+El **Real Decreto 659/2023** establece la **ordenación general del Sistema de Formación Profesional**, unificando la FP educativa y la FP para el empleo bajo un marco común y estructurado en cinco grados (A-E). Este real decreto desarrolla la Ley Orgánica 3/2022 y regula:
 
-- Real Decreto 482/2020, de 7 de abril, por el que se establece el Curso
-de especialización en panadería y bollería artesanales y se fijan los
-aspectos básicos del currículo, y se modifica el Real Decreto 651/2017,
-de 23 de junio, por el que se establece el Título de Técnico Superior en
-Acondicionamiento Físico y se fijan los aspectos básicos del currículo. 
+- La estructura de los **grados de Formación Profesional**, incluyendo el grado D (ciclos formativos de FP básica, media y superior).
+- Los **currículos básicos y módulos**, diferenciando los comunes (Digitalización, Sostenibilidad, Inglés profesional, Itinerario personal para la empleabilidad) y los específicos de cada familia profesional.
+- Los **principios pedagógicos**, evaluación, organización y convivencia con la fase de formación en empresa u organismo equiparado.
+  
+Este decreto es de aplicación directa a todos los títulos de la familia de **Transporte y Mantenimiento de Vehículos**, cuyas unidades de competencia derivan del **Catálogo Nacional de Cualificaciones Profesionales**, adaptadas por reales decretos específicos (como el RD 211/2025 para embarcaciones y RD 289/2023 para mantenimiento de vehículos).
 
-- Hoy en día, en la Comunitat Valenciana no se dispone de una concreción
-curricular propia para el *Curso de Especialización en Panadería y
-Bollería Artesanales*, perteneciente a la familia profesional de
-Hostelería y Turismo. 
+### Relación con la Ley Orgánica de Educación (LOE)
 
- **T.S. Agencias de Viajes y Gestión de Eventos** 
+El **Real Decreto 289/2023**, que actualiza determinados títulos de FP, menciona expresamente que su **fundamento jurídico** deriva del artículo 39.6 de la **Ley Orgánica 2/2006 (LOE)**, que atribuye al Gobierno la competencia para establecer las titulaciones y los aspectos básicos del currículo. Este vínculo garantiza que todos los títulos de FP, incluidos los de Transporte y Mantenimiento de Vehículos, respondan a los criterios de calidad y coherencia del sistema educativo nacional.
 
-- Real Decreto 1254/2009, de 24 de julio, por el que se establece el
-título de Técnico Superior en Agencias de Viajes y Gestión de Eventos y
-se fijan sus enseñanzas mínimas. 
+Así, la LOE (modificada por la LOMLOE en 2020) proporciona el **marco orgánico educativo**, mientras que la **Ley Orgánica 3/2022** y el **RD 659/2023** concretan la **organización modular, la estructura en grados y los itinerarios competenciales** de la actual FP integrada.
 
-- ORDEN 33/2012, de 22 de junio, de la Conselleria de Educación, Formación
-y Empleo, por la que se establece para la Comunidad Valenciana el
-currículo del ciclo formativo de grado superior correspondiente al
-título de Técnico Superior en Agencias de Viajes y Gestión de Eventos. 
- 
+### Currículo de la Comunidad Valenciana
 
-- **T.S. Gestión de Alojamientos Turísticos** 
+En el ámbito autonómico, el **Decreto 114/2025, de 29 de julio**, del **Consell de la Generalitat Valenciana**, establece los **currículos de los ciclos formativos de grado medio y superior de Formación Profesional**, de acuerdo con la Ley Orgánica 3/2022 y el RD 659/2023.
 
-Real Decreto 1686/2007, de 14 de diciembre, por el que se establece el
-título de Técnico Superior en Gestión de Alojamientos Turísticos y se
-fijan sus enseñanzas mínimas. 
+Este decreto desarrolla los currículos de cada familia profesional, entre ellos el de **Transporte y Mantenimiento de Vehículos**, incluyendo:
 
-ORDEN de 29 de julio de 2009, de la Conselleria de Educación por la que
-se establece para la Comunitat Valenciana el currículo del ciclo
-formativo de Grado Superior correspondiente al título de Técnico
-Superior en Gestión de Alojamientos Turísticos.** ** 
+- Adaptación de los módulos básicos y específicos al contexto productivo de la Comunitat Valenciana.  
+- Regulación de los módulos de formación dual, sostenibilidad, empleabilidad e inglés profesional.  
+- Referencia expresa a la conexión entre los estándares de competencia autonómicos y el **Catálogo Nacional** del Ministerio de Educación y Formación Profesional, conforme al RD 659/2023.
 
- 
 
-**T.S. Guía, Información y asistencias turísticas** 
-
-- Real Decreto 1255/2009, de 24 de julio, por el que se establece el
-título de Técnico Superior en Guía, Información y Asistencias Turísticas
-y se fijan sus enseñanzas mínimas 
-
-- ORDEN 34/2012, de 22 de junio, de la Conselleria de Educación, Formación
-y Empleo, por la que se establece para la Comunitat Valenciana el
-currículo del ciclo formativo de grado superior correspondiente al
-título de Técnico Superior en Guía, Información y Asistencias
-Turísticas 
+### Síntesis de la relación normativa
 
-**T.S. Dirección de Cocina** 
+| Nivel | Norma principal | Ámbito | Contenido clave |
+|-------|-----------------|--------|----------------|
+| Estatal | Real Decreto 659/2023, de 18 de julio | España | Ordenación del Sistema de Formación Profesional y estructura de grados A-E |
+| Estatal | Real Decreto 289/2023, de 18 de abril | España | Actualización de títulos y conexión con LOE y Catálogo Nacional de Cualificaciones |
+| Orgánico | Ley Orgánica 3/2022, de 31 de marzo | España | Marco general de integración de toda la Formación Profesional |
+| Orgánico | Ley Orgánica 2/2006 (LOE), de 3 de mayo | España | Base legal educativa de los títulos de FP |
+| Autonómico | Decreto 114/2025, de 29 de julio | Comunitat Valenciana | Currículos de grado medio y superior de FP, incluida la familia Transporte y Mantenimiento |
 
-- Real Decreto 687/2010, de 20 de mayo, por el que se establece el título
-de Técnico Superior en Dirección de Cocina y se fijan sus enseñanzas
-mínimas. 
-
-- ORDEN 32/2013, de 26 de abril, de la Consellería de Educación, Cultura y
-Deporte, por la que se establece para la Comunitat Valenciana el
-currículo del ciclo formativo de grado superior correspondiente al
-título de Técnico Superior en Dirección de Cocina. 
 
-**T.S. Dirección de Servicios de Restauración** 
+# OFERTA FORMATIVA
 
-- Real Decreto 688/2010, de 20 de mayo, por el que se establece el título
-de Técnico Superior en Dirección de Servicios de Restauración y se fijan
-sus enseñanzas mínimas. 
+Dentro de la familia profesional de Transporte y Mantenimiento de Vehículos Autopropulsados se ofertan diversos ciclos formativos distribuidos en los distintos grados establecidos por la nueva Ley 3/2022 y desarrollado en el Real Decreto 659/2023.
 
-- ORDEN 24/2013, de 21 de abril, de la Conselleria de Educación, Cultura y
-Deporte por la que se establece para la Comunitat Valenciana el
-currículo del ciclo formativo de Grado Superior correspondiente al
-título de Técnico Superior en Dirección de Servicios en
-Restauración.
-
-## INSTALACIONES 
-
-Estas enseñanzas se imparten en las aulas polivalentes, en el
-laboratorio y principalmente en talleres dotados de una serie de
-mobiliario, aparatología, materiales y equipos que varían en función del
-módulo formativo. 
-
-En los Reales Decretos donde se establecen los títulos de cada ciclo
-formativo, especifica las medidas que deben tener los espacios según el
-número de alumnos y el equipamiento necesario.  
-
-Por otro lado, en las Órdenes por la que se establece para la Comunidad
-Valenciana los currículos de los Ciclos Formativos, se observa una mayor
-especificación de las instalaciones y espacios.  
-
-Ejemplo: 
-
-En el Real Decreto 687/2010, de 20 de mayo, por el que se establece el
-título de Técnico Superior en Dirección de Cocina y se fijan sus
-enseñanzas mínimas 
-
-| Espacio formativo                        |
-|-------------------------------------------|
-| Aula polivalente.                        |
-| Taller de cocina.                        |
-| Taller de panadería y repostería.        |
-
-
-Sin embargo, en la Orden autonómica que establece el currículo de este
-ciclo, en el anexo IV, nos proporciona información más específica y
-detallada: 
-
-| Espacio formativo                        | Superficie m² (30 alumnos) | Superficie m² (20 alumnos) |
-|-------------------------------------------|----------------------------|----------------------------|
-| Aula polivalente                         | 60                         | 40                         |
-| Taller de cocina                         | 210                        | 210                        |
-| Taller de panadería y repostería         | 150                        | 120                        |
- 
-
-## ENTORNO PROFESIONAL
-
-
-**T.P.B. Alojamiento y Lavandería** 
-
-- Cambrer/a de pisos, en establiments d\'allotjament turístic siga quin siga la seua tipologia, modalitat o categoria.
-- Valets o mossos/as d\'habitacions.
-- Auxiliar de pisos i neteja.  
-- Auxiliar de bugaderia i llenceria en establiments d\'allotjament.  
-- Operador de màquines llavadores i eixugadores de peces de roba.  
-- Operador de màquines i equips de planxat de peces de roba. 
- 
-**T.P.B. Cocina y Restauración** 
-
-- Ayudante o auxiliar de cocina.  
-- Ayudante de economato de unidades de producción y servicio de alimentos y bebidas. 
-- Auxiliar o ayudante de camarero en sala.  
-- Auxiliar o ayudante de camarero en bar-cafetería.  
-- Auxiliar o ayudante de barman.  
-- Auxiliar o ayudante de cocina en establecimientos donde la oferta esté compuesta por elaboraciones sencillas y rápidas (tapas, platos combinados, entre otros) 
-
-**T.P.B. Actividades de Panadería y Pastelería** 
-
-- Auxiliar de panadería y bollería.  
-- Auxiliar de pastelería. 
-- Auxiliar de almacén de pastelería.  
-- Empleado/a de establecimiento de pastelería. Auxiliar de almacén.  
-- Auxiliar de venta. 
-
- 
-**T. Cocina y gastronomía** 
-
-- Cocinero. Jefe de partida.  
-- Empleado de economato de unidades de producción y servicio de alimentos y bebidas. 
- 
-
-**T. Servicios de Restauración** 
-
-- Camarero de bar-cafetería o restaurante. Jefe de rango.  
-- Empleado de economato de unidades de producción y servicio de alimentos y bebidas.  
-- Barman.  
-- Ayudante de sumiller.  
-- Auxiliar de servicios en medios de transporte. 
-
-**Curso de Especialización de Panadería y Bollería Artesana** 
-
-- Maestro Panadero 
-- Elaborador de bollería 
-- Elaborador de masas y bases de pizza 
-- Repostero 
-- Catador de productos de panificación artesanal 
-
-**T.S. Agencias de Viajes y Gestión de Eventos** 
-
-- Jefe/a de oficina de agencia de viajes.  
-- Jefe/a de departamento en agencia de viajes.  
-- Agente de viajes.  
-- Consultor/a de viajes.  
-- Organizador/a de eventos.  
-- Vendedor/a de servicios de viaje y viajes programados.  
-- Promotor/a comercial de viajes y servicios turísticos.  
-- Empleado/a del departamento de «booking» o reservas. 
-
-**T.S. Gestión de Alojamientos Turísticos** 
-
-- Subdirector de alojamientos de establecimientos turísticos.  
-- Jefe de recepción. Encargado de reservas.  
-- Jefe de reservas. 
-- Coordinador de calidad.  
-- Gobernanta o encargada general del servicio de pisos y limpieza.  
-- Subgobernanta o encargada de sección del servicio de pisos y limpieza.  
-- Gestor de alojamiento en residencias, hospitales y similares.  
-- Gestor de alojamiento en casas rurales.  
-- Coordinador de eventos.  
-- Jefe de ventas en establecimientos de alojamientos turísticos.  
-- Comercial de establecimientos de alojamientos turísticos. 
-
-**T.S. Guía, Información y asistencias turísticas** 
-
-- Guía local. 
-- Guía acompañante. 
-- Guía en emplazamientos de bienes de interés cultural.  
-- Informador/a turístico/a.  
-- Jefe/a de oficinas de información. 
-- Promotor/a turístico/a.  
-- Técnico/a de empresa de consultoría turística.  
-- Agente de desarrollo turístico local.  
-- Azafata/Asistente en medios de transporte terrestre o marítimo.  
-- Asistente en terminales (estaciones, puertos y aeropuertos).  
-- Encargado/a de facturación en terminales de transporte. 
-- Asistente en ferias, congresos y convenciones. 
-- Encargado/a de servicios en eventos. 
-
-**T.S. Dirección de Cocina** 
-
-- Director de alimentos y bebidas.  
-- Director de cocina. Jefe de producción en cocina.  
-- Jefe de cocina. Segundo jefe de cocina.  
-- Jefe de operaciones de catering.  
-- Jefe de partida. Cocinero.  
-- Encargado de economato y bodega. 
-
-**T.S. Dirección de Servicios de Restauración** 
-
-- Director de alimentos y bebidas.  
-- Supervisor de restauración moderna.  
-- Maître.  
-- Jefe de Sala.  
-- Encargado de bar-cafetería.  
-- Jefe de banquetes.  
-- Jefe de operaciones de catering. Sumiller.  
-- Responsable de compra de bebidas.  
-- Encargado de economato y bodega. 
+**TÍTULO DE FORMACIÓN PROFESIONAL BÁSICA**
+
+- T.P.B. Mantenimiento de Vehículos  
+- T.P.B. Mantenimiento de Embarcaciones Deportivas y de Recreo  
+
+**TÍTULOS DE FORMACIÓN PROFESIONAL DE GRADO MEDIO**
+
+- T. Técnico en Carrocería  
+- T. Técnico en Conducción de Vehículos de Transporte por Carretera  
+- T. Técnico en Electromecánica de Maquinaria  
+- T. Técnico en Electromecánica de Vehículos Automóviles  
+- T. Técnico en Mantenimiento de Material Rodante Ferroviario  
+
+**TÍTULOS DE FORMACIÓN PROFESIONAL DE GRADO SUPERIOR**
+
+- T.S. Técnico Superior en Automoción  
+- T.S. Técnico Superior en Mantenimiento Aeromecánico  
+- T.S. Técnico Superior en Mantenimiento de Aviónica  
+
+# REALES DECRETOS DE TÍTULO Y CURRÍCULO
+
+El sistema de formación se estructura en tres grados: básico, medio y superior, con titulaciones adaptadas y actualizadas a la normativa vigente. A continuación se resumen los decretos más relevantes que regulan los títulos y su currículo en la Comunidad Valenciana:
+
+- Real Decreto 659/2023, de 21 de marzo, por el que se regula el sistema de Formación Profesional en España.  
+- Real Decreto 289/2023, que actualiza las titulaciones básicas y algunas de grado medio.  
+- Real Decreto 211/2025, que incluye titulaciones del sector marítimo y mantenimiento de vehículos.  
+- Real Decreto 402/2020, sobre titulaciones de grado medio y superior en ámbitos técnicos como aeromecánica.  
+
+Para más detalles, los documentos oficiales pueden consultarse en:
+
+[Dosier ciclos - Formación Profesional - Generalitat Valenciana](https://ceice.gva.es/es/web/formacion-profesional/dossier-cicles)  
+[Portal Todo FP](http://todofp.es/inicio.html)
+
+# REGULACIÓN DE LA FAMILIA PROFESIONAL DE TRANSPORTE Y MANTENIMIENTO DE VEHÍCULOS AUTOPROPULSADOS
+
+La normativa que regula la Formación Profesional (FP) en España, y concretamente en la familia profesional de Transporte y Mantenimiento de Vehículos Autopropulsados, está compuesta por un conjunto de leyes y reales decretos que configuran un sistema integrado, adaptable a nivel estatal y autonómico, como en la Comunitat Valenciana.
+
+### Normativa estatal básica
+
+- **Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE)**: Establece el marco general del sistema educativo español, incluyendo la regulación básica de las titulaciones de FP en sus artículos. Esta ley es la base para los títulos oficiales y el currículo de FP.
+
+- **Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación Profesional**: Marco normativo que integra la oferta formativa de FP en un sistema articulado de itinerarios de aprendizaje y certificación, estructurado en cinco grados de aprendizaje.
+
+- **Real Decreto 659/2023, de 18 de julio**: Desarrolla la ordenación general del Sistema de Formación Profesional, estableciendo la estructura en grados A, B, C, D y E, la organización modular de los títulos y los principios pedagógicos comunes.
+
+- **Real Decreto 211/2025, de 18 de marzo**: Regula específicamente los grados A, B y C de FP para la familia profesional de Transporte y Mantenimiento de Vehículos Autopropulsados, incluyendo títulos profesionales básicos y certificados profesionales en mantenimiento y conducción de vehículos.
+
+### Normativa autonómica en la Comunitat Valenciana
+
+- **Decreto 114/2025, de 29 de julio, del Consell**: Regula los currículos de los ciclos formativos de grado medio y superior de FP en la Comunitat Valenciana, adaptando los títulos estatales a las necesidades, contexto productivo y criterios pedagógicos autonómicos, incluyendo los ciclos formativos de Transporte y Mantenimiento de Vehículos Autopropulsados.
+
+- Disposiciones autonómicas complementarias regulan aspectos organizativos, espacios, equipamientos y modalidades de impartición (presencial, virtual, dual) ajustados a la realidad valenciana.
+
+### Síntesis general
+
+| Nivel | Normativa | Ámbito | Contenido clave |
+|-------|-----------|--------|----------------|
+| Estatal | Ley Orgánica 2/2006 (LOE) | España | Base educativa y regulación general de titulaciones FP |
+| Estatal | Ley Orgánica 3/2022 | España | Integración y estructura modular de FP en grados A-E |
+| Estatal | RD 659/2023 | España | Ordenación general del sistema FP, estructura en grados |
+| Estatal | RD 211/2025 | España | Regulación específica de grados A, B y C para Transporte y Mantenimiento de Vehículos Autopropulsados |
+| Autonómico | Decreto 114/2025 | Comunitat Valenciana | Adaptación curricular autonómica para grados medio y superior FP en Transporte y Mantenimiento |
+
+# INSTALACIONES Y COLABORACIONES
+
+La oferta formativa se complementa con convenios de colaboración con empresas y entidades del sector del transporte y mantenimiento, facilitando el desarrollo de prácticas profesionales en entornos reales y el acceso a tecnologías actuales.
+
+# ENTORNO PROFESIONAL
+
+Los titulados en esta familia profesional desarrollan su actividad en talleres, empresas de transporte terrestre y marítimo, compañías de mantenimiento ferroviario, y en industrias especializadas en electromecánica y aeromecánica. Las ocupaciones más relevantes incluyen técnicos en mantenimiento, operadores y conductores especializados, así como responsables de calidad y seguridad en sistemas de transporte.
+
+### Notas Clave:  
+
+- La nueva Ley FP establece una estructura más flexible con 5 grados (A, B, C, D y E), donde los ciclos medios y superiores corresponden al Grado D.  
+- La formación será mayoritariamente dual, con alternancia de prácticas en empresa y teoría en centro.  
+- Los títulos mencionados se revisan y actualizan en las nuevas normativas que regulan específicamente cada especialidad ([Real Decreto 659/2023], [RD 211/2025], [RD 289/2023]).  
+
+# BIBLIOGRAFÍA
+
+- [Real Decreto 659/2023 desarrollo FP](https://www.boe.es/eli/es/rd/2023/03/21/659)  
+- [Real Decreto 211/2025 aspectos específicos de los grados A, B y C](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-7096)  
+- [Noticias nueva Ley FP](https://www.grupo2000.es/se-publica-en-el-boe-la-nueva-ley-de-la-formacion-profesional/)  
+- [Gobierno de España. (2023). *Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional.* Boletín Oficial del Estado, nº 172, 22 de julio de 2023.](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16889)
+- [Generalitat Valenciana. (2025). *Decreto 114/2025, de 29 de julio, del Consell, por el que se establecen los currículos de los ciclos formativos de grado medio y superior de Formación Profesional en la Comunitat Valenciana.* Diari Oficial de la Generalitat Valenciana, nº 10165, 4 de agosto de 2025.](https://dogv.gva.es/datos/2025/08/04/pdf/2025_29742_es.pdf)
+- [Ministerio de Educación y Formación Profesional. (2025). *Catálogo Nacional de Cualificaciones Profesionales – Familia Profesional de Transporte y Mantenimiento de Vehículos.* Madrid: Ministerio de Educación.](https://todofp.es/que-estudiar/familias-profesionales/transporte-mantenimiento-vehiculos.html)
+- [Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación Profesional. *Boletín Oficial del Estado*, nº 77, 31 de marzo de 2022.](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-4970)
+- [Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE). *Boletín Oficial del Estado*, nº 106, 4 de mayo de 2006.](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-7899)
