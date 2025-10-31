@@ -264,7 +264,7 @@ Cada element va acompanyat d'indicadors de qualitat (*IC), que establixen el niv
 
 El nou Catàleg Nacional d'Estàndards de Competències Professionals (denominat anteriorment Catàleg Nacional de Qualificacions Professionals), s'estructura en 26 Famílies Professionals. 
 
-![Catàleg Nacional d'Estàndards de Competències Professionals](./mitjana/10.*png){*width="*300px"}
+![Catàleg Nacional d'Estàndards de Competències Professionals](./media/10.png){*width="300px"}
 
 Una família professional és un grup que reunix diverses qualificacions o especialitats professionals que tenen competències semblants o estan relacionades. 
 
@@ -582,7 +582,7 @@ h) L'horari d'activitats lectives i no lectives organitzades en el centre.
 
 i) Quants altres projectes i plans pretenguen desenrotllar el centre. 
 
-![Document estratègic de segon nivell](./mitjana/*Imagen1.*png){*width="*300px"}
+![Document estratègic de segon nivell](./media/*Imagen1.png){*width="300px"}
  
 El punt de partida del Pla d'actuació és el Projecte Funcional, on es definixen les característiques fonamentals del context i les principals línies estratègiques. Dins dels elements del context, en el cas de Formació Professional no sols han de contemplar-se els relacionats particulars d'esta oferta, el Centre no sols acull alumnat del barri o del context pròxim, sinó que s'inscriuen en ell persones jóvens o adultes amb interés particular en una determinada família professional o cicle formatiu. La incorporació de l'oferta en horari nocturn o en modalitat semipresencial accentuen esta visió àmplia de la territorialitat, i la d'uns usuaris que no sols provenen del sistema educatiu i estan en formació inicial, sinó que són cada vegada més adults, amb experiència laboral prèvia, i amb interessos diversos. 
 
@@ -695,7 +695,7 @@ que habitualment s'ha manejat.
 El següent gràfic ens mostra la idea de la mútua implicació entre elements i el seu
 interrelació i la necessitat d'un procés de «anar i vindre».
 
-![Gràfic](./mitjana/20.*jpg){*width="*300px"}
+![Gràfic](./media/20.*jpg){*width="300px"}
 
 Les unitats didàctiques, qualsevol que siga l'organització, han de tindre en compte els
 següents aspectes: descripció, objectius didàctics, continguts, activitats, recursos
@@ -1066,14 +1066,14 @@ mòdul/curse.
 que s'indica als i les alumnes tot el relatiu a l'estructura, continguts i
 funcionament general del mòdul.
 
-![Logística comercial](./mitjana/22.*jpg){*width="*300px"}
+![Logística comercial](./media/22.*jpg){*width="300px"}
 
 * Consulta, en este apartat es posa a la disposició de l'alumnat un llistat per a
 que s'apunte a l'examen de cada una de les avaluacions, la qual cosa afavorix ajuda
 a la professora en l'organització d'espais i la preparació dels models de
 examen de les opcions de matí i vesprada de cada un dels mòduls.
 
-![Consulta](./mitjana/23.*jpg){*width="*300px"}
+![Consulta](./media/23.*jpg){*width="300px"}
 
 * Estructura de cada unitat i avaluació Cada unitat està composta per:
 
@@ -1086,13 +1086,13 @@ examen de les opcions de matí i vesprada de cada un dels mòduls.
  - Activitats
  - i activitats *autoevaluables
 
-![Logística comercial](./mitjana/24.*jpg){*width="*300px"}
+![Logística comercial](./media/24.*jpg){*width="300px"}
 
 * Recursos: inclou els continguts estructurats i dividits en diferents apartats
 i casos pràctics resolts de cada un d'estos apartats, tal com es mostra
 en la imatge.
 
-![Logística comercial](./mitjana/25.*jpg){*width="*300px"}
+![Logística comercial](./media/25.*jpg){*width="300px"}
 
 * Consulta: este apartat inclou una sèrie de continguts complementaris per al
 estudi de la unitat. S'estructura de la manera següent:
@@ -1105,7 +1105,7 @@ estudi de la unitat. S'estructura de la manera següent:
  els continguts de cada unitat.
  - Enllaços a pàgines web d'interés sobre alguns aspectes tractats en el tema.
 
-![Enllaços](./mitjana/26.*jpg){*width="*300px"}
+![Enllaços](./media/26.*jpg){*width="300px"}
 
 * Activitats: en este apartat l'alumne/a disposa de diferents tipus de tasques
 i activitats que li permetran completar l'estudi de la unitat i mitjançant els
@@ -1124,23 +1124,23 @@ proposats a l'inici de l'estudi d'esta. S'inclouen:
 
  - Activitats d'autoavaluació: com es mostra en la imatge un qüestionari d'autoavaluació, que constarà de preguntes de selecció múltiple, d'opció múltiple, de verdader i fals o d'emplenar buits.
 
-![Activitats](./mitjana/27.*jpg){*width="*300px"}
+![Activitats](./media/27.*jpg){*width="300px"}
 
 * Qualificacions: L'alumnat pot consultar les qualificacions de les activitats,
 qüestionaris, notes dels exàmens d'avaluació, així com la qualificació final,
 a través de l'apartat de qualificacions de l'aula virtual, tal com es mostra en la
 imatge:
 
-![Qualificacions](./mitjana/28.*jpg){*width="*300px"}
+![Qualificacions](./media/28.*jpg){*width="300px"}
 
 * Qüestionari de valoració del CURS: es tracta d'un formulari creat en Google
 *drive i en ell es demana als i les alumnes la seua opinió sobre diferents aspectes del
 curs i que servirà a la professora com a ferramenta per a millorar, tant la
 estructura, com els continguts del tema.
 
-![Qüestionari](./mitjana/29.*jpg){*width="*300px"}
+![Qüestionari](./media/29.*jpg){*width="300px"}
 
-![Qüestionari](./mitjana/30.*jpg){*width="*300px"}
+![Qüestionari](./media/30.*jpg){*width="300px"}
 
 # CRITERIS I INSTRUMENTS D'AVALUACIÓ
 
@@ -1235,7 +1235,7 @@ processos d'aprenentatge i els seus resultats, perquè, després de la seua anà
 donar suport a un juí de valor sobre el disseny, l'execució i els resultats de la formació amb
 la fi de servir de base per a la presa de decisions”
 
-![Avaluació educativa](./mitjana/31.*png){*width="*300px"}
+![Avaluació educativa](./media/31.png){*width="300px"}
 
 Estes decisions es prendran en tres sentits:
 
@@ -1340,15 +1340,15 @@ adequades per a cada estudiant particular, tenint en compte el nivell del qual p
 que servisca per a aconseguir els objectius sobre els quals li mesuraran.
 Podem considerar que els seus propòsits principals són:
 
-![Avaluació](./mitjana/33.*jpg){*width="*300px"}
+![Avaluació](./media/33.*jpg){*width="300px"}
 
 Per a la realització de l'estratègia diagnòstica podem desenrotllar alguna de les següents activitats d'avaluació:
 
-![Avaluació](./mitjana/32.*jpg){*width="*300px"}
+![Avaluació](./media/32.*jpg){*width="300px"}
 
 I la nostra avaluació diagnòstica ha d'estar orientada per algun criteri, com ara:
 
-![Avaluació](./mitjana/34.*jpg){*width="*300px"}
+![Avaluació](./media/34.*jpg){*width="300px"}
 
 ### B. Avaluació, Processal o Formativa
 
@@ -1371,9 +1371,9 @@ decisió a prendre quant a superació dels mòduls per part de l'alumnat
 (avaluació final de mòdul) i al final del cicle la que ens indicarà si l'estudiantat està
 en disposició d'obtindre el títol corresponent (avaluació final de cicle).
 
-![Avaluació](./mitjana/35.*jpg){*width="*300px"}
+![Avaluació](./media/35.*jpg){*width="300px"}
 
-![Avaluació](./mitjana/36.*jpg){*width="*300px"}
+![Avaluació](./media/36.*jpg){*width="300px"}
 
 Basant-nos perquè, en l'enfocament per competències, partim que l'avaluació, és un
 component decisiu, ja que orienta tot el procés formatiu, a l'ésser l'expressió
@@ -1399,7 +1399,7 @@ Contínua, i s'organitza per etapes, per tant, podem dir que és sistemàtica.
 * Procura establir situacions d'avaluació el més pròximes possibles a els
 escenaris reals.
 
-![Avaluació](./mitjana/37.*png){*width="*300px"}
+![Avaluació](./media/37.png){*width="300px"}
 
 Paral·lelament, i tal com avançàvem en l'apartat de metodologia, serà necessari
 recórrer a noves metodologies docents més enfocades al desenrotllament de destreses,
@@ -1840,7 +1840,7 @@ competències. Es tracta dels denominats “indicadors d'avaluació”.
 La formulació de tals indicadors pot realitzar-se segons la següent estructura: Verb
 present indicatiu condició/finalitat.
 
-![Indicadors](./mitjana/38.*png){*width="*300px"}
+![Indicadors](./media/38.png){*width="300px"}
 
 Haurà d'existir sempre una coherència interna entre capacitats terminals (LOGSE)
 resultats d'aprenentatge (LOE), criteris i indicadors d'avaluació.
@@ -1964,7 +1964,7 @@ i oferix la informació que es requerix. “Mesura el que es desitja mesurar”.
 instrument. Avaluar amb precisió i consistència (s'obté el mateix resultat
 en diferents moments).
 
-![Avaluació](./mitjana/*imagen2.*png){*width="*300px"}
+![Avaluació](./media/*imagen2.png){*width="300px"}
 
 Per tant, en conclusió, en el procés d'avaluació, identificarem les següents
 etapes:

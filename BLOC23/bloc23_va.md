@@ -100,19 +100,18 @@ Universitat Politècnica de València \\
 Universitat de València\\[1em]
 \textbf{AUTOR:} \\
 Carmina Gil y Malak Kubessi \\
-"ORIENTACION PROFESIONAL. ACCESO AL MUNDO
-LABORAL" \\
-Elaborado por Malak Kubessi Pérez y Carmina Gil Gil\\[1em]
-\textbf{AUTORES REVISIÓN 25-26:} \\
+"ORIENTACION PROFESIONAL. ACCESO AL MUNDO LABORAL" \\
+Elaborat per Malak Kubessi Pérez i Carmina Gil Gil\\[1em]
+\textbf{AUTORS REVISIÓ 25-26:} \\
 Gemma Cerezo Gil\\
 Alfredo Rafael Vicente Boix \\[1em]
-\textbf{MAQUETACIÓN:} \\
+\textbf{MAQUETACIÓ:} \\
 Alfredo Rafael Vicente Boix \\[1em]
-Este material ha sido elaborado bajo una licencia de \\
-Reconocimiento-NoComercial-CompartirIgual 3.0 de Creative Commons. \\[0.5em]
+Este material ha sigut elaborat sota una llicència de \\
+Reconeixement-NoComercial-CompartirIgual 3.0 de Creative Commons. \\[0.5em]
 
 \includegraphics[height=8mm,keepaspectratio]{img/cc.png} \\
-El código fuente del documento se encuentra disponible en:
+El codi font es troba disponible a:
 \url{https://github.com/arvicenteboix/mastercillo_fp}
 }
 \end{mdframed}
@@ -353,13 +352,13 @@ Es tracta d'una sèrie de qüestions que poden plantejar-se per a ajudar la pers
 - Identificació de **DEBILITATS** (aspectes interns que limiten la capacitat d'aconseguir l'objectiu). Depenen de la persona.
 - Identificació de **AMENACES** (tota la força de l'entorn: riscos, condicionants, barreres que poden impedir aconseguir l'objectiu). No depenen de la persona.
 
-![*DAFO](mitjana/*DAFO.*png)
+![DAFO](media/DAFO.png)
 
 Una vegada realitzat esta autoanàlisi s'hauran de **EXTRAURE CONCLUSIONS** per a determinar les estratègies a seguir.
 
 ## PRESA DE DECISIONS
 
-El procés de prendre decisions és un procés continu que permetrà a l'alumnat prendre decisions de menor a major transcendència, conforme vaja obtenint informació de si mateix i de les alternatives educatives i professionals. Diferents autors (Álvarez González, 2004; Gómez, 1995; Dt. i *Yeh, 2005; *Osipow, 1983; Rivas, 1988) destaquen els següents factors:
+El procés de prendre decisions és un procés continu que permetrà a l'alumnat prendre decisions de menor a major transcendència, conforme vaja obtenint informació de si mateix i de les alternatives educatives i professionals. Diferents autors (Álvarez González, 2004; Gómez, 1995; Dt. i Yeh, 2005; Osipow, 1983; Rivas, 1988) destaquen els següents factors:
 
 - **De tipus personal:** L'autoestima i autoconfiança, els valors, la personalitat, les aptituds, les experiències, la consciència de les emocions i la regulació emocional.
 - **De tipus motivacional:** Les preferències, les expectatives, les aspiracions, els interessos i la satisfacció.
@@ -368,12 +367,12 @@ El procés de prendre decisions és un procés continu que permetrà a l'alumnat
 
 Podem centrar-nos en dos models per la seua rellevància per a la presa de decisions educatiu-professionals:
 
-**Model de *Gelatt:** És un model molt operatiu, ens indica com ha de realitzar-se una elecció. Sosté que la presa de decisions és un procés humà no científic, no sistemàtic, no seqüencial, i que existixen tres directrius que haurien de dirigir el procés.
+**Model de Gelatt:** És un model molt operatiu, ens indica com ha de realitzar-se una elecció. Sosté que la presa de decisions és un procés humà no científic, no sistemàtic, no seqüencial, i que existixen tres directrius que haurien de dirigir el procés.
 
 - La primera és "considera els teus fets amb imaginació, però no imagines els teus fets".
-- La segona directriu de *Gelatt és "coneix el que vols i creu-ho, però no estigues segur".
+- La segona directriu de Gelatt és "coneix el que vols i creu-ho, però no estigues segur".
 
-Per a *Gelatt la presa de decisions implica un procés continu de descobrir objectius. Per este motiu, els alumnes haurien d'aprendre a estar en un estat continu d'incertesa positiva sobre els seus objectius, mantenint les seues opcions obertes durant tot el temps. Conclou dient que el subjecte que pren decisions hauria de ser racional llevat que hi haja una bona raó per a no ser racional.
+Per a Gelatt la presa de decisions implica un procés continu de descobrir objectius. Per este motiu, els alumnes haurien d'aprendre a estar en un estat continu d'incertesa positiva sobre els seus objectius, mantenint les seues opcions obertes durant tot el temps. Conclou dient que el subjecte que pren decisions hauria de ser racional llevat que hi haja una bona raó per a no ser racional.
 
 **El model DECIDIXES de *Krumbolt** consta de les següents fases:
 
@@ -418,7 +417,7 @@ La **Llei orgànica 3/2020, de 29 de desembre (*LOMLOE)**, per la qual es modifi
 [https://www.boe.es/diario_boe/txt.php?id=boe-a-2025-2039](https://www.boe.es/diario_boe/txt.php?id=boe-a-2025-2039)
 
 
-![Organigrama Sistema educatiu espanyol](mitjana/esquema.*jpg)
+![Organigrama Sistema educatiu espanyol](media/esquema.jpg)
 
 > Font de la imatge: [https://formacion.intef.es/aulaenabierto/pluginfile.php/10276/mod_book/chapter/12826/esquema-ensenanzas-actualizado.jpg.jpg?time=1653639930228](https://formacion.intef.es/aulaenabierto/pluginfile.php/10276/mod_book/chapter/12826/esquema-ensenanzas-actualizado.jpg.jpg?time=1653639930228) "Organigrama Sistema educatiu espanyol"
 
@@ -781,7 +780,7 @@ Encara que no conduïxen a titulacions oficials, estos cursos poden ser molt út
 
 Els cursos més demandats actualment són:
 
-- Intel·ligència Artificial i *Machine *Learning.
+- Intel·ligència Artificial i Machine Learning.
 - Ciberseguretat i protecció de dades.
 - Màrqueting digital i comerç electrònic.
 - Desenrotllament d'aplicacions mòbils i web.
@@ -790,33 +789,11 @@ Els cursos més demandats actualment són:
 - Cuina i restauració sostenible.
 - Gestió ambiental i energies renovables.
 - Gestió sociosanitària i atenció a la dependència.
-- Disseny gràfic i disseny *UX/*UI.
+- Disseny gràfic i disseny UX/UI.
 - Idiomes (especialment anglés professional).
-- Habilitats blanes (*soft *skills) i lideratge.
+- Habilitats blanes (soft skills) i lideratge.
 
 És important verificar que els centres que impartixen formació no reglada compten amb les acreditacions i reconeixements pertinents, i que la formació rebuda siga valorada en el sector professional al qual es dirigix.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -834,7 +811,7 @@ L'expansió dels coneixements tècnics, l'explosió demogràfica i el creixement
 
 Ara bé, quan la professió és només una realitat social, el seu específic nucli de sabers no està sotmés a control jurídic de cap temps, però l'exercici de la professió, quant a realitat social i econòmica, pot tindre efectes jurídics.
 
-*Wilensky Pacheco (1964) va establir que la professió és una forma especial d'organització ocupacional basada en un cos de coneixement sistemàtic adquirit a través d'una formació escolar, i establix que una activitat passa a ser considerada professió quan supera les cinc etapes del procés de professionalització, on:
+Wilensky Pacheco (1964) va establir que la professió és una forma especial d'organització ocupacional basada en un cos de coneixement sistemàtic adquirit a través d'una formació escolar, i establix que una activitat passa a ser considerada professió quan supera les cinc etapes del procés de professionalització, on:
 
 - El treball es convertix en una ocupació de temps integral a conseqüència de la necessitat social del sorgiment i ampliació del mercat de treball.
 - Es creen escoles per a l'ensinistrament i formació de nous professionals.
@@ -1050,7 +1027,7 @@ El dret a la lliure circulació pot ser objecte de **limitacions justificades** 
 
 ### EL DRET D'ESTABLIMENT
 
-El dret d'establiment comprén l'accés a activitats no assalariades i al seu exercici, tant per persones físiques com jurídiques. Està regulat principalment en els articles 49 a 55 del **Tractat de Funcionament de la Unió Europea (*TFUE)**.
+El dret d'establiment comprén l'accés a activitats no assalariades i al seu exercici, tant per persones físiques com jurídiques. Està regulat principalment en els articles 49 a 55 del **Tractat de Funcionament de la Unió Europea (TFUE)**.
 
 El dret d'establiment podrà exercitar-se mitjançant:
 
@@ -1076,7 +1053,7 @@ Este acord ha donat lloc als processos de **reconeixement mutu de qualificacions
 
 ### LLIURE PRESTACIÓ DE SERVICIS
 
-La llibertat de prestació de servicis consistix en l'alliberament de la prestació de servicis, considerant-se com a tals les prestacions realitzades, normalment, a canvi de remuneració, en la mesura en què no estiguen regides per les disposicions relatives a la lliure circulació de mercaderies capitals i persones i sent els seus beneficiaris els nacionals dels Estats membres establits en un país de la Unió que no siga el destinatari de la prestació. Està regulada principalment en els articles 56 a 62 del **Tractat de Funcionament de la Unió Europea (*TFUE)**.
+La llibertat de prestació de servicis consistix en l'alliberament de la prestació de servicis, considerant-se com a tals les prestacions realitzades, normalment, a canvi de remuneració, en la mesura en què no estiguen regides per les disposicions relatives a la lliure circulació de mercaderies capitals i persones i sent els seus beneficiaris els nacionals dels Estats membres establits en un país de la Unió que no siga el destinatari de la prestació. Està regulada principalment en els articles 56 a 62 del **Tractat de Funcionament de la Unió Europea (TFUE)**.
 
 El característic en la prestació de servicis és la realització d'activitat econòmica en un Estat membre per persones que no estan establides en ell ni a títol principal ni secundari, és a dir, que el prestador del servici estiga establit en un Estat membre i el destinatari de la prestació en un altre distint, existint un encreuament de frontera de les prestacions, amb independència que la prestació es realitze sense desplaçament o amb desplaçament de l'un i l'altre, i fins i tot amb permanència temporal del prestador del servici.
 
@@ -1106,27 +1083,6 @@ Este marc jurídic garantix la mobilitat professional en el territori de la Uni�
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!--==========================================================-->
 
 # PAPER DE L'ORIENTACIÓ PROFESSIONAL RESPECTE A LA TRANSICIÓ A LA VIDA ACTIVA
@@ -1135,7 +1091,7 @@ La formació constituïx el principal determinant de la transició a la vida act
 
 ## FORMACIÓ DUAL INTEGRADA
 
-Amb la implantació de la **formació dual obligatòria** per a tots els cicles formatius de Grau Mitjà, Grau Superior i Cursos d'Especialització (Graus D i E) s'extingix l'antic mòdul de **Formació en Centres de Treball (*FCT)** i es consolida un model d'aprenentatge integrat:
+Amb la implantació de la **formació dual obligatòria** per a tots els cicles formatius de Grau Mitjà, Grau Superior i Cursos d'Especialització (Graus D i E) s'extingix l'antic mòdul de **Formació en Centres de Treball (FCT)** i es consolida un model d'aprenentatge integrat:
 
 - Cada mòdul professional combina continguts teòrics i pràctiques en empresa. 
 - La duració de la formació en empresa oscil·la entre el 25% i el 50% del total d'hores de cada mòdul (20% mínim per a microacreditacions de Grau A).
@@ -1169,7 +1125,7 @@ L'avaluació de la formació en empresa, en formar part de cada mòdul professio
 
 ## FORMACIÓ PER A L'OCUPACIÓ
 
-El **Sistema de Formació Professional per a l'Ocupació**, gestionat pel ***SEPE** i les comunitats autònomes, promou accions formatives no reglades dirigides a persones ocupades i desocupades, amb l'objectiu de:
+El **Sistema de Formació Professional per a l'Ocupació**, gestionat pel **SEPE** i les comunitats autònomes, promou accions formatives no reglades dirigides a persones ocupades i desocupades, amb l'objectiu de:
 
 - Alinear competències amb les necessitats del mercat laboral. 
 - Millorar l'ocupabilitat i la versatilitat professional. 
@@ -1188,10 +1144,10 @@ Són certificats independents del sistema educatiu i conduïxen a **Certificats 
 Els programes de la UE reforcen la mobilitat i la cooperació:
 
 - **Erasmus+ FP**: Mobilitat per a pràctiques professionals i formació dual en empreses europees. 
-- ***eTwinning**: Projectes de col·laboració docent i alumnat mitjançant TIC. 
-- ***Euroscola**: Experiències de simulació parlamentària en el Parlament Europeu. 
+- **eTwinning**: Projectes de col·laboració docent i alumnat mitjançant TIC. 
+- **Euroscola**: Experiències de simulació parlamentària en el Parlament Europeu. 
 - **Aula del Futur (*Future *Classroom *Lab) - Aules *ATECA**: Innovació pedagògica amb tecnologia emergent. 
-- ***Scientix**: Comunitat d'ensenyança de les ciències finançada per Horitzó Europa. 
+- **Scientix**: Comunitat d'ensenyança de les ciències finançada per Horitzó Europa. 
 
 Estes iniciatives, alineades amb les estratègies **Europa 2020** i **Educació i Formació 2020**, potencien la integració de competències digitals i transversals en el perfil professional de les persones jóvens, preparant-les per a un mercat global dinàmic.
 
@@ -1400,27 +1356,26 @@ realitzant pràctiques formatives en empreses i esta incorporació al món real 
 pretén a més, generar contactes i donar a conéixer a l'alumne a l'empresari amb objecte que
 pense en ell com un possible treballador de la seua empresa.
 
-**Portal *Eures**
+**Portal Eures**
 
-*EURES és un servici d'ocupació dependent de les institucions de la Unió Europea i que
+EURES és un servici d'ocupació dependent de les institucions de la Unió Europea i que
 en cada Estat membre funciona en coordinació amb els servicis d'ocupació locals. El
-objectiu de *EURES és posar a la disposició dels ciutadans dels diferents Estats membres
-les ofertes de treball que puguen existir en el conjunt de la Unió. Els servicis de *EURES
-es presten per mitjà dels consellers *EURES, la missió dels quals consistix a donar una informació
+objectiu de EURES és posar a la disposició dels ciutadans dels diferents Estats membres
+les ofertes de treball que puguen existir en el conjunt de la Unió. Els servicis de EURES
+es presten per mitjà dels consellers EURES, la missió dels quals consistix a donar una informació
 precisa tant sobre l'existència de vacants com sobre les condicions de treball en cada
-un dels Estats membres. Per a complir este objectiu, el servici *EURES compta amb dos
+un dels Estats membres. Per a complir este objectiu, el servici EURES compta amb dos
 bases de dades que funcionen en l'àmbit del conjunt de la Unió Europea. En una d'elles
 es registren les vacants que s'oferixen en cada un dels Estats i en les altres dades
 actualitzats sobre les condicions de vida, legislació laboral o qualsevol altre tipus de
-informació que la Xarxa *EURES considere que pot ser d'interés per al demandant de
+informació que la Xarxa EURES considere que pot ser d'interés per al demandant de
 ocupació.
 
 :::note
-Per a obtindre informació existix un conseller *EURES de la zona on viva el demandant de
-ocupació. Font: https://ec.europa.eu/eures/public/es/homepage
+Per a obtindre informació existix un conseller EURES de la zona on viva el demandant d'ocupació. Font: https://ec.europa.eu/eures/public/es/homepage
 :::
 
-***SEPE programa “Pla d'Activació per a la Inserció” (PAI)**
+**SEPE programa “Pla d'Activació per a la Inserció” (PAI)**
 
 Des de la finalització del **Programa PREPARA** al març de 2017, les ajudes de suport a persones desocupades sense cobertura contributiva es van integrar en el **Pla d'Activació per a la Inserció (PAI)**, regulat actualment per:
 
@@ -1527,18 +1482,12 @@ i es repartix en diferents empreses per a sol·licitar treball.
 treball del candidat, que s'utilitza sobretot en la primera fase de la selecció.
 El currículum ha d'adaptar-se al màxim a l'oferta o lloc al qual es presente el candidat,
 per això s'ha de ressaltar els aspectes personals i professionals més concordes al mateix i en
-ocasions convé ometre informació que no aporta cap valor, encara que siga rellevant per a
-un altre posat/beca.
+ocasions convé ometre informació que no aporta cap valor, encara que siga rellevant per a un altre posat/beca.
 
 En el següent apartat apareixen els punts rellevants que ha de contindre un currículum,
-encara que si el candidat no pot posar res en algun dels apartats, per exemple en
-experiència, és millor que no s'incloga este apartat.
+encara que si el candidat no pot posar res en algun dels apartats, per exemple en experiència, és millor que no s'incloga este apartat.
 
-L'orde que proposem és el més habitual en el currículum cronològic per a un titulat sense
-experiència laboral; en el cas que es desitge ressaltar l'experiència, vinculada en major o
-menor mesura al tipus d'ocupació al qual el candidat es presenta, s'ha de col·locar l'apartat
-“Experiència” a continuació de les dades personals i abans de la “Formació
-Complementària” o “Cursos”.
+L'orde que proposem és el més habitual en el currículum cronològic per a un titulat sense experiència laboral; en el cas que es desitge ressaltar l'experiència, vinculada en major o menor mesura al tipus d'ocupació al qual el candidat es presenta, s'ha de col·locar l'apartat “Experiència” a continuació de les dades personals i abans de la “Formació Complementària” o “Cursos”.
 
 **Apartats:**
 
@@ -1554,39 +1503,28 @@ Complementària” o “Cursos”.
 - Projecte o Treball final de carrera.
 - Beques de tipus Erasmus o altres programes.
 - Formació complementària.
-- Els cursos realitzats, seminaris, cursets, i, en general, qualsevol tipus de formació addicional
-relacionada amb el lloc al qual s'opta o l'empresa a la qual es dirigixen, amb dates, centre
-i duració.
+- Els cursos realitzats, seminaris, cursets, i, en general, qualsevol tipus de formació addicional relacionada amb el lloc al qual s'opta o l'empresa a la qual es dirigixen, amb dates, centre i duració.
 - Idiomes.
 
-Indicar conversa, escriptura i lectura. Especificació de possibles cursos, cursets, estades
-a l'estranger, títols si es tenen, etc. En especificar les competències lingüístiques es poden
-“graduar” de manera que vagen d'un major domini: llengua materna, bilingüe o fluid a
-uns “coneixements” indefinits.
+Indicar conversa, escriptura i lectura. Especificació de possibles cursos, cursets, estades a l'estranger, títols si es tenen, etc. En especificar les competències lingüístiques es poden “graduar” de manera que vagen d'un major domini: llengua materna, bilingüe o fluid a uns “coneixements” indefinits.
 
 - La fluïdesa en l'idioma podrà ser comprovada si ho consideren necessari.
 - Coneixements informàtics
-- Llenguatges de Programació: ex.: *BASIC, C++ Java, *Python, *PHP, SQL…
-- Programes específics: Matlab, Prest, *Autocad, *Menphis, *Catia, *Rinhoceros, Microsoft *Project …
+- Llenguatges de Programació: ex.: BASIC, C++ Java, Python, PHP, SQL…
+- Programes específics: Matlab, Prest, Autocad, Menphis, Catia, Rinhoceros, Microsoft Project …
 - Paquets integrats (ofimàtica). Microsoft office (Word, *Acces, Excel)
 - Experiència professional i preprofessional
 - Nom del lloc i/o nivell
 - Empresa, Organisme per al qual es va treballar o es treballa
 - Funciones/tasques que s'han exercit més importants
-- Mes i any del començament i fi del contracte/de l'activitat o període total expressat en
-mesos/anys.
+- Mes i any del començament i fi del contracte/de l'activitat o període total expressat en mesos/anys.
 
-La denominada experiència preprofessional és la que fa referència a les pràctiques en empresa
-vinculades als estudis. No és convenient col·locar en este apartat l'experiència no
-relacionada com a treballs durant vacacions, classes particulars, etc, millor col·locar-los en
+La denominada experiència preprofessional és la que fa referència a les pràctiques en empresa vinculades als estudis. No és convenient col·locar en este apartat l'experiència no relacionada com a treballs durant vacacions, classes particulars, etc, millor col·locar-los en
 “Altres dades”.
 
-Quan es descriuen els treballs o pràctiques que s'han realitzat és convenient llistar-los amb
-una cronologia inversa, és a dir, el més nou primer i el més antic darrere.
+Quan es descriuen els treballs o pràctiques que s'han realitzat és convenient llistar-los amb una cronologia inversa, és a dir, el més nou primer i el més antic darrere.
 
-En el cas dels candidats amb experiència en diverses àrees professionals o sectors de
-activitat podria ser interessant elaborar el currículum amb format funcional, que permet
-agrupar treballs similars i dissimular les llacunes temporals en l'activitat laboral.
+En el cas dels candidats amb experiència en diverses àrees professionals o sectors de activitat podria ser interessant elaborar el currículum amb format funcional, que permet agrupar treballs similars i dissimular les llacunes temporals en l'activitat laboral.
 
 - Altres dades
 - Activitats culturals
@@ -1626,7 +1564,7 @@ Quatre blocs separats:
 
 - Dades personals
 - Formació
-- Experiència *pre i/o professional
+- Experiència pre i/o professional
 - Altres dades.
 
 **Tipus de currículum**
@@ -1637,7 +1575,7 @@ Quatre blocs separats:
 
 Exemple de currículum invers:
 
-![Exemple de currículum invers](mitjana/*currinverso.*png)
+![Exemple de currículum invers](media/*currinverso.png)
 
 **El Currículum per competències i com redactar-lo**
 
@@ -1658,15 +1596,15 @@ tècniques (maneig de programes concrets, carnets etc.).
 
 Exemple de currículum per competències:
 
-![Exemple de currículum per competències](mitjana/*currcomp.*png)
+![Exemple de currículum per competències](media/*currcomp.png)
 
 **CV en línia.**
 
-***Ferramentes existents en la xarxa.***
+**Ferramentes existents en la xarxa.**
 
-- [*Cuvitt](https://www.cuvitt.com/): Ferramenta per a crear currículums diferenciats, adaptant variables professionals al lloc o projecte. 
-- [*CVgram](https://cvgram.me/): Genera currículums en línia important dades des de Linkedin. 
-- [*Vizify](https://www.vizify.com/): Crea una pàgina web a partir del perfil de Linkedin i Twitter, ressaltant la informació més rellevant. 
+- [Cuvitt](https://www.cuvitt.com/): Ferramenta per a crear currículums diferenciats, adaptant variables professionals al lloc o projecte. 
+- [CVgram](https://cvgram.me/): Genera currículums en línia important dades des de Linkedin. 
+- [Vizify](https://www.vizify.com/): Crea una pàgina web a partir del perfil de Linkedin i Twitter, ressaltant la informació més rellevant. 
 - [Re.vu](https://www.re.vu/): Importa dades de Linkedin o Facebook, permet personalitzar la URL i adjuntar arxius a mode de portafolis. 
 - [Visualize.me](https://visualize.me/): Exporta dades de Linkedin i mostra el currículum en format visual mitjançant gràfics.
 
@@ -1678,79 +1616,49 @@ documents que s'han d'enviar i adjuntar a l'empresa via e-mail. Les cartes de
 presentació continuen sent necessàries.
 
 Si s'envia el currículum per correu electrònic convé que es tracte d'un arxiu no gaire
-extens (en un principi no hauria de superar els 300 *KB). És fonamental *chequear que el
-arxiu que s'envia no continga algun virus.
+extens (en un principi no hauria de superar els 300 KB). És fonamental comprovar que l'arxiu que s'envia no continga algun virus.
 
-S'ha d'indicar en l'assumpte del missatge clarament la referència de l'anunci, o en defecte d'això,
-el tipus de treball al qual es vol optar, ja que ajudarà molt a la seua classificació. A més,
-dels cognoms i nom.
+S'ha d'indicar en l'assumpte del missatge clarament la referència de l'anunci, o en defecte d'això, el tipus de treball al qual es vol optar, ja que ajudarà molt a la seua classificació. A més, dels cognoms i nom.
 
-La vigència d'un currículum en una base de dades és d'un mínim de 6 mesos, per això no és
-convenient que es renove la candidatura abans, ja que l'única cosa que s'aconseguirà serà
-duplicar les dades i confondre a l'empresa que gestiona l'oferta d'ocupació.
-Si s'envia a diverses empreses, s'ha d'utilitzar còpia oculta (*CCO:).
+La vigència d'un currículum en una base de dades és d'un mínim de 6 mesos, per això no és convenient que es renove la candidatura abans, ja que l'única cosa que s'aconseguirà serà duplicar les dades i confondre a l'empresa que gestiona l'oferta d'ocupació.
+Si s'envia a diverses empreses, s'ha d'utilitzar còpia oculta (CCO:).
 
 **Avantatges de l'ús de PDF.**
 
 Es poden protegir amb contrasenya per a evitar la visualització i modificació no autoritzades.
 
-Es poden realitzar busques de paraules que apareguen en el text o en anotacions,
-marcadors o camps de dades dels arxius, si l'arxiu no està protegit.
+Es poden realitzar busques de paraules que apareguen en el text o en anotacions, marcadors o camps de dades dels arxius, si l'arxiu no està protegit.
 
 Es manté l'aspecte exacte del document.
 
-Accés i privilegis restringits per a poder modificar el document per als qui no tenen
-drets d'edició sobre este.
+Accés i privilegis restringits per a poder modificar el document per als qui no tenen drets d'edició sobre este.
 
-Alt índex d'emmagatzematge. Un document que en format de Word o *PowerPoint ens
-ocupa diversos MB d'espai, en convertir-ho en PDF es reduïx significativament la seua grandària,
-comunament a raó de 1-5 respecte a la grandària original.
+Alt índex d'emmagatzematge. Un document que en format de Word o PowerPoint ens ocupa diversos MB d'espai, en convertir-ho en PDF es reduïx significativament la seua grandària, comunament a raó de 1-5 respecte a la grandària original.
 
-**Implantació del Codi *QR en un currículum.**
+**Implantació del Codi QR en un currículum.**
 
-Alguns dels llocs que pot portar associat nostre *QR en escanejar-ho:
+Alguns dels llocs que pot portar associat nostre QR en escanejar-ho:
 
-* About.me: Servici en línia que oferix més informació sobre nosaltres mateixos. Es
-pot configurar al gust de l'usuari perquè puguen conéixer més del mateix i donar
-una bona impressió professional.
-* Perfil en Linkedin: La xarxa social professional per excel·lència. És una excel·lent forma de
-que coneguen el nostre perfil professional, vegen la nostra experiència, habilitats i
-recomanacions de persones amb les quals hem treballat.
-* Blog Professional: Si s'és autor d'un blog o es participa com *co-editor en un alié,
-és una bona manera de mostrar-ho als altres. Es deixarà constància al reclutador que
-es té coneixement sobre el que requerix el lloc sobre la base del contingut generat
-* Exemples de treballs realitzats: Mostrar treballs ja realitzats i que hagen sigut casos
-d'èxit. Els exemples són la millor mostra de com es treballa.
+* About.me: Servici en línia que oferix més informació sobre nosaltres mateixos. Es pot configurar al gust de l'usuari perquè puguen conéixer més del mateix i donar una bona impressió professional.
+* Perfil en Linkedin: La xarxa social professional per excel·lència. És una excel·lent forma de que coneguen el nostre perfil professional, vegen la nostra experiència, habilitats i recomanacions de persones amb les quals hem treballat.
+* Blog Professional: Si s'és autor d'un blog o es participa com co-editor en un alié, és una bona manera de mostrar-ho als altres. Es deixarà constància al reclutador que es té coneixement sobre el que requerix el lloc sobre la base del contingut generat
+* Exemples de treballs realitzats: Mostrar treballs ja realitzats i que hagen sigut casos d'èxit. Els exemples són la millor mostra de com es treballa.
 
 **Consells per a fer autocandidatura.**
 
-Consistix a enviar de manera voluntària el curriculum vitae a una empresa que no té cap
-procés de selecció obert, per tant perquè no caiga en sac foradat i no malgastar
-temps ni esforç hem de ser acurats a l'hora de triar al fet que empreses anem a
-dirigir-nos, i com presentar el nostre currículum i la carta de presentació.
+Consistix a enviar de manera voluntària el curriculum vitae a una empresa que no té cap procés de selecció obert, per tant perquè no caiga en sac foradat i no malgastar temps ni esforç hem de ser acurats a l'hora de triar al fet que empreses anem a dirigir-nos, i com presentar el nostre currículum i la carta de presentació.
 
-Currículum: Quan preparem el currículum hem d'analitzar prèviament l'empresa i revisar
-en la nostra experiència laboral que coneixements, funcions o tasques els poden ser útils. És
-convenient transmetre tot allò que puguem aportar, per a això convé llegir-se bé la
-web de l'empresa i utilitzar la mateixa terminologia o paraules que es manegen en este portal.
+Currículum: Quan preparem el currículum hem d'analitzar prèviament l'empresa i revisar en la nostra experiència laboral que coneixements, funcions o tasques els poden ser útils. És convenient transmetre tot allò que puguem aportar, per a això convé llegir-se bé la web de l'empresa i utilitzar la mateixa terminologia o paraules que es manegen en este portal.
 
-És important reflexionar sobre el Perfil del lloc o àrea que s'està sol·licitant , hi ha
-persones que no disposen de les paraules tècniques que descriguen les labors que ha realitzat,
-així que podem adaptar les que apareixen en la descripció del perfil ocupacional facilitant
-que qui llig el currículum trobe en el nostre historial professional les paraules clau que
-busca. En funció del lloc o àrea funcional que sol·licitem pot ser interessant reflectir
-les competències, aptituds i coneixements que creiem importants.
+És important reflexionar sobre el Perfil del lloc o àrea que s'està sol·licitant , hi ha persones que no disposen de les paraules tècniques que descriguen les labors que ha realitzat, així que podem adaptar les que apareixen en la descripció del perfil ocupacional facilitant
+que qui llig el currículum trobe en el nostre historial professional les paraules clau que busca. En funció del lloc o àrea funcional que sol·licitem pot ser interessant reflectir les competències, aptituds i coneixements que creiem importants.
 
-Carta de presentació: La carta de presentació és molt important, l'empresa no està
-buscant a cap nou empleat, per tant este es troba en l'obligació de donar
-una explicació de per què els envia el seu currículum i perquè haurien de considerar entrevistar-li.
-Per norma general, en el primer paràgraf s'ha d'indicar per què es dirigix a eixa empresa en
-concret, prèviament el candidat haurà hagut d'arreplegar informació d'ella i ara és
+Carta de presentació: La carta de presentació és molt important, l'empresa no està buscant a cap nou empleat, per tant este es troba en l'obligació de donar una explicació de per què els envia el seu currículum i perquè haurien de considerar entrevistar-li.
+
+Per norma general, en el primer paràgraf s'ha d'indicar per què es dirigix a eixa empresa en concret, prèviament el candidat haurà hagut d'arreplegar informació d'ella i ara és
 el moment d'esmentar les seues virtuts i per què vol treballar allí.
 
-En els paràgrafs següents cal concretar per què la seua candidatura ha de ser considerada
-pel departament de recursos humans. Haurà d'analitzar no sols les seues competències tècniques
-sinó també les genèriques, explicar quins beneficis tindria l'empresa si li contracta.
+En els paràgrafs següents cal concretar per què la seua candidatura ha de ser considerada pel departament de recursos humans. Haurà d'analitzar no sols les seues competències tècniques sinó també les genèriques, explicar quins beneficis tindria l'empresa si li contracta.
 
 **On dirigir-les.**
 
@@ -1768,92 +1676,54 @@ professional o afins assistisquen. Per què és recomanable assistir? perquè en
 empreses del sector busquen mercats, clients, quals volen posicionar-se, fer
 màrqueting o simplement es mouen.
 
-* Clúster. Michael *Porter ho definix com a concentracions d'empreses i institucions
-interconnectades en un camp particular per a la competència. Amb paraules senzilles
-són associacions d'empreses que es consoliden com a grups de pressió, o de
-influència de promoció i que ajuden a definir l'estratègia de desenrotllament econòmic
-d'una regió. Per tant aquelles que pertanguen a un clúster, solen ser empreses
-forts i amb projecció. El candidat buscarà aquelles que integren el clúster del seu
-sector professional i allí enviarà el seu currículum.
+* Clúster. Michael *Porter ho definix com a concentracions d'empreses i institucions interconnectades en un camp particular per a la competència. Amb paraules senzilles són associacions d'empreses que es consoliden com a grups de pressió, o de influència de promoció i que ajuden a definir l'estratègia de desenrotllament econòmic d'una regió. Per tant aquelles que pertanguen a un clúster, solen ser empreses
+forts i amb projecció. El candidat buscarà aquelles que integren el clúster del seu sector professional i allí enviarà el seu currículum.
 
-* Guia de Polígons. En algunes pàgines web de les cambres de comerç, en les de els
-parcs empresarials o en les pàgines del govern autonòmic solen arreplegar
-llistats ordenats per polígons, alfabèticament, etc. I en la majoria contenen el
-sector o codi nacional d'activitats -*CNAE- . És un bon recurs per a conéixer les
-empreses de la regió
+* Guia de Polígons. En algunes pàgines web de les cambres de comerç, en les de els parcs empresarials o en les pàgines del govern autonòmic solen arreplegar llistats ordenats per polígons, alfabèticament, etc. I en la majoria contenen el sector o codi nacional d'activitats -*CNAE- . És un bon recurs per a conéixer les empreses de la regió
 
-* *Portalparados. Bona web on anuncien les empreses que realitzaran
+* Portalparados. Bona web on anuncien les empreses que realitzaran
 contractacions per tota Espanya i fora d'ella. Imprescindible consultar per a no perdre
 processos de selecció http://www.portalparados.es
 
 * La Premsa local o la secció d'economia dels diaris nacionals. Si es busca treball
-és imprescindible estar informat dels moviments empresarials que hi ha en la
-ciutat o regió. Moltes vegades en notícies econòmiques o en la portada del diari local
-comuniquen si alguna empresa va fer una inversió, ampliar plantilla, s'instal·larà
-a la nostra ciutat, o gana algun premi d'exportació, etc. Llavors serà el moment
-de realitzar labor d'investigació sobre eixa empresa i enviar-los nostra
+és imprescindible estar informat dels moviments empresarials que hi ha en la ciutat o regió. Moltes vegades en notícies econòmiques o en la portada del diari local comuniquen si alguna empresa va fer una inversió, ampliar plantilla, s'instal·larà a la nostra ciutat, o gana algun premi d'exportació, etc. Llavors serà el moment de realitzar labor d'investigació sobre eixa empresa i enviar-los nostra
 autocandidatura, ja que moltes no anuncien els seus processos de selecció.
 
 ## EL CONTACTE AMB L'OFERTA D'OCUPACIÓ: PROCESSOS DE SELECCIÓ
 
-Tot l'esforç en la busca d'ocupació serà recompensat sens dubte prompte o tard
-amb la participació en un procés de selecció, que pot consistir en una entrevista, una
-dinàmica de grups, uns tests d'aptituds, de personalitat, o en unes proves
-professionals.
+Tot l'esforç en la busca d'ocupació serà recompensat sens dubte prompte o tard amb la participació en un procés de selecció, que pot consistir en una entrevista, una dinàmica de grups, uns tests d'aptituds, de personalitat, o en unes proves professionals.
 
-El procés de selecció s'ha de preparar el millor que es puga, ja que si el demandant no
-causa bona impressió, tot l'esforç anterior de busca d'ocupació no servirà de res .
-Vegem a continuació amb més detall estos processos de selecció.
+El procés de selecció s'ha de preparar el millor que es puga, ja que si el demandant no causa bona impressió, tot l'esforç anterior de busca d'ocupació no servirà de res . Vegem a continuació amb més detall estos processos de selecció.
 
 ### L'ENTREVISTA DE TREBALL
 
-L'entrevista de treball consistix en un diàleg entre un candidat i un o més
-entrevistadors.
+L'entrevista de treball consistix en un diàleg entre un candidat i un o més entrevistadors.
 
 Les dos parts té els seus objectius:
 
 * El/els entrevistadors: volen esbrinar si el candidat és l'adequat per al lloc,
 predir el seu rendiment en el mateix i a més saber si realment està motivat.
-* El candidat: vol demostrar que pot exercir eixe lloc de treball, que realment
-vol fer-ho, i a més pot estar interessat a obtindre informació sobre el lloc de treball i sobre l'empresa.
+* El candidat: vol demostrar que pot exercir eixe lloc de treball, que realment vol fer-ho, i a més pot estar interessat a obtindre informació sobre el lloc de treball i sobre l'empresa.
 
 **Tipus d'entrevistes**
 
-* Estructurada, directiva: les preguntes estan prefixades, i les opcions de resposta
-són molt limitades o fins i tot són proporcionades en forma d'alternatives. La
-interpretació i valoració de les respostes es fa sobre la base d'uns criteris
-establits. Realment és una entrevista fàcil, ja que deixa poc marge per a la
+* Estructurada, directiva: les preguntes estan prefixades, i les opcions de resposta són molt limitades o fins i tot són proporcionades en forma d'alternatives. La interpretació i valoració de les respostes es fa sobre la base d'uns criteris establits. Realment és una entrevista fàcil, ja que deixa poc marge per a la
 improvisació.
 
-* Oberta, informal, lliure: no hi ha planificació prèvia, ni estructuració. El
-entrevistador busca sondejar informacions subjectives com ara l'estat d'ànim,
-o les opinions sobre determinats temes. Ací ha de prevaldre la sinceritat, i cal
-tractar de no entrar en contradiccions. És una entrevista difícil, que també requerix
+* Oberta, informal, lliure: no hi ha planificació prèvia, ni estructuració. El entrevistador busca sondejar informacions subjectives com ara l'estat d'ànim, o les opinions sobre determinats temes. Ací ha de prevaldre la sinceritat, i cal tractar de no entrar en contradiccions. És una entrevista difícil, que també requerix
 molta experiència per part de l'entrevistador.
 
 
-* semidirectiva o *semiestructurada: l'estructura i les preguntes estan definides
-prèviament, amb un marge per a abordar aquelles qüestions que sorgisquen. Les
-preguntes són obertes. Esta és la situació amb la qual més probablement pot
-trobar-se una persona que demande ocupació.
+* semidirectiva o semiestructurada: l'estructura i les preguntes estan definides prèviament, amb un marge per a abordar aquelles qüestions que sorgisquen. Les preguntes són obertes. Esta és la situació amb la qual més probablement pot trobar-se una persona que demande ocupació.
 
-* Entrevista no formal: no té regles fixes, consistix més prompte en una conversa
-personal bastant informal. Es dona amb major freqüència en sectors com la
-construcció, l'hostaleria i l'empresa xicoteta. El que busca ací l'empresari és
-obtindre una primera impressió i a partir d'ací provar al candidat en el període de
-prova.
+* Entrevista no formal: no té regles fixes, consistix més prompte en una conversa personal bastant informal. Es dona amb major freqüència en sectors com la construcció, l'hostaleria i l'empresa xicoteta. El que busca ací l'empresari és obtindre una primera impressió i a partir d'ací provar al candidat en el període de prova.
 
 
-* Entrevista de tribunal: és la mantinguda per diversos entrevistadors i un solo
-candidat. Requerix molt nivell de concentració i atenció per part del candidat.
-Sol ser bastant estructurada, i en el cas de l'empresa privada, sol emprar-se
-en les últimes fases del procés de selecció.
+* Entrevista de tribunal: és la mantinguda per diversos entrevistadors i un solo candidat. Requerix molt nivell de concentració i atenció per part del candidat.
+Sol ser bastant estructurada, i en el cas de l'empresa privada, sol emprar-se en les últimes fases del procés de selecció.
 
 
-* Entrevista de tensió: l'objectiu és conéixer com reacciona el candidat en
-situacions en les quals és difícil mantindre el control. S'empra en llocs en el qual el
-ambient és molt tibant. Els entrevistadors fan preguntes molt agressives, amb un
-to cínic, i dubten obertament de les capacitats del candidat.
+* Entrevista de tensió: l'objectiu és conéixer com reacciona el candidat en situacions en les quals és difícil mantindre el control. S'empra en llocs en el qual el ambient és molt tibant. Els entrevistadors fan preguntes molt agressives, amb un to cínic, i dubten obertament de les capacitats del candidat.
 
 **Estructura de l'entrevista**
 
@@ -1863,6 +1733,7 @@ Generalment, les entrevistes *semiestructuradas solen seguir el següent esquema
 entrevistador, ha d'alçar-se i encaixar-li la mà amb fermesa. Ha de somriure mirant
 als ulls. Esperar per a asseure't al fet que li ho demanen. El correcte és esperar que el
 entrevistador comence a parlar.
+
 * Introducció: L'entrevistador tractarà de crear un ambient menys tibant i trencar el gel. Per a això, possiblement fa preguntes poc significatives; el candidat ha de contestar-les sense estendre't massa, per a permetre passar al cos principal de l'entrevista al més prompte possible.
 * Presentació de l'empresa i informació sobre el lloc a cobrir: L'entrevistador informarà d'estos aspectes breument; és el moment de fer saber per part del candidat que s'ha informat prèviament d'això, si així ha sigut.
 * Recollida de dades: Esta serà la part més extensa; l'entrevistador tractarà d'esbrinar si el candidat vol, sap i pot exercir el lloc de treball. Més avant trobaràs diversos exemples de possibles preguntes.
@@ -1936,10 +1807,8 @@ informació possible.
 
 La dinàmica de grups té el seu origen als Estats Units cap a 1930 quan sorgixen les
 primeres investigacions sobre grups en el camp laboral, polític, social, etcètera Estos
-primers estudis, juntament amb els principis teòrics de la *Gestalt, contribuïxen a desenrotllar la
-teoria de la dinàmica de grups. En la II Guerra Mundial, el psicòleg *Kurt *Lewin *consigui
-convéncer als soldats nord-americans que canviaren els seus hàbits alimentosos després de
-diverses sessions de treball en grup. Així van sorgir les dinàmiques, enteses com a reunions
+primers estudis, juntament amb els principis teòrics de la Gestalt, contribuïxen a desenrotllar la
+teoria de la dinàmica de grups. En la II Guerra Mundial, el psicòleg Kurt Lewin consigui convéncer als soldats nord-americans que canviaren els seus hàbits alimentosos després de diverses sessions de treball en grup. Així van sorgir les dinàmiques, enteses com a reunions
 de persones a les quals es convida a participar entorn d'un tema, i que poden aplicar-se en
 diversos àmbits: en l'ambient familiar, en el món laboral, en el camp soci-polític i
 per descomptat en el camp educatiu. En qualsevol d'estos contextos en els quals s'aplique
@@ -1960,7 +1829,7 @@ estan canviant. Cada vegada hi ha més processos que inclouen una o diverses d'e
 el seu ús no es restringix solament als perfils directius. Algunes empreses tenen per norma
 utilitzar-les en totes les seleccions, fins i tot en la de becaris en pràctiques. També s'està
 sofisticant el seu disseny. A vegades, s'organitzen complexes combinacions de dinàmiques que es
-desenrotllen a través de diverses sessions. Són els *assessment *centers, cada vegada més estesos.
+desenrotllen a través de diverses sessions. Són els *assessment centers*, cada vegada més estesos.
 
 Entre alguns dels processos de selecció que s'utilitzen per a determinar al candidat ideal,
 destaca per la seua peculiaritat, i sobretot perquè és la més temuda pels candidats a un
@@ -1975,7 +1844,7 @@ dinàmiques de grup.
 
 Consistix en una reunió de candidats/as en les quals es proposa un tema o cas perquè el
 grup arribe a un acord en un temps determinat; mentrestant, la reunió és observada
-per una o més persones que avaluen l'actuació de cada participant. Segons Manuel *Olleros,
+per una o més persones que avaluen l'actuació de cada participant. Segons Manuel Olleros,
 autor del llibre El procés de captació i selecció de personal (Editorial Gestió 2000), les
 dinàmiques de grup són anàlisi de casos l'objectiu dels quals és avaluar les competències que es
 posen de manifest quan els candidats interactuen.
@@ -2026,7 +1895,7 @@ Per tant, mai podem oblidar que cada dinàmica és diferent, i que depenent del
 perfil del lloc oferit, es valoraran uns comportaments i/o actituds més que unes altres.
 
 Alguns experts assenyalen que aplicar una dinàmica de grup és una garantia de trobar el
-candidat perfecte. Per a Ramona Oltra, consultora sènior de *Tea *Cegos, si s'usen estes
+candidat perfecte. Per a Ramona Oltra, consultora sènior de Tea Cegos, si s'usen estes
 tècniques, la probabilitat d'encertar en la selecció supera el 90%. I és que les dinàmiques
 posen al descobert gran quantitat de trets de la persona quan entra en contacte amb
 unes altres, alguna cosa que no permet cap altra tècnica de selecció. És una manera de radiografiar
@@ -2123,7 +1992,7 @@ Hi ha dos tipus fonamentals de proves de personalitat:
 
 * Proves projectives: Es basen en la presentació d'estímuls ambigus, als quals el subjecte ha de respondre
 donant la seua interpretació del que veu. En la resposta del subjecte queda reflectida la
-estructura de personalitat. Una de les més conegudes és el Test de *Rorschach o test
+estructura de personalitat. Una de les més conegudes és el Test de Rorschach o test
 de les taques. Al subjecte se li van presentant una sèrie de làmines, i davant la
 consigna “diga'm el que veu” ha de donar una resposta completament lliure. El
 examinador valorarà aspectes com el temps de reacció, si s'ha tingut en compte
@@ -2209,7 +2078,7 @@ laboral.
 La població econòmicament activa és el conjunt de persones que busquen activament
 treball i que bé ja tenen una ocupació o que l'estan buscant. No convé confondre la
 població activa amb la població en edat laboral o població en edat econòmicament activa
-(*PEEA), que és la que segons la legislació té capacitat legal d'incorporar-se al mercat
+(PEEA), que és la que segons la legislació té capacitat legal d'incorporar-se al mercat
 de treball (per exemple, entre els 16 i els 65 anys, variant segons la legislació vigent). No
 es considera població activa la que fa un treball sense remunerar, per exemple, la cura
 de la pròpia llar o l'estudi, però no busca en el mercat de treball una ocupació remunerada
@@ -2267,18 +2136,18 @@ La taxa d'activitat mesura la relació que existix entre la població activa i l
 de 16 anys o més, per la qual cosa ens dona una idea de la població que potencialment podria
 treballar en un país.
 
-![Taxa d'activitat](mitjana/16.*png)
+![Taxa d'activitat](media/16.png)
 
 La taxa d'atur o de desocupació és l'indicador més conegut per a analitzar la situació del
 mercat de treball i mesura la relació existent entre la població parada o desocupada i la
 població activa, és a dir, la suma de l'ocupada i l'aturada.
 
-![Taxa d'atur](mitjana/17.*png)
+![Taxa d'atur](media/17.png)
 
 La taxa d'ocupació: de manera similar podem trobar la taxa d'ocupació, és a dir, la
 relació entre ocupats i actius.
 
-![Taxa d'ocupació](mitjana/18.*png)
+![Taxa d'ocupació](media/18.png)
 
 La diferència entre la taxa d'activitat i la taxa d'ocupació és que la taxa d'activitat
 té en compte per a mesurar la situació d'ocupació d'un país a la població activa, que no és
@@ -2455,7 +2324,7 @@ respectivament
 
 **Ocupacions més contractades**
 
-> Font: Elaborat per l'Observatori de les Ocupacions del *SEPE a partir de les dades del *SISPE. 31 de desembre de cada any.
+> Font: Elaborat per l'Observatori de les Ocupacions del SEPE a partir de les dades del SISPE. 31 de desembre de cada any.
 
 Entre les ocupacions amb majors increments respecte del 2020 sobreïxen els Empleats
 d'informació a l'usuari, Empleats de logística i transport de passatgers i mercaderies i
@@ -2528,8 +2397,7 @@ amb baixa qualificació.
 sectors o subsectors concrets i per a afavorir la competitivitat empresarial que
 facilita la inserció laboral dels alumnes en combinar la formació amb l'ocupació real
 i, especialment, en les àrees formatives en les quals no es pot disposar d'entorns
-de simulació en centres formatius per les característiques del sector (entorns *agrariomarítimos, maquinària pesant o sofisticada, grans instal·lacions, plantes químiques o
-de metal·lúrgia, etc.).
+de simulació en centres formatius per les característiques del sector (entorns agrarimarítims, maquinària pesant o sofisticada, grans instal·lacions, plantes químiques o de metal·lúrgia, etc.).
 - Fomentar la Formació modular, ja que, en molts casos, es requerix formació en
 aspectes concrets que aporten valor afegit per ser de caràcter emergent,
 innovador o perquè hi ha molts treballadors que tenen carències, de manera que
@@ -2539,18 +2407,18 @@ per a millorar l'ocupabilitat i competitivitat dels professionals d'un sector.
 general i comú a la major part dels sectors; també està creixent la demanda
 de professionals que dominen l'alemany i el xinés.
 
-El **Catàleg Nacional d'Estàndards de Competències Professionals (*CNECP)**, gestionat per l'Institut Nacional de les Qualificacions (*INCUAL), constituïx el referent per a dissenyar i homologar totes les ofertes formatives del nou sistema d'FP. Sobre esta base s'articulen:
+El **Catàleg Nacional d'Estàndards de Competències Professionals (CNECP)**, gestionat per l'Institut Nacional de les Qualificacions (INCUAL), constituïx el referent per a dissenyar i homologar totes les ofertes formatives del nou sistema d'FP. Sobre esta base s'articulen:
 
 - Els **títols oficials de Formació Professional** (Grau Mitjà i Superior), amb currículums modulars, acumulables i *capitalizables. 
 - Els **Certificats de Professionalitat** (Grau C), que agrupen un o diversos estàndards de competència i conduïxen a qualificació de nivell 1, 2 o 3. 
 - Les **microformacions** i **mòduls professionals** parcials (Graus A i B), associades a unitats de competència, que permeten una habilitació ràpida i flexible. 
 - La **Formació Professional per a l'Ocupació**, independent del sistema educatiu però vinculada als mateixos estàndards, amb accions d'inserció, reinserció i reciclatge de treballadors.
 
-Tota l'oferta apareix recollida en el **Catàleg Nacional d'Ofertes de Formació Professional (*CNOFP)**, accessible en https://incual.educacion.gob.es/bdc. 
+Tota l'oferta apareix recollida en el **Catàleg Nacional d'Ofertes de Formació Professional (CNOFP)**, accessible en https://incual.educacion.gob.es/bdc. 
 
 La relació entre el Sistema Nacional de Qualificacions i FP, l'FP reglada del sistema educatiu i l'FP per a l'Ocupació s'articula en:
 
-- **Llei orgànica 3/2020, de 29 de desembre (*LOMLOE)**, que establix el marc educatiu general i introduïx l'FP en el currículum obligatori. 
+- **Llei orgànica 3/2020, de 29 de desembre (LOMLOE)**, que establix el marc educatiu general i introduïx l'FP en el currículum obligatori. 
 - **Llei orgànica 3/2022, de 31 de març**, d'ordenació i integració de la Formació Professional, que crea el sistema de cinc graus modulars i *capitalizables. 
 
 Estos textos deroguen l'antic Reial decret 1538/2006 i actualitzen el Reial decret 34/2008, unificant l'oferta d'FP en un únic sistema coherent i alineat amb el Marc Europeu de Qualificacions.
@@ -2579,7 +2447,7 @@ col·lectius) i els indicadors que permeten l'avaluació del desenrotllament i e
 de l'activitat formativa que es realitze en virtut d'eixe escenari.
 
 És imprescindible avançar en la configuració d'un sistema integrat d'informació i
-orientació professional. Per això, el portal [*TODOFP](https://tot.*fp), posat en marxa pel Ministeri de
+orientació professional. Per això, el portal [TODOFP](https://todofp.es), posat en marxa pel Ministeri de
 Educació en col·laboració amb les Comunitats Autònomes, ha de convertir-se en un portal de
 referència a Espanya de la formació professional del Sistema Educatiu. Amb l'objecte de
 elaborar unes ofertes formatives que realment donen resposta a les demandes de la societat,
@@ -2592,7 +2460,7 @@ Llei orgànica 3/2022, de 31 de març, d'ordenació i integració de la Formaci�
 Professional, incorpora canvis que de manera resumida es presenten així:
 
 
-![Canvis FP](mitjana/*canvifp.*png)
+![Canvis FP](media/*canvifp.png)
 
 
 ### TOTA LA FORMACIÓ PROFESSIONAL AMB CARÀCTER DUAL
@@ -2607,9 +2475,9 @@ aprenentatge en el centre i en l'empresa.
 * Es regula la figura de tutor dual d'empresa
 * Contempla l'agrupament de PIMES i el tutor d'empresa compartit
 * Es creen figures que col·laboren i faciliten la col·laboració centre-empresa:
-* Figura del *prospector d'empreses
+* Figura del prospector d'empreses
 * Figura d'expert sènior d'empresa en el centre
-* 
+
 Els fins del sistema de formació professional per a l'ocupació en l'àmbit laboral són:
 
  a) Afavorir la formació al llarg de la vida dels treballadors desocupats i
@@ -3170,28 +3038,27 @@ cabuda en una societat marcada pels canvis demogràfics, en les condicions i
 expectatives de qualitat de vida, en el treball i en la gestió del temps i la seua relació amb el
 medi ambient.
 
-Raúl *Grijalba, president executiu de *ManpowerGroup España, explica que el 60% d'eixe
+Raúl Grijalba, president executiu de ManpowerGroup España, explica que el 60% d'eixe
 nova ocupació se'l porta sobretot els sectors de comerç i distribució -per l'augment
 del consum intern- servicis professionals per a empreses -lligats al creixement empresarial
-i a activitats de tecnologia de la informació o d'activitat administrativa-; *turismofavorecido per les condicions geopolítiques i el consum intern-; i transports i
-comunicacions, impulsats per la mobilitat del turisme, el transport públic o la logística
+i a activitats de tecnologia de la informació o d'activitat administrativa-; turisme afavorit per les condicions geopolítiques i el consum intern-; i transports i comunicacions, impulsats per la mobilitat del turisme, el transport públic o la logística
 relacionada amb el comerç electrònic.
 
 També destaca la puixança de sectors com a educació i sanitat, que en els dos últims
 anys han registrat creixements nets de 100.000 noves ocupacions anuals cada un.
 
-Per la seua part Valentín *Bote, director de *Randstad *Research, creu que hi ha un paraigua comú
+Per la seua part Valentín Bote, director de Randstad Research, creu que hi ha un paraigua comú
 a tots els perfils d'èxit: "Es van qualificant progressivament i comencen a aparéixer
 moltes competències digitals, fins i tot en professions poc qualificades. Això, siga el que siga el
 sector d'activitat i el perfil, fa que en els requeriments per a accedir a eixos llocs
 estiguen les habilitats digitals". Pot es referix també a la puixança de l'ocupació en turisme i
 hostaleria durant 2017, "encara que els treballs que sorgisquen en este sector no seran iguals que
-fa deu anys", i així mateix parla de perfils estrela en *STEM (ciència, tecnologia, enginyeria
+fa deu anys", i així mateix parla de perfils estrela en STEM (ciència, tecnologia, enginyeria
 i matemàtiques) pel que fa al creixement percentual de la demanda.
 
-Sara Álvarez, *manager de la divisió de tecnologia de *Spring *Professional, del Grup Adecco,
+Sara Álvarez, manager de la divisió de tecnologia de Spring Professional, del Grup Adecco,
 destaca l'àrea TIC pel que fa a l'alta demanda de perfils tecnològics per a
-empreses i *start *up, i coincidix que "la transformació digital creix i influïx en les noves
+empreses i start up, i coincidix que "la transformació digital creix i influïx en les noves
 posicions".
 
 Es referix a més al valor creixent del big data en les empreses, tant grans com
@@ -3203,7 +3070,7 @@ financer, sanitat i consum. En este últim creix l'àrea d'alimentació, mentres
 sanitat, tant el sector com els clients demanen una especialització molt completa de els
 professionals que es demanden.
 
-El XII Informe Els + Buscats de *Spring *Professional assenyala un augment notable de la
+El XII Informe Els + Buscats de Spring Professional assenyala un augment notable de la
 busca de persones que compten amb experiència internacional per als nous llocs, sense
 deixar de costat el domini d'idiomes, un requisit ja indispensable en qualsevol procés de
 selecció.
@@ -3224,7 +3091,7 @@ els reclama una altíssima competència en idiomes i habilitats de gestió de pe
 comunicació, autonomia i capacitat per a prendre decisions.
 
 Entre els més buscats està així mateix l'enginyer tècnic comercial, que desenrotlla i
-consolida la cartera de clients pròpia i realitza una prospecció de nous clients *target;
+consolida la cartera de clients pròpia i realitza una prospecció de nous clients target;
 analitza i avalua projectes particulars, enfocats a l'obtenció de solucions d'optimització
 de processos; gestiona i supervisa l'adequació i adaptació de noves solucions. Es els
 exigix una titulació universitària superior, preferiblement enginyeria industrial, domini de
@@ -3361,7 +3228,7 @@ amb un fort coneixement de l'operativa d'este tipus de negoci. I es demanen apti
 la proactivitat, la capacitat organitzativa, orientació al client, grans dots de negociació
 i tolerància a l'estrés.
 
-***Retail**
+**Retail**
 
 En l'àrea de *retail es valora tindre en plantilla a experts en l'optimització de punts de
 venda (*Area *Manager), però és en les firmes de luxe on esta figura cobra major importància
@@ -3432,7 +3299,7 @@ Estos professionals atenen, avaluen i tracten a tots els pacients que precisen u
 tractament de reproducció assistida. Han de tindre una alta orientació al pacient i empatia,
 habilitats de comunicació, i capacitat de resolució de problemes.
 
-Així mateix cotitza el *medical *manager, amb una posició estratègica dins de l'àmbit
+Així mateix cotitza el medical manager, amb una posició estratègica dins de l'àmbit
 assistencial, ja que és el responsable de la coordinació de tots els factors interns i
 externs de l'organització que afecten els servicis de la companyia. Les seues funcions tenen
 que veure amb la coordinació i supervisió dels servicis sanitaris; la identificació i
@@ -3454,9 +3321,9 @@ Un altre perfil molt cotitzat és el de director de compliment normatiu, que cob
 les companyies espanyoles després d'haver sigut aprovada la Reforma del Codi Penal, encarregat de
 vetlar perquè no es produïsquen delictes en la companyia.
 
-***Corporate**
+**Corporate**
 
-La figura del *HR *Talent *Manager (gerent de talent de RH) es demanda en companyies
+La figura del HR Talent Manager (gerent de talent de RH) es demanda en companyies
 multinacionals que tenen previsions de créixer i incorporar molts perfils així com
 empreses xicotetes i mitjanes que estan en plena expansió.
 
@@ -3473,15 +3340,15 @@ En un món en el qual preval la *tecnologización, moltes vegades es troba a fal
 més humanitzat. És per això que ara es necessiten *coach i mentors especialitzats en els
 nous entorns de treball. Però al mateix temps estos han de dominar l'àmbit digital. Una
 combinació de coneixements -els emocionals i els digitals- que tal com s'arreplega en
-l'últim estudi Tendències laborals, elaborat per *Sodexo, es dona en els responsables de
+l'últim estudi Tendències laborals, elaborat per Sodexo, es dona en els responsables de
 relacions virtuals, que gestionen la identitat en línia i presencial de les empreses. Treballen
 amb la imatge de la companyia en les múltiples xarxes socials, responent amb coherència a
-totes les interaccions que es produïxen. Va més enllà del consolidat *community *manager, ja
+totes les interaccions que es produïxen. Va més enllà del consolidat community manager, ja
 que este nou expert maneja la imatge de marca i la seua formació ha d'estar a mig camí
 entre la psicologia i el món digital.
 
-El '*growth hacker', que treballa amb la imatge de marca en les xarxes, ha sigut clau per a moltes
-'*start *up'.
+El 'growth hacker', que treballa amb la imatge de marca en les xarxes, ha sigut clau per a moltes
+'start up'.
 
 A més, les noves fórmules de treball també plantegen reptes diferents en els processos de
 reclutament. S'espera que les organitzacions contracten cada vegada més per projectes. En
@@ -3495,7 +3362,7 @@ L'energia s'està convertint en un pilar fonamental de l'economia espanyola. Seg
 Adecco, "la dependència i la necessitat de trobar energies alternatives, com les
 renovables, afavorirà la creació de noves ocupacions. Els grans reptes són: la sostenibilitat
 ambiental del sistema elèctric, la reducció del seu impacte social i mediambiental i la gestió
-i certificació del sistema *enérgetico". Ja estan posicionant-se en el mercat figures com
+i certificació del sistema energètic". Ja estan posicionant-se en el mercat figures com
 l'emmagatzemador d'energia, que crea noves maneres de canalitzar-la. Per exemple, dissenya noves
 aplicacions per a l'apilament d'energia i així alimentar dispositius personals, com el telèfon,
 a partir de l'energia generada amb el nostre moviment. A conseqüència del naixement
@@ -3505,14 +3372,14 @@ demandats i hui gaudixen a més d'un sou que va de 9.000 a 15.000 euros mensuals
 **Transformació de l'empresa**
 
 A més de crear noves professions, les companyies també estan duent a terme la
-transformació de les responsabilitats tradicionals "en llocs directius com el *CTO,
+transformació de les responsabilitats tradicionals "en llocs directius com el *CTO*,
 qui a més d'encarregar-se de la part tecnològica també s'ocupa de les tasques de
 sistemes informàtics i de recursos humans de les persones que estan al seu càrrec. També
-apareix el '*Chief *Visionary *Officer' (*CVO), una posició molt pròxima al *CEO i que la seua principal
+apareix el '*Chief Visionary Officer*' (CVO), una posició molt pròxima al CEO i que la seua principal
 missió és fixar els objectius de la companyia i el pla d'acció. Altres perfils nous, però
 més intermedis són el de dissenyador de continguts web, programador d'aplicacions per a
-mòbils, gestor de robots, dissenyador de 'núvols' o enginyer d'objectes intel·ligents", detalla Begoña *Mañanas,
-'*corporate *communications *manager' de *Catenon.
+mòbils, gestor de robots, dissenyador de 'núvols' o enginyer d'objectes intel·ligents", detalla Begoña Mañanas,
+'*corporate communications manager' de Catenon.
 
 :::note
 Article disponible en
@@ -3520,7 +3387,7 @@ Article disponible en
 [http://www.expansion.com/emprendedoresempleo/empleo/2017/01/13/5878cf37e5fdeaaa638b4577.html](http://www.expansion.com/emprendedoresempleo/empleo/2017/01/13/5878cf37e5fdeaaa638b4577.html)
 :::
 
-![Professions del futur](mitjana/20.*jpg)
+![Professions del futur](media/20.jpg)
 
 Segons les últimes publicacions, es detallen les 30 professions que actualment es
 consideren els treballs del futur:
@@ -3554,7 +3421,7 @@ Bàsicament, consistix a transformar l'ensenyança tradicional amb tots els mitj
 tecnològics disponibles fins que arribe un punt en el qual ni tan sols siga necessari assistir
 a les aules, tot es podrà fer des de casa.
 
-***COACH PROFESSIONAL**
+**COACH PROFESSIONAL**
 
 L'objectiu de qualsevol *coach, independentment de la seua branca, és ajudar el client a tindre
 un major coneixement sobre les seues pròpies habilitats i una major capacitat per a resoldre
@@ -3677,7 +3544,7 @@ visió clara sobre com gestionar-les per a cuidar del nostre planeta.
 com a gestió de transaccions als seus clients de forma personalitzada. És a dir, identificar les
 necessitats i objectius de cada client i avaluar les seues accions d'inversió presents i futures.
 
-***NANOMÉDICO**
+**NANOMÉDICO**
 
 A pesar que encara no es pot estudiar *nanomedicina com a tal, existixen ja alguns autèntics
 professionals en el camp de la nanotecnologia, la missió de la qual és investigar a la recerca de
@@ -3739,7 +3606,7 @@ Segons el **Informe *Infoempleo - Adecco 2024**, quasi la mitat (46,9%) de les o
 
 4. **Desenrotllador de Programari** 
 
- - FP de Grau Superior en Desenrotllament d'Aplicacions Multiplataforma (*DAM) 
+ - FP de Grau Superior en Desenrotllament d'Aplicacions Multiplataforma (DAM) 
  - FP de Grau Superior en Desenrotllament d'Aplicacions Web (*DAW) 
  *Funcions*: programació, disseny d'interfícies, gestió de bases de dades.
 
@@ -3790,45 +3657,45 @@ A continuació, es mostren alguns d'ells:
 
 ## PORTALS D'OCUPACIÓ EN LÍNIA
 
-- [*JobandTalent](https://www.jobandtalent.com/) - Plataforma d'ocupació en línia que connecta als candidats amb ofertes ajustades al seu perfil i a les empreses amb el talent adequat. 
-- [*Infojobs](https://www.infojobs.net/) - Borsa d'ocupació privada especialitzada en el mercat espanyol. 
-- [*Construfy](https://www.construfy.com/) - Portal d'ocupació per a professionals de la construcció. 
-- [*Jobfie](https://www.jobfie.com/) - Portal de selecció que permet crear un CV digital i realitzar vídeo-currículums, test de competències i vídeo-entrevistes. 
-- [*Bizneo](https://www.bizneo.com/) - Inclou cercador d'ofertes ocultes d'empreses que no publiquen directament. 
-- [*Neuvoo](https://neuvoo.es/) - Cercador d'ocupació gratuïta i sense registre amb més de 100 000 ofertes a Espanya. 
-- [*Trabajarporelmundo](https://www.trabajarporelmundo.org/) - Portal per a treballar i estudiar a l'estranger. 
-- [*Jobatus](https://www.jobatus.es/) - Metacercador que agrupa ofertes de diferents portals d'Espanya. 
-- [*Yeeply](https://www.yeeply.com/) - Plataforma valenciana per a externalitzar projectes mòbils, “*Linking *mobile *professionals”. 
-- [*Jooble](https://es.jooble.org/) - Rastreja prop de 300 webs d'ocupació i filtra les millors candidatures. 
-- [*Infoempleo](https://www.infoempleo.com/) - Portal amb servicis vinculats com “Avanza en la teua Carrera” i esdeveniments “Tuit *and Jobs”. 
+- [JobandTalent](https://www.jobandtalent.com/) - Plataforma d'ocupació en línia que connecta als candidats amb ofertes ajustades al seu perfil i a les empreses amb el talent adequat. 
+- [Infojobs](https://www.infojobs.net/) - Borsa d'ocupació privada especialitzada en el mercat espanyol. 
+- [Construfy](https://www.construfy.com/) - Portal d'ocupació per a professionals de la construcció. 
+- [Jobfie](https://www.jobfie.com/) - Portal de selecció que permet crear un CV digital i realitzar vídeo-currículums, test de competències i vídeo-entrevistes. 
+- [Bizneo](https://www.bizneo.com/) - Inclou cercador d'ofertes ocultes d'empreses que no publiquen directament. 
+- [Neuvoo](https://neuvoo.es/) - Cercador d'ocupació gratuïta i sense registre amb més de 100 000 ofertes a Espanya. 
+- [Trabajarporelmundo](https://www.trabajarporelmundo.org/) - Portal per a treballar i estudiar a l'estranger. 
+- [Jobatus](https://www.jobatus.es/) - Metacercador que agrupa ofertes de diferents portals d'Espanya. 
+- [Yeeply](https://www.yeeply.com/) - Plataforma valenciana per a externalitzar projectes mòbils, “*Linking *mobile *professionals”. 
+- [Jooble](https://es.jooble.org/) - Rastreja prop de 300 webs d'ocupació i filtra les millors candidatures. 
+- [Infoempleo](https://www.infoempleo.com/) - Portal amb servicis vinculats com “Avanza en la teua Carrera” i esdeveniments “Tuit *and Jobs”. 
 - [Treballant](https://www.trabajando.es/) - Portal que col·labora amb ajuntaments per a oferir ofertes locals. 
-- [*Barcelonactiva](https://www.barcelonactiva.cat/) - Obté ofertes de *Infojobs, *Infofeina i *Manpower. 
-- [*Extremaduratrabaja](https://extremaduratrabaja.gobex.es/) - Portal de la Junta d'Extremadura vinculat al *SEPE i a cercadors com *Infojobs i *Sexpe-*Ceus. 
-- [*Quieroempleo](https://www.quieroempleo.com/) - Portal de les Cambres de Comerç amb mapa de geolocalització d'ofertes. 
-- [*Laboris](https://www.laboris.net/) - Oferix a empreses la publicació gratuïta de les seues dos primeres ofertes. 
+- [Barcelonactiva](https://www.barcelonactiva.cat/) - Obté ofertes de *Infojobs, *Infofeina i *Manpower. 
+- [Extremaduratrabaja](https://extremaduratrabaja.gobex.es/) - Portal de la Junta d'Extremadura vinculat al *SEPE i a cercadors com *Infojobs i *Sexpe-*Ceus. 
+- [Quieroempleo](https://www.quieroempleo.com/) - Portal de les Cambres de Comerç amb mapa de geolocalització d'ofertes. 
+- [Laboris](https://www.laboris.net/) - Oferix a empreses la publicació gratuïta de les seues dos primeres ofertes. 
 - [El País Ocupació & *Monster](https://empleo.elpais.com/) - Aliança entre el diari El País i *Monster. 
-- [*Wiseri](https://www.wiseri.com/) - Especialitzat en TIC, amb preselecció de candidats (*wisors). 
-- [*Ticjob](https://www.ticjob.es/) - Portal per a professionals d'informàtica. 
-- [*Tecnoempleo](https://www.tecnoempleo.com/) - Especialitzat en el sector TIC. 
-- [*Turijobs](https://www.turijobs.com/) - Portal líder en Hostaleria i Turisme. 
-- [*Turiempleo](https://www.turiempleo.com/) - Ocupació en turisme i oci. 
-- [*FashionJobs](https://www.fashionjobs.com/) - Per a professionals de moda, luxe i bellesa. 
+- [Wiseri](https://www.wiseri.com/) - Especialitzat en TIC, amb preselecció de candidats (*wisors). 
+- [Ticjob](https://www.ticjob.es/) - Portal per a professionals d'informàtica. 
+- [Tecnoempleo](https://www.tecnoempleo.com/) - Especialitzat en el sector TIC. 
+- [Turijobs](https://www.turijobs.com/) - Portal líder en Hostaleria i Turisme. 
+- [Turiempleo](https://www.turiempleo.com/) - Ocupació en turisme i oci. 
+- [FashionJobs](https://www.fashionjobs.com/) - Per a professionals de moda, luxe i bellesa. 
 - [Treballs en Moda](https://www.trabajosenmoda.com/) - Anuncis d'ocupació en el sector moda. 
-- [*Domestika](https://www.domestika.org/es/jobs) - Ofertes per a dissenyadors, mitjans socials, maquetació, etc. 
-- [*Luxetalent](https://www.luxetalent.com/) - Ocupació en *outlets, botigues de luxe i *boutiques. 
-- [*Enviroo](https://www.enviroo.com/) - Ofertes per a enginyers agrònoms, tècnics en energies renovables i projectes freelance. 
-- [*Ecoempleo](https://www.ecoempleo.es/) - Portal de l'Observatori Mediterrani de Desenrotllament Sostenible. 
-- [*Colejobs](https://www.colejobs.com/) - Ocupació en el sector educatiu. 
-- [*Primerempleo](https://www.primerempleo.com/) - Portal per a estudiants i titulats sense experiència. 
-- [*StudentJob](https://www.studentjob.es/) - Ofertes de pràctiques i treballs a mitja jornada per a acabats de titular. 
-- [*Jobssy](https://www.jobssy.com/) - Plataforma d'IA que busca talent en xarxes socials i organitza esdeveniments “Café *and Jobs”. 
-- [*Marketyou](https://www.marketyou.es/) - Connecta dades de Facebook i Linkedin per a mostrar la rellevància laboral. 
-- [*MyCVbook](https://www.mycvbook.com/) - Ofertes vinculades a empreses tecnològiques, màrqueting i mitjà social. 
-- [*Indeed](https://www.indeed.es/) - Metacercador que agrupa ofertes de múltiples portals. 
+- [Domestika](https://www.domestika.org/es/jobs) - Ofertes per a dissenyadors, mitjans socials, maquetació, etc. 
+- [Luxetalent](https://www.luxetalent.com/) - Ocupació en *outlets, botigues de luxe i *boutiques. 
+- [Enviroo](https://www.enviroo.com/) - Ofertes per a enginyers agrònoms, tècnics en energies renovables i projectes freelance. 
+- [Ecoempleo](https://www.ecoempleo.es/) - Portal de l'Observatori Mediterrani de Desenrotllament Sostenible. 
+- [Colejobs](https://www.colejobs.com/) - Ocupació en el sector educatiu. 
+- [Primerempleo](https://www.primerempleo.com/) - Portal per a estudiants i titulats sense experiència. 
+- [StudentJob](https://www.studentjob.es/) - Ofertes de pràctiques i treballs a mitja jornada per a acabats de titular. 
+- [Jobssy](https://www.jobssy.com/) - Plataforma d'IA que busca talent en xarxes socials i organitza esdeveniments “Café *and Jobs”. 
+- [Marketyou](https://www.marketyou.es/) - Connecta dades de Facebook i Linkedin per a mostrar la rellevància laboral. 
+- [MyCVbook](https://www.mycvbook.com/) - Ofertes vinculades a empreses tecnològiques, màrqueting i mitjà social. 
+- [Indeed](https://www.indeed.es/) - Metacercador que agrupa ofertes de múltiples portals. 
 - [Ací hi ha treball](https://www.rtve.es/empleo/aqui-hay-trabajo/) - Publica ofertes enviades al programa de La 2 d'RTVE. 
-- [*Insertia](https://www.insertia.net/) - Plataforma de selecció i desenrotllament professional amb servicis de publicitat. 
+- [Insertia](https://www.insertia.net/) - Plataforma de selecció i desenrotllament professional amb servicis de publicitat. 
 - [Colegios.es](https://www.colegios.es/) - Ocupació per a professors i mestres en centres de tota Espanya. 
-- [*Experteer](https://www.experteer.es/) - Portal per a professionals d'alt nivell.
+- [Experteer](https://www.experteer.es/) - Portal per a professionals d'alt nivell.
 
 ### XARXES PROFESSIONALS:
 
@@ -3837,11 +3704,11 @@ Partint del perfil de cada usuari, que lliurement revela la seua experiència la
 destreses en un verdader currículum laboral, la web posa en contacte a milions de
 empreses i empleats.
 
-- [*Xing](https://www.xing.com/) - Xarxa professional líder a Alemanya, Àustria i Suïssa, orientada al *networking B2B. 
-- [*Viadeo](https://www.viadeo.com/) - Xarxa social professional francesa amb impacte a Espanya (≈720 000 usuaris actius). 
-- [*beBee](https://www.bebee.com/) - Plataforma espanyola que connecta professionals per afinitat i interessos comuns. 
-- [*Womenalia](https://www.womenalia.com/) - Comunitat centrada en el desenrotllament professional femení, amb recursos i *networking per a dones. 
-- [*Meetup](https://www.meetup.com/) - Plataforma d'organització d'esdeveniments i grups per interessos; no publica ofertes d'ocupació però facilita contactes professionals.
+- [Xing](https://www.xing.com/) - Xarxa professional líder a Alemanya, Àustria i Suïssa, orientada al *networking B2B. 
+- [Viadeo](https://www.viadeo.com/) - Xarxa social professional francesa amb impacte a Espanya (≈720 000 usuaris actius). 
+- [beBee](https://www.bebee.com/) - Plataforma espanyola que connecta professionals per afinitat i interessos comuns. 
+- [Womenalia](https://www.womenalia.com/) - Comunitat centrada en el desenrotllament professional femení, amb recursos i *networking per a dones. 
+- [Meetup](https://www.meetup.com/) - Plataforma d'organització d'esdeveniments i grups per interessos; no publica ofertes d'ocupació però facilita contactes professionals.
 
 ## APLICACIONS MÒBILS
 
@@ -3852,16 +3719,16 @@ butxaca i la resposta a les alertes d'ocupació o a les preguntes de les emprese
 oferixen, pot ser quasi immediata. A continuació, es mostren algunes APP´s per a la
 busca d'ocupació.
 
-- [*Job *Today](https://www.jobtoday.com/) - Ofertes d'ús del sector servicis (comerços, restaurants, hotels). 
-- [*Jobeeper](https://www.jobeep.com/) - App sense necessitat de registre, amb ofertes de més de 35 països. 
-- [Linkedin *Job *Search](https://www.linkedin.com/jobs/) - Aplicació oficial per a buscar ocupació en Linkedin. 
-- [*Infojobs](https://www.infojobs.net/app) - App mòbil de la borsa d'ocupació *Infojobs. 
-- [*JobandTalent](https://www.jobandtalent.com/app) - App de la plataforma *JobandTalent per a ocupació ajustada al perfil. 
-- [*Trovit Ocupació](https://empleo.trovit.es/) - App que agrega ofertes de múltiples portals. 
-- [*Monster](https://www.monster.es/app) - App de la web *Monster per a busca d'ocupació. 
-- [*Turijobs](https://www.turijobs.com/app) - App especialitzada en Hostaleria i Turisme. 
-- [*EURES](https://ec.europa.eu/eures/) - App per a buscar ocupació en tota Europa. 
+- [Job Today](https://www.jobtoday.com/) - Ofertes d'ús del sector servicis (comerços, restaurants, hotels). 
+- [Jobeeper](https://www.jobeep.com/) - App sense necessitat de registre, amb ofertes de més de 35 països. 
+- [Linkedin Job *Search](https://www.linkedin.com/jobs/) - Aplicació oficial per a buscar ocupació en Linkedin. 
+- [Infojobs](https://www.infojobs.net/app) - App mòbil de la borsa d'ocupació Infojobs. 
+- [JobandTalent](https://www.jobandtalent.com/app) - App de la plataforma JobandTalent per a ocupació ajustada al perfil. 
+- [Trovit Ocupació](https://empleo.trovit.es/) - App que agrega ofertes de múltiples portals. 
+- [Monster](https://www.monster.es/app) - App de la web *Monster per a busca d'ocupació. 
+- [Turijobs](https://www.turijobs.com/app) - App especialitzada en Hostaleria i Turisme. 
+- [EURES](https://ec.europa.eu/eures/) - App per a buscar ocupació en tota Europa. 
 - [Trabajando.com](https://www.trabajando.com/app) - App de Trabajando.com amb ofertes nacionals i locals. 
 - [Laboris.net](https://www.laboris.net/app) - App de Laboris.net per a empreses i candidats. 
-- [*Opcionempleo](https://www.opcionempleo.com/app) - App de metacercador d'ocupació. 
-- [*CareerBuilder](https://www.careerbuilder.es/app) - App de *CareerBuilder per a busca personalitzada.
+- [Opcionempleo](https://www.opcionempleo.com/app) - App de metacercador d'ocupació. 
+- [CareerBuilder](https://www.careerbuilder.es/app) - App de *CareerBuilder per a busca personalitzada.
