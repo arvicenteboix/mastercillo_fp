@@ -1,7 +1,7 @@
 ---
 # Front matter
 # Metainformació del document
-title: "CERTIFICADO OFICIAL DE FORMACIÓN PEDAGÓGICA Y DIDÁCTICA PARA PROFESORADO TÉCNICO"
+title: "CERTIFICAT OFICIAL DE FORMACIÓ PEDAGÒGICA I DADÀCTICA PER AL PROFESSORAT TÈCNIC"
 # author:
 titlepage: true
 
@@ -121,15 +121,13 @@ La Formació Professional constituïx en l'actualitat un element
 vertebrador del sistema educatiu i d'ocupació a Espanya, situant-se en
 el centre de les polítiques actives d'aprenentatge al llarg de la vida.
 Sota el marc normatiu establit per la Llei orgànica 3/2022 i la seua
-desenrotllament reglamentari en l'RD 659/2023, es configura un **sistema
-unificat i flexible**, capaç de respondre a les necessitats canviants
+desenrotllament reglamentari en l'RD 659/2023, es configura un **sistema unificat i flexible**, capaç de respondre a les necessitats canviants
 de l'entorn social i productiu.
 
 Des de la perspectiva docent, este model implica un canvi
 significatiu en la concepció de l'ensenyança-aprenentatge. La Formació
 Professional ja no es limita únicament a la transmissió de coneixements
-tècnics, sinó que s'articula entorn de la **adquisició, integració
-i transferència de competències professionals**, enteses com el
+tècnics, sinó que s'articula entorn de la **adquisició, integració i transferència de competències professionals**, enteses com el
 conjunt de coneixements, destreses, habilitats, actituds i valors
 necessaris per a l'exercici qualificat d'una activitat professional,
 en contextos reals i diversos.
@@ -190,8 +188,7 @@ Entre les modalitats destaquen:
 
 ## Tipologia d'ofertes segons graus
 
-L'RD 659/2023 organitza les ofertes del sistema d'FP en **cinc
-graus** (A, B, C, D i E), la qual cosa estructura de manera clara tot el
+L'RD 659/2023 organitza les ofertes del sistema d'FP en **cinc graus** (A, B, C, D i E), la qual cosa estructura de manera clara tot el
 sistema
 
 - Grau A: Acreditació parcial de competències.
@@ -213,8 +210,7 @@ El sistema de Formació Professional a Espanya, d'acord amb el
 establit en el **Reial decret 659/2023**, pel qual s'ordena el
 sistema de Formació Professional, i recollit a nivell autonòmic en el
 **Decret 114/2025** (Comunitat Valenciana), reconeix **tres modalitats
-d'oferta** per als cicles formatius: **presencial, semipresencial i
-virtual (a distància)**.
+d'oferta** per als cicles formatius: **presencial, semipresencial i virtual (a distància)**.
 
 Estes modalitats responen a la necessitat d'oferir una formació
 **flexible, accessible i adaptada a diferents perfils de l'alumnat**,
@@ -283,8 +279,7 @@ recollides en el currículum oficial.
 # Nivells formatius
 
 La Formació Professional s'estructura en diferents nivells de
-qualificació professional, definits en el **Catàleg d'Estàndards de
-Competència**, que servix com a eix vertebrador per a tota l'oferta
+qualificació professional, definits en el **Catàleg d'Estàndards de Competència**, que servix com a eix vertebrador per a tota l'oferta
 formativa del sistema.
 
 **Independentment de la modalitat en la qual s'impartisca** (presencial,
@@ -306,8 +301,7 @@ nivells:
 Els cicles de Grau Bàsic estan dirigits a alumnat que necessita una
 via alternativa a l'educació secundària obligatòria convencional, i
 que requerix d'un enfocament més pràctic i adaptat a les seues necessitats
-formatives. La seua finalitat és **afavorir la permanència en el sistema
-educatiu**, reduir l'abandó escolar primerenc i facilitar la
+formatives. La seua finalitat és **afavorir la permanència en el sistema educatiu**, reduir l'abandó escolar primerenc i facilitar la
 transició a l'ocupació.
 
 **Característiques principals:**
@@ -350,8 +344,7 @@ d) Projecte intermodular d'aprenentatge col·laboratiu vinculat a els
 
 Els cicles de Grau Mitjà estan dirigits a alumnat que ha superat la
 Educació Secundària Obligatòria o que ha obtingut el títol de
-Professional Bàsic. Estos cicles proporcionen la **qualificació
-necessària per a l'acompliment d'una professió tècnica** en un entorn
+Professional Bàsic. Estos cicles proporcionen la **qualificació necessària per a l'acompliment d'una professió tècnica** en un entorn
 productiu concret. Formen part de l'educació secundària
 postobligatòria.
 
@@ -366,8 +359,7 @@ postobligatòria.
 - S'organitzen en **mòduls professionals**, tant teòrics com
  pràctics.
 
-- Poden impartir-se en modalitat **presencial, semipresencial o
- virtual**.
+- Poden impartir-se en modalitat **presencial, semipresencial o virtual**.
 
 - La seua duració també és de dos cursos.
 
@@ -375,8 +367,7 @@ postobligatòria.
 
 **Nivell 3 del Catàleg d'Estàndards de Competència**
 
-Els cicles de Grau Superior estan orientats a la **especialització
-professional avançada**, i capaciten a l'alumnat per a desenrotllar
+Els cicles de Grau Superior estan orientats a la **especialització professional avançada**, i capaciten a l'alumnat per a desenrotllar
 funcions de major complexitat tècnica i de responsabilitat en l'àmbit
 laboral. Formen part de l'educació superior.
 
@@ -385,15 +376,13 @@ laboral. Formen part de l'educació superior.
 - Conduïxen al **Títol de Tècnic Superior**.
 
 - Permeten l'accés a estudis universitaris, amb possibilitat de
- reconeixement de crèdits *ECTS.
+ reconeixement de crèdits ECTS.
 
-- Inclouen formació en **emprenedoria, digitalització,
- sostenibilitat** i altres aspectes transversals.
+- Inclouen formació en **emprenedoria, digitalització, sostenibilitat** i altres aspectes transversals.
 
 - També incorporen el mòdul de **Formació en Empresa**
 
-- Poden oferir-se en modalitat **presencial, semipresencial o
- virtual**, afavorint així la conciliació laboral i formativa.
+- Poden oferir-se en modalitat **presencial, semipresencial o virtual**, afavorint així la conciliació laboral i formativa.
 
 - La seua duració també és de dos cursos.
 
@@ -508,7 +497,7 @@ A cada mòdul formatiu li correspon una fixació horària que es
 distribuïx en hores setmanals. Els dies de la setmana que s'impartixen
 estes hores són flexibles i venen determinats per cada centre
 educatiu. En els quadres horaris s'indica els mòduls susceptibles de
-doblatge (*DT) i també els mòduls que poden ser impartits,
+doblatge (DT) i també els mòduls que poden ser impartits,
 indistintament, per un altre docent d'una altra especialitat.
 
 La seqüenciació dels mòduls i l'horari dels diferents cicles de
@@ -519,8 +508,7 @@ poden consultar el següent enllaç:
 
 ## MÒDULS PROFESSIONALS I TITULACIONS ACADÈMIQUES REQUERIDES PER A LA SEUA IMPARTICIÓ
 
-La pàgina web de **Tot FP** i el portal de la **Conselleria d'*Educació,
-Cultura i *Esport** en la seua secció de Formació Professional constituïxen
+La pàgina web de **Tot FP** i el portal de la **Conselleria d'Educació, Cultura i Esport** en la seua secció de Formació Professional constituïxen
 una font viva i actualitzada d'informació, imprescindible per a tots
 els docents. En estos espais es disposa de tota la documentació i
 recursos necessaris per a l'elaboració i desenrotllament d'una programació
@@ -566,8 +554,8 @@ recents, més de 2.400 empreses desenrotllen la seua activitat en este
 sector, la qual cosa representa més del 10 % de la indústria regional. Les
 comarques amb major concentració d'empreses del moble i fusteria es
 troben a les províncies de València i Castelló, especialment en
-zones com l'Horta, la Costera, La Safor, la Plana Alta i el *Baix
-*Maestrat. Esta forta implantació territorial es traduïx també en una
+zones com l'Horta, la Costera, La Safor, la Plana Alta i el Baix
+Maestrat. Esta forta implantació territorial es traduïx també en una
 oferta formativa àmplia i adaptada a les necessitats del sector, amb
 cicles formatius de grau bàsic, mitjà i superior en diferents
 localitats, així com la presència destacada del Centre de Referència
@@ -576,8 +564,8 @@ Nacional de Transformació i Instal·lació de Fusta i Suro a Paterna.
 El sector ha experimentat importants transformacions en els últims
 anys a causa de la incorporació de noves tecnologies. Entre els
 principals avanços destaquen l'ús de maquinària de control numèric
-(*CNC), l'automatització de processos, el disseny assistit per ordinador
-(*CAD), així com l'aplicació de nous materials i sistemes de
+(CNC), l'automatització de processos, el disseny assistit per ordinador
+(CAD), així com l'aplicació de nous materials i sistemes de
 acoblament i acabat. Estos canvis han implicat una evolució en els
 perfils professionals, cada vegada més orientats cap a la digitalització,
 la precisió tècnica i la gestió eficient de la producció. En este
@@ -591,11 +579,11 @@ garantir una formació connectada amb la realitat laboral.
 Dins de la família professional de Fusta, Moble i Suro s'oferixen
 quatre cicles formatius. 
 
-**TÍTOL DE FORMACIÓ PROFESSIONAL BÀSICA **
+**TÍTOL DE FORMACIÓ PROFESSIONAL BÀSICA**
 
 - Títol Professional Bàsic Fusteria i moble 
 
-***TITULOS DE FORMACIÓ PROFESSIONAL DE GRAU MITJÀ **
+***TITULOS DE FORMACIÓ PROFESSIONAL DE GRAU MITJÀ**
 
 - Tècnic en *Carpinterita i Moble
 - Tècnic en Instal·lació i Moblament 
@@ -611,7 +599,7 @@ quatre cicles formatius.
 - Reial decret 498/2024, de 21 de maig, pel qual es modifiquen determinats reials decrets pels quals s'establixen títols de Formació Professional de grau bàsic i es fixen les seues ensenyances mínimes.
 - DECRET 185/2014, de 31 d'octubre, del Consell, pel qual s'establixen vint currículums corresponents als cicles formatius de Formació Professional Bàsica en l'àmbit de la Comunitat Valenciana 
 
-**Tècnic en *Carpinterita i Moble** 
+**Tècnic en Carpinterita i Moble** 
 
 - Reial decret 1128/2010, de 10 de setembre, pel qual s'establix el
 títol de Tècnic en Fusteria i Moble i es fixen les seues ensenyances
@@ -687,20 +675,20 @@ detallada:
 - Muntador de mobles de fusta o similars.  
 - Muntador productes de fusta excepte ebenisteria.  
 - Muntador d'envasos/embalatges de fusta i similars. 
-- Acabador de mobles de fusta. *Acuchillador-envernissador de parquet.  
-- Envernissador-*lacador d'artesania de fusta.  
-- Envernissador-*lacador de moble de fusta.  
+- Acabador de mobles de fusta. Acuxillador-envernissador de parquet.  
+- Envernissador-lacador d'artesania de fusta.  
+- Envernissador-lacador de moble de fusta.  
 - Operador de tren d'acabat de moble.
 - Embalador/empaquetador/etiquetador a mà.  
 - Peó de la indústria de la fusta i del suro.  
 - Tapisser de mobles. 
 
-**Tècnic en *Carpinterita i Moble** 
+**Tècnic en Carpinterita i Moble** 
 
 - Operador de màquines fixes per a fabricar productes de fusta. 
 - Operador de premses. Operador-armador en banc.  
 - Muntador-assemblador d'elements de fusteria.  
-- Envernissador-*lacador.  
+- Envernissador-lacador.  
 - Responsable de secció d'acabats. 
 
 **Tècnic en Instal·lació i Moblament** 

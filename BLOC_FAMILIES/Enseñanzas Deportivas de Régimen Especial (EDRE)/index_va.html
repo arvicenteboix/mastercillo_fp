@@ -1,0 +1,1499 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es" >
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="generator" content="pandoc" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+                <meta name="keywords" content="Xarxa, Instal·lació" />         <title>CERTIFICADO OFICIAL DE FORMACIÓN PEDAGÓGICA Y DIDÁCTICA PARA PROFESORADO TÉCNICO</title>
+
+    <!-- Fuente moderna -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+
+    <style>
+
+
+
+        /* Imagen fija en esquina como fondo decorativo.
+            Cambia la ruta en --corner-bg-url y ajusta tamaño/offset según convenga. */
+        :root {
+             --corner-bg-url: url("rsc/fondo.png"); /* <- reemplazar por la ruta de la imagen */
+             --corner-size: 460px;     /* tamaño del recuadro de la imagen (contain) */
+             --corner-opacity: 0.32;   /* opacidad para que no distraiga */
+             --corner-offset: 1.5rem;  /* separación respecto a los bordes */
+        }
+
+        /* Asegurar que el contenido esté por encima del decorado */
+        #content { position: relative; z-index: 1; }
+
+        /* Pseudo-elemento fijo en esquina (por defecto: esquina superior derecha) */
+        body::before {
+             content: "";
+             position: fixed;
+             bottom: var(--corner-offset);
+             right: var(--corner-offset);
+             width: var(--corner-size);
+             height: var(--corner-size);
+             background-image: var(--corner-bg-url);
+             background-repeat: no-repeat;
+             background-size: contain;
+             background-position: center;
+             opacity: var(--corner-opacity);
+             pointer-events: none; /* no interfiere con clicks */
+             z-index: 0;
+        }
+
+        /* Si quieres otra esquina, sustituye top/right por:
+            top/left  -> usar top:var(--corner-offset); left:var(--corner-offset);
+            bottom/right -> bottom:var(--corner-offset); right:var(--corner-offset);
+            bottom/left -> bottom:var(--corner-offset); left:var(--corner-offset);
+        */
+
+        /* No imprimir la imagen decorativa */
+        @media print {
+             body::before { display: none !important; }
+        }
+
+        :root{
+            --bg: linear-gradient(linear-gradient(to right, #87625a82 25%, #ea9a9a 250%));
+            --panel: rgba(255,255,255,0.6);
+            --accent: #2563eb;
+            --muted: #6b7280;
+            --text: #0f172a;
+            --radius: 12px;
+            --max-width: 1200px; /* ancho de contenido para márgenes amplios */
+            --gutter: 3rem;
+        }
+
+        /* Reset básico */
+        html,body{height:100%;margin:0;padding:0;font-family:"Inter",system-ui,-apple-system,Segoe UI,Roboto,"Helvetica Neue",Arial;}
+        body{
+            background: var(--bg);
+            color: var(--text);
+            -webkit-font-smoothing:antialiased;
+            -moz-osx-font-smoothing:grayscale;
+            line-height:1.5;
+        }
+
+        #content{
+            box-sizing:border-box;
+            max-width: calc(var(--max-width) + 2 * var(--gutter));
+            margin: var(--gutter) auto;
+            padding: var(--gutter);
+            background: transparent;
+        }
+
+        /* Diseño de dos columnas en pantallas grandes */
+        .layout {
+            display: grid;
+            grid-template-columns: 320px 1fr;
+            gap: 2rem;
+            align-items:start;
+        }
+
+        @media (max-width: 980px){
+            .layout { grid-template-columns: 1fr; }
+        }
+
+        nav#TOC {
+            position: sticky;
+            top: 2rem;
+            height: calc(100vh - 4rem);
+            overflow:auto;
+            background: linear-gradient(180deg, rgba(255,255,255,0.6), rgba(255,255,255,0.4));
+            border-radius: var(--radius);
+            padding: 1rem;
+            box-shadow: 0 6px 18px rgba(12,18,31,0.06);
+            font-size: 0.95rem;
+        }
+
+        nav#TOC h2 { margin:0 0 0.75rem 0; font-size:1rem; color:var(--muted); }
+
+        nav#TOC a {
+            display:block;
+            color:var(--text);
+            text-decoration:none;
+            padding:0.35rem 0.5rem;
+            border-radius:8px;
+            transition: background .15s, transform .08s;
+        }
+        nav#TOC a:hover { background: rgba(37,99,235,0.06); transform: translateX(4px); }
+        nav#TOC a.navItemSelected { background: var(--accent); color: white; font-weight:600; }
+
+        header#title-block-header{
+            background: var(--panel);
+            padding: 1.2rem 1.4rem;
+            border-radius: 12px;
+            box-shadow: 0 8px 28px rgba(12,18,31,0.06);
+            margin-bottom: 1rem;
+        }
+        header#title-block-header .title { margin:0; font-size:1.6rem; font-weight:700; }
+        header#title-block-header .date { color:var(--muted); margin-top:0.35rem; font-size:0.95rem; }
+
+        main {
+            background: var(--panel);
+            padding: 1.6rem;
+            border-radius: 12px;
+            box-shadow: 0 8px 28px rgba(12,18,31,0.06);
+        }
+
+        main h1, main h2, main h3 {
+            color:var(--text);
+            margin-top:1.2rem;
+            margin-bottom:0.5rem;
+        }
+        main p, main ul, main ol {
+            color: #1f2937;
+            margin-bottom: 1rem;
+        }
+
+        /* Imágenes con borde suave y cursor */
+        main img {
+            max-width:100%;
+            border-radius:8px;
+            box-shadow: 0 6px 18px rgba(12,18,31,0.06);
+            cursor:zoom-in;
+        }
+
+        /* Suavizar redimensionado de main (crecer/encoger con transición) */
+        main {
+            transition: width .36s cubic-bezier(.2,.8,.2,1),
+                        max-width .36s cubic-bezier(.2,.8,.2,1),
+                        padding .24s ease,
+                        box-shadow .24s ease;
+            will-change: width, max-width, padding, box-shadow;
+        }
+
+        /* Suavizar cambios en la barra lateral (cuando se minimiza) */
+        nav#TOC {
+            transition: width .36s cubic-bezier(.2,.8,.2,1),
+                        transform .24s ease,
+                        background-color .24s ease;
+            will-change: width, transform;
+        }
+
+        /* Si el layout cambia a una sola columna, mantener la transición visual */
+        .layout {
+            transition: grid-template-columns .36s cubic-bezier(.2,.8,.2,1), gap .24s ease;
+            will-change: gap;
+        }
+
+        /* Opcional: evitar repintados pesados al hacer zoom en imágenes */
+        main img {
+            transition: transform .18s ease, box-shadow .18s ease;
+            will-change: transform, box-shadow;
+        }
+
+        /* Modal (mejorado visualmente) */
+        .modal {
+            display:none;
+            position:fixed;
+            z-index:9999;
+            padding-top:6vh;
+            left:0;top:0;width:100%;height:100%;
+            background: rgba(7,11,24,0.85);
+        }
+        .modal-content {
+            margin:auto;
+            display:block;
+            max-width:90%;
+            max-height:80vh;
+            border-radius:10px;
+            box-shadow: 0 18px 40px rgba(0,0,0,0.6);
+        }
+        #caption { color:#e6eefc; text-align:center; padding:0.8rem 1rem; font-size:0.95rem; }
+
+        /* TOC minimizado (cuando se hace clic) */
+        .minimizedToc { width: 48px !important; overflow:hidden; white-space:nowrap; }
+
+        /* Espacio extra para lecturas con márgenes amplios */
+        .spaced { padding: 1rem 1.25rem; }
+
+        /* -------------------------
+           IMPRESIÓN Y SALTO DE PÁGINA
+           ------------------------- */
+        @media print {
+            body { background: white; color: black; }
+            nav#TOC { display:none !important; }
+            #content { margin:0; padding:0; max-width: none; box-shadow:none; }
+            header#title-block-header, main { box-shadow:none; background: white; border-radius:0; padding:0; }
+
+            /* Forzar que cada sección mayor comience en una nueva página */
+            /* Pandoc suele envolver secciones en <section>, y/o usar h1/h2 como separadores */
+            main > section, main > div.section, main > h1, main > h2 {
+                break-before: page;
+                page-break-before: always;
+            }
+            /* Evitar salto antes de la primera sección */
+            main > section:first-child, main > div.section:first-child, main > h1:first-of-type, main > h2:first-of-type {
+                break-before: auto;
+                page-break-before: auto;
+            }
+
+            img { max-width: 100%; height: auto; page-break-inside: avoid; }
+            a[href]:after { content: " (" attr(href) ")"; font-size: 90%; }
+        }
+
+
+    /* Requadres amb notes, etc */
+
+    div.note,
+    div.tip,
+    div.warning,
+    div.caution,
+    div.important {
+        padding: 1em;
+        margin: 1em 0em 1em 5em;
+        border-radius: 3px;
+    }
+
+    div.note::before,
+    div.tip::before,
+    div.warning::before,
+    div.caution::before,
+    div.important::before {
+        position: relative;
+        left: -4em;
+        top: 3em;
+        margin-top: -3em;
+        height: 50px;
+        display: block;
+        padding-top: 0.5em;
+        font-size: x-large;
+        font-weight: bold;
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
+
+    div.note {
+        border-left: 3px solid #26c6da;
+    }
+
+    div.note::before {
+        background-image: url(rsc/note.svg);
+        content: "";
+        width: auto;
+    }
+
+    div.tip {
+        border-left: 3px solid #7cb342;
+        /* degradado animado entre verde claro y azul claro */
+        background: linear-gradient(90deg, rgba(124,179,66,0.12) 0%, rgba(96,165,250,0.12) 50%, rgba(124,179,66,0.12) 100%);
+        background-size: 200% 200%;
+        animation: pulseBG 6s ease-in-out infinite;
+        transition: box-shadow .2s, transform .15s;
+    }
+
+    @keyframes pulseBG {
+        0%   { background-position: 0% 50%; }
+        50%  { background-position: 100% 50%; }
+        100% { background-position: 0% 50%; }
+    }
+
+    /* Respectar preferencia de reducir movimiento */
+    @media (prefers-reduced-motion: reduce) {
+        div.tip {
+            animation: none;
+            background: rgba(124,179,66,0.06);
+        }
+    }
+
+    div.tip::before {
+        background-image: url(rsc/tip.svg);
+        content: "";
+        width: auto;
+    }
+
+    div.warning {
+        border-left: 3px solid #fb8c00
+    }
+
+    div.warning::before {
+        background-image: url(rsc/warning.svg);
+        content: "";
+        width: auto;
+    }
+
+    div.caution {
+        border-left: 3px solid #b71c1c;
+    }
+
+    div.caution::before {
+        background-image: url(rsc/caution.svg);
+        content: "";
+        width: auto;
+    }
+
+    div.important {
+        border-left: 3px solid #f9ce1d;
+    }
+
+    div.important::before {
+        background-image: url(rsc/important.svg);
+        content: "";
+        width: auto;
+    }
+
+    figure {
+        text-align: center;
+
+    }
+
+    figcaption {
+        font-size: 0.9em;
+        color: #555;
+        margin-top: 0.3em;
+    }
+
+    </style>
+
+        <link rel="stylesheet" href="" />     
+    <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+    <![endif]-->
+                          
+</head>
+
+
+
+
+<body>
+    <div id="content">
+        <div class="layout">
+            
+
+                        <nav id="TOC" role="doc-toc">
+                <div class="navContainer">
+                                        <h2 id="toc-title">Contenidos</h2>
+                                        <ul>
+                                        <li><a href="#introducció"
+                                        id="toc-introducció"><span
+                                        class="toc-section-number">1</span>
+                                        INTRODUCCIÓ</a></li>
+                                        <li><a
+                                        href="#modalitats-de-la-formació-professional"
+                                        id="toc-modalitats-de-la-formació-professional"><span
+                                        class="toc-section-number">2</span>
+                                        MODALITATS DE LA FORMACIÓ
+                                        PROFESSIONAL</a>
+                                        <ul>
+                                        <li><a
+                                        href="#tipologia-dofertes-segons-graus"
+                                        id="toc-tipologia-dofertes-segons-graus"><span
+                                        class="toc-section-number">2.1</span>
+                                        Tipologia d’ofertes segons
+                                        graus</a></li>
+                                        <li><a
+                                        href="#modalitats-de-loferta-de-formació"
+                                        id="toc-modalitats-de-loferta-de-formació"><span
+                                        class="toc-section-number">2.2</span>
+                                        Modalitats de l’oferta de
+                                        formació</a></li>
+                                        </ul></li>
+                                        <li><a href="#nivells-formatius"
+                                        id="toc-nivells-formatius"><span
+                                        class="toc-section-number">3</span>
+                                        Nivells formatius</a>
+                                        <ul>
+                                        <li><a href="#graus"
+                                        id="toc-graus"><span
+                                        class="toc-section-number">3.1</span>
+                                        Graus</a>
+                                        <ul>
+                                        <li><a href="#grau-bàsic"
+                                        id="toc-grau-bàsic"><span
+                                        class="toc-section-number">3.1.1</span>
+                                        Grau Bàsic</a></li>
+                                        <li><a href="#grau-mitjà"
+                                        id="toc-grau-mitjà"><span
+                                        class="toc-section-number">3.1.2</span>
+                                        Grau Mitjà</a></li>
+                                        <li><a href="#grau-superior"
+                                        id="toc-grau-superior"><span
+                                        class="toc-section-number">3.1.3</span>
+                                        Grau Superior</a></li>
+                                        </ul></li>
+                                        <li><a
+                                        href="#accés-als-cicles-formatius"
+                                        id="toc-accés-als-cicles-formatius"><span
+                                        class="toc-section-number">3.2</span>
+                                        Accés als cicles
+                                        formatius</a></li>
+                                        </ul></li>
+                                        <li><a
+                                        href="#distribució-horària-cicles-i-mòduls-formatius"
+                                        id="toc-distribució-horària-cicles-i-mòduls-formatius"><span
+                                        class="toc-section-number">4</span>
+                                        DISTRIBUCIÓ HORÀRIA CICLES I
+                                        MÒDULS FORMATIUS</a>
+                                        <ul>
+                                        <li><a
+                                        href="#mòduls-professionals-i-titulacions-acadèmiques-requerides-per-a-la-seua-impartició"
+                                        id="toc-mòduls-professionals-i-titulacions-acadèmiques-requerides-per-a-la-seua-impartició"><span
+                                        class="toc-section-number">4.1</span>
+                                        MÒDULS PROFESSIONALS I
+                                        TITULACIONS ACADÈMIQUES
+                                        REQUERIDES PER A LA SEUA
+                                        IMPARTICIÓ</a></li>
+                                        </ul></li>
+                                        <li><a
+                                        href="#activitats-físiques-i-esportives"
+                                        id="toc-activitats-físiques-i-esportives"><span
+                                        class="toc-section-number">5</span>
+                                        ACTIVITATS FÍSIQUES I
+                                        ESPORTIVES</a>
+                                        <ul>
+                                        <li><a
+                                        href="#la-família-professional"
+                                        id="toc-la-família-professional"><span
+                                        class="toc-section-number">5.1</span>
+                                        LA FAMÍLIA PROFESSIONAL</a></li>
+                                        <li><a href="#oferta-formativa"
+                                        id="toc-oferta-formativa"><span
+                                        class="toc-section-number">5.2</span>
+                                        OFERTA FORMATIVA</a></li>
+                                        <li><a
+                                        href="#reials-decrets-de-títol-i-currículum"
+                                        id="toc-reials-decrets-de-títol-i-currículum"><span
+                                        class="toc-section-number">5.3</span>
+                                        REIALS DECRETS DE TÍTOL I
+                                        CURRÍCULUM</a>
+                                        <ul>
+                                        <li><a href="#fp-bàsica"
+                                        id="toc-fp-bàsica"><span
+                                        class="toc-section-number">5.3.1</span>
+                                        FP BÀSICA</a></li>
+                                        <li><a href="#grau-mitjà-1"
+                                        id="toc-grau-mitjà-1"><span
+                                        class="toc-section-number">5.3.2</span>
+                                        GRAU MITJÀ</a></li>
+                                        </ul></li>
+                                        <li><a href="#grau-superior-1"
+                                        id="toc-grau-superior-1"><span
+                                        class="toc-section-number">5.4</span>
+                                        GRAU SUPERIOR</a></li>
+                                        <li><a
+                                        href="#installacions-i-espais-en-els-centres-educatius"
+                                        id="toc-installacions-i-espais-en-els-centres-educatius"><span
+                                        class="toc-section-number">5.5</span>
+                                        INSTAL·LACIONS I ESPAIS EN ELS
+                                        CENTRES EDUCATIUS</a></li>
+                                        <li><a
+                                        href="#entorn-professional"
+                                        id="toc-entorn-professional"><span
+                                        class="toc-section-number">5.6</span>
+                                        ENTORN PROFESSIONAL</a></li>
+                                        </ul></li>
+                                        <li><a href="#bibliografia"
+                                        id="toc-bibliografia"><span
+                                        class="toc-section-number">6</span>
+                                        Bibliografia</a></li>
+                                        </ul>
+                </div>
+            </nav>
+            
+            <div style="min-width:0;">
+                                <header id="title-block-header">
+                    <h1 class="title">CERTIFICADO OFICIAL DE FORMACIÓN
+PEDAGÓGICA Y DIDÁCTICA PARA PROFESORADO TÉCNICO</h1>
+                                                        </header>
+                
+                <main class="spaced">
+                    <h1 data-number="1" id="introducció"><span
+                    class="header-section-number">1</span>
+                    INTRODUCCIÓ</h1>
+                    <p>La Formació Professional constituïx en
+                    l’actualitat un element vertebrador del sistema
+                    educatiu i d’ocupació a Espanya, situant-se en el
+                    centre de les polítiques actives d’aprenentatge al
+                    llarg de la vida. Sota el marc normatiu establit per
+                    la Llei orgànica 3/2022 i la seua desenrotllament
+                    reglamentari en l’RD 659/2023, es configura un
+                    <strong>sistema unificat i flexible</strong>, capaç
+                    de respondre a les necessitats canviants de l’entorn
+                    social i productiu.</p>
+                    <p>Des de la perspectiva docent, este model implica
+                    un canvi significatiu en la concepció de
+                    l’ensenyança-aprenentatge. La Formació Professional
+                    ja no es limita únicament a la transmissió de
+                    coneixements tècnics, sinó que s’articula entorn de
+                    la <strong>adquisició, integració i transferència de
+                    competències professionals</strong>, enteses com el
+                    conjunt de coneixements, destreses, habilitats,
+                    actituds i valors necessaris per a l’exercici
+                    qualificat d’una activitat professional, en
+                    contextos reals i diversos.</p>
+                    <p>El nou sistema situa la competència professional
+                    com a eix estructurador de tota l’acció
+                    formativa.</p>
+                    <p>A més, el model fomenta una forta vinculació amb
+                    l’entorn productiu mitjançant la formació en entorns
+                    reals de treball, el desenrotllament de projectes
+                    col·laboratius amb empreses, la formació dual i
+                    l’avaluació de competències adquirides per vies no
+                    formals o informals. En este sentit, la labor docent
+                    requerix un enfocament metodològic actiu i
+                    adaptatiu, centrat en el desenrotllament integral
+                    del alumnat i orientat a la seua ocupabilitat, al
+                    seu itinerari formatiu i a el seu creixement
+                    professional i personal.</p>
+                    <p>La Formació Professional comprén diferents graus
+                    d’estudis —tant en règim inicial com per a la
+                    formació contínua o de persones treballadores—, amb
+                    una organització modular, articulada a través de
+                    oferta formativa ajustada al catàleg de competències
+                    professionals. En este sentit, el sistema s’integra
+                    en el Catàleg Modular de Formació Professional i
+                    altres instruments d’acreditació que permeten
+                    reconéixer competències adquirides per vies formals,
+                    no formals o informals, segons el regulat en el
+                    Reial decret 659/2023 (Titular VI).</p>
+                    <p>Així mateix, el sistema normatiu contempla que el
+                    currículum, els procediments d’avaluació, els espais
+                    de formació, els centres i els processos
+                    d’acreditació s’adapten als estàndards professionals
+                    vigents, la qual cosa afavorix el desenrotllament
+                    professional i social del alumnat, així com una
+                    millor resposta a les exigències del món
+                    productiu.</p>
+                    <h1 data-number="2"
+                    id="modalitats-de-la-formació-professional"><span
+                    class="header-section-number">2</span> MODALITATS DE
+                    LA FORMACIÓ PROFESSIONAL</h1>
+                    <p>En el marc del Real Decret 659/2023, la Formació
+                    Professional es organitza mitjançant diferents graus
+                    (A, B, C, D i E) i modalitats que permeten una major
+                    accessibilitat, flexibilitat i adequació a les
+                    trajectòries personals i professionals.</p>
+                    <p>Entre les modalitats destaquen:</p>
+                    <ul>
+                    <li><p>La modalitat <strong>modular</strong> per als
+                    Graus C, D i E, que permet cursar un o diversos
+                    mòduls professionals segons el ritme personal de
+                    aprenentatge i les necessitats de qualificació,
+                    adaptant-se a persones adultes, en actiu, o amb
+                    experiència laboral.</p></li>
+                    <li><p>La formació en alternança amb empresa
+                    (modalitats duals) i la oferta per a persones
+                    treballadores o en transició professional, de mode
+                    que s’afavorisca l’aprenentatge en entorns reals de
+                    treball i la inserció laboral.</p></li>
+                    <li><p>La modalitat semipresencial o a distància,
+                    especialment per a persones adultes, que
+                    compatibilitzen formació amb ocupació o
+                    responsabilitats personals, mitjançant la combinació
+                    d’activitats no presencials i sessions presencials,
+                    així com recursos tecnològics de suport (encara que
+                    la normativa estatal posa èmfasi en modularització,
+                    flexibilitat i ritme personalitzat).</p></li>
+                    </ul>
+                    <h2 data-number="2.1"
+                    id="tipologia-dofertes-segons-graus"><span
+                    class="header-section-number">2.1</span> Tipologia
+                    d’ofertes segons graus</h2>
+                    <p>L’RD 659/2023 organitza les ofertes del sistema
+                    d’FP en <strong>cinc graus</strong> (A, B, C, D i
+                    E), la qual cosa estructura de manera clara tot el
+                    sistema</p>
+                    <ul>
+                    <li><p>Grau A: Acreditació parcial de
+                    competències.</p></li>
+                    <li><p>Grau B: Certificat de competència.</p></li>
+                    <li><p>Grau C: Certificat professional.</p></li>
+                    <li><p>Grau D: Cicle formatiu (Grau
+                    Bàsic/Mig/Superior).</p></li>
+                    <li><p>Grau E: Cursos d’especialització.<br />
+                    Este enfocament remarca que no solament hi ha cicles
+                    bàsics/mitjana/superior com abans, sinó una
+                    tipologia molt més àmplia per a itineraris modulars,
+                    acumulatius i flexibles.</p></li>
+                    </ul>
+                    <h2 data-number="2.2"
+                    id="modalitats-de-loferta-de-formació"><span
+                    class="header-section-number">2.2</span> Modalitats
+                    de l’oferta de formació</h2>
+                    <p>El sistema de Formació Professional a Espanya,
+                    d’acord amb el establit en el <strong>Reial decret
+                    659/2023</strong>, pel qual s’ordena el sistema de
+                    Formació Professional, i recollit a nivell autonòmic
+                    en el <strong>Decret 114/2025</strong> (Comunitat
+                    Valenciana), reconeix <strong>tres modalitats
+                    d’oferta</strong> per als cicles formatius:
+                    <strong>presencial, semipresencial i virtual (a
+                    distància)</strong>.</p>
+                    <p>Estes modalitats responen a la necessitat
+                    d’oferir una formació <strong>flexible, accessible i
+                    adaptada a diferents perfils de l’alumnat</strong>,
+                    així com a les condicions de l’entorn socioeconòmic
+                    i productiu.</p>
+                    <p><strong>Modalitat Presencial</strong></p>
+                    <p>És la forma tradicional d’ensenyança, en la qual
+                    l’alumnat acudix físicament al centre educatiu per a
+                    realitzar la formació teòrica i pràctica.</p>
+                    <p><strong>Característiques principals:</strong></p>
+                    <ul>
+                    <li><p><strong>Assistència regular a
+                    l’aula</strong>: Requerix la presència habitual del
+                    alumnat en el centre, segons un horari
+                    establit.</p></li>
+                    <li><p><strong>Interacció directa</strong>: Afavorix
+                    la comunicació cara a cara entre alumnat i
+                    professorat.</p></li>
+                    <li><p><strong>Entorns simulats o reals</strong>: Ús
+                    intensiu de tallers, laboratoris i espais específics
+                    del cicle.</p></li>
+                    <li><p><strong>Avaluació contínua</strong>: Major
+                    facilitat per a aplicar una avaluació formativa i
+                    ajustada al ritme del grup.</p></li>
+                    </ul>
+                    <p><strong>Modalitat Semipresencial</strong></p>
+                    <p>Combina l’assistència al centre educatiu amb
+                    activitats formatives desenrotllades de manera
+                    virtual, utilitzant plataformes d’aprenentatge en
+                    línia.</p>
+                    <p><strong>Característiques principals:</strong></p>
+                    <ul>
+                    <li><p><strong>Flexibilitat horària</strong>: Permet
+                    a l’alumnat organitzar part de la seua formació
+                    segons la seua disponibilitat.</p></li>
+                    <li><p><strong>Part presencial obligatòria</strong>:
+                    Es definixen mòduls o parts de mòduls que requerixen
+                    assistència (per exemple, pràctiques de
+                    taller).</p></li>
+                    <li><p><strong>Ús d’entorns virtuals</strong>: Ús de
+                    plataformes <em>LMS (com </em>Aules, *Moodle, etc.)
+                    per a continguts, tasques i seguiment.</p></li>
+                    <li><p><strong>Tutories presencials i
+                    virtuals</strong>: Seguiment combinat per part del
+                    professorat.</p></li>
+                    </ul>
+                    <p><strong>Modalitat Virtual (o a
+                    Distància)</strong></p>
+                    <p>La totalitat del cicle formatiu es desenrotlla
+                    mitjançant plataformes digitals, sense exigència de
+                    presencialitat excepte en moments específics (per
+                    exemple, exàmens o *FCT si no es convalida).</p>
+                    <p><strong>Característiques principals:</strong></p>
+                    <ul>
+                    <li><p><strong>Autonomia de l’alumnat</strong>:
+                    L’aprenentatge s’organitza de forma autònoma,
+                    respectant els temps establits pel centre.</p></li>
+                    <li><p><strong>Sense presencialitat
+                    habitual</strong>: Encara que poden fixar-se
+                    sessions presencials voluntàries o puntuals
+                    (avaluacions finals, pràctiques
+                    concretes…).</p></li>
+                    <li><p><strong>Plataformes d’aprenentatge</strong>:
+                    L’entorn virtual és l’espai central de
+                    l’aprenentatge (continguts, comunicació,
+                    avaluació).</p></li>
+                    <li><p><strong>Perfil adult</strong>: Molt orientada
+                    a persones treballadores, amb responsabilitats
+                    familiars o que no poden acudir regularment a un
+                    centre.</p></li>
+                    </ul>
+                    <p>En totes les modalitats, s’assegura el compliment
+                    dels resultats d’aprenentatge i l’adquisició de les
+                    competències professionals recollides en el
+                    currículum oficial.</p>
+                    <h1 data-number="3" id="nivells-formatius"><span
+                    class="header-section-number">3</span> Nivells
+                    formatius</h1>
+                    <p>La Formació Professional s’estructura en
+                    diferents nivells de qualificació professional,
+                    definits en el <strong>Catàleg d’Estàndards de
+                    Competència</strong>, que servix com a eix
+                    vertebrador per a tota l’oferta formativa del
+                    sistema.</p>
+                    <p><strong>Independentment de la modalitat en la
+                    qual s’impartisca</strong> (presencial,
+                    semipresencial o virtual), l’oferta de Formació
+                    Professional es organitza en <strong>tres nivells:
+                    bàsic, mitjà i superior</strong>, agrupats baix la
+                    denominació de <strong>Graus D</strong>.</p>
+                    <p>Esta classificació respon a diferents graus de
+                    domini competencial, itineraris formatius i eixides
+                    tant professionals com acadèmiques. A continuació,
+                    es desenrotllen les característiques de cada un
+                    d’estos nivells:</p>
+                    <h2 data-number="3.1" id="graus"><span
+                    class="header-section-number">3.1</span> Graus</h2>
+                    <h3 data-number="3.1.1" id="grau-bàsic"><span
+                    class="header-section-number">3.1.1</span> Grau
+                    Bàsic</h3>
+                    <p><strong>Nivell 1 del Catàleg d’Estàndards de
+                    Competència</strong></p>
+                    <p>Els cicles de Grau Bàsic estan dirigits a alumnat
+                    que necessita una via alternativa a l’educació
+                    secundària obligatòria convencional, i que requerix
+                    d’un enfocament més pràctic i adaptat a les seues
+                    necessitats formatives. La seua finalitat és
+                    <strong>afavorir la permanència en el sistema
+                    educatiu</strong>, reduir l’abandó escolar primerenc
+                    i facilitar la transició a l’ocupació.</p>
+                    <p><strong>Característiques principals:</strong></p>
+                    <ul>
+                    <li><p>Formen part de la <strong>educació bàsica
+                    obligatòria</strong>.</p></li>
+                    <li><p>Oferixen una <strong>formació general
+                    adaptada</strong> i una iniciació professional en un
+                    perfil ocupacional.</p></li>
+                    <li><p>Permeten obtindre el <strong>Títol
+                    Professional Bàsic</strong>, amb efectes acadèmics i
+                    laborals.</p></li>
+                    <li><p>Faciliten l’accés directe a cicles de
+                    <strong>Grau Mitjà</strong> d’esta família
+                    professional.</p></li>
+                    <li><p>Tenen una duració és de dos cursos.</p></li>
+                    <li><p>Requerixen haver cursat almenys 3r d’ESO o,
+                    de manera excepcional, 2n, i comptar amb
+                    <strong>proposta de l’equip
+                    docent</strong>.</p></li>
+                    <li><p>Es contempla en mòdul de Formació en Empresa
+                    amb les seues característiques particulars</p></li>
+                    </ul>
+                    <p><strong>Ordenació dels Cicles de grau
+                    bàsic</strong></p>
+                    <p>Constarà de tres àmbits i Projecte:</p>
+                    <ol type="a">
+                    <li><p>Àmbit de comunicació i Ciències
+                    Socials</p></li>
+                    <li><p>Àmbit de Ciències Aplicades</p></li>
+                    <li><p>Àmbit Professional</p></li>
+                    <li><p>Projecte intermodular d’aprenentatge
+                    col·laboratiu vinculat a els tres àmbits.</p></li>
+                    </ol>
+                    <h3 data-number="3.1.2" id="grau-mitjà"><span
+                    class="header-section-number">3.1.2</span> Grau
+                    Mitjà</h3>
+                    <p><strong>Nivell 2 del Catàleg d’Estàndards de
+                    Competència</strong></p>
+                    <p>Els cicles de Grau Mitjà estan dirigits a alumnat
+                    que ha superat la Educació Secundària Obligatòria o
+                    que ha obtingut el títol de Professional Bàsic.
+                    Estos cicles proporcionen la <strong>qualificació
+                    necessària per a l’acompliment d’una professió
+                    tècnica</strong> en un entorn productiu concret.
+                    Formen part de l’educació secundària
+                    postobligatòria.</p>
+                    <p><strong>Característiques principals:</strong></p>
+                    <ul>
+                    <li><p>Conduïxen a l’obtenció del <strong>Títol de
+                    Tècnic</strong>, amb validesa acadèmica i
+                    professional.</p></li>
+                    <li><p>Permeten l’accés directe a estudis de
+                    <strong>Grau Superior</strong>, una vegada
+                    finalitzat el cicle.</p></li>
+                    <li><p>S’organitzen en <strong>mòduls
+                    professionals</strong>, tant teòrics com
+                    pràctics.</p></li>
+                    <li><p>Poden impartir-se en modalitat
+                    <strong>presencial, semipresencial o
+                    virtual</strong>.</p></li>
+                    <li><p>La seua duració també és de dos
+                    cursos.</p></li>
+                    </ul>
+                    <h3 data-number="3.1.3" id="grau-superior"><span
+                    class="header-section-number">3.1.3</span> Grau
+                    Superior</h3>
+                    <p><strong>Nivell 3 del Catàleg d’Estàndards de
+                    Competència</strong></p>
+                    <p>Els cicles de Grau Superior estan orientats a la
+                    <strong>especialització professional
+                    avançada</strong>, i capaciten a l’alumnat per a
+                    desenrotllar funcions de major complexitat tècnica i
+                    de responsabilitat en l’àmbit laboral. Formen part
+                    de l’educació superior.</p>
+                    <p><strong>Característiques principals:</strong></p>
+                    <ul>
+                    <li><p>Conduïxen al <strong>Títol de Tècnic
+                    Superior</strong>.</p></li>
+                    <li><p>Permeten l’accés a estudis universitaris, amb
+                    possibilitat de reconeixement de crèdits
+                    ECTS.</p></li>
+                    <li><p>Inclouen formació en <strong>emprenedoria,
+                    digitalització, sostenibilitat</strong> i altres
+                    aspectes transversals.</p></li>
+                    <li><p>També incorporen el mòdul de <strong>Formació
+                    en Empresa</strong></p></li>
+                    <li><p>Poden oferir-se en modalitat
+                    <strong>presencial, semipresencial o
+                    virtual</strong>, afavorint així la conciliació
+                    laboral i formativa.</p></li>
+                    <li><p>La seua duració també és de dos
+                    cursos.</p></li>
+                    </ul>
+                    <p><strong>Ordenació dels Cicles de grau mitjà i
+                    superior</strong></p>
+                    <ol type="a">
+                    <li>Una part troncal obligatòria</li>
+                    </ol>
+                    <ol type="1">
+                    <li><p>Mòduls Professionals de Catàleg Modular de
+                    Formació Professional.</p></li>
+                    <li><p>Mòduls transversals</p></li>
+                    </ol>
+                    <ul>
+                    <li><p>Itinerari per a l’ocupabilitat I i
+                    II</p></li>
+                    <li><p>Digitalització aplicada al sistema
+                    productiu</p></li>
+                    <li><p>Sostenibilitat aplicada al sistema
+                    productiu</p></li>
+                    <li><p>Inglés professional</p></li>
+                    </ul>
+                    <ol start="2" type="a">
+                    <li>Una part d’optativa integrada d’un mòdul dels
+                    quals s’oferiran en el centre educatiu que tindrà
+                    duració anual i es cursarà en segon curs.</li>
+                    </ol>
+                    <h2 data-number="3.2"
+                    id="accés-als-cicles-formatius"><span
+                    class="header-section-number">3.2</span> Accés als
+                    cicles formatius</h2>
+                    <p>L’accés als Cicles Formatius es regula pel Reial
+                    decret 6523/2011, de 18 de juliol</p>
+                    <p><strong>Accés a cicles de grau bàsic</strong></p>
+                    <ol type="1">
+                    <li>L’accés als cicles formatius de grau bàsic de
+                    els destinataris del paràgraf</li>
+                    </ol>
+                    <ol type="a">
+                    <li><p>de l’apartat 1 de l’article anterior
+                    requerirà, conforme a l’article 41.1 de la Llei
+                    orgànica 2/2006, de 3 de maig, d’Educació, el
+                    compliment simultani dels següents
+                    requisits:</p></li>
+                    <li><p>Tindre compliments quinze anys, o complir-los
+                    durant l’any natural en curs.</p></li>
+                    <li><p>Haver cursat el tercer curs o,
+                    excepcionalment i a criteri del equip docent i el
+                    responsable de l’orientació en el centre, el segon
+                    curs d’educació secundària obligatòria.</p></li>
+                    <li><p>Ser objecte de proposta o sol·licitar a
+                    petició pròpia, juntament amb els pares, mares o
+                    tutors legals, la incorporació a un cicle formatiu
+                    de grau bàsic, quan el perfil vocacional de l’alumne
+                    o alumna així el aconselle. Les administracions
+                    educatives determinaran la intervenció de l’alumnat,
+                    les seues famílies i els equips o servicis
+                    d’orientació en este procés.</p></li>
+                    <li><p>En el supòsit de realització de cicles
+                    formatius de grau bàsic en règim intensiu, l’alumne
+                    haurà de tindre compliments 16 anys per a poder
+                    accedir a la formació pràctica en empresa per esta
+                    modalitat, en estar vinculada a la
+                    contractació.</p></li>
+                    </ol>
+                    <p><strong>Accés a cicles formatius de grau
+                    mitjà.</strong></p>
+                    <ol type="1">
+                    <li>Per a l’accés als cicles formatius de grau mitjà
+                    es precisarà el compliment d’un dels següents
+                    requisits:</li>
+                    </ol>
+                    <ol type="a">
+                    <li><p>Estar en possessió del títol de graduat en
+                    Educació Secundària Obligatòria.</p></li>
+                    <li><p>Estar en possessió del títol de Tècnic Bàsic
+                    o de Tècnic.</p></li>
+                    <li><p>Haver superat una oferta formativa de Grau C
+                    inclosa en el cicle formatiu.</p></li>
+                    <li><p>Haver superat un curs de formació específic
+                    preparatori i gratuït per a l’accés a cicles
+                    formatius de grau mitjà en centres expressament
+                    autoritzats per l’Administració educativa.</p></li>
+                    <li><p>Haver superat una prova d’accés.</p></li>
+                    </ol>
+                    <p><strong>Accés a cicles formatius de grau
+                    superior.</strong></p>
+                    <ol type="1">
+                    <li>Per a l’accés als cicles formatius de grau
+                    superior es precisarà el compliment d’un dels
+                    següents requisits:</li>
+                    </ol>
+                    <ol type="a">
+                    <li><p>Posseir el títol de Tècnic de Grau Mitjà de
+                    Formació Professional o el títol de Tècnic o Tècnica
+                    d’Arts Plàstiques i Disseny.</p></li>
+                    <li><p>Posseir el títol de Batxiller.</p></li>
+                    <li><p>Haver superat una oferta formativa de Grau C
+                    inclosa en el cicle formatiu.</p></li>
+                    <li><p>Haver superat un curs de formació específic
+                    preparatori i gratuït per a l’accés a cicles de grau
+                    superior en centres expressament autoritzats per
+                    l’Administració educativa.</p></li>
+                    <li><p>Haver superat una prova d’accés.</p></li>
+                    <li><p>Estar en possessió d’un títol de Tècnic
+                    Superior de Formació Professional o grau
+                    universitari.</p></li>
+                    </ol>
+                    <h1 data-number="4"
+                    id="distribució-horària-cicles-i-mòduls-formatius"><span
+                    class="header-section-number">4</span> DISTRIBUCIÓ
+                    HORÀRIA CICLES I MÒDULS FORMATIUS</h1>
+                    <p>La distribució horària dels cicles formatius i
+                    dels seus mòduls professionals ve establida pel
+                    reial decret estatal que fixa el currículum bàsic
+                    del títol. En la Comunitat Valenciana, les
+                    administracions educatives autonòmiques poden
+                    concretar i adaptar felicitat distribució, de manera
+                    que responga a les necessitats i condicions
+                    específiques del territori.</p>
+                    <p>La duració dels cicles formatius és de 2000 hores
+                    que es distribuïxen en els diferents mòduls
+                    formatius durant dos cursos escolars. Punt el
+                    començament com la finalització de l’any acadèmic es
+                    fixa en un calendari escolar que ve publicat en una
+                    Resolució.</p>
+                    <p>A cada mòdul formatiu li correspon una fixació
+                    horària que es distribuïx en hores setmanals. Els
+                    dies de la setmana que s’impartixen estes hores són
+                    flexibles i venen determinats per cada centre
+                    educatiu. En els quadres horaris s’indica els mòduls
+                    susceptibles de doblatge (DT) i també els mòduls que
+                    poden ser impartits, indistintament, per un altre
+                    docent d’una altra especialitat.</p>
+                    <p>La seqüenciació dels mòduls i l’horari dels
+                    diferents cicles de les Famílies Professionals estan
+                    publicats en la web de Conselleria es poden
+                    consultar el següent enllaç:</p>
+                    <p><a
+                    href="https://ceice.gva.es/es/web/formacion-profesional/dossier-cicles">Dossier
+                    cicles - Formació Professional - Generalitat
+                    Valenciana</a></p>
+                    <h2 data-number="4.1"
+                    id="mòduls-professionals-i-titulacions-acadèmiques-requerides-per-a-la-seua-impartició"><span
+                    class="header-section-number">4.1</span> MÒDULS
+                    PROFESSIONALS I TITULACIONS ACADÈMIQUES REQUERIDES
+                    PER A LA SEUA IMPARTICIÓ</h2>
+                    <p>La pàgina web de <strong>Tot FP</strong> i el
+                    portal de la <strong>Conselleria d’<em>Educació,
+                    Cultura i </em>Esport</strong> en la seua secció de
+                    Formació Professional constituïxen una font viva i
+                    actualitzada d’informació, imprescindible per a tots
+                    els docents. En estos espais es disposa de tota la
+                    documentació i recursos necessaris per a
+                    l’elaboració i desenrotllament d’una programació
+                    didàctica adequada i conforme a la normativa
+                    vigent.</p>
+                    <p>És, per tant, en estos portals on heu de
+                    remetre-us per a consultar els diferents mòduls que
+                    conformen un cicle formatiu, així com per a conéixer
+                    l’atribució docent corresponent a cada un
+                    d’ells.</p>
+                    <p>Els aspectes referents al professorat amb
+                    atribució docent en els mòduls professionals de cada
+                    cicle formatiu, on el professorat tècnic impartix
+                    docència, estan arreplegats en els corresponents
+                    reals decrets de títol. Així mateix, estos decrets
+                    proporcionen informació sobre els resultats
+                    d’aprenentatge i els criteris d’avaluació, que
+                    constituïxen pilars fonamentals en la nostra
+                    programació didàctica.</p>
+                    <p>És fonamental consultar els decrets i ordes
+                    específics de nostra Comunitat Autònoma, ja que, com
+                    s’ha assenyalat en apartats anteriors, estos
+                    concreten i detallen les instruccions establides en
+                    els reals decrets de títol corresponents a cada
+                    cicle formatiu. Esta normativa autonòmica oferix
+                    directrius precises sobre l’organització, atribució
+                    docent i altres aspectes essencials per al
+                    desenrotllament d’una programació didàctica conforme
+                    a les necessitats i característiques del sistema
+                    educatiu valencià.</p>
+                    <h1 data-number="5"
+                    id="activitats-físiques-i-esportives"><span
+                    class="header-section-number">5</span> ACTIVITATS
+                    FÍSIQUES I ESPORTIVES</h1>
+                    <h2 data-number="5.1"
+                    id="la-família-professional"><span
+                    class="header-section-number">5.1</span> LA FAMÍLIA
+                    PROFESSIONAL</h2>
+                    <p>La família professional de <strong>Activitats
+                    Fisicoesportives</strong> abasta un conjunt
+                    d’activitats orientades a la <strong>promoció de
+                    l’activitat física, l’esport, la salut i l’oci
+                    actiu</strong>, a través de la planificació,
+                    organització i desenrotllament de programes
+                    esportius i recreatius per a diferents grups de
+                    població. El seu àmbit d’actuació s’estructura en
+                    diverses àrees: la <strong>ensenyança i animació
+                    esportiva</strong>, la <strong>direcció i
+                    entrenament d’equips o esportistes</strong>, la
+                    <strong>gestió d’instal·lacions i esdeveniments
+                    esportius</strong> i la <strong>promoció d’hàbits de
+                    vida saludables</strong> en diferents contextos
+                    socials i educatius.</p>
+                    <p>En la <strong>Comunitat Valenciana</strong>, esta
+                    família professional té una presència destacada
+                    gràcies a l’àmplia xarxa de <strong>instal·lacions
+                    esportives, clubs, federacions i empreses de
+                    servicis esportius</strong>. L’esport i l’activitat
+                    física representen un sector en creixement constant,
+                    vinculat tant al rendiment esportiu com al turisme
+                    actiu i la salut. Ciutats com <strong>València,
+                    Alacant i Castelló</strong> compten amb una gran
+                    concentració d’entitats esportives, així com amb
+                    infraestructures de primer nivell —com a centres
+                    d’alt rendiment, complexos esportius municipals i
+                    espais naturals per a la pràctica d’activitats a
+                    l’aire lliure—. A més, la Comunitat Valenciana és
+                    seu de nombrosos <strong>esdeveniments esportius
+                    nacionals i internacionals</strong>, que
+                    contribuïxen al desenrotllament econòmic i social
+                    del territori.</p>
+                    <p>Esta sòlida implantació del sector es reflectix
+                    també en la <strong>oferta educativa</strong>, amb
+                    <strong>cicles formatius de Grau Mitjà i Grau
+                    Superior</strong> que s’impartixen en diferents
+                    localitats de la regió. Els principals títols
+                    abasten àmbits com la <strong>ensenyança i animació
+                    socioesportiva, la direcció tècnica esportiva i el
+                    condicionament físic</strong>, la qual cosa permet
+                    formar professionals versàtils i adaptats a les
+                    demandes del mercat. A més, la col·laboració amb
+                    <strong>ajuntaments, federacions i empreses del
+                    sector esportiu</strong> afavorix una formació
+                    pràctica i estretament vinculada a la realitat
+                    professional.</p>
+                    <p>El sector de les activitats fisicoesportives ha
+                    experimentat en els últims anys una notable
+                    transformació impulsada per la
+                    <strong>digitalització, la innovació tecnològica i
+                    la consciència sobre la salut i el
+                    benestar</strong>. La incorporació de ferramentes
+                    digitals per a l’entrenament, el monitoratge del
+                    rendiment, les aplicacions de gestió esportiva o
+                    l’auge d’activitats a l’aire lliure i sostenibles
+                    són alguns dels canvis més destacats. Estos avanços
+                    han modificat els perfils professionals, que hui
+                    demanden <strong>major competència digital,
+                    habilitats comunicatives i capacitat per a adaptar
+                    la pràctica esportiva a diferents contextos i
+                    públics</strong>. En este marc, la <strong>Formació
+                    Professional</strong> s’actualitza de manera
+                    contínua, incorporant <strong>continguts sobre noves
+                    metodologies d’entrenament, seguretat, inclusió i
+                    salut</strong>, amb l’objectiu de garantir una
+                    formació de qualitat i ajustada a les necessitats
+                    del sector.</p>
+                    <h2 data-number="5.2" id="oferta-formativa"><span
+                    class="header-section-number">5.2</span> OFERTA
+                    FORMATIVA</h2>
+                    <p>Dins de la família professional d’Activitats
+                    físiques i esportives es oferixen quatre cicles
+                    formatius.</p>
+                    <p><strong>TÍTOL DE FORMACIÓ PROFESSIONAL
+                    BÀSICA</strong></p>
+                    <ul>
+                    <li>T.P.B. Accés i conservació en instal·lacions
+                    esportives</li>
+                    </ul>
+                    <p><strong>TITULE DE FORMACIÓ PROFESSIONAL DE GRAU
+                    MITJÀ</strong></p>
+                    <ul>
+                    <li>T. Guia en el Medi natural i de Temps
+                    Lliure</li>
+                    </ul>
+                    <p><strong>TÍTOLS DE FORMACIÓ PROFESSIONAL DE GRAU
+                    SUPERIOR</strong></p>
+                    <ul>
+                    <li><p>T.S Condicionament Físic</p></li>
+                    <li><p>T.S. Ensenyança i Animació
+                    Socioesportiva</p></li>
+                    </ul>
+                    <h2 data-number="5.3"
+                    id="reials-decrets-de-títol-i-currículum"><span
+                    class="header-section-number">5.3</span> REIALS
+                    DECRETS DE TÍTOL I CURRÍCULUM</h2>
+                    <p>S’estructura en diferents graus d’ensenyança,
+                    bàsic, mitjà i superior.</p>
+                    <p>En els següents enllaços es poden trobar tota la
+                    informació acosta dels cicles formatius i famílies
+                    professionals que s’impartixen en la Comunitat
+                    Valenciana.</p>
+                    <ul>
+                    <li><p><a
+                    href="https://ceice.gva.es/es/web/formacion-profesional/dossier-cicles"><em>Dossier
+                    cicles - Formació Professional - Generalitat
+                    Valenciana</em></a></p></li>
+                    <li><p><a
+                    href="http://todofp.es/inicio.html">http://todofp.es/inicio.html</a></p></li>
+                    </ul>
+                    <h3 data-number="5.3.1" id="fp-bàsica"><span
+                    class="header-section-number">5.3.1</span> FP
+                    BÀSICA</h3>
+                    <p><strong>Cicle de grau bàsic Accés i conservació
+                    en instal·lacions esportives</strong></p>
+                    <ul>
+                    <li><p>Títol: Reial decret 73/2018, de 19 de febrer,
+                    pel qual s’establix el Títol professional bàsic en
+                    accés i conservació en instal·lacions esportives i
+                    es fixen els aspectes bàsics del
+                    currículum.</p></li>
+                    <li><p>Currículum: DECRET 117/2025, de 5 d’agost,
+                    del Consell, pel qual establixen els currículums
+                    dels cicles formatius de Grau Bàsic de Formació
+                    Professional, en aplicació de la Llei orgànica
+                    3/2022, de 31 de març, d’ordenació i integració de
+                    la Formació Professional. DECRET 67/2024, de 21 de
+                    juny.</p></li>
+                    </ul>
+                    <h3 data-number="5.3.2" id="grau-mitjà-1"><span
+                    class="header-section-number">5.3.2</span> GRAU
+                    MITJÀ</h3>
+                    <p><strong>Cicle de grau mitjà Guia en el Medi
+                    natural i de Temps Lliure</strong></p>
+                    <ul>
+                    <li><p>TÍTOL: Reial decret 402/2020, de 25 de
+                    febrer, pel qual s’establix el títol de Tècnic en
+                    Guia en el medi natural i de temps lliure i es fixen
+                    els aspectes bàsics del currículum.</p></li>
+                    <li><p>Currículum: DECRET 114/2025, de 29 de juliol,
+                    del Consell, pel qual s’establixen els currículums
+                    dels cicles formatius de grau mitjà i de grau
+                    superior de Formació Professional, en aplicació de
+                    la Llei orgànica 3/2022, de 31 de març, d’ordenació
+                    i integració de la Formació Professional. Deroga el
+                    DECRET 167/2023, de 29 de setembre.</p></li>
+                    </ul>
+                    <h2 data-number="5.4" id="grau-superior-1"><span
+                    class="header-section-number">5.4</span> GRAU
+                    SUPERIOR</h2>
+                    <p><strong>Cicle de grau superior Condicionament
+                    físic</strong></p>
+                    <ul>
+                    <li><p>Títol: Reial decret 651/2017, de 23 de juny,
+                    pel qual s’establix el títol de Tècnic Superior en
+                    condicionament físic i es fixen els aspectes bàsics
+                    del currículum.</p></li>
+                    <li><p>Currículum: DECRET 114/2025, de 29 de juliol,
+                    del Consell, pel qual s’establixen els currículums
+                    dels cicles formatius de grau mitjà i de grau
+                    superior de Formació Professional, en aplicació de
+                    la Llei orgànica 3/2022, de 31 de març, d’ordenació
+                    i integració de la Formació Professional. Deroga el
+                    DECRET 39/2023, de 24 de març.</p></li>
+                    </ul>
+                    <p><strong>Cicle de grau superior Ensenyança i
+                    Animació socioesportiva</strong></p>
+                    <ul>
+                    <li><p>Títol: Reial decret 653/2017, de 23 de juny,
+                    pel qual s’establix el títol de Tècnic Superior en
+                    ensenyança i animació socioesportiva i es fixen els
+                    aspectes bàsics del currículum.</p></li>
+                    <li><p>Currículum: DECRET 114/2025, de 29 de juliol,
+                    del Consell, pel qual s’establixen els currículums
+                    dels cicles formatius de grau mitjà i de grau
+                    superior de Formació Professional, en aplicació de
+                    la Llei orgànica 3/2022, de 31 de març, d’ordenació
+                    i integració de la Formació Professional. Deroga el
+                    DECRET 134/2022 de 7 d’octubre.</p></li>
+                    </ul>
+                    <h2 data-number="5.5"
+                    id="installacions-i-espais-en-els-centres-educatius"><span
+                    class="header-section-number">5.5</span>
+                    INSTAL·LACIONS I ESPAIS EN ELS CENTRES
+                    EDUCATIUS</h2>
+                    <p>En el marc de l’oferta formativa corresponent a
+                    la família professional de <strong>Activitats
+                    Físiques i Esportives</strong>, i en compliment dels
+                    criteris de qualitat i especialització establits per
+                    la normativa vigent en matèria d’ensenyances
+                    esportives de règim especial, la **Conselleria
+                    d’*Educació<strong> ha subscrit convenis de
+                    col·laboració amb diverses </strong>federacions
+                    esportives autonòmiques i nacionals<strong>. Entre
+                    elles es troben la </strong>Federació d’Esgrima de
+                    la Comunitat Valenciana<strong>, la
+                    </strong>Federació d’Hípica<strong>, la
+                    </strong>Federació de Vela<strong> i la
+                    </strong>Federació d’Esports de Muntanya i Escalada
+                    de la Comunitat Valenciana (FEMECV)**.</p>
+                    <p>L’objecte d’estos convenis és permetre que estes
+                    federacions assumisquen la <strong>impartició dels
+                    blocs específics de les ensenyances
+                    esportives</strong> en les seues respectives
+                    modalitats, atés que l’administració autonòmica no
+                    disposa actualment de la infraestructura tècnica,
+                    instal·lacions ni equipament específic necessaris
+                    per a garantir una formació de qualitat i amb les
+                    degudes condicions de seguretat, que responga als
+                    estàndards exigits pel sistema educatiu.</p>
+                    <p>Esta col·laboració públic-privada té com a
+                    finalitat <strong>garantir la qualitat formativa,
+                    tècnica i pedagògica</strong> de l’alumnat inscrit
+                    en estes titulacions, mitjançant l’aprofitament dels
+                    recursos humans i materials especialitzats que
+                    posseïxen les federacions esportives, entitats
+                    reconegudes oficialment com a col·laboradors
+                    necessaris en la organització d’estes
+                    ensenyances.</p>
+                    <p>Així mateix, la Conselleria continua treballant
+                    en el desenrotllament de nous convenis amb altres
+                    federacions esportives per a ampliar l’oferta de
+                    ensenyances reglades en el territori valencià. En
+                    este sentit, es estan valorant acords futurs per a
+                    incorporar les titulacions corresponents a
+                    disciplines com el <strong>Piragüisme</strong>, el
+                    <strong>Judo</strong> i la <strong>Defensa
+                    Personal</strong>, la implantació del qual està
+                    prevista al llarg de la present dècada.</p>
+                    <p>Cal destacar que estes ensenyances estan
+                    adscrites al <strong>Centre Integrat Público de
+                    Formació Professional (CIPFP) de Cheste</strong>,
+                    que actua com centre de referència autonòmic per a
+                    la gestió i coordinació de les ensenyances
+                    esportives de règim especial a la Comunitat
+                    Valenciana.</p>
+                    <h2 data-number="5.6" id="entorn-professional"><span
+                    class="header-section-number">5.6</span> ENTORN
+                    PROFESSIONAL</h2>
+                    <p><strong>Cicle de grau mitjà Guia en el Medi
+                    natural i de Temps Lliure</strong></p>
+                    <p>Les ocupacions més rellevants per a este perfil
+                    professional són les següents: Acompanyant d’usuaris
+                    en instal·lacions esportives.</p>
+                    <ul>
+                    <li>Auxiliar de control d’instal·lacions
+                    esportives.</li>
+                    <li>Auxiliar de servicis generals.<br />
+                    </li>
+                    <li>Ajudant Control i Manteniment.<br />
+                    </li>
+                    <li>Classificador / *clasificadora i/o repartidor de
+                    correspondència.<br />
+                    </li>
+                    <li>Conserge de col·legis.<br />
+                    </li>
+                    <li>Conserge d’instal·lacions.<br />
+                    </li>
+                    <li>Conserge de piscines.<br />
+                    </li>
+                    <li>Mossa / mosso vestuari de piscines.</li>
+                    <li>Ordenança.<br />
+                    </li>
+                    <li>Subalterna / subaltern de dependències.
+                    Subalterna / subaltern de piscines.<br />
+                    </li>
+                    <li>Taquillera / taquiller.</li>
+                    </ul>
+                    <!-- -->
+                    <p><strong>Cicle de grau mitjà Guia en el Medi
+                    natural i de Temps Lliure</strong></p>
+                    <p>Les persones que obtenen este títol exercixen la
+                    seua activitat en l’àmbit de les activitats
+                    esportiu-recreatives en la naturalesa i turisme
+                    actiu, esportiu o d’aventura i en instal·lacions
+                    d’oci i aventura, així com en activitats
+                    socioeducatives de temps lliure, en les àrees de
+                    organització, desenrotllament, dinamització,
+                    seguiment i avaluació de estes activitats i en les
+                    de prevenció, vigilància i rescat en espais aquàtics
+                    naturals. També poden exercir la seua activitat en
+                    unitats d’intervenció aquàtica i equips de rescat i
+                    socorrisme.</p>
+                    <p><strong>Cicle de grau superior Condicionament
+                    físic</strong></p>
+                    <ul>
+                    <li>Entrenador / entrenadora de condicionament físic
+                    a les sales d’entrenament polivalent de gimnasos o
+                    poliesportius i en instal·lacions aquàtiques.</li>
+                    <li>Entrenador / entrenadora de condicionament físic
+                    per a grups amb suport musical en gimnasos,
+                    instal·lacions aquàtiques o en poliesportius.</li>
+                    <li>Entrenador / entrenadora personal.</li>
+                    <li>Instructor instructora de grups d’hidrocinèsia i
+                    cura corporal.</li>
+                    <li>Promotor / promotora d’activitats de
+                    condicionament físic.</li>
+                    <li>Animador / animadora d’activitats de
+                    condicionament físic.</li>
+                    <li>Coordinador / coordinadora d’activitats de
+                    condicionament físic i d’hidrocinèsia.</li>
+                    <li>Monitor / monitora d’aeròbic, de <em>step, de
+                    cicle </em>indoor, de fitnes aquàtic i activitats
+                    afins.</li>
+                    <li>Instructor / instructora de les activitats
+                    de</li>
+                    <li>condicionament físic per a col·lectius
+                    especials.</li>
+                    </ul>
+                    <!-- -->
+                    <p><strong>Cicle de grau superior Ensenyança i
+                    Animació socioesportiva</strong></p>
+                    <p>Les persones que obtenen este títol exercixen la
+                    seua activitat professional tant en l’àmbit públic,
+                    administració general, autonòmica o local, com en
+                    entitats de caràcter privat, grans, mitjanes o
+                    xicotetes empreses que oferisquen servicis
+                    d’ensenyança esportiva, condicionament físic,
+                    inclusió socioesportiva i recreació.</p>
+                    <p>La seua activitat es desenrotlla en les àrees de
+                    l’animació social, la ensenyança fisicoesportiva en
+                    diferents contextos i edats, la animació turística i
+                    les activitats de temps lliure educatiu infantil i
+                    juvenil, ocupant-se de la planificació,
+                    organització, dinamització i avaluació de les
+                    activitats.</p>
+                    <p>Així mateix, pot ocupar-se de l’organització de
+                    competicions no oficials i xicotets esdeveniments
+                    fisicoesportius per a tota mena de usuaris i per a
+                    empreses de turisme actiu.</p>
+                    <p>La seua activitat es desenrotlla en
+                    instal·lacions esportives convencionals i no
+                    convencionals i en l’entorn natural, així com en
+                    instal·lacions turístiques, com ara hotels,
+                    balnearis, campaments per a turisme i ciutats de
+                    vacacions.</p>
+                    <p>Els sectors productius d’inserció professional
+                    són els de l’esport, turisme, oci i temps lliure
+                    educatiu infantil i juvenil.</p>
+                    <h1 data-number="6" id="bibliografia"><span
+                    class="header-section-number">6</span>
+                    Bibliografia</h1>
+                    <ul>
+                    <li>Llei orgànica 3/2022, de 28 de desembre,
+                    d’ordenació i regulació de la Formació Professional
+                    a Espanya.</li>
+                    <li>Reial decret 659/2023, de 21 de març, pel qual
+                    es regula el sistema de Formació Professional.</li>
+                    <li>Decret 114/2025, de la Generalitat Valenciana,
+                    pel qual es regula la Formació Professional en la
+                    Comunitat Valenciana.</li>
+                    <li>Reial decret 6523/2011, de 18 de juliol, pel
+                    qual es regulen els cicles formatius de Formació
+                    Professional.</li>
+                    <li>Reial decret 73/2018, de 19 de febrer, pel qual
+                    s’establix el títol professional bàsic en accés i
+                    conservació en instal·lacions esportives.</li>
+                    <li>Decret 67/2024, de 21 de juny, del Consell, pel
+                    qual s’establix el currículum del cicle formatiu de
+                    Formació Professional Bàsica en la Comunitat
+                    Valenciana.</li>
+                    <li>Reial decret 402/2020, de 25 de febrer, pel qual
+                    s’establix el títol de Tècnic en Guia en el medi
+                    natural i de temps lliure.</li>
+                    <li>Decret 167/2023, de 29 de setembre, del Consell,
+                    que establix el currículum del cicle formatiu de
+                    grau mitjà en Guia en el Medi natural i de Temps
+                    Lliure.</li>
+                    <li>Reial decret 651/2017, de 23 de juny, pel qual
+                    s’establix el títol de Tècnic Superior en
+                    condicionament físic.</li>
+                    <li>Decret 39/2023, de 24 de març, del Consell, que
+                    establix el currículum del cicle formatiu de grau
+                    superior en Condicionament Físic en la Comunitat
+                    Valenciana.</li>
+                    <li>Reial decret 653/2017, de 23 de juny, pel qual
+                    s’establix el títol de Tècnic Superior en ensenyança
+                    i animació socioesportiva.</li>
+                    <li>Decret 134/2022, de 7 d’octubre, del Consell,
+                    que establix el currículum del cicle formatiu de
+                    grau superior en Ensenyança i Animació
+                    Socioesportiva en la Comunitat Valenciana.</li>
+                    <li>Portal de la <a
+                    href="https://ceice.gva.es/es/web/formacion-profesional">Conselleria
+                    d’<em>Educació, Cultura i </em>Esport de la
+                    Generalitat Valenciana</a></li>
+                    <li>Portal <a
+                    href="http://todofp.es/inicio.html">Tot FP</a></li>
+                    <li>Dossier cicles - Formació Professional -
+                    Generalitat Valenciana <a
+                    href="https://ceice.gva.es/es/web/formacion-profesional/dossier-cicles">https://ceice.gva.es/es/web/formacion-profesional/dossier-cicles</a></li>
+                    </ul>
+                </main>
+
+                
+            </div>
+        </div>
+
+        <!-- Modal images -->
+        <div id="myModal" class="modal" aria-hidden="true">
+            <img class="modal-content" id="img01" alt="">
+            <div id="caption"></div>
+        </div>
+
+    </div>
+
+    <script>
+        /* Modalización de imágenes (mejorada): */
+        function ModalizeImages() {
+            var modal = document.getElementById("myModal");
+            var modalImg = document.getElementById("img01");
+            var captionText = document.getElementById("caption");
+
+            document.querySelectorAll("main img").forEach(img => {
+                img.style.cursor = "zoom-in";
+                img.addEventListener("click", function () {
+                    modal.style.display = "block";
+                    modal.setAttribute("aria-hidden","false");
+                    modalImg.src = this.src;
+                    modalImg.alt = this.alt || "";
+                    captionText.textContent = this.alt || "";
+                });
+            });
+
+            modal.addEventListener("click", function () {
+                modal.style.display = "none";
+                modal.setAttribute("aria-hidden","true");
+            });
+
+            // Escape para cerrar
+            document.addEventListener("keydown", function(e){
+                if(e.key === "Escape") {
+                    modal.style.display = "none";
+                    modal.setAttribute("aria-hidden","true");
+                }
+            });
+        }
+
+        /* Marcar item de TOC según sección visible */
+        function markItem(id) {
+            document.querySelectorAll("#TOC a").forEach(function(item) {
+                item.classList.remove("navItemSelected");
+            });
+
+            if (!id) return;
+            let items = document.querySelectorAll("#TOC a[href='#" + id + "']");
+            items.forEach(function(item) {
+                item.classList.add("navItemSelected");
+            });
+        }
+
+        /* Observer para resaltar sección activa */
+        var observer = new IntersectionObserver(function(entries) {
+            entries.forEach(function(entry){
+                if (entry.isIntersecting) {
+                    let id = entry.target.id;
+                    markItem(id);
+                }
+            });
+        }, { threshold: [0.25] });
+
+        window.addEventListener("load", function() {
+            document.querySelectorAll("main section[id], main h1[id], main h2[id], main h3[id]").forEach(function(item) {
+                observer.observe(item);
+            });
+
+            document.querySelectorAll("#TOC a").forEach(function(item) {
+                item.addEventListener("click", function(ev) {
+                    // Cuando se hace click en TOC, minimizar si el área es amplia (comportamiento previo)
+                    let toc = document.querySelector("#TOC");
+                    //if (toc && toc.offsetWidth > 10) toc.classList.add("minimizedToc");
+                });
+            });
+
+            // Hover devuelve
+            // var tocEl = document.querySelector("#TOC");
+            // if (tocEl) {
+            //     tocEl.addEventListener("mouseover", function() { tocEl.classList.remove("minimizedToc"); });
+            // }
+
+            ModalizeImages();
+        });
+    </script>
+</body>
+
+</html>

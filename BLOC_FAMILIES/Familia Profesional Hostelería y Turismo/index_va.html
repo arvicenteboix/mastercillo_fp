@@ -1,0 +1,1513 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es" >
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="generator" content="pandoc" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+                <meta name="keywords" content="Xarxa, Instal·lació" />         <title>CERTIFICAT OFICIAL DE FORMACIÓ PEDAGÒGICA I DIDÀCTICA PER AL PROFESSORAT TÈCNIC</title>
+
+    <!-- Fuente moderna -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+
+    <style>
+
+
+
+        /* Imagen fija en esquina como fondo decorativo.
+            Cambia la ruta en --corner-bg-url y ajusta tamaño/offset según convenga. */
+        :root {
+             --corner-bg-url: url("rsc/fondo.png"); /* <- reemplazar por la ruta de la imagen */
+             --corner-size: 460px;     /* tamaño del recuadro de la imagen (contain) */
+             --corner-opacity: 0.32;   /* opacidad para que no distraiga */
+             --corner-offset: 1.5rem;  /* separación respecto a los bordes */
+        }
+
+        /* Asegurar que el contenido esté por encima del decorado */
+        #content { position: relative; z-index: 1; }
+
+        /* Pseudo-elemento fijo en esquina (por defecto: esquina superior derecha) */
+        body::before {
+             content: "";
+             position: fixed;
+             bottom: var(--corner-offset);
+             right: var(--corner-offset);
+             width: var(--corner-size);
+             height: var(--corner-size);
+             background-image: var(--corner-bg-url);
+             background-repeat: no-repeat;
+             background-size: contain;
+             background-position: center;
+             opacity: var(--corner-opacity);
+             pointer-events: none; /* no interfiere con clicks */
+             z-index: 0;
+        }
+
+        /* Si quieres otra esquina, sustituye top/right por:
+            top/left  -> usar top:var(--corner-offset); left:var(--corner-offset);
+            bottom/right -> bottom:var(--corner-offset); right:var(--corner-offset);
+            bottom/left -> bottom:var(--corner-offset); left:var(--corner-offset);
+        */
+
+        /* No imprimir la imagen decorativa */
+        @media print {
+             body::before { display: none !important; }
+        }
+
+        :root{
+            --bg: linear-gradient(linear-gradient(to right, #87625a82 25%, #ea9a9a 250%));
+            --panel: rgba(255,255,255,0.6);
+            --accent: #2563eb;
+            --muted: #6b7280;
+            --text: #0f172a;
+            --radius: 12px;
+            --max-width: 1200px; /* ancho de contenido para márgenes amplios */
+            --gutter: 3rem;
+        }
+
+        /* Reset básico */
+        html,body{height:100%;margin:0;padding:0;font-family:"Inter",system-ui,-apple-system,Segoe UI,Roboto,"Helvetica Neue",Arial;}
+        body{
+            background: var(--bg);
+            color: var(--text);
+            -webkit-font-smoothing:antialiased;
+            -moz-osx-font-smoothing:grayscale;
+            line-height:1.5;
+        }
+
+        #content{
+            box-sizing:border-box;
+            max-width: calc(var(--max-width) + 2 * var(--gutter));
+            margin: var(--gutter) auto;
+            padding: var(--gutter);
+            background: transparent;
+        }
+
+        /* Diseño de dos columnas en pantallas grandes */
+        .layout {
+            display: grid;
+            grid-template-columns: 320px 1fr;
+            gap: 2rem;
+            align-items:start;
+        }
+
+        @media (max-width: 980px){
+            .layout { grid-template-columns: 1fr; }
+        }
+
+        nav#TOC {
+            position: sticky;
+            top: 2rem;
+            height: calc(100vh - 4rem);
+            overflow:auto;
+            background: linear-gradient(180deg, rgba(255,255,255,0.6), rgba(255,255,255,0.4));
+            border-radius: var(--radius);
+            padding: 1rem;
+            box-shadow: 0 6px 18px rgba(12,18,31,0.06);
+            font-size: 0.95rem;
+        }
+
+        nav#TOC h2 { margin:0 0 0.75rem 0; font-size:1rem; color:var(--muted); }
+
+        nav#TOC a {
+            display:block;
+            color:var(--text);
+            text-decoration:none;
+            padding:0.35rem 0.5rem;
+            border-radius:8px;
+            transition: background .15s, transform .08s;
+        }
+        nav#TOC a:hover { background: rgba(37,99,235,0.06); transform: translateX(4px); }
+        nav#TOC a.navItemSelected { background: var(--accent); color: white; font-weight:600; }
+
+        header#title-block-header{
+            background: var(--panel);
+            padding: 1.2rem 1.4rem;
+            border-radius: 12px;
+            box-shadow: 0 8px 28px rgba(12,18,31,0.06);
+            margin-bottom: 1rem;
+        }
+        header#title-block-header .title { margin:0; font-size:1.6rem; font-weight:700; }
+        header#title-block-header .date { color:var(--muted); margin-top:0.35rem; font-size:0.95rem; }
+
+        main {
+            background: var(--panel);
+            padding: 1.6rem;
+            border-radius: 12px;
+            box-shadow: 0 8px 28px rgba(12,18,31,0.06);
+        }
+
+        main h1, main h2, main h3 {
+            color:var(--text);
+            margin-top:1.2rem;
+            margin-bottom:0.5rem;
+        }
+        main p, main ul, main ol {
+            color: #1f2937;
+            margin-bottom: 1rem;
+        }
+
+        /* Imágenes con borde suave y cursor */
+        main img {
+            max-width:100%;
+            border-radius:8px;
+            box-shadow: 0 6px 18px rgba(12,18,31,0.06);
+            cursor:zoom-in;
+        }
+
+        /* Suavizar redimensionado de main (crecer/encoger con transición) */
+        main {
+            transition: width .36s cubic-bezier(.2,.8,.2,1),
+                        max-width .36s cubic-bezier(.2,.8,.2,1),
+                        padding .24s ease,
+                        box-shadow .24s ease;
+            will-change: width, max-width, padding, box-shadow;
+        }
+
+        /* Suavizar cambios en la barra lateral (cuando se minimiza) */
+        nav#TOC {
+            transition: width .36s cubic-bezier(.2,.8,.2,1),
+                        transform .24s ease,
+                        background-color .24s ease;
+            will-change: width, transform;
+        }
+
+        /* Si el layout cambia a una sola columna, mantener la transición visual */
+        .layout {
+            transition: grid-template-columns .36s cubic-bezier(.2,.8,.2,1), gap .24s ease;
+            will-change: gap;
+        }
+
+        /* Opcional: evitar repintados pesados al hacer zoom en imágenes */
+        main img {
+            transition: transform .18s ease, box-shadow .18s ease;
+            will-change: transform, box-shadow;
+        }
+
+        /* Modal (mejorado visualmente) */
+        .modal {
+            display:none;
+            position:fixed;
+            z-index:9999;
+            padding-top:6vh;
+            left:0;top:0;width:100%;height:100%;
+            background: rgba(7,11,24,0.85);
+        }
+        .modal-content {
+            margin:auto;
+            display:block;
+            max-width:90%;
+            max-height:80vh;
+            border-radius:10px;
+            box-shadow: 0 18px 40px rgba(0,0,0,0.6);
+        }
+        #caption { color:#e6eefc; text-align:center; padding:0.8rem 1rem; font-size:0.95rem; }
+
+        /* TOC minimizado (cuando se hace clic) */
+        .minimizedToc { width: 48px !important; overflow:hidden; white-space:nowrap; }
+
+        /* Espacio extra para lecturas con márgenes amplios */
+        .spaced { padding: 1rem 1.25rem; }
+
+        /* -------------------------
+           IMPRESIÓN Y SALTO DE PÁGINA
+           ------------------------- */
+        @media print {
+            body { background: white; color: black; }
+            nav#TOC { display:none !important; }
+            #content { margin:0; padding:0; max-width: none; box-shadow:none; }
+            header#title-block-header, main { box-shadow:none; background: white; border-radius:0; padding:0; }
+
+            /* Forzar que cada sección mayor comience en una nueva página */
+            /* Pandoc suele envolver secciones en <section>, y/o usar h1/h2 como separadores */
+            main > section, main > div.section, main > h1, main > h2 {
+                break-before: page;
+                page-break-before: always;
+            }
+            /* Evitar salto antes de la primera sección */
+            main > section:first-child, main > div.section:first-child, main > h1:first-of-type, main > h2:first-of-type {
+                break-before: auto;
+                page-break-before: auto;
+            }
+
+            img { max-width: 100%; height: auto; page-break-inside: avoid; }
+            a[href]:after { content: " (" attr(href) ")"; font-size: 90%; }
+        }
+
+
+    /* Requadres amb notes, etc */
+
+    div.note,
+    div.tip,
+    div.warning,
+    div.caution,
+    div.important {
+        padding: 1em;
+        margin: 1em 0em 1em 5em;
+        border-radius: 3px;
+    }
+
+    div.note::before,
+    div.tip::before,
+    div.warning::before,
+    div.caution::before,
+    div.important::before {
+        position: relative;
+        left: -4em;
+        top: 3em;
+        margin-top: -3em;
+        height: 50px;
+        display: block;
+        padding-top: 0.5em;
+        font-size: x-large;
+        font-weight: bold;
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
+
+    div.note {
+        border-left: 3px solid #26c6da;
+    }
+
+    div.note::before {
+        background-image: url(rsc/note.svg);
+        content: "";
+        width: auto;
+    }
+
+    div.tip {
+        border-left: 3px solid #7cb342;
+        /* degradado animado entre verde claro y azul claro */
+        background: linear-gradient(90deg, rgba(124,179,66,0.12) 0%, rgba(96,165,250,0.12) 50%, rgba(124,179,66,0.12) 100%);
+        background-size: 200% 200%;
+        animation: pulseBG 6s ease-in-out infinite;
+        transition: box-shadow .2s, transform .15s;
+    }
+
+    @keyframes pulseBG {
+        0%   { background-position: 0% 50%; }
+        50%  { background-position: 100% 50%; }
+        100% { background-position: 0% 50%; }
+    }
+
+    /* Respectar preferencia de reducir movimiento */
+    @media (prefers-reduced-motion: reduce) {
+        div.tip {
+            animation: none;
+            background: rgba(124,179,66,0.06);
+        }
+    }
+
+    div.tip::before {
+        background-image: url(rsc/tip.svg);
+        content: "";
+        width: auto;
+    }
+
+    div.warning {
+        border-left: 3px solid #fb8c00
+    }
+
+    div.warning::before {
+        background-image: url(rsc/warning.svg);
+        content: "";
+        width: auto;
+    }
+
+    div.caution {
+        border-left: 3px solid #b71c1c;
+    }
+
+    div.caution::before {
+        background-image: url(rsc/caution.svg);
+        content: "";
+        width: auto;
+    }
+
+    div.important {
+        border-left: 3px solid #f9ce1d;
+    }
+
+    div.important::before {
+        background-image: url(rsc/important.svg);
+        content: "";
+        width: auto;
+    }
+
+    figure {
+        text-align: center;
+
+    }
+
+    figcaption {
+        font-size: 0.9em;
+        color: #555;
+        margin-top: 0.3em;
+    }
+
+    </style>
+
+        <link rel="stylesheet" href="" />     
+    <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+    <![endif]-->
+                          
+</head>
+
+
+
+
+<body>
+    <div id="content">
+        <div class="layout">
+            
+
+                        <nav id="TOC" role="doc-toc">
+                <div class="navContainer">
+                                        <h2 id="toc-title">Continguts</h2>
+                                        <ul>
+                                        <li><a href="#introducció"
+                                        id="toc-introducció"><span
+                                        class="toc-section-number">1</span>
+                                        INTRODUCCIÓ</a></li>
+                                        <li><a
+                                        href="#modalitats-de-la-formació-professional"
+                                        id="toc-modalitats-de-la-formació-professional"><span
+                                        class="toc-section-number">2</span>
+                                        MODALITATS DE LA FORMACIÓ
+                                        PROFESSIONAL</a>
+                                        <ul>
+                                        <li><a
+                                        href="#tipologia-dofertes-segons-graus"
+                                        id="toc-tipologia-dofertes-segons-graus"><span
+                                        class="toc-section-number">2.1</span>
+                                        Tipologia d’ofertes segons
+                                        graus</a></li>
+                                        <li><a
+                                        href="#modalitats-de-loferta-de-formació"
+                                        id="toc-modalitats-de-loferta-de-formació"><span
+                                        class="toc-section-number">2.2</span>
+                                        Modalitats de l’oferta de
+                                        formació</a></li>
+                                        </ul></li>
+                                        <li><a href="#nivells-formatius"
+                                        id="toc-nivells-formatius"><span
+                                        class="toc-section-number">3</span>
+                                        Nivells formatius</a>
+                                        <ul>
+                                        <li><a href="#graus"
+                                        id="toc-graus"><span
+                                        class="toc-section-number">3.1</span>
+                                        Graus</a>
+                                        <ul>
+                                        <li><a href="#grau-bàsic"
+                                        id="toc-grau-bàsic"><span
+                                        class="toc-section-number">3.1.1</span>
+                                        Grau bàsic</a></li>
+                                        <li><a href="#grau-mitjà"
+                                        id="toc-grau-mitjà"><span
+                                        class="toc-section-number">3.1.2</span>
+                                        Grau mitjà</a></li>
+                                        <li><a href="#grau-superior"
+                                        id="toc-grau-superior"><span
+                                        class="toc-section-number">3.1.3</span>
+                                        Grau superior</a></li>
+                                        </ul></li>
+                                        <li><a
+                                        href="#accés-als-cicles-formatius"
+                                        id="toc-accés-als-cicles-formatius"><span
+                                        class="toc-section-number">3.2</span>
+                                        Accés als cicles
+                                        formatius</a></li>
+                                        </ul></li>
+                                        <li><a
+                                        href="#distribució-horària-dels-cicles-i-dels-mòduls-formatius"
+                                        id="toc-distribució-horària-dels-cicles-i-dels-mòduls-formatius"><span
+                                        class="toc-section-number">4</span>
+                                        DISTRIBUCIÓ HORÀRIA DELS CICLES
+                                        I DELS MÒDULS FORMATIUS</a>
+                                        <ul>
+                                        <li><a
+                                        href="#mòduls-professionals-i-titulacions-acadèmiques-requerides-per-a-la-seua-impartició"
+                                        id="toc-mòduls-professionals-i-titulacions-acadèmiques-requerides-per-a-la-seua-impartició"><span
+                                        class="toc-section-number">4.1</span>
+                                        MÒDULS PROFESSIONALS I
+                                        TITULACIONS ACADÈMIQUES
+                                        REQUERIDES PER A LA SEUA
+                                        IMPARTICIÓ</a></li>
+                                        </ul></li>
+                                        <li><a
+                                        href="#la-família-professional-dhostaleria-i-turisme"
+                                        id="toc-la-família-professional-dhostaleria-i-turisme"><span
+                                        class="toc-section-number">5</span>
+                                        LA FAMÍLIA PROFESSIONAL
+                                        D’HOSTALERIA I TURISME</a>
+                                        <ul>
+                                        <li><a href="#introducció-1"
+                                        id="toc-introducció-1"><span
+                                        class="toc-section-number">5.1</span>
+                                        INTRODUCCIÓ</a></li>
+                                        <li><a href="#oferta-formativa"
+                                        id="toc-oferta-formativa"><span
+                                        class="toc-section-number">5.2</span>
+                                        OFERTA FORMATIVA</a></li>
+                                        <li><a href="#reials-decrets"
+                                        id="toc-reials-decrets"><span
+                                        class="toc-section-number">5.3</span>
+                                        REIALS DECRETS</a></li>
+                                        <li><a href="#installacions"
+                                        id="toc-installacions"><span
+                                        class="toc-section-number">5.4</span>
+                                        INSTAL·LACIONS</a></li>
+                                        <li><a
+                                        href="#entorn-professional"
+                                        id="toc-entorn-professional"><span
+                                        class="toc-section-number">5.5</span>
+                                        ENTORN PROFESSIONAL</a></li>
+                                        </ul></li>
+                                        </ul>
+                </div>
+            </nav>
+            
+            <div style="min-width:0;">
+                                <header id="title-block-header">
+                    <h1 class="title">CERTIFICAT OFICIAL DE FORMACIÓ
+PEDAGÒGICA I DIDÀCTICA PER AL PROFESSORAT TÈCNIC</h1>
+                                                        </header>
+                
+                <main class="spaced">
+                    <h1 data-number="1" id="introducció"><span
+                    class="header-section-number">1</span>
+                    INTRODUCCIÓ</h1>
+                    <p>La Formació Professional constitueix en
+                    l’actualitat un element vertebrador del sistema
+                    educatiu i d’ocupació a Espanya, situant-se al
+                    centre de les polítiques actives d’aprenentatge al
+                    llarg de la vida. Sota el marc normatiu establit per
+                    la Llei orgànica 3/2022 i el seu desenvolupament
+                    reglamentari en l’RD 659/2023, es configura un
+                    sistema unificat i flexible, capaç de respondre a
+                    les necessitats canviants de l’entorn social i
+                    productiu.</p>
+                    <p>Des de la perspectiva docent, aquest model
+                    implica un canvi significatiu en la concepció de
+                    l’ensenyament-aprenentatge. La Formació Professional
+                    ja no es limita únicament a la transmissió de
+                    coneixements tècnics, sinó que s’articula al voltant
+                    de l’adquisició, integració i transferència de
+                    competències professionals, enteses com el conjunt
+                    de coneixements, destreses, habilitats, actituds i
+                    valors necessaris per a l’exercici qualificat d’una
+                    activitat professional, en contextos reals i
+                    diversos.</p>
+                    <p>El nou sistema situa la competència professional
+                    com a eix estructurador de tota l’acció
+                    formativa.</p>
+                    <p>A més, el model fomenta una forta vinculació amb
+                    l’entorn productiu mitjançant la formació en entorns
+                    reals de treball, el desenvolupament de projectes
+                    col·laboratius amb empreses, la formació dual i
+                    l’avaluació de competències adquirides per vies no
+                    formals o informals. En aquest sentit, la labor
+                    docent requerix un enfocament metodològic actiu i
+                    adaptatiu, centrat en el desenvolupament integral de
+                    l’alumnat i orientat a la seua ocupabilitat, al seu
+                    itinerari formatiu i al seu creixement professional
+                    i personal.</p>
+                    <p>La Formació Professional comprén diferents graus
+                    d’estudis —tant en règim inicial com per a la
+                    formació contínua o de persones treballadores—, amb
+                    una organització modular, articulada a través d’una
+                    oferta formativa ajustada al catàleg de competències
+                    professionals. En aquest sentit, el sistema
+                    s’integra en el Catàleg modular de Formació
+                    Professional i altres instruments d’acreditació que
+                    permeten reconéixer competències adquirides per vies
+                    formals, no formals o informals, segons el que es
+                    regula en el Reial decret 659/2023 (Títol VI).</p>
+                    <p>Així mateix, el sistema normatiu contempla que el
+                    currículum, els procediments d’avaluació, els espais
+                    de formació, els centres i els processos
+                    d’acreditació s’adapten als estàndards professionals
+                    vigents, la qual cosa afavorix el desenvolupament
+                    professional i social de l’alumnat, així com una
+                    millor resposta a les exigències del món
+                    productiu.</p>
+                    <h1 data-number="2"
+                    id="modalitats-de-la-formació-professional"><span
+                    class="header-section-number">2</span> MODALITATS DE
+                    LA FORMACIÓ PROFESSIONAL</h1>
+                    <p>En el marc del Reial decret 659/2023, la Formació
+                    Professional s’organitza mitjançant diferents graus
+                    (A, B, C, D i E) i modalitats que permeten una major
+                    accessibilitat, flexibilitat i adequació a les
+                    trajectòries personals i professionals.</p>
+                    <p>Entre les modalitats destaquen:</p>
+                    <ul>
+                    <li><p>La modalitat modular per als Graus C, D i E,
+                    que permet cursar un o diversos mòduls professionals
+                    segons el ritme personal d’aprenentatge i les
+                    necessitats de qualificació, adaptant-se a persones
+                    adultes, en actiu o amb experiència
+                    laboral.</p></li>
+                    <li><p>La formació en alternança amb empresa
+                    (modalitats duals) i l’oferta per a persones
+                    treballadores o en transició professional, de manera
+                    que es fomente l’aprenentatge en entorns reals de
+                    treball i la inserció laboral.</p></li>
+                    <li><p>La modalitat semipresencial o a distància,
+                    especialment per a persones adultes que
+                    compatibilitzen formació amb ocupació o
+                    responsabilitats personals, mitjançant la combinació
+                    d’activitats no presencials i sessions presencials,
+                    així com recursos tecnològics de suport (encara que
+                    la normativa estatal posa èmfasi en la
+                    modularització, la flexibilitat i el ritme
+                    personalitzat).</p></li>
+                    </ul>
+                    <h2 data-number="2.1"
+                    id="tipologia-dofertes-segons-graus"><span
+                    class="header-section-number">2.1</span> Tipologia
+                    d’ofertes segons graus</h2>
+                    <p>L’RD 659/2023 organitza les ofertes del sistema
+                    de FP en cinc graus (A, B, C, D i E), la qual cosa
+                    estructura de manera clara tot el sistema</p>
+                    <ul>
+                    <li><p>Grau A: Acreditació parcial de
+                    competències.</p></li>
+                    <li><p>Grau B: Certificat de competència.</p></li>
+                    <li><p>Grau C: Certificat professional.</p></li>
+                    <li><p>Grau D: Cicle formatiu (Grau
+                    bàsic/mitjà/superior).</p></li>
+                    <li><p>Grau E: Cursos d’especialització. Aquest
+                    enfocament remarca que no solament hi ha cicles
+                    bàsics/mitjà/superior com abans, sinó una tipologia
+                    molt més àmplia per a itineraris modulars,
+                    acumulatius i flexibles.</p></li>
+                    </ul>
+                    <h2 data-number="2.2"
+                    id="modalitats-de-loferta-de-formació"><span
+                    class="header-section-number">2.2</span> Modalitats
+                    de l’oferta de formació</h2>
+                    <p>El sistema de Formació Professional a Espanya,
+                    d’acord amb el que s’establix en el Reial decret
+                    659/2023, pel qual s’ordena el sistema de Formació
+                    Professional, i recollit a nivell autonòmic en el
+                    Decret 114/2025 (Comunitat Valenciana), reconeix
+                    tres modalitats d’oferta per als cicles formatius:
+                    presencial, semipresencial i virtual (a
+                    distància).</p>
+                    <p>Aquestes modalitats responen a la necessitat
+                    d’oferir una formació flexible, accessible i
+                    adaptada a diferents perfils de l’alumnat, així com
+                    a les condicions de l’entorn socioseconòmic i
+                    productiu.</p>
+                    <p>Modalitat presencial</p>
+                    <p>És la forma tradicional d’ensenyament, en la qual
+                    l’alumnat acudix físicament al centre educatiu per a
+                    realitzar la formació teòrica i pràctica.</p>
+                    <p>Característiques principals:</p>
+                    <ul>
+                    <li><p>Assistència regular a l’aula: requerix la
+                    presència habitual de l’alumnat al centre, segons un
+                    horari establit.</p></li>
+                    <li><p>Interacció directa: afavorix la comunicació
+                    cara a cara entre alumnat i professorat.</p></li>
+                    <li><p>Entorns simulats o reals: ús intensiu de
+                    tallers, laboratoris i espais específics del
+                    cicle.</p></li>
+                    <li><p>Avaluació contínua: major facilitat per a
+                    aplicar una avaluació formativa i ajustada al ritme
+                    del grup.</p></li>
+                    </ul>
+                    <p>Modalitat semipresencial</p>
+                    <p>Combina l’assistència al centre educatiu amb
+                    activitats formatives desenvolupades de manera
+                    virtual, utilitzant plataformes d’aprenentatge en
+                    línia.</p>
+                    <p>Característiques principals:</p>
+                    <ul>
+                    <li><p>Flexibilitat horària: permet a l’alumnat
+                    organitzar part de la seua formació segons la
+                    disponibilitat.</p></li>
+                    <li><p>Part presencial obligatòria: es definixen
+                    mòduls o parts de mòduls que requerixen assistència
+                    (per exemple, pràctiques de taller).</p></li>
+                    <li><p>Ús d’entorns virtuals: emprament de
+                    plataformes LMS (com Aules, Moodle, etc.) per a
+                    continguts, tasques i seguiment.</p></li>
+                    <li><p>Tutories presencials i virtuals: seguiment
+                    combinat per part del professorat.</p></li>
+                    </ul>
+                    <p>Modalitat virtual (o a distància)</p>
+                    <p>La totalitat del cicle formatiu es desenvolupa
+                    mitjançant plataformes digitals, sense exigència de
+                    presencialitat llevat de moments específics (per
+                    exemple, exàmens o FCT si no es convalida).</p>
+                    <p>Característiques principals:</p>
+                    <ul>
+                    <li><p>Autonomia de l’alumnat: l’aprenentatge
+                    s’organitza de manera autònoma, respectant els temps
+                    establits pel centre.</p></li>
+                    <li><p>Sense presencialitat habitual: encara que es
+                    poden fixar sessions presencials voluntàries o
+                    puntuals (avaluacions finals, pràctiques
+                    concretes…).</p></li>
+                    <li><p>Plataformes d’aprenentatge: l’entorn virtual
+                    és l’espai central de l’aprenentatge (continguts,
+                    comunicació, avaluació).</p></li>
+                    <li><p>Perfil adult: molt orientada a persones
+                    treballadores, amb responsabilitats familiars o que
+                    no poden acudir regularment a un centre.</p></li>
+                    </ul>
+                    <p>En totes les modalitats, s’assegura el compliment
+                    dels resultats d’aprenentatge i l’adquisició de les
+                    competències professionals recollides en el
+                    currículum oficial.</p>
+                    <h1 data-number="3" id="nivells-formatius"><span
+                    class="header-section-number">3</span> Nivells
+                    formatius</h1>
+                    <p>La Formació Professional s’estructura en
+                    diferents nivells de qualificació professional,
+                    definits en el Catàleg d’estàndards de competència,
+                    que servix com a eix vertebrador per a tota l’oferta
+                    formativa del sistema.</p>
+                    <p>Amb independència de la modalitat en què
+                    s’impartisca (presencial, semipresencial o virtual),
+                    l’oferta de Formació Professional s’organitza en
+                    tres nivells: bàsic, mitjà i superior, agrupats sota
+                    la denominació de Graus D.</p>
+                    <p>Aquesta classificació respon a diferents graus de
+                    domini competencial, itineraris formatius i eixides
+                    tant professionals com acadèmiques. A continuació,
+                    es desenvolupen les característiques de cadascun
+                    d’aquests nivells:</p>
+                    <h2 data-number="3.1" id="graus"><span
+                    class="header-section-number">3.1</span> Graus</h2>
+                    <h3 data-number="3.1.1" id="grau-bàsic"><span
+                    class="header-section-number">3.1.1</span> Grau
+                    bàsic</h3>
+                    <p>Nivell 1 del Catàleg d’estàndards de
+                    competència</p>
+                    <p>Els cicles de Grau bàsic estan dirigits a alumnat
+                    que necessita una via alternativa a l’educació
+                    secundària obligatòria convencional, i que requerix
+                    d’un enfocament més pràctic i adaptat a les seues
+                    necessitats formatives. La seua finalitat és
+                    afavorir la permanència en el sistema educatiu,
+                    reduir l’abandó escolar primerenc i facilitar la
+                    transició a l’ocupació.</p>
+                    <p>Característiques principals:</p>
+                    <ul>
+                    <li><p>Formen part de l’educació bàsica
+                    obligatòria.</p></li>
+                    <li><p>Oferixen una formació general adaptada i una
+                    iniciació professional en un perfil
+                    ocupacional.</p></li>
+                    <li><p>Permeten obtindre el títol professional
+                    bàsic, amb efectes acadèmics i laborals.</p></li>
+                    <li><p>Faciliten l’accés directe a cicles de Grau
+                    mitjà de la mateixa família professional.</p></li>
+                    <li><p>Tenen una durada de dos cursos.</p></li>
+                    <li><p>Requereixen haver cursat almenys 3r d’ESO o,
+                    de manera excepcional, 2n, i comptar amb proposta de
+                    l’equip docent.</p></li>
+                    <li><p>Es contempla el mòdul de Formació en Empresa
+                    amb les seues característiques particulars.</p></li>
+                    </ul>
+                    <p>Ordenació dels cicles de grau bàsic</p>
+                    <ol type="a">
+                    <li><p>Àmbit de comunicació i Ciències
+                    Socials</p></li>
+                    <li><p>Àmbit de Ciències Aplicades</p></li>
+                    <li><p>Àmbit professional</p></li>
+                    <li><p>Projecte intermodular d’aprenentatge
+                    col·laboratiu vinculat als tres àmbits.</p></li>
+                    </ol>
+                    <h3 data-number="3.1.2" id="grau-mitjà"><span
+                    class="header-section-number">3.1.2</span> Grau
+                    mitjà</h3>
+                    <p>Nivell 2 del Catàleg d’estàndards de
+                    competència</p>
+                    <p>Els cicles de Grau mitjà estan dirigits a alumnat
+                    que ha superat l’Educació Secundària Obligatòria o
+                    que ha obtingut el títol de Professional Bàsic.
+                    Aquests cicles proporcionen la qualificació
+                    necessària per a l’exercici d’una professió tècnica
+                    en un entorn productiu concret. Formen part de
+                    l’educació secundària postobligatòria.</p>
+                    <p>Característiques principals:</p>
+                    <ul>
+                    <li><p>Conduïxen a l’obtenció del títol de Tècnic,
+                    amb validesa acadèmica i professional.</p></li>
+                    <li><p>Permeten l’accés directe a estudis de Grau
+                    superior, una vegada finalitzat el cicle.</p></li>
+                    <li><p>S’organitzen en mòduls professionals, tant
+                    teòrics com pràctics.</p></li>
+                    <li><p>Es poden impartir en modalitat presencial,
+                    semipresencial o virtual.</p></li>
+                    <li><p>La seua durada també és de dos
+                    cursos.</p></li>
+                    </ul>
+                    <h3 data-number="3.1.3" id="grau-superior"><span
+                    class="header-section-number">3.1.3</span> Grau
+                    superior</h3>
+                    <p>Nivell 3 del Catàleg d’estàndards de
+                    competència</p>
+                    <p>Els cicles de Grau superior estan orientats a
+                    l’especialització professional avançada, i capaciten
+                    l’alumnat per a desenvolupar funcions de major
+                    complexitat tècnica i de responsabilitat en l’àmbit
+                    laboral. Formen part de l’educació superior.</p>
+                    <p>Característiques principals:</p>
+                    <ul>
+                    <li><p>Conduïxen al títol de Tècnic
+                    Superior.</p></li>
+                    <li><p>Permeten l’accés a estudis universitaris, amb
+                    possibilitat de reconeixement de crèdits
+                    ECTS.</p></li>
+                    <li><p>Inclouen formació en emprenedoria,
+                    digitalització, sostenibilitat i altres aspectes
+                    transversals.</p></li>
+                    <li><p>També incorporen el mòdul de Formació en
+                    Empresa.</p></li>
+                    <li><p>Es poden oferir en modalitat presencial,
+                    semipresencial o virtual, afavorint així la
+                    conciliació laboral i formativa.</p></li>
+                    <li><p>La seua durada també és de dos
+                    cursos.</p></li>
+                    </ul>
+                    <p>Ordenació dels cicles de grau mitjà i
+                    superior</p>
+                    <ol type="a">
+                    <li>Una part troncal obligatòria</li>
+                    </ol>
+                    <ol type="1">
+                    <li><p>Mòduls professionals del Catàleg modular de
+                    Formació Professional.</p></li>
+                    <li><p>Mòduls transversals</p></li>
+                    </ol>
+                    <ul>
+                    <li><p>Itinerari per a l’ocupabilitat I i
+                    II</p></li>
+                    <li><p>Digitalització aplicada al sistema
+                    productiu</p></li>
+                    <li><p>Sostenibilitat aplicada al sistema
+                    productiu</p></li>
+                    <li><p>Anglés professional</p></li>
+                    </ul>
+                    <ol start="2" type="a">
+                    <li>Una part optativa integrada per un mòdul dels
+                    que s’oferiran al centre educatiu que tindrà durada
+                    anual i es cursarà en segon curs.</li>
+                    </ol>
+                    <h2 data-number="3.2"
+                    id="accés-als-cicles-formatius"><span
+                    class="header-section-number">3.2</span> Accés als
+                    cicles formatius</h2>
+                    <p>L’accés als cicles formatius es regula pel Reial
+                    decret 6523/2011, de 18 de juliol</p>
+                    <p>Accés als cicles de grau bàsic</p>
+                    <ol type="1">
+                    <li>L’accés als cicles formatius de grau bàsic dels
+                    destinataris del paràgraf a) de l’apartat 1 de
+                    l’article anterior requerirà, conforme a l’article
+                    41.1 de la Llei orgànica 2/2006, de 3 de maig,
+                    d’Educació, el compliment simultani dels requisits
+                    següents:</li>
+                    </ol>
+                    <ol type="a">
+                    <li><p>Tindre complits quinze anys, o complir-los
+                    durant l’any natural en curs.</p></li>
+                    <li><p>Haver cursat el tercer curs o,
+                    excepcionalment i a criteri de l’equip docent i de
+                    la persona responsable de l’orientació al centre, el
+                    segon curs d’educació secundària
+                    obligatòria.</p></li>
+                    <li><p>Ser objecte de proposta o sol·licitar a
+                    petició pròpia, juntament amb els pares, mares o
+                    tutors legals, la incorporació a un cicle formatiu
+                    de grau bàsic, quan el perfil vocacional de l’alumne
+                    o alumna així ho aconselle. Les administracions
+                    educatives determinaran la intervenció de l’alumnat,
+                    les seues famílies i els equips o servicis
+                    d’orientació en aquest procés.</p></li>
+                    <li><p>En el supòsit de realització de cicles
+                    formatius de grau bàsic en règim intensiu, l’alumne
+                    haurà de tindre complits 16 anys per a poder accedir
+                    a la formació pràctica en empresa per aquesta
+                    modalitat, en estar vinculada a la
+                    contractació.</p></li>
+                    </ol>
+                    <p>Accés als cicles formatius de grau mitjà</p>
+                    <ol type="1">
+                    <li>Per a l’accés als cicles formatius de grau mitjà
+                    es precisarà el compliment d’un dels requisits
+                    següents:</li>
+                    </ol>
+                    <ol type="a">
+                    <li><p>Estar en possessió del títol de Graduat en
+                    Educació Secundària Obligatòria.</p></li>
+                    <li><p>Estar en possessió del títol de Tècnic Bàsic
+                    o de Tècnic.</p></li>
+                    <li><p>Haver superat una oferta formativa de Grau C
+                    inclosa en el cicle formatiu.</p></li>
+                    <li><p>Haver superat un curs de formació específic,
+                    preparatori i gratuït per a l’accés a cicles
+                    formatius de grau mitjà en centres expressament
+                    autoritzats per l’Administració educativa.</p></li>
+                    <li><p>Haver superat una prova d’accés.</p></li>
+                    </ol>
+                    <p>Accés als cicles formatius de grau superior</p>
+                    <ol type="1">
+                    <li>Per a l’accés als cicles formatius de grau
+                    superior es precisarà el compliment d’un dels
+                    requisits següents:</li>
+                    </ol>
+                    <ol type="a">
+                    <li><p>Possessió del títol de Tècnic de Grau Mitjà
+                    de Formació Professional o el títol de Tècnic o
+                    Tècnica d’Arts Plàstiques i Disseny.</p></li>
+                    <li><p>Possessió del títol de Batxiller.</p></li>
+                    <li><p>Haver superat una oferta formativa de Grau C
+                    inclosa en el cicle formatiu.</p></li>
+                    <li><p>Haver superat un curs de formació específic,
+                    preparatori i gratuït per a l’accés a cicles de grau
+                    superior en centres expressament autoritzats per
+                    l’Administració educativa.</p></li>
+                    <li><p>Haver superat una prova d’accés.</p></li>
+                    <li><p>Estar en possessió d’un títol de Tècnic
+                    Superior de Formació Professional o d’un grau
+                    universitari.</p></li>
+                    </ol>
+                    <h1 data-number="4"
+                    id="distribució-horària-dels-cicles-i-dels-mòduls-formatius"><span
+                    class="header-section-number">4</span> DISTRIBUCIÓ
+                    HORÀRIA DELS CICLES I DELS MÒDULS FORMATIUS</h1>
+                    <p>La distribució horària dels cicles formatius i
+                    dels seus mòduls professionals ve establida pel
+                    reial decret estatal que fixa el currículum bàsic
+                    del títol. A la Comunitat Valenciana, les
+                    administracions educatives autonòmiques poden
+                    concretar i adaptar aquesta distribució, de manera
+                    que responga a les necessitats i condicions
+                    específiques del territori.</p>
+                    <p>La durada dels cicles formatius és de 2.000 hores
+                    que es distribuïxen en els diferents mòduls
+                    formatius durant dos cursos escolars. Tant l’inici
+                    com la finalització de l’any acadèmic es fixa en un
+                    calendari escolar que es publica en una
+                    Resolució.</p>
+                    <p>A cada mòdul formatiu li correspon una assignació
+                    horària que es distribuïx en hores setmanals. Els
+                    dies de la setmana en què s’imparteixen aquestes
+                    hores són flexibles i venen determinats per cada
+                    centre educatiu. En els quadres horaris s’indiquen
+                    els mòduls susceptibles de doblatge (DT) i també els
+                    mòduls que poden ser impartits, indistintament, per
+                    altre docent d’una altra especialitat.</p>
+                    <p>La seqüenciació dels mòduls i l’horari dels
+                    diferents cicles de les famílies professionals estan
+                    publicats al web de Conselleria i es poden consultar
+                    en l’enllaç següent:</p>
+                    <p><a
+                    href="https://ceice.gva.es/es/web/formacion-profesional/dossier-cicles">Dossier
+                    de cicles - Formació Professional - Generalitat
+                    Valenciana</a></p>
+                    <h2 data-number="4.1"
+                    id="mòduls-professionals-i-titulacions-acadèmiques-requerides-per-a-la-seua-impartició"><span
+                    class="header-section-number">4.1</span> MÒDULS
+                    PROFESSIONALS I TITULACIONS ACADÈMIQUES REQUERIDES
+                    PER A LA SEUA IMPARTICIÓ</h2>
+                    <p>La pàgina web de Todo FP i el portal de la
+                    Conselleria d’Educació, Cultura i Esport en la
+                    secció de Formació Professional constituïxen una
+                    font viva i actualitzada d’informació,
+                    imprescindible per a tot el professorat. En aquests
+                    espais es disposa de tota la documentació i recursos
+                    necessaris per a l’elaboració i el desenvolupament
+                    d’una programació didàctica adequada i conforme a la
+                    normativa vigent.</p>
+                    <p>Per tant, és en aquests portals on cal adreçar-se
+                    per a consultar els diferents mòduls que conformen
+                    un cicle formatiu, així com per a conéixer
+                    l’atribució docent corresponent a cadascun
+                    d’ells.</p>
+                    <p>Els aspectes relatius al professorat amb
+                    atribució docent en els mòduls professionals de cada
+                    cicle formatiu, on el professorat tècnic impartix
+                    docència, estan recollits en els corresponents
+                    reials decrets de títol. Així mateix, aquests
+                    decrets proporcionen informació sobre els resultats
+                    d’aprenentatge i els criteris d’avaluació, que
+                    constituïxen pilars fonamentals en la programació
+                    didàctica.</p>
+                    <p>És fonamental consultar els decrets i les ordres
+                    específiques de la nostra Comunitat Autònoma, atés
+                    que, com s’ha assenyalat en apartats anteriors,
+                    aquests concreten i detallen les instruccions
+                    establides en els reials decrets de títol
+                    corresponents a cada cicle formatiu. Aquesta
+                    normativa autonòmica oferix directrius precises
+                    sobre l’organització, l’atribució docent i altres
+                    aspectes essencials per al desenvolupament d’una
+                    programació didàctica conforme a les necessitats i
+                    característiques del sistema educatiu valencià.</p>
+                    <h1 data-number="5"
+                    id="la-família-professional-dhostaleria-i-turisme"><span
+                    class="header-section-number">5</span> LA FAMÍLIA
+                    PROFESSIONAL D’HOSTALERIA I TURISME</h1>
+                    <h2 data-number="5.1" id="introducció-1"><span
+                    class="header-section-number">5.1</span>
+                    INTRODUCCIÓ</h2>
+                    <p>La família professional d’Hostaleria i Turisme
+                    engloba un ampli conjunt d’activitats relacionades
+                    amb la prestació de servicis d’allotjament,
+                    restauració, gastronomia, organització
+                    d’esdeveniments i gestió turística. El seu àmbit
+                    d’actuació s’estructura en diverses àrees
+                    interconnectades: d’una banda, l’hostaleria, que
+                    comprén la cuina, el servici en restauració, la
+                    rebosteria i l’atenció a la clientela en
+                    establiments hotelers i de restauració; i, d’una
+                    altra, el turisme, orientat a la planificació,
+                    promoció i gestió de destinacions, agències de
+                    viatges, empreses d’oci i activitats culturals.</p>
+                    <p>A la Comunitat Valenciana, aquesta família
+                    professional constituïx un dels pilars del sector
+                    servicis i un motor essencial de l’economia
+                    regional. La regió és un dels principals destins
+                    turístics d’Espanya, amb més de 30 milions de
+                    visitants anuals, cosa que impulsa una alta demanda
+                    de professionals qualificats. Províncies com
+                    Alacant, València i Castelló concentren una
+                    important oferta hotelera i gastronòmica, així com
+                    una xarxa d’empreses dedicades al turisme
+                    sostenible, la intermediació i la restauració d’alt
+                    nivell. Destaquen zones com la Costa Blanca, la
+                    ciutat de València i la Costa de l’Atzur, on
+                    l’hostaleria i el turisme generen milers
+                    d’ocupacions directes i indirectes.</p>
+                    <p>Aquesta sòlida implantació es reflectix també en
+                    l’oferta formativa, que abasta cicles de Formació
+                    Professional bàsica, Grau mitjà i Grau superior,
+                    impartits en nombrosos centres educatius de la
+                    Comunitat Valenciana. Entre ells, destaca la labor
+                    del Centre de Referència Nacional de Turisme,
+                    Hostaleria i Restauració de Castelló, que impulsa la
+                    innovació i l’excel·lència formativa en el
+                    sector.</p>
+                    <p>L’àmbit d’Hostaleria i Turisme ha experimentat
+                    una profunda transformació en els últims anys,
+                    impulsada per la digitalització, la sostenibilitat i
+                    la internacionalització. La implantació de
+                    tecnologies de gestió hotelera, l’ús de plataformes
+                    digitals de reserves, la gastronomia d’avantguarda,
+                    l’eficiència energètica en allotjaments o el turisme
+                    experiencial són alguns dels canvis més rellevants.
+                    Aquestes innovacions han modificat els perfils
+                    professionals, orientant-los cap a l’atenció
+                    personalitzada, la gestió sostenible i l’ús d’eines
+                    digitals. En aquest context, la Formació
+                    Professional s’adapta de manera contínua,
+                    incorporant continguts actualitzats, competències
+                    lingüístiques i tecnològiques, així com
+                    col·laboracions amb empreses i organismes del
+                    sector, garantint una formació alineada amb les
+                    necessitats reals del mercat laboral.</p>
+                    <h2 data-number="5.2" id="oferta-formativa"><span
+                    class="header-section-number">5.2</span> OFERTA
+                    FORMATIVA</h2>
+                    <p>Dins de la família professional d’Hostaleria i
+                    Turisme s’oferten 11 cicles formatius.</p>
+                    <p>Títols de FP. Bàsica:</p>
+                    <p>T.P.B. Allotjament i bugaderia T.P.B. Cuina i
+                    restauració T.P.B. Activitats de forn i
+                    pastisseria</p>
+                    <p>Títols de FP. De grau mitjà:</p>
+                    <ul>
+                    <li>T. Cuina i gastronomia</li>
+                    <li>T. Serveis en restauració</li>
+                    <li>Curs d’especialització de forneria i brioixeria
+                    artesana</li>
+                    </ul>
+                    <p>Títols de FP. Superior:</p>
+                    <ul>
+                    <li>T.S. Agències de viatges i gestió
+                    d’esdeveniments</li>
+                    <li>T.S. Gestió d’allotjaments turístics</li>
+                    <li>T.S. Guia, informació i assistències
+                    turístiques</li>
+                    <li>T.S. Direcció de cuina</li>
+                    <li>T.S. Direcció de serveis de restauració</li>
+                    </ul>
+                    <h2 data-number="5.3" id="reials-decrets"><span
+                    class="header-section-number">5.3</span> REIALS
+                    DECRETS</h2>
+                    <p>T.P.B. Allotjament i bugaderia</p>
+                    <ul>
+                    <li><p>Reial decret 356/2014, de 16 de maig, pel
+                    qual s’establixen set títols de Formació
+                    Professional bàsica del catàleg de títols de les
+                    ensenyançes de Formació Professional.</p></li>
+                    <li><p>DECRET 185/2014, de 31 d’octubre, del
+                    Consell, pel qual s’establixen vint currículums
+                    corresponents als cicles formatius de Formació
+                    Professional bàsica en l’àmbit de la Comunitat
+                    Valenciana.</p></li>
+                    </ul>
+                    <p>T.P.B. Cuina i restauració</p>
+                    <ul>
+                    <li><p>Reial decret 498/2024, de 21 de maig, pel
+                    qual es modifiquen determinats reials decrets pels
+                    quals s’establixen títols de Formació Professional
+                    de grau bàsic i es fixen les seues ensenyances
+                    mínimes.</p></li>
+                    <li><p>DECRET 185/2014, de 31 d’octubre, del
+                    Consell, pel qual s’establixen vint currículums
+                    corresponents als cicles formatius de Formació
+                    Professional bàsica en l’àmbit de la Comunitat
+                    Valenciana.</p></li>
+                    </ul>
+                    <p>T.P.B. Activitats de forn i pastisseria</p>
+                    <ul>
+                    <li><p>Reial decret 774/2015, de 28 d’agost, pel
+                    qual s’establixen sis títols de Formació
+                    Professional bàsica del catàleg de títols de les
+                    ensenyançes de Formació Professional.</p></li>
+                    <li><p>DECRET 23/2022, de 4 de març, del Consell,
+                    d’establiment del currículum dels cicles de formació
+                    professional corresponents als títols professionals
+                    bàsics en Activitats Marítimopesqueres, Activitats
+                    de forn i pastisseria, Activitats Domèstiques i de
+                    Neteja d’Edificis, Manteniment d’Habitatges,
+                    Fabricació d’Elements Metàl·lics, Instal·lacions
+                    Electrotècniques i Mecànica, i Manteniment
+                    d’Embarcacions Esportives i de Recreació.</p></li>
+                    </ul>
+                    <p>T. Cuina i gastronomia</p>
+                    <ul>
+                    <li><p>Reial decret 1396/2007, de 29 d’octubre, pel
+                    qual s’establix el títol de Tècnic en Cuina i
+                    Gastronomia i es fixen les seues ensenyances
+                    mínimes.</p></li>
+                    <li><p>ORDRE de 29 de juliol de 2009, de la
+                    Conselleria d’Educació, per la qual s’establix per a
+                    la Comunitat Valenciana el currículum del cicle
+                    formatiu de Grau Mitjà corresponent al títol de
+                    Tècnic en Cuina i Gastronomia.</p></li>
+                    </ul>
+                    <p>T. Serveis en restauració</p>
+                    <ul>
+                    <li><p>Reial decret 1690/2007, de 14 de desembre,
+                    pel qual s’establix el títol de Tècnic en Serveis en
+                    Restauració i es fixen les seues ensenyances
+                    mínimes.</p></li>
+                    <li><p>ORDRE de 29 de juliol de 2009, de la
+                    Conselleria d’Educació, per la qual s’establix per a
+                    la Comunitat Valenciana el currículum del cicle
+                    formatiu de Grau Mitjà corresponent al títol de
+                    Tècnic en Serveis en Restauració.</p></li>
+                    </ul>
+                    <p>Curs d’especialització de forneria i brioixeria
+                    artesana</p>
+                    <ul>
+                    <li><p>Reial decret 482/2020, de 7 d’abril, pel qual
+                    s’establix el Curs d’especialització en forneria i
+                    brioixeria artesanes i es fixen els aspectes bàsics
+                    del currículum, i es modifica el Reial decret
+                    651/2017, de 23 de juny, pel qual s’establix el
+                    títol de Tècnic Superior en Acondicionament Físic i
+                    es fixen els aspectes bàsics del
+                    currículum.</p></li>
+                    <li><p>Hui dia, a la Comunitat Valenciana no es
+                    disposa d’una concreció curricular pròpia per al
+                    Curs d’especialització en forneria i brioixeria
+                    artesanes, pertanyent a la família professional
+                    d’Hostaleria i Turisme.</p></li>
+                    </ul>
+                    <p>T.S. Agències de viatges i gestió
+                    d’esdeveniments</p>
+                    <ul>
+                    <li><p>Reial decret 1254/2009, de 24 de juliol, pel
+                    qual s’establix el títol de Tècnic Superior en
+                    Agències de Viatges i Gestió d’Esdeveniments i es
+                    fixen les seues ensenyances mínimes.</p></li>
+                    <li><p>ORDRE 33/2012, de 22 de juny, de la
+                    Conselleria d’Educació, Formació i Ocupació, per la
+                    qual s’establix per a la Comunitat Valenciana el
+                    currículum del cicle formatiu de grau superior
+                    corresponent al títol de Tècnic Superior en Agències
+                    de Viatges i Gestió d’Esdeveniments.</p></li>
+                    </ul>
+                    <p>T.S. Gestió d’allotjaments turístics</p>
+                    <ul>
+                    <li><p>Reial decret 1686/2007, de 14 de desembre,
+                    pel qual s’establix el títol de Tècnic Superior en
+                    Gestió d’Allotjaments Turístics i es fixen les seues
+                    ensenyances mínimes.</p></li>
+                    <li><p>ORDRE de 29 de juliol de 2009, de la
+                    Conselleria d’Educació per la qual s’establix per a
+                    la Comunitat Valenciana el currículum del cicle
+                    formatiu de Grau Superior corresponent al títol de
+                    Tècnic Superior en Gestió d’Allotjaments
+                    Turístics.</p></li>
+                    </ul>
+                    <p>T.S. Guia, informació i assistències
+                    turístiques</p>
+                    <ul>
+                    <li><p>Reial decret 1255/2009, de 24 de juliol, pel
+                    qual s’establix el títol de Tècnic Superior en Guia,
+                    Informació i Assistències Turístiques i es fixen les
+                    seues ensenyances mínimes.</p></li>
+                    <li><p>ORDRE 34/2012, de 22 de juny, de la
+                    Conselleria d’Educació, Formació i Ocupació, per la
+                    qual s’establix per a la Comunitat Valenciana el
+                    currículum del cicle formatiu de grau superior
+                    corresponent al títol de Tècnic Superior en Guia,
+                    Informació i Assistències Turístiques.</p></li>
+                    </ul>
+                    <p>T.S. Direcció de cuina</p>
+                    <ul>
+                    <li><p>Reial decret 687/2010, de 20 de maig, pel
+                    qual s’establix el títol de Tècnic Superior en
+                    Direcció de Cuina i es fixen les seues ensenyances
+                    mínimes.</p></li>
+                    <li><p>ORDRE 32/2013, de 26 d’abril, de la
+                    Conselleria d’Educació, Cultura i Esport, per la
+                    qual s’establix per a la Comunitat Valenciana el
+                    currículum del cicle formatiu de grau superior
+                    corresponent al títol de Tècnic Superior en Direcció
+                    de Cuina.</p></li>
+                    </ul>
+                    <p>T.S. Direcció de serveis de restauració</p>
+                    <ul>
+                    <li><p>Reial decret 688/2010, de 20 de maig, pel
+                    qual s’establix el títol de Tècnic Superior en
+                    Direcció de Serveis de Restauració i es fixen les
+                    seues ensenyances mínimes.</p></li>
+                    <li><p>ORDRE 24/2013, de 21 d’abril, de la
+                    Conselleria d’Educació, Cultura i Esport per la qual
+                    s’establix per a la Comunitat Valenciana el
+                    currículum del cicle formatiu de Grau Superior
+                    corresponent al títol de Tècnic Superior en Direcció
+                    de Serveis en Restauració.</p></li>
+                    </ul>
+                    <h2 data-number="5.4" id="installacions"><span
+                    class="header-section-number">5.4</span>
+                    INSTAL·LACIONS</h2>
+                    <p>Aquestes ensenyances s’imparteixen a les aules
+                    polivalents, al laboratori i principalment en
+                    tallers dotats d’una sèrie de moblament,
+                    aparatologia, materials i equips que varien en
+                    funció del mòdul formatiu.</p>
+                    <p>En els reials decrets on s’establixen els títols
+                    de cada cicle formatiu, s’especifiquen les mesures
+                    que han de tindre els espais segons el nombre
+                    d’alumnes i l’equipament necessari.</p>
+                    <p>D’altra banda, en les ordres per les quals
+                    s’establix per a la Comunitat Valenciana els
+                    currículums dels cicles formatius, s’observa una
+                    major especificació de les instal·lacions i
+                    espais.</p>
+                    <p>Exemple:</p>
+                    <p>En el Reial decret 687/2010, de 20 de maig, pel
+                    qual s’establix el títol de Tècnic Superior en
+                    Direcció de Cuina i es fixen les seues ensenyançes
+                    mínimes</p>
+                    <table>
+                    <thead>
+                    <tr>
+                    <th>Espai formatiu</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr>
+                    <td>Aula polivalent.</td>
+                    </tr>
+                    <tr>
+                    <td>Taller de cuina.</td>
+                    </tr>
+                    <tr>
+                    <td>Taller de forneria i rebosteria.</td>
+                    </tr>
+                    </tbody>
+                    </table>
+                    <p>No obstant això, en l’orde autonòmica que
+                    establix el currículum d’aquest cicle, en l’annex
+                    IV, es proporciona informació més específica i
+                    detallada:</p>
+                    <table>
+                    <colgroup>
+                    <col style="width: 40%" />
+                    <col style="width: 29%" />
+                    <col style="width: 29%" />
+                    </colgroup>
+                    <thead>
+                    <tr>
+                    <th>Espai formatiu</th>
+                    <th>Superfície m² (30 alumnes)</th>
+                    <th>Superfície m² (20 alumnes)</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr>
+                    <td>Aula polivalent</td>
+                    <td>60</td>
+                    <td>40</td>
+                    </tr>
+                    <tr>
+                    <td>Taller de cuina</td>
+                    <td>210</td>
+                    <td>210</td>
+                    </tr>
+                    <tr>
+                    <td>Taller de forneria i rebosteria</td>
+                    <td>150</td>
+                    <td>120</td>
+                    </tr>
+                    </tbody>
+                    </table>
+                    <h2 data-number="5.5" id="entorn-professional"><span
+                    class="header-section-number">5.5</span> ENTORN
+                    PROFESSIONAL</h2>
+                    <p>T.P.B. Allotjament i bugaderia</p>
+                    <ul>
+                    <li>Cambrer/a de pisos, en establiments
+                    d’allotjament turístic siga quin siga la seua
+                    tipologia, modalitat o categoria.</li>
+                    <li>Valets o mossos/es d’habitacions.</li>
+                    <li>Auxiliar de pisos i neteja.</li>
+                    <li>Auxiliar de bugaderia i llenceria en
+                    establiments d’allotjament.</li>
+                    <li>Operador/a de màquines llavadores i assecadores
+                    de peces de roba.</li>
+                    <li>Operador/a de màquines i equips de planxat de
+                    peces de roba.</li>
+                    </ul>
+                    <p>T.P.B. Cuina i restauració</p>
+                    <ul>
+                    <li>Ajudant o auxiliar de cuina.</li>
+                    <li>Ajudant d’economat d’unitats de producció i
+                    servici d’aliments i begudes.</li>
+                    <li>Auxiliar o ajudant de cambrer/a en sala.</li>
+                    <li>Auxiliar o ajudant de cambrer/a en
+                    bar-cafeteria.</li>
+                    <li>Auxiliar o ajudant de bàrman.</li>
+                    <li>Auxiliar o ajudant de cuina en establiments on
+                    l’oferta estiga composta per elaboracions senzilles
+                    i ràpides (tapes, plats combinats, entre
+                    altres).</li>
+                    </ul>
+                    <p>T.P.B. Activitats de forn i pastisseria</p>
+                    <ul>
+                    <li>Auxiliar de forneria i brioixeria.</li>
+                    <li>Auxiliar de pastisseria.</li>
+                    <li>Auxiliar de magatzem de pastisseria.</li>
+                    <li>Empleat/ada d’establiment de pastisseria.
+                    Auxiliar de magatzem.</li>
+                    <li>Auxiliar de venda.</li>
+                    </ul>
+                    <p>T. Cuina i gastronomia</p>
+                    <ul>
+                    <li>Cuiner/a. Cap de partida.</li>
+                    <li>Empleat/ada d’economat d’unitats de producció i
+                    servici d’aliments i begudes.</li>
+                    </ul>
+                    <p>T. Serveis en restauració</p>
+                    <ul>
+                    <li>Cambrer/a de bar-cafeteria o restaurant. Cap de
+                    rang.</li>
+                    <li>Empleat/ada d’economat d’unitats de producció i
+                    servici d’aliments i begudes.</li>
+                    <li>Bàrman.</li>
+                    <li>Ajudant de sommelier.</li>
+                    <li>Auxiliar de servicis en mitjans de
+                    transport.</li>
+                    </ul>
+                    <p>Curs d’especialització de forneria i brioixeria
+                    artesana</p>
+                    <ul>
+                    <li>Mestre/a forner/a</li>
+                    <li>Elaborador/a de brioixeria</li>
+                    <li>Elaborador/a de masses i bases de pizza</li>
+                    <li>Reboster/a</li>
+                    <li>Tastador/a de productes de panificació
+                    artesanal</li>
+                    </ul>
+                    <p>T.S. Agències de viatges i gestió
+                    d’esdeveniments</p>
+                    <ul>
+                    <li>Cap d’oficina d’agència de viatges.</li>
+                    <li>Cap de departament en agència de viatges.</li>
+                    <li>Agent de viatges.</li>
+                    <li>Consultor/a de viatges.</li>
+                    <li>Organitzador/a d’esdeveniments.</li>
+                    <li>Venedor/a de servicis de viatge i viatges
+                    programats.</li>
+                    <li>Promotor/a comercial de viatges i servicis
+                    turístics.</li>
+                    <li>Empleat/ada del departament de booking o
+                    reserves.</li>
+                    </ul>
+                    <p>T.S. Gestió d’allotjaments turístics</p>
+                    <ul>
+                    <li>Sotsdirector/a d’allotjaments d’establiments
+                    turístics.</li>
+                    <li>Cap de recepció. Encarregat/ada de
+                    reserves.</li>
+                    <li>Cap de reserves.</li>
+                    <li>Coordinador/a de qualitat.</li>
+                    <li>Governanta o encarregada general del servici de
+                    pisos i neteja.</li>
+                    <li>Subgovernanta o encarregada de secció del
+                    servici de pisos i neteja.</li>
+                    <li>Gestor/a d’allotjament en residències, hospitals
+                    i similars.</li>
+                    <li>Gestor/a d’allotjament en cases rurals.</li>
+                    <li>Coordinador/a d’esdeveniments.</li>
+                    <li>Cap de vendes en establiments d’allotjaments
+                    turístics.</li>
+                    <li>Comercial d’establiments d’allotjaments
+                    turístics.</li>
+                    </ul>
+                    <p>T.S. Guia, informació i assistències
+                    turístiques</p>
+                    <ul>
+                    <li>Guia local.</li>
+                    <li>Guia acompanyant.</li>
+                    <li>Guia en emplaçaments de béns d’interés
+                    cultural.</li>
+                    <li>Informador/a turístic/a.</li>
+                    <li>Cap d’oficines d’informació.</li>
+                    <li>Promotor/a turístic/a.</li>
+                    <li>Tècnic/a d’empresa de consultoria
+                    turística.</li>
+                    <li>Agent de desenvolupament turístic local.</li>
+                    <li>Hostessa/assistent en mitjans de transport
+                    terrestre o marítim.</li>
+                    <li>Assistent en terminals (estacions, ports i
+                    aeroports).</li>
+                    <li>Encarregat/ada de facturació en terminals de
+                    transport.</li>
+                    <li>Assistent en fires, congressos i
+                    convencions.</li>
+                    <li>Encarregat/ada de servicis en
+                    esdeveniments.</li>
+                    </ul>
+                    <p>T.S. Direcció de cuina</p>
+                    <ul>
+                    <li>Director/a d’aliments i begudes.</li>
+                    <li>Director/a de cuina. Cap de producció en
+                    cuina.</li>
+                    <li>Cap de cuina. Segon/a cap de cuina.</li>
+                    <li>Cap d’operacions de càtering.</li>
+                    <li>Cap de partida. Cuiner/a.</li>
+                    <li>Encarregat/ada d’economat i celler.</li>
+                    </ul>
+                    <p>T.S. Direcció de serveis de restauració</p>
+                    <ul>
+                    <li>Director/a d’aliments i begudes.</li>
+                    <li>Supervisor/a de restauració moderna.</li>
+                    <li>Maître.</li>
+                    <li>Cap de sala.</li>
+                    <li>Encarregat/ada de bar-cafeteria.</li>
+                    <li>Cap de banquets.</li>
+                    <li>Cap d’operacions de càtering. Sommelier.</li>
+                    <li>Responsable de compra de begudes.</li>
+                    <li>Encarregat/ada d’economat i celler.</li>
+                    </ul>
+                </main>
+
+                
+            </div>
+        </div>
+
+        <!-- Modal images -->
+        <div id="myModal" class="modal" aria-hidden="true">
+            <img class="modal-content" id="img01" alt="">
+            <div id="caption"></div>
+        </div>
+
+    </div>
+
+    <script>
+        /* Modalización de imágenes (mejorada): */
+        function ModalizeImages() {
+            var modal = document.getElementById("myModal");
+            var modalImg = document.getElementById("img01");
+            var captionText = document.getElementById("caption");
+
+            document.querySelectorAll("main img").forEach(img => {
+                img.style.cursor = "zoom-in";
+                img.addEventListener("click", function () {
+                    modal.style.display = "block";
+                    modal.setAttribute("aria-hidden","false");
+                    modalImg.src = this.src;
+                    modalImg.alt = this.alt || "";
+                    captionText.textContent = this.alt || "";
+                });
+            });
+
+            modal.addEventListener("click", function () {
+                modal.style.display = "none";
+                modal.setAttribute("aria-hidden","true");
+            });
+
+            // Escape para cerrar
+            document.addEventListener("keydown", function(e){
+                if(e.key === "Escape") {
+                    modal.style.display = "none";
+                    modal.setAttribute("aria-hidden","true");
+                }
+            });
+        }
+
+        /* Marcar item de TOC según sección visible */
+        function markItem(id) {
+            document.querySelectorAll("#TOC a").forEach(function(item) {
+                item.classList.remove("navItemSelected");
+            });
+
+            if (!id) return;
+            let items = document.querySelectorAll("#TOC a[href='#" + id + "']");
+            items.forEach(function(item) {
+                item.classList.add("navItemSelected");
+            });
+        }
+
+        /* Observer para resaltar sección activa */
+        var observer = new IntersectionObserver(function(entries) {
+            entries.forEach(function(entry){
+                if (entry.isIntersecting) {
+                    let id = entry.target.id;
+                    markItem(id);
+                }
+            });
+        }, { threshold: [0.25] });
+
+        window.addEventListener("load", function() {
+            document.querySelectorAll("main section[id], main h1[id], main h2[id], main h3[id]").forEach(function(item) {
+                observer.observe(item);
+            });
+
+            document.querySelectorAll("#TOC a").forEach(function(item) {
+                item.addEventListener("click", function(ev) {
+                    // Cuando se hace click en TOC, minimizar si el área es amplia (comportamiento previo)
+                    let toc = document.querySelector("#TOC");
+                    //if (toc && toc.offsetWidth > 10) toc.classList.add("minimizedToc");
+                });
+            });
+
+            // Hover devuelve
+            // var tocEl = document.querySelector("#TOC");
+            // if (tocEl) {
+            //     tocEl.addEventListener("mouseover", function() { tocEl.classList.remove("minimizedToc"); });
+            // }
+
+            ModalizeImages();
+        });
+    </script>
+</body>
+
+</html>

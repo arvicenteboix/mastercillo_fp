@@ -14,7 +14,7 @@ titlepage-background: ../portades/U2.png
 # date: "21-10-2025"
 subject: "Proxmox"
 keywords: [Xarxa, Instal·lació]
-subtitle: "Orientación profesional. Acceso al mundo laboral"
+subtitle: "Orientació professional. Accés al món laboral"
 lang: es
 page-background: img/bg.png
 
@@ -27,8 +27,8 @@ toc-title: Continguts
 toc-depth: 2
 
 # capçalera i peu \thetitle pageref{LastPage}
-header-left: Orientación profesional. Acceso al mundo laboral
-header-right: Curso 2025-2026
+header-left: Orientació professional. Accés al món laboral
+header-right: Curs 2025-2026
 footer-left: CEFIRE FP
 footer-right: \thepage/\pageref{LastPage}
 
@@ -1575,7 +1575,7 @@ Quatre blocs separats:
 
 Exemple de currículum invers:
 
-![Exemple de currículum invers](media/*currinverso.png)
+![Exemple de currículum invers](media/currinverso.png)
 
 **El Currículum per competències i com redactar-lo**
 
@@ -1596,7 +1596,7 @@ tècniques (maneig de programes concrets, carnets etc.).
 
 Exemple de currículum per competències:
 
-![Exemple de currículum per competències](media/*currcomp.png)
+![Exemple de currículum per competències](media/currcomp.png)
 
 **CV en línia.**
 
@@ -2460,7 +2460,7 @@ Llei orgànica 3/2022, de 31 de març, d'ordenació i integració de la Formaci�
 Professional, incorpora canvis que de manera resumida es presenten així:
 
 
-![Canvis FP](media/*canvifp.png)
+![Canvis FP](media/canvifp.png)
 
 
 ### TOTA LA FORMACIÓ PROFESSIONAL AMB CARÀCTER DUAL
@@ -3705,7 +3705,7 @@ destreses en un verdader currículum laboral, la web posa en contacte a milions 
 empreses i empleats.
 
 - [Xing](https://www.xing.com/) - Xarxa professional líder a Alemanya, Àustria i Suïssa, orientada al *networking B2B. 
-- [Viadeo](https://www.viadeo.com/) - Xarxa social professional francesa amb impacte a Espanya (≈720 000 usuaris actius). 
+- [Viadeo](https://www.viadeo.com/) - Xarxa social professional francesa amb impacte a Espanya (720 000 usuaris actius). 
 - [beBee](https://www.bebee.com/) - Plataforma espanyola que connecta professionals per afinitat i interessos comuns. 
 - [Womenalia](https://www.womenalia.com/) - Comunitat centrada en el desenrotllament professional femení, amb recursos i *networking per a dones. 
 - [Meetup](https://www.meetup.com/) - Plataforma d'organització d'esdeveniments i grups per interessos; no publica ofertes d'ocupació però facilita contactes professionals.

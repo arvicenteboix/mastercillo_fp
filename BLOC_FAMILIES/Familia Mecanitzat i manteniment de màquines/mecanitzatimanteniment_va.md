@@ -87,6 +87,7 @@ pandoc-latex-environment:
 ...
 
 
+
 \vspace*{\fill}
 
 \begin{mdframed}[linecolor=gray, linewidth=0.5pt, leftline=true, rightline=false, topline=false, bottomline=false]
@@ -96,18 +97,16 @@ Generalitat Valenciana \\
 Conselleria d’Educació, Investigació, Cultura i Esport \\
 Servei de Formació del Professorat \\
 CEFIRE de Formació Professional \\[1em]
-\textbf{AUTOR VERSIÓN ORIGINAL:} \\
- \\
-\textbf{AUTORES REVISIÓN 25-26:} \\
+\textbf{AUTORS REVISIÓ 25-26:} \\
 Gemma Cerezo Gil\\
 Alfredo Rafael Vicente Boix \\[1em]
-\textbf{MAQUETACIÓN:} \\
+\textbf{MAQUETACIÓ:} \\
 Alfredo Rafael Vicente Boix \\[1em]
-Este material ha sido elaborado bajo una licencia de \\
-Reconocimiento-NoComercial-CompartirIgual 3.0 de Creative Commons. \\[0.5em]
+Este material ha sigut elaborat sota una llicència de \\
+Reconeixement-NoComercial-CompartirIgual 3.0 de Creative Commons. \\[0.5em]
 
 \includegraphics[height=8mm,keepaspectratio]{img/cc.png} \\
-El código fuente del documento se encuentra disponible en:
+El codi font es troba disponible a:
 \url{https://github.com/arvicenteboix/mastercillo_fp}
 }
 \end{mdframed}
@@ -121,15 +120,12 @@ La Formació Professional constituïx en l'actualitat un element
 vertebrador del sistema educatiu i d'ocupació a Espanya, situant-se en
 el centre de les polítiques actives d'aprenentatge al llarg de la vida.
 Sota el marc normatiu establit per la Llei orgànica 3/2022 i la seua
-desenrotllament reglamentari en l'RD 659/2023, es configura un **sistema
-unificat i flexible**, capaç de respondre a les necessitats canviants
-de l'entorn social i productiu.
+desenrotllament reglamentari en l'RD 659/2023, es configura un **sistema unificat i flexible**, capaç de respondre a les necessitats canviants de l'entorn social i productiu.
 
 Des de la perspectiva docent, este model implica un canvi
 significatiu en la concepció de l'ensenyança-aprenentatge. La Formació
 Professional ja no es limita únicament a la transmissió de coneixements
-tècnics, sinó que s'articula entorn de la **adquisició, integració
-i transferència de competències professionals**, enteses com el
+tècnics, sinó que s'articula entorn de la **adquisició, integració i transferència de competències professionals**, enteses com el
 conjunt de coneixements, destreses, habilitats, actituds i valors
 necessaris per a l'exercici qualificat d'una activitat professional,
 en contextos reals i diversos.
@@ -185,13 +181,12 @@ Entre les modalitats destaquen:
  adultes, que compatibilitzen formació amb ocupació o responsabilitats
  personals, mitjançant la combinació d'activitats no presencials i
  sessions presencials, així com recursos tecnològics de suport (encara que
- la normativa estatal posa èmfasi en *modularización, flexibilitat i
+ la normativa estatal posa èmfasi en modularització, flexibilitat i
  ritme personalitzat).
 
 ## Tipologia d'ofertes segons graus
 
-L'RD 659/2023 organitza les ofertes del sistema d'FP en **cinc
-graus** (A, B, C, D i E), la qual cosa estructura de manera clara tot el
+L'RD 659/2023 organitza les ofertes del sistema d'FP en **cinc graus** (A, B, C, D i E), la qual cosa estructura de manera clara tot el
 sistema
 
 - Grau A: Acreditació parcial de competències.
@@ -212,9 +207,7 @@ sistema
 El sistema de Formació Professional a Espanya, d'acord amb el
 establit en el **Reial decret 659/2023**, pel qual s'ordena el
 sistema de Formació Professional, i recollit a nivell autonòmic en el
-**Decret 114/2025** (Comunitat Valenciana), reconeix **tres modalitats
-d'oferta** per als cicles formatius: **presencial, semipresencial i
-virtual (a distància)**.
+**Decret 114/2025** (Comunitat Valenciana), reconeix **tres modalitats d'oferta** per als cicles formatius: **presencial, semipresencial i virtual (a distància)**.
 
 Estes modalitats responen a la necessitat d'oferir una formació
 **flexible, accessible i adaptada a diferents perfils de l'alumnat**,
@@ -283,14 +276,13 @@ recollides en el currículum oficial.
 # Nivells formatius
 
 La Formació Professional s'estructura en diferents nivells de
-qualificació professional, definits en el **Catàleg d'Estàndards de
-Competència**, que servix com a eix vertebrador per a tota l'oferta
+qualificació professional, definits en el **Catàleg d'Estàndards de Competència**, que servix com a eix vertebrador per a tota l'oferta
 formativa del sistema.
 
 **Independentment de la modalitat en la qual s'impartisca** (presencial,
 semipresencial o virtual), l'oferta de Formació Professional es
 organitza en **tres nivells: bàsic, mitjà i superior**, agrupats baix
-la denominació de **Graus D**.
+la denominació de *Graus **.
 
 Esta classificació respon a diferents graus de domini competencial,
 itineraris formatius i eixides tant professionals com acadèmiques. A
@@ -306,9 +298,7 @@ nivells:
 Els cicles de Grau Bàsic estan dirigits a alumnat que necessita una
 via alternativa a l'educació secundària obligatòria convencional, i
 que requerix d'un enfocament més pràctic i adaptat a les seues necessitats
-formatives. La seua finalitat és **afavorir la permanència en el sistema
-educatiu**, reduir l'abandó escolar primerenc i facilitar la
-transició a l'ocupació.
+formatives. La seua finalitat és **afavorir la permanència en el sistema educatiu**, reduir l'abandó escolar primerenc i facilitar la transició a l'ocupació.
 
 **Característiques principals:**
 
@@ -320,7 +310,7 @@ transició a l'ocupació.
 - Permeten obtindre el **Títol Professional Bàsic**, amb efectes
  acadèmics i laborals.
 
-- Faciliten l'accés directe a cicles de **Grau Mitjà** d'esta
+- Faciliten l'accés directe a cicles de *Grau Mtjà** d'esta
  família professional.
 
 - Tenen una duració és de dos cursos.
@@ -360,14 +350,13 @@ postobligatòria.
 - Conduïxen a l'obtenció del **Títol de Tècnic**, amb validesa
  acadèmica i professional.
 
-- Permeten l'accés directe a estudis de **Grau Superior**, una vegada
+- Permeten l'accés directe a estudis de *Grau Sperior**, una vegada
  finalitzat el cicle.
 
 - S'organitzen en **mòduls professionals**, tant teòrics com
  pràctics.
 
-- Poden impartir-se en modalitat **presencial, semipresencial o
- virtual**.
+- Poden impartir-se en modalitat **presencial, semipresencial o virtual**.
 
 - La seua duració també és de dos cursos.
 
@@ -387,13 +376,11 @@ laboral. Formen part de l'educació superior.
 - Permeten l'accés a estudis universitaris, amb possibilitat de
  reconeixement de crèdits *ECTS.
 
-- Inclouen formació en **emprenedoria, digitalització,
- sostenibilitat** i altres aspectes transversals.
+- Inclouen formació en **emprenedoria, digitalització, sostenibilitat** i altres aspectes transversals.
 
 - També incorporen el mòdul de **Formació en Empresa**
 
-- Poden oferir-se en modalitat **presencial, semipresencial o
- virtual**, afavorint així la conciliació laboral i formativa.
+- Poden oferir-se en modalitat **presencial, semipresencial o virtual**, afavorint així la conciliació laboral i formativa.
 
 - La seua duració també és de dos cursos.
 
@@ -523,8 +510,7 @@ poden consultar el següent enllaç:
 
 ## MÒDULS PROFESSIONALS I TITULACIONS ACADÈMIQUES REQUERIDES PER A LA SEUA IMPARTICIÓ
 
-La pàgina web de **Tot FP** i el portal de la **Conselleria d'*Educació,
-Cultura i *Esport** en la seua secció de Formació Professional constituïxen
+La pàgina web de **Tot FP** i el portal de la **Conselleria d'Educació, Cultura i Esport** en la seua secció de Formació Professional constituïxen
 una font viva i actualitzada d'informació, imprescindible per a tots
 els docents. En estos espais es disposa de tota la documentació i
 recursos necessaris per a l'elaboració i desenrotllament d'una programació
@@ -552,12 +538,12 @@ sistema educatiu valencià.
 
 ## LA FAMÍLIA PROFESSIONAL
 
-### LA FAMÍLIA PROFESSIONAL
+### LA FAMÍLIA PROFESSIONAL DE MECANITZAT I MANTENIMENT
 
 La Formació Professional, conforme a la **Llei orgànica 3/2022, de 31 de març, d'ordenació i integració de la Formació Professional**, i el **Reial decret 659/2023, de 18 de juliol**, s'estructura en una sèrie de famílies professionals que agrupen perfils professionals amb característiques afins segons la seua especialització socioproductiva. Existixen actualment 26 famílies a nivell estatal, de les quals en la **Comunitat Valenciana** s'oferixen 25, sent la d'indústries extractives l'únic pendent d'incorporació.
 
 Les famílies professionals i els seus títols poden consultar-se en:
-- [Servici Públic d'Ocupació Estatal (*SEPE)](https://www.sepe.es/contenidos/personas/formacion/certificados_de_profesionalidad/familias_profesionales.html)
+- [Servici Públic d'Ocupació Estatal (SEPE)](https://www.sepe.es/contenidos/personas/formacion/certificados_de_profesionalidad/familias_profesionales.html)
 - [*TodoFP](https://www.todofp.es/sobre-fp/informacion-general.html)
 - [Conselleria d'Educació, Universitats i Ocupació](https://ceice.gva.es/web/formacion-profesional/oferta1)
 
@@ -604,11 +590,11 @@ La normativa que regula la Formació Professional (FP) a Espanya, i concretament
 
 Dins de cada família professional existixen diferents títols i ofertes formatives, amb un component socioproductiu compartit però diverses especialitzacions. Segons la nova estructura normativa establida per la Llei orgànica 3/2022 i l'RD 659/2023, els graus de la FP són:
 
-- *Grau A*: microformacions/acreditacions parcials (30-300 hores certificades)
-- *Grau B*: Certificat de competència professional (equivalent a un mòdul professional)
-- *Grau C*: Certificat professional (diversos mòduls professionals agrupats)
-- *Grau D*: Cicles Formatius: Grau Bàsic, Mitjà, Superior
-- *Grau E*: Cursos d'Especialització
+- Grau A: microformacions/acreditacions parcials (30-300 hores certificades)
+- Grau B: Certificat de competència professional (equivalent a un mòdul professional)
+- Grau C: Certificat professional (diversos mòduls professionals agrupats)
+- Grau D: Cicles Formatius: Grau Bàsic, Mitjà, Superior
+- Grau E: Cursos d'Especialització
 
 En el cas del professorat tècnic de l'especialitat de **Mecanitzat i Manteniment de Màquines**, la docència se centra principalment en l'àrea de màquina ferramenta, sistemes i especialitats afins (segons atribució docent vigent).
 
@@ -703,7 +689,7 @@ temporalitzacions, continguts, etc.
 
 El segon nivell de concreció curricular es troba en el Projecte Educatiu de
 Centre o Projecte Curricular de Cicle Formatiu. En ell es conjuminen les concrecions
-*idiosincráticas contextualitzant el centre educatiu a diversos factors.
+idiosincràtiques contextualitzant el centre educatiu a diversos factors.
 Finalment, i com tercer nivell de concreció curricular, es troba la programació
 d'aula.
 
@@ -1181,14 +1167,16 @@ Esta dotació es revisa periòdicament i s'adapta als canvis legislatius, tecnol
 ## LES INSTRUCCIONS D'INICI DE CURS
 
 Un document amb el qual el docent de qualsevol especialitat de Formació
-Professional ha d'estar molt familiaritzat és el denominat d'instruccions d'inici de
-curs.
+Professional ha d'estar molt familiaritzat és el denominat d'instruccions d'inici de curs.
 En ell es dicten les instruccions pertinents sobre ordenació acadèmica i la
 organització de l'activitat docent.
+
 En el document es regulen una infinitat d'aspectes relatius a l'exercici de la docència,
 que poden variar d'un curs acadèmic a un altre.
+
 Este document es publica a la fi d'un curs acadèmic i dicta les citades
 instruccions que entraran en vigor per a l'inici del següent curs.
+
 Este document es pot consultar a partir de la pàgina WEB de la Conselleria de
 Educació, Investigació, Cultura i Esport.
 
@@ -1263,7 +1251,7 @@ havia plantejat.
 Posem un exemple per a un millor enteniment.
 Després d'una primera presa de contacte amb el torn, l'alumne posa la peça en el
 torn entre plat i punt sense haver realitzat el punt.
-Quan *ésto succeïx, és que la *lineabilidad no ha sigut prou estructurada,
+Quan açò succeïx, és que la lineabilitat no ha sigut prou estructurada,
 no s'han detallat tots i cada un dels passos, i com déiem al principi, hem
 obviat alguna cosa que per a nosaltres, donada la nostra experiència, era obvi.
 
@@ -1300,59 +1288,42 @@ personal a través de la qual l'alumne aprenga a posar-se en distància enfront 
 dificultats i assoliments i, sobretot, estar disposat a treballar sobre projectes a la
 mesura dels alumnes”.
 
-Font: [http://www.scielo.org.ve/scielo.php?script=sci_arttext&*pid=S1316-49102006000200003](http://www.scielo.org.ve/scielo.php?script=sci_arttext&*pid=S1316-49102006000200003)
+Font: [http://www.scielo.org.ve/scielo.php?script=sci_arttext&pid=S1316-49102006000200003](http://www.scielo.org.ve/scielo.php?script=sci_arttext&pid=S1316-49102006000200003)
 
 # BIBLIOGRAFIA I WEBS D'INTERÉS
 
 ## Bibliografia actualitzada - Formació Professional a Espanya (2025)
 
-- *Rial, Antonio & *Rego, Laura (2012). *Formació professional a Espanya: Conquestes de la formació professional a Espanya en els últims vint-i-cinc anys*. Formació XXI (en línia).
-- [*Todofp: FP xifres històriques 2025](https://www.todofp.es/comunes/noticias/2025/fp-cifras-historicas-1-millones-matriculados.html) 
-- [*Exito Educatiu: 1,2 milions de matriculats en FP 2025](https://exitoeducativo.net/la-fp-espanola-alcanza-cifras-historicas-con-mas-de-12-millones-de-matriculados/)
+- Rial, Antonio & Rego, Laura (2012). Formació professional a Espanya: Conquestes de la formació professional a Espanya en els últims vint-i-cinc anys. Formació XXI (en línia).
+- [Todofp: FP xifres històriques 2025](https://www.todofp.es/comunes/noticias/2025/fp-cifras-historicas-1-millones-matriculados.html) 
+- [Exito Educatiu: 1,2 milions de matriculats en FP 2025](https://exitoeducativo.net/la-fp-espanola-alcanza-cifras-historicas-con-mas-de-12-millones-de-matriculados/)
 - Llei orgànica 3/2022, de 31 de març, d'ordenació i integració de la Formació Professional. 
  [BOE](https://www.boe.es/buscar/act.php?id=boe-a-2022-5346)
 - Reial decret 69/2025, de 4 de febrer, pel qual es desenrotlla el Sistema Nacional de Formació Professional. 
  [Text complet en BOE](https://www.boe.es/diario_boe/txt.php?id=boe-a-2025-2039)
-- *CEAC (2025). *Llei FP 2025-26: quines novetats incorpora?* 
- [Blog *CEAC](https://www.ceac.es/blog/formacion-profesional/ley-fp-2024)
-- *STRATEGIK B&F *Consulting (2025). *FP Rànquing 2025, context i novetats després de la nova llei*. 
+- CEAC (2025). Llei FP 2025-26: quines novetats incorpora? 
+ [Blog CEAC](https://www.ceac.es/blog/formacion-profesional/ley-fp-2024)
+- STRATEGIK B&F Consulting (2025). FP Rànquing 2025, context i novetats després de la nova llei. 
  [FP Rànquing 2025](https://strategik.es/fp-ranking-2025/)
-- *ANPE (2024). *La Formació Professional a Espanya: desafiaments i oportunitats en temps de transformació*. 
- [Revista *ANPE](https://revista.anpe.es/la-formacion-profesional-en-espana-desafios-y-oportunidades-en-tiempos-de-transformacion/)
-- *Econosublime (2025). *Atenció a la diversitat en la programació didàctica d'FP*. 
+- ANPE (2024). La Formació Professional a Espanya: desafiaments i oportunitats en temps de transformació. 
+ [Revista ANPE](https://revista.anpe.es/la-formacion-profesional-en-espana-desafios-y-oportunidades-en-tiempos-de-transformacion/)
+- Econosublime (2025). Atenció a la diversitat en la programació didàctica d'FP. 
  [Article actualitzat Octubre 2025](https://www.econosublime.com/2023/05/atencion-la-diversidad-en-la.html)
-- Ministeri de Treball i Economia Social. *Catàleg de certificats de professionalitat i famílies professionals*. 
- [*SEPE - Certificats de professionalitat](https://www.sepe.es/contenidos/personas/formacion/certificados_de_profesionalidad/familias_profesionales.html)
-- *Todofp: *Normativa, títols i famílies professionals*. 
+- Ministeri de Treball i Economia Social. Catàleg de certificats de professionalitat i famílies professionals. 
+ [SEPE - Certificats de professionalitat](https://www.sepe.es/contenidos/personas/formacion/certificados_de_profesionalidad/familias_profesionales.html)
+- Todofp: Normativa, títols i famílies professionals. 
  [Famílies professionals, LOE](https://www.todofp.es/todofp/que-como-y-donde-estudiar/que-estudiar/familias/titulosloe.html) 
  [Normativa sobre ordenació i organització acadèmica](https://ceice.gva.es/es/web/formacion-professional/normativa-sobre-ordenacion-y-organizacion-academica-de-los-ciclos-formativos)
-- Generalitat Valenciana. *Formació Professional i normativa autonòmica*. 
+- Generalitat Valenciana. Formació Professional i normativa autonòmica. 
  [Pàgina oficial FP Comunitat Valenciana](https://ceice.gva.es/es/web/formacion-profesional)
 - [Reial decret 659/2023 desenrotllament FP](https://www.boe.es/eli/es/rd/2023/03/21/659) 
 - [Notícies nova Llei FP](https://www.grupo2000.es/se-publica-en-el-boe-la-nueva-ley-de-la-formacion-profesional/) 
-- [Govern d'Espanya. (2023). *Reial decret 659/2023, de 18 de juliol, pel qual es desenrotlla l'ordenació del Sistema de Formació Professional.* Boletín Oficial del Estado, núm. 172, 22 de juliol de 2023.](https://www.boe.es/buscar/doc.php?id=boe-a-2023-16889)
-- [Generalitat Valenciana. (2025). *Decret 114/2025, de 29 de juliol, del Consell, pel qual s'establixen els currículums dels cicles formatius de grau mitjà i superior de Formació Professional en la Comunitat Valenciana.* Diari Oficial de la Generalitat Valenciana, núm. 10165, 4 d'agost de 2025.](https://dogv.gva.es/datos/2025/08/04/pdf/2025_29742_es.pdf)
-- [Ministeri d'Educació i Formació Professional. (2025). *Catàleg Nacional de Qualificacions Professionals – Família Professional de Transport i Manteniment de Vehicles.* Madrid: Ministeri d'Educació.](https://todofp.es/que-estudiar/familias-profesionales/transporte-mantenimiento-vehiculos.html)
-- [Llei orgànica 3/2022, de 31 de març, d'ordenació i integració de la Formació Professional. *Boletín Oficial del Estado*, núm. 77, 31 de març de 2022.](https://www.boe.es/buscar/doc.php?id=boe-a-2022-4970)
-- [Llei orgànica 2/2006, de 3 de maig, d'Educació (LOE). *Boletín Oficial del Estado*, núm. 106, 4 de maig de 2006.](https://www.boe.es/buscar/doc.php?id=boe-a-2006-7899)
-- [Govern d'Espanya. (2025). *Reial decret 209/2025, de 18 de març, pel qual es regulen aspectes específics dels graus A, B i C de Formació Professional per a la família professional d'Instal·lació i Manteniment*. Boletín Oficial del Estado, núm. 69, 22 d'abril de 2025.](https://www.boe.es/diario_boe/txt.php?id=boe-a-2025-6699)
-- [Govern d'Espanya. (2025). *Reial decret 208/2025, de 18 de març, pel qual es regulen aspectes específics dels graus A, B i C de Formació Professional per a la família professional de Fabricació Mecànica*. Boletín Oficial del Estado, núm. 74, 27 d'abril de 2025.](https://www.boe.es/diario_boe/txt.php?id=boe-a-2025-7040)
-- *Reial decret 618/2013, de 2 d'agost, pel qual s'establixen quatre certificats de professionalitat de la família professional de Fabricació Mecànica i s'actualitzen uns altres*. Boletín Oficial del Estado, núm. 188, 13 de setembre de 2013. https://www.boe.es/diario_boe/txt.php?id=boe-a-2013-9535
-- *Reial decret 1216/2009, de 17 de juliol, pel qual s'establixen els certificats de professionalitat de la família professional d'Instal·lació i Manteniment*. Boletín Oficial del Estado, núm. 202, 20 d'agost de 2009. https://www.boe.es/diario_boe/txt.php?id=boe-a-2009-13521
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- [Govern d'Espanya. (2023). Reial decret 659/2023, de 18 de juliol, pel qual es desenrotlla l'ordenació del Sistema de Formació Professional. Boletín Oficial del Estado, núm. 172, 22 de juliol de 2023.](https://www.boe.es/buscar/doc.php?id=boe-a-2023-16889)
+- [Generalitat Valenciana. (2025). Decret 114/2025, de 29 de juliol, del Consell, pel qual s'establixen els currículums dels cicles formatius de grau mitjà i superior de Formació Professional en la Comunitat Valenciana. Diari Oficial de la Generalitat Valenciana, núm. 10165, 4 d'agost de 2025.](https://dogv.gva.es/datos/2025/08/04/pdf/2025_29742_es.pdf)
+- [Ministeri d'Educació i Formació Professional. (2025). Catàleg Nacional de Qualificacions Professionals – Família Professional de Transport i Manteniment de Vehicles. Madrid: Ministeri d'Educació.](https://todofp.es/que-estudiar/familias-profesionales/transporte-mantenimiento-vehiculos.html)
+- [Llei orgànica 3/2022, de 31 de març, d'ordenació i integració de la Formació Professional. Boletín Oficial del Estado, núm. 77, 31 de març de 2022.](https://www.boe.es/buscar/doc.php?id=boe-a-2022-4970)
+- [Llei orgànica 2/2006, de 3 de maig, d'Educació (LOE). Boletín Oficial del Estado, núm. 106, 4 de maig de 2006.](https://www.boe.es/buscar/doc.php?id=boe-a-2006-7899)
+- [Govern d'Espanya. (2025). Reial decret 209/2025, de 18 de març, pel qual es regulen aspectes específics dels graus A, B i C de Formació Professional per a la família professional d'Instal·lació i Manteniment. Boletín Oficial del Estado, núm. 69, 22 d'abril de 2025.](https://www.boe.es/diario_boe/txt.php?id=boe-a-2025-6699)
+- [Govern d'Espanya. (2025). Reial decret 208/2025, de 18 de març, pel qual es regulen aspectes específics dels graus A, B i C de Formació Professional per a la família professional de Fabricació Mecànica. Boletín Oficial del Estado, núm. 74, 27 d'abril de 2025.](https://www.boe.es/diario_boe/txt.php?id=boe-a-2025-7040)
+- Reial decret 618/2013, de 2 d'agost, pel qual s'establixen quatre certificats de professionalitat de la família professional de Fabricació Mecànica i s'actualitzen uns altres. Boletín Oficial del Estado, núm. 188, 13 de setembre de 2013. https://www.boe.es/diario_boe/txt.php?id=boe-a-2013-9535
+- Reial decret 1216/2009, de 17 de juliol, pel qual s'establixen els certificats de professionalitat de la família professional d'Instal·lació i Manteniment. Boletín Oficial del Estado, núm. 202, 20 d'agost de 2009. https://www.boe.es/diario_boe/txt.php?id=boe-a-2009-13521

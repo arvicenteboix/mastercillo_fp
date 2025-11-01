@@ -185,13 +185,12 @@ Entre les modalitats destaquen:
  adultes, que compatibilitzen formació amb ocupació o responsabilitats
  personals, mitjançant la combinació d'activitats no presencials i
  sessions presencials, així com recursos tecnològics de suport (encara que
- la normativa estatal posa èmfasi en *modularización, flexibilitat i
+ la normativa estatal posa èmfasi en modularització, flexibilitat i
  ritme personalitzat).
 
 ## Tipologia d'ofertes segons graus
 
-L'RD 659/2023 organitza les ofertes del sistema d'FP en **cinc
-graus** (A, B, C, D i E), la qual cosa estructura de manera clara tot el
+L'RD 659/2023 organitza les ofertes del sistema d'FP en **cinc graus** (A, B, C, D i E), la qual cosa estructura de manera clara tot el
 sistema
 
 - Grau A: Acreditació parcial de competències.
@@ -212,9 +211,7 @@ sistema
 El sistema de Formació Professional a Espanya, d'acord amb el
 establit en el **Reial decret 659/2023**, pel qual s'ordena el
 sistema de Formació Professional, i recollit a nivell autonòmic en el
-**Decret 114/2025** (Comunitat Valenciana), reconeix **tres modalitats
-d'oferta** per als cicles formatius: **presencial, semipresencial i
-virtual (a distància)**.
+**Decret 114/2025** (Comunitat Valenciana), reconeix **tres modalitats d'oferta** per als cicles formatius: **presencial, semipresencial i virtual (a distància)**.
 
 Estes modalitats responen a la necessitat d'oferir una formació
 **flexible, accessible i adaptada a diferents perfils de l'alumnat**,
@@ -283,8 +280,7 @@ recollides en el currículum oficial.
 # Nivells formatius
 
 La Formació Professional s'estructura en diferents nivells de
-qualificació professional, definits en el **Catàleg d'Estàndards de
-Competència**, que servix com a eix vertebrador per a tota l'oferta
+qualificació professional, definits en el **Catàleg d'Estàndards de Competència**, que servix com a eix vertebrador per a tota l'oferta
 formativa del sistema.
 
 **Independentment de la modalitat en la qual s'impartisca** (presencial,
@@ -350,8 +346,7 @@ d) Projecte intermodular d'aprenentatge col·laboratiu vinculat a els
 
 Els cicles de Grau Mitjà estan dirigits a alumnat que ha superat la
 Educació Secundària Obligatòria o que ha obtingut el títol de
-Professional Bàsic. Estos cicles proporcionen la **qualificació
-necessària per a l'acompliment d'una professió tècnica** en un entorn
+Professional Bàsic. Estos cicles proporcionen la **qualificació necessària per a l'acompliment d'una professió tècnica** en un entorn
 productiu concret. Formen part de l'educació secundària
 postobligatòria.
 
@@ -366,8 +361,7 @@ postobligatòria.
 - S'organitzen en **mòduls professionals**, tant teòrics com
  pràctics.
 
-- Poden impartir-se en modalitat **presencial, semipresencial o
- virtual**.
+- Poden impartir-se en modalitat **presencial, semipresencial o virtual**.
 
 - La seua duració també és de dos cursos.
 
@@ -375,8 +369,7 @@ postobligatòria.
 
 **Nivell 3 del Catàleg d'Estàndards de Competència**
 
-Els cicles de Grau Superior estan orientats a la **especialització
-professional avançada**, i capaciten a l'alumnat per a desenrotllar
+Els cicles de Grau Superior estan orientats a la **especialització professional avançada**, i capaciten a l'alumnat per a desenrotllar
 funcions de major complexitat tècnica i de responsabilitat en l'àmbit
 laboral. Formen part de l'educació superior.
 
@@ -384,16 +377,13 @@ laboral. Formen part de l'educació superior.
 
 - Conduïxen al **Títol de Tècnic Superior**.
 
-- Permeten l'accés a estudis universitaris, amb possibilitat de
- reconeixement de crèdits *ECTS.
+- Permeten l'accés a estudis universitaris, amb possibilitat de reconeixement de crèdits ECTS.
 
-- Inclouen formació en **emprenedoria, digitalització,
- sostenibilitat** i altres aspectes transversals.
+- Inclouen formació en **emprenedoria, digitalització, sostenibilitat** i altres aspectes transversals.
 
 - També incorporen el mòdul de **Formació en Empresa**
 
-- Poden oferir-se en modalitat **presencial, semipresencial o
- virtual**, afavorint així la conciliació laboral i formativa.
+- Poden oferir-se en modalitat **presencial, semipresencial o virtual**, afavorint així la conciliació laboral i formativa.
 
 - La seua duració també és de dos cursos.
 
@@ -431,8 +421,7 @@ destinataris del paràgraf
  maig, d'Educació, el compliment simultani dels següents
  requisits:
 
- a) Tindre compliments quinze anys, o complir-los durant l'any natural en
- curs.
+ a) Tindre compliments quinze anys, o complir-los durant l'any natural en curs.
 
  b) Haver cursat el tercer curs o, excepcionalment i a criteri del
  equip docent i el responsable de l'orientació en el centre, el
@@ -455,17 +444,13 @@ destinataris del paràgraf
 1. Per a l'accés als cicles formatius de grau mitjà es precisarà el
 compliment d'un dels següents requisits:
 
- a) Estar en possessió del títol de graduat en Educació Secundària
- Obligatòria.
+ a) Estar en possessió del títol de graduat en Educació Secundària Obligatòria.
 
  b) Estar en possessió del títol de Tècnic Bàsic o de Tècnic.
 
- c) Haver superat una oferta formativa de Grau C inclosa en el cicle
- formatiu.
+ c) Haver superat una oferta formativa de Grau C inclosa en el cicle formatiu.
 
- d) Haver superat un curs de formació específic preparatori i
- gratuït per a l'accés a cicles formatius de grau mitjà en centres
- expressament autoritzats per l'Administració educativa.
+ d) Haver superat un curs de formació específic preparatori i gratuït per a l'accés a cicles formatius de grau mitjà en centres expressament autoritzats per l'Administració educativa.
 
  e) Haver superat una prova d'accés.
 
@@ -474,8 +459,7 @@ compliment d'un dels següents requisits:
 1. Per a l'accés als cicles formatius de grau superior es precisarà
 el compliment d'un dels següents requisits:
 
- a) Posseir el títol de Tècnic de Grau Mitjà de Formació Professional o
- el títol de Tècnic o Tècnica d'Arts Plàstiques i Disseny.
+ a) Posseir el títol de Tècnic de Grau Mitjà de Formació Professional o el títol de Tècnic o Tècnica d'Arts Plàstiques i Disseny.
 
  b) Posseir el títol de Batxiller.
 
@@ -509,7 +493,7 @@ A cada mòdul formatiu li correspon una fixació horària que es
 distribuïx en hores setmanals. Els dies de la setmana que s'impartixen
 estes hores són flexibles i venen determinats per cada centre
 educatiu. En els quadres horaris s'indica els mòduls susceptibles de
-doblatge (*DT) i també els mòduls que poden ser impartits,
+doblatge (DT) i també els mòduls que poden ser impartits,
 indistintament, per un altre docent d'una altra especialitat.
 
 La seqüenciació dels mòduls i l'horari dels diferents cicles de
@@ -551,18 +535,14 @@ sistema educatiu valencià.
 ## LA FAMÍLIA PROFESSIONAL 
 
 La família professional de **Activitats Fisicoesportives** abasta un
-conjunt d'activitats orientades a la **promoció de l'activitat
-física, l'esport, la salut i l'oci actiu**, a través de la
+conjunt d'activitats orientades a la **promoció de l'activitat física, l'esport, la salut i l'oci actiu**, a través de la
 planificació, organització i desenrotllament de programes esportius i
 recreatius per a diferents grups de població. El seu àmbit d'actuació
 s'estructura en diverses àrees: la **ensenyança i animació esportiva**,
-la **direcció i entrenament d'equips o esportistes**, la **gestió
-d'instal·lacions i esdeveniments esportius** i la **promoció d'hàbits de
-vida saludables** en diferents contextos socials i educatius. 
+la **direcció i entrenament d'equips o esportistes**, la **gestió d'instal·lacions i esdeveniments esportius** i la **promoció d'hàbits de vida saludables** en diferents contextos socials i educatius. 
 
 En la **Comunitat Valenciana**, esta família professional té una
-presència destacada gràcies a l'àmplia xarxa de **instal·lacions
-esportives, clubs, federacions i empreses de servicis esportius**.
+presència destacada gràcies a l'àmplia xarxa de **instal·lacions esportives, clubs, federacions i empreses de servicis esportius**.
 L'esport i l'activitat física representen un sector en creixement
 constant, vinculat tant al rendiment esportiu com al turisme
 actiu i la salut. Ciutats com **València, Alacant i Castelló**
@@ -573,29 +553,21 @@ d'activitats a l'aire lliure---. A més, la Comunitat Valenciana és seu
 de nombrosos **esdeveniments esportius nacionals i internacionals**, que
 contribuïxen al desenrotllament econòmic i social del territori. 
 
-Esta sòlida implantació del sector es reflectix també en la **oferta
-educativa**, amb **cicles formatius de Grau Mitjà i Grau Superior**
+Esta sòlida implantació del sector es reflectix també en la **oferta educativa**, amb **cicles formatius de Grau Mitjà i Grau Superior**
 que s'impartixen en diferents localitats de la regió. Els principals
-títols abasten àmbits com la **ensenyança i animació socioesportiva,
-la direcció tècnica esportiva i el condicionament físic**, la qual cosa
+títols abasten àmbits com la **ensenyança i animació socioesportiva, la direcció tècnica esportiva i el condicionament físic**, la qual cosa
 permet formar professionals versàtils i adaptats a les demandes del
-mercat. A més, la col·laboració amb **ajuntaments, federacions i
-empreses del sector esportiu** afavorix una formació pràctica i
-estretament vinculada a la realitat professional. 
+mercat. A més, la col·laboració amb **ajuntaments, federacions i empreses del sector esportiu** afavorix una formació pràctica i estretament vinculada a la realitat professional. 
 
 El sector de les activitats fisicoesportives ha experimentat en els
 últims anys una notable transformació impulsada per la
-**digitalització, la innovació tecnològica i la consciència sobre la
-salut i el benestar**. La incorporació de ferramentes digitals per a
+**digitalització, la innovació tecnològica i la consciència sobre la salut i el benestar**. La incorporació de ferramentes digitals per a
 l'entrenament, el monitoratge del rendiment, les aplicacions de
 gestió esportiva o l'auge d'activitats a l'aire lliure i sostenibles
 són alguns dels canvis més destacats. Estos avanços han modificat
-els perfils professionals, que hui demanden **major competència
-digital, habilitats comunicatives i capacitat per a adaptar la pràctica
-esportiva a diferents contextos i públics**. En este marc, la
+els perfils professionals, que hui demanden **major competència digital, habilitats comunicatives i capacitat per a adaptar la pràctica esportiva a diferents contextos i públics**. En este marc, la
 **Formació Professional** s'actualitza de manera contínua, incorporant
-**continguts sobre noves metodologies d'entrenament, seguretat,
-inclusió i salut**, amb l'objectiu de garantir una formació de
+**continguts sobre noves metodologies d'entrenament, seguretat, inclusió i salut**, amb l'objectiu de garantir una formació de
 qualitat i ajustada a les necessitats del sector. 
 
 ## OFERTA FORMATIVA 
@@ -667,22 +639,16 @@ professional de **Activitats Físiques i Esportives**, i en compliment
 dels criteris de qualitat i especialització establits per la
 normativa vigent en matèria d'ensenyances esportives de règim
 especial, la **Conselleria d'*Educació** ha subscrit convenis de
-col·laboració amb diverses **federacions esportives autonòmiques i
-nacionals**. Entre elles es troben la **Federació d'Esgrima de la
-Comunitat Valenciana**, la **Federació d'Hípica**, la **Federació de
-Vela** i la **Federació d'Esports de Muntanya i Escalada de la
-Comunitat Valenciana (*FEMECV)**. 
+col·laboració amb diverses **federacions esportives autonòmiques i nacionals**. Entre elles es troben la **Federació d'Esgrima de la Comunitat Valenciana**, la **Federació d'Hípica**, la **Federació de Vela** i la **Federació d'Esports de Muntanya i Escalada de la Comunitat Valenciana (FEMECV)**. 
 
 L'objecte d'estos convenis és permetre que estes federacions assumisquen
-la **impartició dels blocs específics de les ensenyances
-esportives** en les seues respectives modalitats, atés que l'administració
+la **impartició dels blocs específics de les ensenyances esportives** en les seues respectives modalitats, atés que l'administració
 autonòmica no disposa actualment de la infraestructura tècnica,
 instal·lacions ni equipament específic necessaris per a garantir una
 formació de qualitat i amb les degudes condicions de seguretat, que
 responga als estàndards exigits pel sistema educatiu. 
 
-Esta col·laboració públic-privada té com a finalitat **garantir la
-qualitat formativa, tècnica i pedagògica** de l'alumnat inscrit en estes
+Esta col·laboració públic-privada té com a finalitat **garantir la qualitat formativa, tècnica i pedagògica** de l'alumnat inscrit en estes
 titulacions, mitjançant l'aprofitament dels recursos humans i
 materials especialitzats que posseïxen les federacions esportives,
 entitats reconegudes oficialment com a col·laboradors necessaris en la
@@ -696,8 +662,7 @@ corresponents a disciplines com el **Piragüisme**, el **Judo** i la
 **Defensa Personal**, la implantació del qual està prevista al llarg de la
 present dècada. 
 
-Cal destacar que estes ensenyances estan adscrites al **Centre Integrat
-Público de Formació Professional (*CIPFP) de Cheste**, que actua com
+Cal destacar que estes ensenyances estan adscrites al **Centre Integrat Público de Formació Professional (CIPFP) de Cheste**, que actua com
 centre de referència autonòmic per a la gestió i coordinació de les
 ensenyances esportives de règim especial a la Comunitat Valenciana. 
 

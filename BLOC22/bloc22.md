@@ -23,7 +23,7 @@ linkcolor: "blue"
 
 # configuració de l'índex
 toc-own-page: true
-toc-title: Continguts
+toc-title: Contenidos
 toc-depth: 2
 
 # capçalera i peu \thetitle
@@ -337,7 +337,7 @@ La organización de los contenidos formativos varía en función del grado:
 * En los Grados B, C, D y E, la formación se estructura en módulos profesionales de duración variable, basados en estándares completos de competencia profesional, de acuerdo con el marco común establecido por el Sistema de Formación Profesional, que unifica la formación del sistema educativo y la formación para el empleo. 
 
 :::note
-Pudéis encontrar más información sobre la Formación Profesional en la web oficial:
+Podéis encontrar más información sobre la Formación Profesional en la web oficial:
 
 [Inicio - TodoFP | Ministerio de Educación, Formación Profesional y Deportes](https://www.todofp.es/inicio.html) 
 :::
@@ -519,7 +519,7 @@ f) Los diferentes planes y programas establecidos por la Administración educati
 
 g) Otros aspectos que determine la Administración educativa en el ámbito de sus competencias. 
 
-En el caso de Centros Integrados, el Proyecto Funcional del Centro recoge las directrices que emanan de estos dos documentos, describe las condiciones del contexto, tanto de forma territorial como sectorial, y fija los elementos esenciales que deben orientar la actuación estratégica del Centro en los próximos años. Especificará, entre otros, los siguientes elementos8: 
+En el caso de Centros Integrados, el Proyecto Funcional del Centro recoge las directrices que emanan de estos dos documentos, describe las condiciones del contexto, tanto de forma territorial como sectorial, y fija los elementos esenciales que deben orientar la actuación estratégica del Centro en los próximos años. Especificará, entre otros, los siguientes elementos: 
 
 a) Las directrices del consejo social en las que se basa. 
 
@@ -2269,231 +2269,232 @@ Esta tabla resume la normativa actualizada y que sustituye a partes o normativas
 
 # BIBLIOGRAFÍA Y FUENTES CONSULTADAS
 
-- [Publicada la Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación Profesional.](https://anpecomunidadvalenciana.es/notices/165820/Publicada-la-Ley-Org%C3%A1nica-32022,-de-31-de-marzo,-de-ordenaci%C3%B3n-e-integraci%C3%B3n-de-la-Formaci%C3%B3n-Profesional.)  
-Ley que crea un sistema integrado y renovado de Formación Profesional para responder a las necesidades del mercado laboral y formación continua.
 
-- [Ley Orgánica de Formación Profesional](https://www.todofp.es/comunidad-docente/normativa/normativa-estatal/leyes-organicas-educativas.html)  
-Normativa estatal que regula la ordenación y estructura general de la Formación Profesional en España.
+- [Publicada la Llei orgànica 3/2022, de 31 de març, d'ordenació i integració de la Formació Professional.](https://anpecomunidadvalenciana.es/notices/165820/publicada-la-ley-org%C3%A1nica-32022,-de-31-de-març,-de-ordenaci%C3%B3n-i-integraci%C3%B3n-de-la-Formaci%C3%B3n-Professional.) 
+Llei que crea un sistema integrat i renovat de Formació Professional per a respondre a les necessitats del mercat laboral i formació contínua.
 
-- [Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación Profesional.](https://www.boe.es/buscar/act.php?id=BOE-A-2022-5139)  
-Ley que actualiza y moderniza el sistema de Formación Profesional, sustituyendo la normativa anterior y estableciendo el marco básico actual.
+- [Llei orgànica de Formació Professional](https://www.todofp.es/comunidad-docente/normativa/normativa-estatal/leyes-organicas-educativas.html) 
+Normativa estatal que regula l'ordenació i estructura general de la Formació Professional a Espanya.
 
-- [LOMLOE (2020) - educaweb.com](https://www.educaweb.com/contenidos/educativos/sistema-educativo/leyes-educacion-estatales/lomloe-2020/)  
-Explicación de la Ley Orgánica 3/2020, que reforma el sistema educativo general, marcando el marco legal para la FP.
+- [Llei orgànica 3/2022, de 31 de març, d'ordenació i integració de la Formació Professional.](https://www.boe.es/buscar/act.php?id=boe-a-2022-5139) 
+Llei que actualitza i modernitza el sistema de Formació Professional, substituint la normativa anterior i establint el marc bàsic actual.
 
-- [LOMLOE: Nueva ley de educación - Biblioteca de Educación](https://www.educacionyfp.gob.es/biblioteca-central/blog/2022/lomloe.html)  
-Descripción y análisis de la ley que regula la educación general, con prioridad en la equidad y calidad educativa.
+- [LOMLOE (2020) - educaweb.com](https://www.educaweb.com/contenidos/educativos/sistema-educativo/leyes-educacion-estatales/lomloe-2020/) 
+Explicació de la Llei orgànica 3/2020, que reforma el sistema educatiu general, marcant el marc legal per a la FP.
 
-- [Nuevos Elementos y Estructura en la Formación Profesional](https://todofp.es/sobre-fp/informacion-general/elementos-estructura-formacion-profesional.html)  
-Análisis de la reorganización de la FP con un sistema modular de 5 grados y la integración del modelo dual.
+- [LOMLOE: Nova llei d'educació - Biblioteca d'Educació](https://www.educacionyfp.gob.es/biblioteca-central/blog/2022/lomloe.html) 
+Descripció i anàlisi de la llei que regula l'educació general, amb prioritat en l'equitat i qualitat educativa.
 
-- [Implantación de la nueva Ley de Formación Profesional. Curso 2024-2025.](https://www.educa.jccm.es/es/fpclm/implantacion-nueva-ley-formacion-profesional-curso-2024-202)  
-Proceso y fases de implantación de la ley desde el curso 2024, con enfoque en la FP Dual y homologación nacional.
+- [Nous Elements i Estructura en la Formació Professional](https://todofp.es/sobre-fp/informacion-general/elementos-estructura-formacion-profesional.html) 
+Anàlisi de la reorganització de la FP amb un sistema modular de 5 graus i la integració del model dual.
 
-- [Publicado el Real Decreto de Ordenación del Sistema de Formación Profesional](https://www.todofp.es/gl/comunes/noticias/2023/noticia24072023-realdecreto659.html)  
-Normativa que desarrolla la ordenación del sistema y estructura curricular de la Formación Profesional en España.
+- [Implantació de la nova Llei de Formació Professional. Curs 2024-2025.](https://www.educa.jccm.es/es/fpclm/implantacion-nueva-ley-formacion-profesional-curso-2024-202) 
+Procés i fases d'implantació de la llei des del curs 2024, amb enfocament en l'FP Dual i homologació nacional.
 
-- [BOE-A-2025-2039 Real Decreto 69/2025, de 4 de febrero, por el que se regulan los títulos de FP](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-2039)  
-Real Decreto que establece modificaciones en los títulos de Formación Profesional y su regulación para 2025.
+- [Publicat el Reial decret d'Ordenació del Sistema de Formació Professional](https://www.todofp.es/gl/comunes/noticias/2023/noticia24072023-realdecreto659.html) 
+Normativa que desenrotlla l'ordenació del sistema i estructura curricular de la Formació Professional a Espanya.
 
-- [Nuevo Real Decreto 69/2025 sobre Formación Profesional](https://www.ideaspropiaseditorial.com/blog/novedades-real-decreto-69-2025/)  
-Análisis y resumen de las novedades legislativas para la formación profesional en el Real Decreto 69/2025.
+- [BOE-A-2025-2039 Reial decret 69/2025, de 4 de febrer, pel qual es regulen els títols d'FP](https://www.boe.es/buscar/doc.php?id=boe-a-2025-2039) 
+Reial decret que establix modificacions en els títols de Formació Professional i la seua regulació per a 2025.
 
-- [Los nuevos códigos de la Formación Profesional](https://www.ideaspropiaseditorial.com/blog/nuevos-codigos-de-la-formacion-profesional/)  
-Explicación sobre la actualización y asignación de nuevos códigos a los títulos y certificados de FP.
+- [Nou Reial decret 69/2025 sobre Formació Professional](https://www.ideaspropiaseditorial.com/blog/novedades-real-decreto-69-2025/) 
+Anàlisi i resum de les novetats legislatives per a la formació professional en el Reial decret 69/2025.
 
-- [El Catálogo Nacional de Estándares de Competencias Profesionales (CNECP) - Web INCUAL - Educación](https://incual.educacion.gob.es/bdc)  
-Plataforma oficial del Catálogo Nacional que organiza las competencias profesionales de FP.
+- [Els nous codis de la Formació Professional](https://www.ideaspropiaseditorial.com/blog/nuevos-codigos-de-la-formacion-profesional/) 
+Explicació sobre l'actualització i assignació de nous codis als títols i certificats d'FP.
 
-- [BOE-A-2025-13147 Real Decreto 532/2025 sobre ordenación de módulos formativos](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-13147)  
-Decreto que regula la estructura y organización de los módulos profesionales en FP.
+- [El Catàleg Nacional d'Estàndards de Competències Professionals (CNECP) - Web INCUAL - Educació](https://incual.educacion.gob.es/bdc) 
+Plataforma oficial del Catàleg Nacional que organitza les competències professionals d'FP.
 
-- [Niveles (o grados) de competencia profesional según la Ley de Formación Profesional](https://cifp.es/index.php?option=com_content&view=article&id=689&Itemid=463)  
-Descripción de los cinco grados (A, B, C, D y E) que organizan la FP en España.
+- [BOE-A-2025-13147 Reial decret 532/2025 sobre ordenació de mòduls formatius](https://www.boe.es/diario_boe/txt.php?id=boe-a-2025-13147) 
+Decret que regula l'estructura i organització dels mòduls professionals en FP.
 
-- [Nueva Ley de la Formación Profesional: todo lo que debes saber](https://www.grupo2000.es/se-publica-en-el-boe-la-nueva-ley-de-la-formacion-profesional/)  
-Guía explicativa de los principales cambios introducidos por la Ley Orgánica 3/2022.
+- [Nivells (o graus) de competència professional segons la Llei de Formació Professional](https://cifp.es/index.php?option=com_content&view=article&aneu=689&Itemid=463) 
+Descripció dels cinc graus (A, B, C, D i E) que organitzen l'FP a Espanya.
 
-- [Ley de FP 2024-25: ¿qué novedades incorpora? - CEAC](https://www.ceac.es/blog/formacion-profesional/ley-fp-2024)  
-Descripción de la modernización estructural y normativa en FP para el curso 2024-25.
+- [Nova Llei de la Formació Professional: tot el que has de saber](https://www.grupo2000.es/se-publica-en-el-boe-la-nueva-ley-de-la-formacion-profesional/) 
+Guia explicativa dels principals canvis introduïts per la Llei orgànica 3/2022.
 
-- [ORDE 79/2010, de 27 d'agost, de la Conselleria d'Educació](https://www.ciclosformativosceu.es/docs/normativa/orden-79-2010-evaluacion-alumnado-fp.pdf)  
-Orden que regula los criterios y procedimientos de evaluación para FP en la Comunitat Valenciana.
+- [Llei d'FP 2024-25: quines novetats incorpora? - CEAC](https://www.ceac.es/blog/formacion-profesional/ley-fp-2024) 
+Descripció de la modernització estructural i normativa en FP per al curs 2024-25.
 
-- [Evaluación - Formación Profesional - Generalitat Valenciana](https://ceice.gva.es/es/web/formacion-profesional/avaluacio)  
-Página oficial con normativa y criterios de evaluación en la FP para la Comunitat Valenciana.
+- [ORDE 79/2010, de 27 d'agost, de la Conselleria d'Educació](https://www.ciclosformativosceu.es/docs/normativa/orden-79-2010-evaluacion-alumnado-fp.pdf) 
+Orde que regula els criteris i procediments d'avaluació per a fP en la Comunitat Valenciana.
 
-- [Orden 8/2025 - Resultado DOGV - Generalitat Valenciana](https://dogv.gva.es/es/resultat-dogv?signatura=2025%2F13083)  
-Orden que establece el modelo de evaluación, promoción y titulación en FP para 2025.
+- [Avaluació - Formació Professional - Generalitat Valenciana](https://ceice.gva.es/es/web/formacion-profesional/avaluacio) 
+Pàgina oficial amb normativa i criteris d'avaluació en l'FP per a la Comunitat Valenciana.
 
-- [Publicada la Orden de Evaluación en ciclos formativos y cursos de especialización](https://anpecomunidadvalenciana.es/notices/194605/Publicada-la-Orden-de-Evaluaci%C3%B3n-en-ciclos-formativos-y-cursos-de-especializaci%C3%B3n)  
-Texto oficial que regula la evaluación en ciclos formativos y cursos de especialización en FP.
+- [Orde 8/2025 - Resultat DOGV - Generalitat Valenciana](https://dogv.gva.es/es/resultat-dogv?signatura=2025%2F13083) 
+Orde que establix el model d'avaluació, promoció i titulació en FP per a 2025.
 
-- [Cómo EVALUAR en FP Dual (Nueva ley de FP) — YouTube](https://www.youtube.com/watch?v=yboaMn3biUc)  
-Vídeo explicativo sobre evaluación en la FP Dual conforme a la nueva legislación.
+- [Publicada l'Orde d'Avaluació en cicles formatius i cursos d'especialització](https://anpecomunidadvalenciana.es/notices/194605/publicada-la-orden-de-evaluaci%C3%B3n-en-cicles-formatius-i-cursos-de-especializaci%C3%B3n) 
+Text oficial que regula l'avaluació en cicles formatius i cursos d'especialització en FP.
 
-- [NUEVA ORDEN en la CV: la EVALUACIÓN en la FP — YouTube](https://www.youtube.com/watch?v=ea-xq1ONE4I)  
-Vídeo informativo de la nueva orden autonómica sobre evaluación en FP en Comunitat Valenciana.
+- [Com AVALUAR en FP Dual (Nova llei d'FP) — YouTube](https://www.youtube.com/watch?v=yboamn3biuc) 
+Vídeo explicatiu sobre avaluació en l'FP Dual conforme a la nova legislació.
 
-- [Aspectos normativos - Formación Profesional](https://ceice.gva.es/es/web/formacion-profesional/normativa-sobre-ordenacion-y-organizacion-academica-de-los-ciclos-formativos)  
-Página oficial con normativa vigente sobre la ordenación de ciclos formativos de FP.
+- [NOVA ORDE en la CV: l'AVALUACIÓ en l'FP — YouTube](https://www.youtube.com/watch?v=ea-xq1one4i) 
+Vídeo informatiu de la nova orde autonòmica sobre avaluació en FP en Comunitat Valenciana.
 
-- [DECRETO 114/2025, de 29 de julio, del Consell, por el que se establecen los currículos de los ciclos formativos de grado medio y superior de Formación Profesional - DOGV](https://dogv.gva.es/es/resultat-dogv?signatura=2025%2F29742)  
-Establece los nuevos currículos para los ciclos formativos de FP en la Comunitat Valenciana actualizados al marco estatal.
+- [Aspectes normatius - Formació Professional](https://ceice.gva.es/es/web/formacion-profesional/normativa-sobre-ordenacion-y-organizacion-academica-de-los-ciclos-formativos) 
+Pàgina oficial amb normativa vigent sobre l'ordenació de cicles formatius d'FP.
 
-- [Decreto de currículos de los ciclos formativos de grado medio y de grado superior de Formación Profesional](https://www.anpecomunidadvalenciana.es/notices/196975/Decreto-de-curr%C3%ADculos-de-los-ciclos-formativos-de-grado-medio-y-de-grado-superior-de-Formaci%C3%B3n-Profesional)  
-Texto oficial que desarrolla y actualiza la estructura curricular para FP en dos niveles formativos.
+- [DECRET 114/2025, de 29 de juliol, del Consell, pel qual s'establixen els currículums dels cicles formatius de grau mitjà i superior de Formació Professional - DOGV](https://dogv.gva.es/es/resultat-dogv?signatura=2025%2F29742) 
+Establix els nous currículums per als cicles formatius d'FP en la Comunitat Valenciana actualitzats al marc estatal.
 
-- [El Consell adapta los ciclos de FP a la nueva ley estatal](https://valencianews.es/comunidad-valenciana/adaptacion-ciclos-fp-comunitat-valenciana/)  
-Noticia sobre la adecuación y actualización de los planes de estudios de FP a la legislación estatal vigente.
+- [Decret de currículums dels cicles formatius de grau mitjà i de grau superior de Formació Professional](https://www.anpecomunidadvalenciana.es/notices/196975/decreto-de-curr%C3%ADculos-de-els-cicles-formatius-de-grau-mitjà-i-de-grau-superior-de-Formaci%C3%B3n-Professional) 
+Text oficial que desenrotlla i actualitza l'estructura curricular per a fP en dos nivells formatius.
 
-- [ANPE C. Valenciana: Noticia - Currículo](https://anpecomunidadvalenciana.es/etiqueta1/Curriculo)  
-Noticias y actualizaciones sobre la ordenación curricular de FP en la Comunitat Valenciana.
+- [El Consell adapta els cicles d'FP a la nova llei estatal](https://valencianews.es/comunidad-valenciana/adaptacion-ciclos-fp-comunitat-valenciana/) 
+Notícia sobre l'adequació i actualització dels plans d'estudis d'FP a la legislació estatal vigent.
 
-- [La Generalitat actualiza el currículo FP Básica para reforzar](https://valencianews.es/comunidad-valenciana/nuevo-curriculo-fp-basica/)  
-Información sobre la modernización del currículo de Formación Profesional Básica en la Comunitat Valenciana.
+- [ANPE C. Valenciana: Notícia - Currículum](https://anpecomunidadvalenciana.es/etiqueta1/curriculo) 
+Notícies i actualitzacions sobre l'ordenació curricular d'FP en la Comunitat Valenciana.
 
-- [El Consell aprueba el decreto que establece los nuevos currículos de los ciclos de grado básico de FP](https://www.magisnet.com/2025/08/el-consell-aprueba-el-decreto-que-establece-los-nuevos-curriculos-de-los-ciclos-de-grado-basico-de-fp/)  
-Decreto que regula las enseñanzas de FP Básica para asegurar calidad y adaptación a la nueva normativa.
+- [La Generalitat actualitza el currículum FP Bàsica per a reforçar](https://valencianews.es/comunidad-valenciana/nuevo-curriculo-fp-basica/) 
+Informació sobre la modernització del currículum de Formació Professional Bàsica en la Comunitat Valenciana.
 
-- [Nueva Ley de Formación Profesional: Comunidad Valenciana](https://josesande.com/2024/08/21/nueva-ley-de-formacion-profesional-comunidad-valenciana/)  
-Artículo informativo sobre los cambios normativos en FP en la Comunidad Valenciana tras la nueva ley estatal.
+- [El Consell aprova el decret que establix els nous currículums dels cicles de grau bàsic d'FP](https://www.magisnet.com/2025/08/el-consell-aprueba-el-decreto-que-establece-los-nuevos-curriculos-de-los-ciclos-de-grado-basico-de-fp/) 
+Decret que regula les ensenyances d'FP Bàsica per a assegurar qualitat i adaptació a la nova normativa.
 
-- [Objetivos y estructura del CNECP - Web incual - Educación](https://incual.educacion.gob.es/objetivos)  
-Página oficial con los objetivos y estructura del Catálogo Nacional de Estándares de Competencias Profesionales.
+- [Nova Llei de Formació Professional: Comunitat Valenciana](https://josesande.com/2024/08/21/nueva-ley-de-formacion-profesional-comunidad-valenciana/) 
+Article informatiu sobre els canvis normatius en FP a la Comunitat Valenciana després de la nova llei estatal.
 
-- [Acreditación de Competencias Profesionales](https://todofp.es/acreditacion-de-competencias.html)  
-Información sobre los procesos para acreditar competencias profesionales adquiridas en diferentes vías.
+- [Objectius i estructura del CNECP - Web incual - Educació](https://incual.educacion.gob.es/objetivos) 
+Pàgina oficial amb els objectius i estructura del Catàleg Nacional d'Estàndards de Competències Professionals.
 
-- [Instrucciones inicio curso 2025-26 FP](https://ensenyamentugtpv.org/wp-content/uploads/2025/07/2.-Instruccions-graus-D-E-2025-26-mesa-ugtcas.pdf)  
-Normativa y orientaciones para la puesta en marcha del curso académico 2025-26 en FP para grados D y E.
+- [Acreditació de Competències Professionals](https://todofp.es/acreditacion-de-competencias.html) 
+Informació sobre els processos per a acreditar competències professionals adquirides en diferents vies.
 
-- [Instrucciones de inicio de curso 2024-25 de Formación Profesional](https://anpecomunidadvalenciana.es/notices/188358/Instrucciones-de-inicio-de-curso-2024-25-de-Formaci%C3%B3n-Profesional)  
-Documento oficial con el protocolo para el inicio del curso 2024-25 en FP en la Comunitat Valenciana.
+- [Instruccions inicie curs 2025-26 FP](https://ensenyamentugtpv.org/wp-content/uploads/2025/07/2.-instruccions-graus-d-e-2025-26-mesa-ugtcas.pdf) 
+Normativa i orientacions per a la posada en marxa del curs acadèmic 2025-26 en FP per a graus D i E.
 
-- [Publicada la 'Ley Celaá', de reforma del sistema educativo](https://elconsultor.laley.es/Content/Documento.aspx?params=H4sIAAAAAAAEAMtMSbF1jTAAAkNTCzNzI7Wy1KLizPw8WyMDIwNDI2MDkEBmWqVLfnJIZUGqbVpiTnEqAMM5phs1AAAAWKE)  
-Explicación sobre la reforma educativa estructurada en la Ley Orgánica 3/2020, conocida como 'Ley Celaá'.
+- [Instruccions d'inici de curs 2024-25 de Formació Professional](https://anpecomunidadvalenciana.es/notices/188358/instrucciones-de-inicio-de-curso-2024-25-de-formaci%C3%B3n-Professional) 
+Document oficial amb el protocol per a l'inici del curs 2024-25 en FP en la Comunitat Valenciana.
 
-- [BOE-A-2022-5139 Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación Profesional](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2022-5139)  
-Texto oficial de la Ley que estructura y moderniza la FP en España.
+- [Publicada la 'Llei Celaá', de reforma del sistema educatiu](https://elconsultor.laley.es/content/documento.aspx?params=h4siaaaaaaaeamtmsbf1jtaaakntcznzi7wy1klizpw8wymdiwndi2mdkebmwqvlfnjizugqbvpitneqamm5phs1aaaawke) 
+Explicació sobre la reforma educativa estructurada en la Llei orgànica 3/2020, coneguda com a 'Llei Celaá'.
 
-- [BOE-A-2020-17264 Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica de Educación](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-17264)  
-Ley que reforma el sistema educativo estatal, incluyendo bases para FP.
+- [BOE-A-2022-5139 Llei orgànica 3/2022, de 31 de març, d'ordenació i integració de la Formació Professional](https://www.boe.es/diario_boe/txt.php?id=boe-a-2022-5139) 
+Text oficial de la Llei que estructura i modernitza l'FP a Espanya.
 
-- [BOE-A-2023-16889 Real Decreto 659/2023, de 18 de julio por el que se desarrolla la ordenación del Sistema de Formación Profesional](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16889)  
-Real Decreto que regula la estructura, gestión y organización del Sistema de FP.
+- [BOE-A-2020-17264 Llei orgànica 3/2020, de 29 de desembre, per la qual es modifica la Llei orgànica d'Educació](https://www.boe.es/buscar/doc.php?id=boe-a-2020-17264) 
+Llei que reforma el sistema educatiu estatal, incloent-hi bases per a fP.
 
-- [Ley de Educación - Educagob](https://educagob.educacionfpydeportes.gob.es/lomloe/ley.html)  
-Información institucional sobre la LOMLOE y su repercusión en Formación Profesional.
+- [BOE-A-2023-16889 Reial decret 659/2023, de 18 de juliol pel qual es desenrotlla l'ordenació del Sistema de Formació Professional](https://www.boe.es/buscar/doc.php?id=boe-a-2023-16889) 
+Reial decret que regula l'estructura, gestió i organització del Sistema d'FP.
 
-- [Información sobre la nueva Ley de Formación Profesional](https://www.educacionfpydeportes.gob.es/destacados/nueva-ley-fp.html)  
-Página oficial informativa sobre las claves y novedades de la nueva Ley de Formación Profesional.
+- [Llei d'Educació - Educagob](https://educagob.educacionfpydeportes.gob.es/lomloe/ley.html) 
+Informació institucional sobre la LOMLOE i la seua repercussió en Formació Professional.
 
-- [Ley Orgánica 3/2022](https://www.fsie.es/documentos/ficheros/Leyes/Revista_FP_FSIE.pdf)  
-Publicación detallada y análisis con jurisprudencia de la Ley Orgánica que moderniza la FP.
+- [Informació sobre la nova Llei de Formació Professional](https://www.educacionfpydeportes.gob.es/destacados/nueva-ley-fp.html) 
+Pàgina oficial informativa sobre les claus i novetats de la nova Llei de Formació Professional.
 
-- [LOMLOE. Ley Orgánica 3/2020, de 29 de diciembre](https://documentos.anpe.es/ANPE_LOMLOE/)  
-Documento relacionado con la reforma educativa general y su repercusión en FP.
+- [Llei orgànica 3/2022](https://www.fsie.es/documentos/ficheros/leyes/revista_fp_fsie.pdf) 
+Publicació detallada i anàlisi amb jurisprudència de la Llei orgànica que modernitza l'FP.
 
-- [Nueva Ley Orgánica 3/2022 de la FP — YouTube](https://www.youtube.com/watch?v=5ZZLHHo1Jaw)  
-Video divulgativo sobre las modificaciones introducidas con la nueva ley de Formación Profesional.
+- [LOMLOE. Llei orgànica 3/2020, de 29 de desembre](https://documentos.anpe.es/anpe_lomloe/) 
+Document relacionat amb la reforma educativa general i la seua repercussió en FP.
 
-- [Sistema Nacional de Cualificaciones y de Formación Profesional](https://todofp.es/sobre-fp/informacion-general/sistema-nacional-cualificaciones-fp.html)  
-Explicación resumida del sistema de cualificaciones profesionales y su integración con FP.
+- [Nova Llei orgànica 3/2022 de la FP — YouTube](https://www.youtube.com/watch?v=5zzlhho1jaw) 
+Vídeo divulgatiu sobre les modificacions introduïdes amb la nova llei de Formació Professional.
 
-- [BOE-A-2024-13181 Orden EFD/659/2024, de 25 de junio, sobre organización académica](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-13181)  
-Orden ministerial que regula la organización académica y las actividades formativas en FP.
+- [Sistema Nacional de Qualificacions i de Formació Professional](https://todofp.es/sobre-fp/informacion-general/sistema-nacional-cualificaciones-fp.html) 
+Explicació resumida del sistema de qualificacions professionals i la seua integració amb FP.
 
-- [Guía Práctica de la Orden 8/2025 sobre Evaluación en FP](https://raulsolbes.com/2025/05/16/guia-practica-de-la-orden-8-2025-sobre-evaluacion-en-fp/)  
-Explicación práctica y aclaraciones sobre la aplicación de la Orden 8/2025 para la evaluación en FP.
+- [BOE-A-2024-13181 Orde EFD/659/2024, de 25 de juny, sobre organització acadèmica](https://www.boe.es/buscar/doc.php?id=boe-a-2024-13181) 
+Orde ministerial que regula l'organització acadèmica i les activitats formatives en FP.
 
-- [Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional](https://anpeandalucia.es/notices/178545/Real-Decreto-6592023,-de-18-de-julio,-por-el-que-se-desarrolla-la-ordenaci%C3%B3n-del-Sistema-de-Formaci%C3%B3n-Profesional)  
-Análisis del Real Decreto que crea el marco nacional para la gobernanza y la oferta de FP.
+- [Guia Pràctica de l'Orde 8/2025 sobre Avaluació en FP](https://raulsolbes.com/2025/05/16/guia-practica-de-la-orden-8-2025-sobre-evaluacion-en-fp/) 
+Explicació pràctica i aclariments sobre l'aplicació de l'Orde 8/2025 per a l'avaluació en FP.
 
-- [Nueva ley FP 2024: Todo sobre el próximo curso](https://www.ilerna.es/blog/nueva-ley-fp)  
-Resumen de las novedades y expectativas para el curso 2024-2025 tras la nueva ley de FP.
+- [Reial decret 659/2023, de 18 de juliol, pel qual es desenrotlla l'ordenació del Sistema de Formació Professional](https://anpeandalucia.es/notices/178545/real-decreto-6592023,-de-18-de-julio,-por-el-que-se-desarrolla-la-ordenaci%C3%B3n-del-Sistema-de-Formaci%C3%B3n-Professional) 
+Anàlisi del Reial decret que crea el marc nacional per a la governança i l'oferta d'FP.
 
-- [EL BOE publica el Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación del sistema de Formación Profesional](https://cecap.es/el-boe-publica-el-real-decreto-659-2023-de-18-de-julio-por-el-que-se-desarrolla-la-ordenacion-del-sistema-de-formacion-profesional)  
-Anuncio oficial de publicación de normativa que establece la ordenación actual de FP.
+- [Nova llei FP 2024: Tot sobre el pròxim curs](https://www.ilerna.es/blog/nueva-ley-fp) 
+Resum de les novetats i expectatives per al curs 2024-2025 després de la nova llei d'FP.
 
-- [Normativa sobre el CNECP - Web incual - Educación](https://incual.educacion.gob.es/normativa1)  
-Normativa reguladora del Catálogo Nacional de Estándares de Competencias Profesionales.
+- [EL BOE publica el Reial decret 659/2023, de 18 de juliol, pel qual es desenrotlla l'ordenació del sistema de Formació Professional](https://cecap.es/el-boe-publica-el-real-decreto-659-2023-de-18-de-julio-por-el-que-se-desarrolla-la-ordenacion-del-sistema-de-formacion-profesional) 
+Anunci oficial de publicació de normativa que establix l'ordenació actual d'FP.
 
-- [Orden EFD/657/2024, de 25 de junio, por la que se regulan aspectos académicos en FP](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-13179)  
-Orden sobre regulación académica para ciclos formativos de distintas familias profesionales.
+- [Normativa sobre el CNECP - Web incual - Educació](https://incual.educacion.gob.es/normativa1) 
+Normativa reguladora del Catàleg Nacional d'Estàndards de Competències Professionals.
 
-- [Real Decreto 659/2023 por el que se desarrolla la ordenación del sistema de Formación Profesional](https://anpearagon.es/notices/180831/Real-Decreto-6592023-por-el-que-se-desarrolla-la-ordenaci%C3%B3n-del-Sistema-de-Formaci%C3%B3n-Profesional)  
-Análisis y texto consolidado del Real Decreto referente al sistema nacional de FP.
+- [Orde EFD/657/2024, de 25 de juny, per la qual es regulen aspectes acadèmics en FP](https://www.boe.es/diario_boe/txt.php?id=boe-a-2024-13179) 
+Orde sobre regulació acadèmica per a cicles formatius de diferents famílies professionals.
 
-- [Real Decreto 659/2023, de 18 de julio](https://ceice.gva.es/documents/161634256/174739406/INSTITUTO+VALENCIANO+DE+LAS+CUALIFICACIONES+PROFESIONALES.pdf/9d8c5fa0-f2ed-4f7d-8e6a-ae4386054fa3?t=1727248001062)  
-Documento oficial explicativo sobre la implementación del RD 659/2023.
+- [Reial decret 659/2023 pel qual es desenrotlla l'ordenació del sistema de Formació Professional](https://anpearagon.es/notices/180831/real-decreto-6592023-por-el-que-se-desarrolla-la-ordenaci%C3%B3n-del-Sistema-de-Formaci%C3%B3n-Professional) 
+Anàlisi i text consolidat del Reial decret referent al sistema nacional d'FP.
 
-- [Competencias profesionales](https://laadministracionaldia.inap.es/noticia.asp?id=1256457)  
-Información general sobre competencias profesionales en el ámbito estatal.
+- [Reial decret 659/2023, de 18 de juliol](https://ceice.gva.es/documents/161634256/174739406/instituto+VALENCIÀ+DE+LES+QUALIFICACIONS+PROFESSIONALS.pdf/9d8c5fa0-f2ed-4f7d-8e6a-ae4386054fa3?t=1727248001062) 
+Document oficial explicatiu sobre la implementació del RD 659/2023.
 
-- [Regulación de la evaluación, promoción, titulación y certificación en Formación Profesional](https://laadministracionaldia.inap.es/noticia.asp?id=1250140)  
-Artículo con detalles sobre la normativa que regula la evaluación y certificación en FP.
+- [Competències professionals](https://laadministracionaldia.inap.es/noticia.asp?id=1256457) 
+Informació general sobre competències professionals en l'àmbit estatal.
 
-- [Todo sobre el Real Decreto 659/2023: ¿Qué es y cómo afecta?](https://fpaspasia.com/real-decreto-659-2023-que-es-y-en-que-consiste-el-decreto-sobre-formacion-profesional/)  
-Explicación clara del contenido y alcance del Real Decreto que establece la ordenación de FP.
+- [Regulació de l'avaluació, promoció, titulació i certificació en Formació Professional](https://laadministracionaldia.inap.es/noticia.asp?id=1250140) 
+Article amb detalls sobre la normativa que regula l'avaluació i certificació en FP.
 
-- [Real Decreto por el que se desarrollan los elementos integrantes y los instrumentos de gestión del Sistema Nacional de Formación Profesional](https://www.anpe.es/notices/32365/Real-Decreto-por-el-que-se-desarrollan-los-elementos-integrantes-y-los-instrumentos-de-gesti%C3%B3n-del-Sistema-Nacional-de-FP)  
-Normativa que detalla instrumentos de gestión y estructura del sistema nacional de FP.
+- [Tot sobre el Reial decret 659/2023: Què és i com afecta?](https://fpaspasia.com/real-decreto-659-2023-que-es-y-en-que-consiste-el-decreto-sobre-formacion-profesional/) 
+Explicació clara del contingut i abast del Reial decret que establix l'ordenació d'FP.
 
-- [DECRETO 117/2025, de 5 de agosto, del Consell - DOGV](https://dogv.gva.es/es/eli?param=es-vc%2Fd%2F2025%2F08%2F05%2F117%2Fdof%2Fvci%2Fhtml)  
-Decreto autonómico que regula aspectos relacionados con titulaciones y organización en FP en la Comunitat Valenciana.
+- [Reial decret pel qual es desenrotllen els elements integrants i els instruments de gestió del Sistema Nacional de Formació Professional](https://www.anpe.es/notices/32365/real-decreto-por-el-que-se-desarrollan-los-elementos-integrantes-y-los-instrumentos-de-gesti%C3%B3n-del-Sistema-Nacional-de-FP) 
+Normativa que detalla instruments de gestió i estructura del sistema nacional d'FP.
 
-- [Legislación Formación Profesional - iessecundaria](https://iessecundaria.wordpress.com/legislacion/legislacion-formacion-profesional-en-comunidad-valenciana/)  
-Recopilación de la normativa general y autonómica vigente en FP.
+- [DECRET 117/2025, de 5 d'agost, del Consell - DOGV](https://dogv.gva.es/es/eli?param=es-vc%2Fd%2F2025%2F08%2F05%2F117%2Fdof%2Fvci%2Fhtml) 
+Decret autonòmic que regula aspectes relacionats amb titulacions i organització en FP en la Comunitat Valenciana.
 
-- [Currículos de las Comunidades Autónomas](https://www.todofp.es/que-estudiar/familias-profesionales/imagen-personal/estilismo-direccion-peluqueria/curriculos-ccaa.html)  
-Comparativa y resumen de los currículos autonómicos para FP.
+- [Legislació Formació Professional - iessecundaria](https://iessecundaria.wordpress.com/legislacion/legislacion-formacion-profesional-en-comunidad-valenciana/) 
+Recopilació de la normativa general i autonòmica vigent en FP.
 
-- [BOE-A-2021-18812 Real Decreto 984/2021 sobre FP Básica](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-18812)  
-Normativa que regula la Formación Profesional Básica.
+- [Currículums de les Comunitats Autònomes](https://www.todofp.es/que-estudiar/familias-profesionales/imagen-personal/estilismo-direccion-peluqueria/curriculos-ccaa.html) 
+Comparativa i resum dels currículums autonòmics per a fP.
 
-- [LOE o LOGSE: a qué ciclos de FP afecta](https://www.ilerna.es/blog/diferencia-logse-loe)  
-Explicación de cómo afectan las leyes LOE y LOGSE a los ciclos formativos de FP.
+- [BOE-A-2021-18812 Reial decret 984/2021 sobre FP Bàsica](https://www.boe.es/buscar/doc.php?id=boe-a-2021-18812) 
+Normativa que regula la Formació Professional Bàsica.
 
-- [Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y Formación Profesional](https://www.boe.es/buscar/act.php?id=BOE-A-2002-12018)  
-Ley que regula las cualificaciones profesionales y la FP en España hasta su actualización.
+- [LOE o LOGSE: a quins cicles d'FP afecta](https://www.ilerna.es/blog/diferencia-logse-loe) 
+Explicació de com afecten les lleis LOE i LOGSE als cicles formatius d'FP.
 
-- [LOE o LOGSE: ¿Cómo saber mi título de FP? - iFP](https://www.ifp.es/blog/loe-logse-como-saber-mi-titulo-fp)  
-Guía para identificar si un título de FP corresponde a LOE o LOGSE.
+- [Llei orgànica 5/2002, de 19 de juny, de les Qualificacions i Formació Professional](https://www.boe.es/buscar/act.php?id=boe-a-2002-12018) 
+Llei que regula les qualificacions professionals i l'FP a Espanya fins a la seua actualització.
 
-- [Modificación de la Ley Orgánica 5/2002, de 19 de junio mediante la LOMLOEA Formación Profesional](https://incual.educacion.gob.es/ultimas-noticias-del-incual/-/asset_publisher/3YZjCah44Dv2/content/modificacion-de-la-ley-organica-5-2002-de-19-de-junio-mediante-la-lomloea-formacion-profesional-)  
-Actualización legal para adaptar la ley anterior a las reformas recientes en FP.
+- [LOE o LOGSE: Com saber el meu títol d'FP? - iFP](https://www.ifp.es/blog/loe-logse-como-saber-mi-titulo-fp) 
+Guia per a identificar si un títol d'FP correspon a LOE o LOGSE.
 
-- [Catálogo Nacional de Estándares de Competencias Profesionales](https://www.ideaspropiaseditorial.com/blog/catalogo-nacional-de-cualificaciones-profesionales/)  
-Explicación del catálogo que define las competencias profesionales en diferentes sectores.
+- [Modificació de la Llei orgànica 5/2002, de 19 de juny mitjançant la LOMLOEA Formació Professional](https://incual.educacion.gob.es/ultimas-noticias-del-incual/-/asset_publisher/3yzjcah44dv2/content/modificacion-de-la-ley-organica-5-2002-de-19-de-junio-mediante-la-lomloea-formacion-profesional-) 
+Actualització legal per a adaptar la llei anterior a les reformes recents en FP.
 
-- [¿Cómo saber si mi título es LOE o LOGSE?](https://medac.es/blogs/te-orientamos/saber-titulo-loe-logse)  
-Guía para diferenciar si un título de FP se enmarca en las leyes LOE o LOGSE.
+- [Catàleg Nacional d'Estàndards de Competències Professionals](https://www.ideaspropiaseditorial.com/blog/catalogo-nacional-de-cualificaciones-profesionales/) 
+Explicació del catàleg que definix les competències professionals en diferents sectors.
 
-- [BOE-A-2002-12018 Ley Orgánica 5/2002, de 19 de junio, de las cualificaciones y la Formación Profesional](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-12018)  
-Texto original de la ley que regula FP y cualificaciones antes de reformas posteriores.
+- [Com saber si el meu títol és LOE o LOGSE?](https://medac.es/blogs/te-orientamos/saber-titulo-loe-logse) 
+Guia per a diferenciar si un títol d'FP s'emmarca en les lleis LOE o LOGSE.
 
-- [LOE o LOGSE: ¿Cómo saber que título FP tengo? - PRO2](https://pro2fp.es/blog/orientacion/loe-o-logse-como-saber-que-titulo-fp-tengo/)  
-Artículo orientativo para identificar la legislación que ampara un título de FP.
+- [BOE-A-2002-12018 Llei orgànica 5/2002, de 19 de juny, de les qualificacions i la Formació Professional](https://www.boe.es/buscar/doc.php?id=boe-a-2002-12018) 
+Text original de la llei que regula FP i qualificacions abans de reformes posteriors.
 
-- [Ley Orgánica 5/2002, de 19 de junio, de las cualificaciones y la Formación Profesional](https://noticias.juridicas.com/base_datos/Laboral/lo5-2002.html)  
-Otra referencia al texto legal base previo a la Ley Orgánica 3/2022.
+- [LOE o LOGSE: Com saber que títol FP tinc? - PRO2](https://pro2fp.es/blog/orientacion/loe-o-logse-como-saber-que-titulo-fp-tengo/) 
+Article orientatiu per a identificar la legislació que empara un títol d'FP.
 
-- [Logse o loe: ¿Cómo saber mi título FP?](https://www.cesurformacion.com/blog/logse-o-loe)  
-Guía para aclarar el marco legislativo aplicable a los títulos FP antiguos.
+- [Llei orgànica 5/2002, de 19 de juny, de les qualificacions i la Formació Professional](https://noticias.juridicas.com/base_datos/laboral/lo5-2002.html) 
+Una altra referència al text legal base previ a la Llei orgànica 3/2022.
 
-- [LEY ORGÁNICA DE ORDENACIÓN E INTEGRACIÓN DE LA FORMACIÓN PROFESIONAL](https://www.llegarasalto.com/wp-content/uploads/2022/10/Agustin-DG-FP-CyL.pdf)  
-Informe o análisis de la nueva ley de FP presentada en 2022.
+- [Logse o lloe: Com saber el meu títol FP?](https://www.cesurformacion.com/blog/logse-o-loe) 
+Guia per a aclarir el marc legislatiu aplicable als títols FP antics.
 
-- [¿Cómo saber si mi grado medio es LOE o LOGSE?](https://sinergiafp.es/blog/como-saber-si-mi-grado-medio-es-loe-o-logse/)  
-Indicaciones para diferenciar los ciclos formativos de grado medio según su legislación.
+- [LLEI ORGÀNICA D'ORDENACIÓ I INTEGRACIÓ DE LA FORMACIÓ PROFESSIONAL](https://www.llegarasalto.com/wp-content/uploads/2022/10/agustin-dg-fp-cyl.pdf) 
+Informe o anàlisi de la nova llei d'FP presentada en 2022.
 
-- [LEY ORGÁNICA 5/2002, de 19 de junio, de las cualificaciones y la Formación Profesional](https://www.todalaley.com/mostrarLey764p2tn.htm)  
-Texto legal histórico de la Ley Orgánica anterior que regía FP.
+- [Com saber si el meu grau mitjà és LOE o LOGSE?](https://sinergiafp.es/blog/como-saber-si-mi-grado-medio-es-loe-o-logse/) 
+Indicacions per a diferenciar els cicles formatius de grau mitjà segons la seua legislació.
 
-- [Publicada modificación del Catálogo Nacional de Estándares de Competencias Profesionales](https://anpeandalucia.es/notices/196229/Publicada-modificaci%C3%B3n-del-Cat%C3%A1logo-Nacional-de-Est%C3%A1ndares-de-Competencias-Profesionales)  
-Actualización reciente del catálogo que contiene competencias profesionales.
+- [LLEI ORGÀNICA 5/2002, de 19 de juny, de les qualificacions i la Formació Professional](https://www.todalaley.com/mostrarley764p2tn.htm) 
+Text legal històric de la Llei orgànica anterior que regia FP.
 
-- [¿Cómo saber si tu grado medio es LOE o LOGSE?](https://www.fppro.es/blog/como-saber-si-mi-grado-medio-es-loe-logse/)  
-Guía práctica para estudiantes y profesionales para identificar la regulación de su grado medio.
+- [Publicada modificació del Catàleg Nacional d'Estàndards de Competències Professionals](https://anpeandalucia.es/notices/196229/publicada-modificaci%C3%B3n-del-Cat%C3%A1logo-Nacional-de-Est%C3%A1ndares-de-Competències-Professionals) 
+Actualització recent del catàleg que conté competències professionals.
+
+- [Com saber si el teu grau mitjà és LOE o LOGSE?](https://www.fppro.es/blog/como-saber-si-mi-grado-medio-es-loe-logse/) 
+Guia pràctica per a estudiants i professionals per a identificar la regulació del seu grau mitjà.
 

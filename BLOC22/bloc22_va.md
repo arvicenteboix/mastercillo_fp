@@ -1,7 +1,7 @@
 ---
 # Front matter
 # Metainformació del document
-title: "CERTIFICADO OFICIAL DE FORMACIÓN PEDAGÓGICA Y DIDÁCTICA PARA PROFESORADO TÉCNICO"
+title: "CERTIFICAT OFICIAL DE FORMACIÓ PEDAGÒGICA I DADÀCTICA PER AL PROFESSORAT TÈCNIC"
 # author:
 titlepage: true
 
@@ -14,7 +14,7 @@ titlepage-background: ../portades/U1.png
 # date: "21-10-2025"
 subject: "Proxmox"
 keywords: [Xarxa, Instal·lació]
-subtitle: "Aprendizaje y enseñanza en la Formación Profesional"
+subtitle: "Aprenentatge i ensenyament en la formació professional"
 lang: es
 page-background: img/bg.png
 
@@ -27,8 +27,8 @@ toc-title: Continguts
 toc-depth: 2
 
 # capçalera i peu \thetitle
-header-left: Aprendizaje y enseñanza en la Formación Profesional
-header-right: Curso 2025-2026
+header-left: Aprenentatge i ensenyament en la formació professional
+header-right: Curs 2025-2026
 footer-left: CEFIRE FP
 footer-right: \thepage/\pageref{LastPage}
 
@@ -100,7 +100,7 @@ CEFIRE de Formació Professional \\[1em]
 Eva Ciscar Rovira \\
 Pablo Moreno Meseguer \\
 Fran Navarro García \\[1em]
-\textbf{AUTORES VERSIÓN ORIGINAL:} \\
+\textbf{AUTORS VERSIÓ ORIGINAL:} \\
 Francisco José de Juan Company \\
 Manuela López Paco \\
 Encarna Montesa Boix \\[1em]
@@ -111,13 +111,13 @@ Alicia Ros Garrido \\[1em]
 \textbf{AUTORES REVISIÓN 25-26:} \\
 Gemma Cerezo Gil\\
 Alfredo Rafael Vicente Boix \\[1em]
-\textbf{MAQUETACIÓN:} \\
+\textbf{MAQUETACIÓ:} \\
 Alfredo Rafael Vicente Boix \\[1em]
-Este material ha sido elaborado bajo una licencia de \\
-Reconocimiento-NoComercial-CompartirIgual 3.0 de Creative Commons. \\[0.5em]
+Este material ha sigut elaborat sota una llicència de \\
+Reconeixement-NoComercial-CompartirIgual 3.0 de Creative Commons. \\[0.5em]
 
 \includegraphics[height=8mm,keepaspectratio]{img/cc.png} \\
-El código fuente del documento se encuentra disponible en:
+El codi font es troba disponible a:
 \url{https://github.com/arvicenteboix/mastercillo_fp}
 }
 \end{mdframed}
@@ -137,21 +137,21 @@ A l'hora de definir la competència professional hem de ser conscients de què e
 
  Competència és: 
 
-* Capacitat d'usar el coneixement i les destreses relacionades amb productes i processos i, per consegüent, d'actuar eficaçment per a aconseguir un objectiu (*Hates, 1985). 
+* Capacitat d'usar el coneixement i les destreses relacionades amb productes i processos i, per consegüent, d'actuar eficaçment per a aconseguir un objectiu (Hates, 1985). 
 
-* Capacitat d'actuar en papers professionals o en treballs conforme el nivell requerit en l'ocupació (*NVCQ, 1985). 
+* Capacitat d'actuar en papers professionals o en treballs conforme el nivell requerit en l'ocupació (NVCQ, 1985). 
 
-* Conjunt de coneixements, destreses i actituds necessàries per a exercir una professió, resoldre problemes professionals de manera autònoma i flexible, i ser capaç de col·laborar en l'entorn professional i l'organització del treball (*Bunk, 1994). 
+* Conjunt de coneixements, destreses i actituds necessàries per a exercir una professió, resoldre problemes professionals de manera autònoma i flexible, i ser capaç de col·laborar en l'entorn professional i l'organització del treball (Bunk, 1994). 
 
-* Una persona és competent si posseïx els coneixements, valors, habilitats i actituds necessaris per a l'acompliment del treball d'acord amb la norma apropiada (*Mertens, 1998). 
+* Una persona és competent si posseïx els coneixements, valors, habilitats i actituds necessaris per a l'acompliment del treball d'acord amb la norma apropiada (Mertens, 1998). 
 
 * Aplicació dels coneixements, capacitats i actituds, que permet realitzar les activitats i rols de treball als nivells requerits en la producció i l'ocupació, i solucionar els problemes derivats del canvi en les situacions de treball (Rueda, 2002). 
 
-* Capacitat efectiva per a dur a terme reeixidament una activitat laboral plenament identificada (*OIT, 2004). 
+* Capacitat efectiva per a dur a terme reeixidament una activitat laboral plenament identificada (OIT, 2004). 
 
 En general, es poden distingir tres perspectives principals: una primera que entén la competència com la capacitat de fer tasques concretes de manera eficaç; una segona centrada en els trets personals, com a actituds, valors o motivacions; i una tercera, més integradora, que combina les dos visions, entenent la competència com la interacció entre saber, saber fer i saber ser. 
 
-Este predomini de l'enfocament tècnic ha sigut especialment visible en l'àmbit de la Formació Professional a Espanya. Des de la reforma de 1970, la terminologia utilitzada en els títols oficials ha recorregut sistemàticament al terme “Tècnic”, com a manera de destacar el caràcter especialitzat i *profesionalizador d'esta formació (Tècnic Auxiliar, Tècnic Especialista, Tècnic Superior…). Esta elecció no sols reflectia una orientació cap a les capacitats operatives, sinó també un intent de dotar a la FP de major reconeixement i prestigi. 
+Este predomini de l'enfocament tècnic ha sigut especialment visible en l'àmbit de la Formació Professional a Espanya. Des de la reforma de 1970, la terminologia utilitzada en els títols oficials ha recorregut sistemàticament al terme “Tècnic”, com a manera de destacar el caràcter especialitzat i profesionalitzador d'esta formació (Tècnic Auxiliar, Tècnic Especialista, Tècnic Superior…). Esta elecció no sols reflectia una orientació cap a les capacitats operatives, sinó també un intent de dotar a la FP de major reconeixement i prestigi. 
 
 
 
@@ -193,7 +193,7 @@ Sobre esta base, la Llei orgànica 3/2022, de 31 de març, marca un canvi estruc
 
 Dins d'este nou model de Formació Professional, adquirix una rellevància especial el reconeixement de les competències adquirides a través de l'experiència laboral o de processos formatius no formals i informals. Este reconeixement permet validar els aprenentatges obtinguts fora del sistema educatiu reglat, ampliant les oportunitats de qualificació i afavorint una visió més oberta i inclusiva de l'aprenentatge al llarg de la vida. 
 
-Este principi es desenrotlla amb major claredat en el Reial decret 69/2025, de 4 de febrer, que regula els elements estructurals i els instruments de gestió del Sistema Nacional de Formació Professional. Entre ells, es destaca la incorporació dels estàndards de competència professional, definits per l'Institut Nacional de les Qualificacions (*INCUAL). Estos estàndards actuen com a referents comuns per a la formació i l'avaluació, ja que establixen, de manera precisa i objectiva, els coneixements, habilitats i acompliments requerits per a exercir amb eficàcia una determinada activitat professional, conforme a les exigències de qualitat de l'entorn productiu i servixen com a referència per a: 
+Este principi es desenrotlla amb major claredat en el Reial decret 69/2025, de 4 de febrer, que regula els elements estructurals i els instruments de gestió del Sistema Nacional de Formació Professional. Entre ells, es destaca la incorporació dels estàndards de competència professional, definits per l'Institut Nacional de les Qualificacions (INCUAL). Estos estàndards actuen com a referents comuns per a la formació i l'avaluació, ja que establixen, de manera precisa i objectiva, els coneixements, habilitats i acompliments requerits per a exercir amb eficàcia una determinada activitat professional, conforme a les exigències de qualitat de l'entorn productiu i servixen com a referència per a: 
 
 Dissenyar els títols i certificats professionals. 
 
@@ -205,7 +205,7 @@ Així doncs, la Formació Professional es convertix en un sistema més coherent,
 
 ## EL CATÀLEG NACIONAL D'ESTÀNDARDS DE COMPETÈNCIES PROFESSIONALS 
 
-El Catàleg Nacional d'Estàndards de Competències Professionals, nova denominació que rep el Catàleg Nacional de Qualificacions Professionals (*CNCP), és l'instrument del Sistema Nacional de Formació Professional que ordena els estàndards de competències professionals identificats en el sistema productiu, en funció de les competències apropiades i l'estàndard de qualitat requerit per a l'exercici professional, susceptibles de reconeixement i acreditació. 
+El Catàleg Nacional d'Estàndards de Competències Professionals, nova denominació que rep el Catàleg Nacional de Qualificacions Professionals (CNCP), és l'instrument del Sistema Nacional de Formació Professional que ordena els estàndards de competències professionals identificats en el sistema productiu, en funció de les competències apropiades i l'estàndard de qualitat requerit per a l'exercici professional, susceptibles de reconeixement i acreditació. 
 
 A este catàleg se li atribuïxen les següents funcions: 
 
@@ -237,7 +237,7 @@ a) Determinarà els mòduls professionals vinculats a cada un dels estàndards d
 
 b) Operarà com a referència obligada per al disseny de les ofertes del Catàleg Nacional d'Ofertes de Formació Professional. 
 
-Estructura bàsica d'un Estàndard de Competència Professional (*ECP): 
+Estructura bàsica d'un Estàndard de Competència Professional (ECP): 
 
 1. Dades d'identificació 
 
@@ -250,10 +250,10 @@ Estructura bàsica d'un Estàndard de Competència Professional (*ECP):
 2. Competència professional 
  És una descripció general del conjunt de coneixements, destreses i actituds necessàries per a exercir una activitat professional de manera eficaç i conforme a les exigències del mercat laboral. 
 
-3. Elements de la competència (*EC) 
+3. Elements de la competència (EC) 
  Són les realitzacions professionals específiques que ha de dur a terme una persona en el seu lloc de treball. 
 
-Cada element va acompanyat d'indicadors de qualitat (*IC), que establixen el nivell d'execució esperat. 
+Cada element va acompanyat d'indicadors de qualitat (IC), que establixen el nivell d'execució esperat. 
 
 4. Context professional 
  Descriu l'entorn en el qual s'aplica la competència, incloent: 
@@ -264,7 +264,7 @@ Cada element va acompanyat d'indicadors de qualitat (*IC), que establixen el niv
 
 El nou Catàleg Nacional d'Estàndards de Competències Professionals (denominat anteriorment Catàleg Nacional de Qualificacions Professionals), s'estructura en 26 Famílies Professionals. 
 
-![Catàleg Nacional d'Estàndards de Competències Professionals](./media/10.png){*width="300px"}
+![Catàleg Nacional d'Estàndards de Competències Professionals](./media/10.png){width="300px"}
 
 Una família professional és un grup que reunix diverses qualificacions o especialitats professionals que tenen competències semblants o estan relacionades. 
 
@@ -289,7 +289,7 @@ Diversitat de nivells:
 
 - Dins d'una família professional hi ha qualificacions amb diferents graus de dificultat o responsabilitat, des de nivells bàsics fins avançats que es corresponen amb nivells assignats a cada estàndard de competència. 
 
-Les famílies professionals són comunes a l'ordenació del Sistema Educatiu i del Sistema de Formació de l'Administració Laboral, i es relacionen amb la Classificació Nacional d'Ocupacions (*CNO) i amb la Classificació Nacional d'Activitats Econòmiques (*CNAE). 
+Les famílies professionals són comunes a l'ordenació del Sistema Educatiu i del Sistema de Formació de l'Administració Laboral, i es relacionen amb la Classificació Nacional d'Ocupacions (CNO) i amb la Classificació Nacional d'Activitats Econòmiques (CNAE). 
 
 Al costat del Catàleg Nacional d'Estàndards de Competències, el Catàleg Modular de Formació Professional és un altre dels instruments del Sistema Nacional de Formació Professional que ordena els mòduls professionals de formació professional associats a cada un dels estàndards de competències professionals. Se li atribuïxen les següents funcions: 
 
@@ -307,9 +307,9 @@ b) Els criteris d'avaluació
 
 Un mòdul professional és una unitat formativa que forma part d'un títol de Formació Professional. Està vinculat a un o diversos estàndards de competència professional i la seua finalitat és que l'alumnat adquirisca les competències necessàries per a desenrotllar una activitat professional de manera eficaç. 
 
-Relacionar un mòdul professional d'un títol de Formació Professional amb un mòdul d'un certificat professional és totalment possible, ja que els dos s'articulen sobre la mateixa base: els estàndards de competència professional, definits en el Catàleg Nacional d'Estàndards de Competència Professional (que substituïx a l'antic *CNCP). 
+Relacionar un mòdul professional d'un títol de Formació Professional amb un mòdul d'un certificat professional és totalment possible, ja que els dos s'articulen sobre la mateixa base: els estàndards de competència professional, definits en el Catàleg Nacional d'Estàndards de Competència Professional (que substituïx a l'antic CNCP). 
 
-Taula comparativa: Mòdul de títol *vs. mòdul de certificat 
+Taula comparativa: Mòdul de títol vs. mòdul de certificat 
 
 | Element | Mòdul d'un títol d'FP | Mòdul d'un certificat professional |
 |---------------|-----------------------------------------------------------------|------------------------------------------------------------------------|
@@ -338,9 +338,9 @@ L'organització dels continguts formatius varia en funció del grau:
 * En els Graus B, C, D i E, la formació s'estructura en mòduls professionals de duració variable, basats en estàndards complets de competència professional, d'acord amb el marc comú establit pel Sistema de Formació Professional, que unifica la formació del sistema educatiu i la formació per a l'ocupació. 
 
 :::note
-*Pudéis trobar més informació sobre la Formació Professional en la web oficial:
+Podeu trobar més informació sobre la Formació Professional en la web oficial:
 
-[Inici - *TodoFP | Ministeri d'Educació, Formació Professional i Esports](https://www.todofp.es/inicio.html) 
+[Inici - TodoFP | Ministeri d'Educació, Formació Professional i Esports](https://www.todofp.es/inicio.html) 
 :::
 
 ## ACREDITACIÓ PARCIAL ACUMULABLE
@@ -355,7 +355,7 @@ Una Acreditació Parcial Acumulable és la certificació oficial d'una Unitat de
 
 La unitat de mesura de la “grandària” d'una qualificació és el “crèdit europeu”, que representa la quantitat de treball que ha de realitzar un aprenent, per a aconseguir els resultats d'aprenentatge. Forma part del llenguatge acadèmic, especialment l'universitari, i en ell s'integren les ensenyances teòriques i pràctiques, activitats acadèmiques dirigides, hores d'estudi, de treball i d'avaluació. 
 
-En l'Espai Europeu d'Ensenyança Superior, que regula l'anomenat procés de Bolonya, esta unitat de mesura és la que utilitzen totes les institucions d'ensenyança Superior, formant part del *European *Credit *Transfer *System (*ECTS). En la Formació Professional, que seguix amb un cert retard a la superior, a través del Procés de Copenhaguen, es denomina *European *Credit *System *for *Vocational *Education *and *Training (*ECVET). 
+En l'Espai Europeu d'Ensenyança Superior, que regula l'anomenat procés de Bolonya, esta unitat de mesura és la que utilitzen totes les institucions d'ensenyança Superior, formant part del European Credit Transfer System (ECTS). En la Formació Professional, que seguix amb un cert retard a la superior, a través del Procés de Copenhaguen, es denomina European Credit System for Vocational Education and Training (ECVET). 
 
 # NIVELLS DE CONCRECIÓ EN LA FORMACIÓ PROFESSIONAL: DEL MARC NORMATIU A LA PROGRAMACIÓ D'AULA 
 
@@ -363,14 +363,14 @@ Per a elaborar una programació d'aula coherent i ajustada al marc legal, és fo
 
 Este procés de concreció normativa pot semblar complex, però seguix una lògica clara: part dels principis i objectius establits en la llei, i va descendint per diferents nivells fins a arribar a la realitat de l'aula, on el professorat dona forma a les ensenyances mitjançant la seua programació. 
 
-1. **Elaboració del marc legal **
+1. **Elaboració del marc legal**
 
 Responsable: Govern de l'Estat (Corts Generals) 
 
 El punt de partida és la Llei orgànica 3/2022, de 31 de març, que establix els principis, objectius i estructura del nou sistema de Formació Professional. Definix elements clau com els graus de formació, els estàndards de competència professional, la col·laboració amb els sectors productius i l'enfocament d'aprenentatge al llarg de la vida. 
 
 
-2. **Desenrotllament normatiu i regulació tècnica **
+2. **Desenrotllament normatiu i regulació tècnica**
 
 Responsable: Ministeri d'Educació i Formació Professional 
 
@@ -380,14 +380,14 @@ Després de l'aprovació de la llei, el Ministeri desenrotlla el seu contingut m
 
 * Reial decret 69/2025, que definix els instruments de gestió, com els estàndards de competència, l'acreditació de competències i els procediments d'avaluació. 
 
-En esta fase també intervé l'Institut Nacional de les Qualificacions (*INCUAL), encarregat d'elaborar els estàndards de competència professional que serviran de base per als títols i certificats. 
+En esta fase també intervé l'Institut Nacional de les Qualificacions (INCUAL), encarregat d'elaborar els estàndards de competència professional que serviran de base per als títols i certificats. 
 
 
-3. **Disseny del catàleg de títols i certificats **
+3. **Disseny del catàleg de títols i certificats**
 
 Responsable: Ministeri d'Educació i FP, en col·laboració amb les CCAA i agents sectorials 
 
-A partir dels estàndards de competència definits pel *INCUAL, el Ministeri dissenya i aprova els títols de Formació Professional i els certificats professionals. Este procés es realitza en diàleg amb les comunitats autònomes i els sectors productius. 
+A partir dels estàndards de competència definits pel INCUAL, el Ministeri dissenya i aprova els títols de Formació Professional i els certificats professionals. Este procés es realitza en diàleg amb les comunitats autònomes i els sectors productius. 
 
 Cada títol arreplega: 
 
@@ -397,7 +397,7 @@ Cada títol arreplega:
 
 * La duració i estructura formativa del cicle 
 
-4. **Desenrotllament del currículum oficial **
+4. **Desenrotllament del currículum oficial**
 
 Responsable: Comunitats Autònomes 
 
@@ -411,7 +411,7 @@ Amb el títol aprovat, cada comunitat autònoma desenrotlla el seu propi curríc
 
 * L'organització temporal i horària 
 
-5. **Concreció en el centre educatiu **
+5. **Concreció en el centre educatiu**
 
 Responsable: Equipe directiu i professorat del centre 
 
@@ -425,7 +425,7 @@ Cada centre adapta el currículum oficial a la seua realitat concreta mitjançan
 
 Este treball és coordinat per l'equip directiu juntament amb els departaments didàctics o equips de cicle, tenint en compte les característiques de l'alumnat, l'entorn socioeconòmic i les possibilitats de col·laboració amb empreses. 
 
-6. **Programació d'aula **
+6. **Programació d'aula**
 
 Responsable: Docent del mòdul professional 
 
@@ -442,11 +442,11 @@ En l'últim nivell, cada docent és responsable d'elaborar la seua programació 
 | NIVELL | DOCUMENT / FASE | RESPONSABLE |
 |-------|------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
 | 1 | Llei orgànica 3/2022, de 31 de març | Govern de l'Estat / Corts Generals |
-| 2 | Desenrotllament normatiu i tècnic (RD 659/2023, RD 69/2025, etc.) | Ministeri d'Educació i FP + *INCUAL |
+| 2 | Desenrotllament normatiu i tècnic (RD 659/2023, RD 69/2025, etc.) | Ministeri d'Educació i FP + INCUAL |
 | 3 | Catàleg de títols i certificats | Ministeri + Comunitats Autònomes + agents sectorials |
-| 4 | Currículum oficial autonòmic<*br>Orde d'Avaluació<*br>Resolucions anuals amb instruccions d'inici de curs | Comunitats Autònomes |
-| 5 | PAC<*br>Projecte curricular de cicle formatiu | Equip directiu + Equips docents del centre |
-| 6 | Programació didàctica<*br>Unitats de programació | Docent del mòdul professional |
+| 4 | Currículum oficial autonòmic<br>Orde d'Avaluació<br>Resolucions anuals amb instruccions d'inici de curs | Comunitats Autònomes |
+| 5 | PAC<br>Projecte curricular de cicle formatiu | Equip directiu + Equips docents del centre |
+| 6 | Programació didàctica<br>Unitats de programació | Docent del mòdul professional |
 
  
 La Formació Professional és un sistema complex que requerix ordenar i adaptar la normativa i el currículum perquè siguen útils i aplicables en la pràctica educativa. Per a això, resulta fonamental agrupar tot el procés en tres nivells de concreció curricular que reflectixen el grau de detall i la responsabilitat dels qui intervenen: 
@@ -462,10 +462,10 @@ Programació d'aula: Finalment, el tercer nivell és on la docent concreta, de m
 
 | Nivell de Concreció | Àmbit | Documents |
 |----------------------|-------------|----------------------------------------------------------------------------|
-| **1r Nivell** | **Estatal** | Llei orgànica 3/2020, de 29 de setembre<*br>Llei orgànica 3/2022, de 31 de març<*br>Reial decret 659/2023, de 18 de juliol<*br>Reial decret de Títol |
-| | **Autonòmic** | Decret 114/2025, de 29 de juliol<*br>Decret 117/2025, de 5 d'agost<*br>Orde 8/2025, de 22 d'abril<*br>Instruccions anuals d'inici de curs |
-| **2n Nivell** | **Centre** | Institut d'Educació Secundària: Projecte Educatiu de Centre<*br>Centre Integrat de Formació Professional: Projecte Funcional de Centre, Pla d'Actuació |
-| **3r Nivell** | **Professorat** | Projecte Curricular de cicle formatiu<*br>Programació didàctica<*br>Programació d'aula |
+| **1r Nivell** | **Estatal** | Llei orgànica 3/2020, de 29 de setembre<br>Llei orgànica 3/2022, de 31 de març<br>Reial decret 659/2023, de 18 de juliol<br>Reial decret de Títol |
+| | **Autonòmic** | Decret 114/2025, de 29 de juliol<br>Decret 117/2025, de 5 d'agost<br>Orde 8/2025, de 22 d'abril<br>Instruccions anuals d'inici de curs |
+| **2n Nivell** | **Centre** | Institut d'Educació Secundària: Projecte Educatiu de Centre<br>Centre Integrat de Formació Professional: Projecte Funcional de Centre, Pla d'Actuació |
+| **3r Nivell** | **Professorat** | Projecte Curricular de cicle formatiu<br>Programació didàctica<br>Programació d'aula |
  
 
 :::note
@@ -520,7 +520,7 @@ f) Els diferents plans i programes establits per l'Administració educativa.
 
 g) Altres aspectes que determine l'Administració educativa en l'àmbit de les seues competències. 
 
-En el cas de Centres Integrats, el Projecte Funcional del Centre arreplega les directrius que emanen d'estos dos documents, descriu les condicions del context, tant de manera territorial com sectorial, i fixa els elements essencials que han d'orientar l'actuació estratègica del *Centro en els pròxims anys. Especificarà, entre altres, els següents *elementos8: 
+En el cas de Centres Integrats, el Projecte Funcional del Centre arreplega les directrius que emanen d'estos dos documents, descriu les condicions del context, tant de manera territorial com sectorial, i fixa els elements essencials que han d'orientar l'actuació estratègica del Centre en els pròxims anys. Especificarà, entre altres, els següents elements: 
 
 a) Les directrius del consell social en les quals es basa. 
 
@@ -552,15 +552,15 @@ b) Pla d'actuació per a la millora.
 
 Així, el Pla d'actuació per a la millora és considerat com la part pedagògica de la PGA, és el document en el qual es concreta la intervenció educativa que es durà a terme en el centre educatiu i en el seu entorn durant un curs escolar. 
 
-El *PAM té les finalitats següents: incrementar el percentatge d'alumnat que aconseguix els objectius i les competències educatives corresponents, reduir l'absentisme escolar, millorar la competència emocional i les habilitats d'interacció social de l'alumnat per a aconseguir una integració socioeducativa més elevada i desenrotllar accions per a previndre i compensar les desigualtats en educació des d'una perspectiva inclusiva. 
+El PAM té les finalitats següents: incrementar el percentatge d'alumnat que aconseguix els objectius i les competències educatives corresponents, reduir l'absentisme escolar, millorar la competència emocional i les habilitats d'interacció social de l'alumnat per a aconseguir una integració socioeducativa més elevada i desenrotllar accions per a previndre i compensar les desigualtats en educació des d'una perspectiva inclusiva. 
 
-El *PAM haurà de contindre, almenys, els elements següents: 
+El PAM haurà de contindre, almenys, els elements següents: 
 
 a) Descripció de les intervencions educatives que es desenrotllaran per a atendre la diversitat de l'alumnat des d'una perspectiva inclusiva. 
 
 b) L'actualització dels diferents plans i programes desenrotllats pel centre, amb una menció especial al pla d'igualtat i convivència. 
 
-c) Criteris i procediments previstos per al seguiment i l'avaluació del propi *PAM. 
+c) Criteris i procediments previstos per al seguiment i l'avaluació del propi PAM. 
 
 Per part seua, el Pla d'Actuació dels Centres Integrats de Formació professional, haurà d'incorporar: 
 
@@ -582,7 +582,7 @@ h) L'horari d'activitats lectives i no lectives organitzades en el centre.
 
 i) Quants altres projectes i plans pretenguen desenrotllar el centre. 
 
-![Document estratègic de segon nivell](./media/*Imagen1.png){*width="300px"}
+![Document estratègic de segon nivell](./media/Imagen1.png){width="300px"}
  
 El punt de partida del Pla d'actuació és el Projecte Funcional, on es definixen les característiques fonamentals del context i les principals línies estratègiques. Dins dels elements del context, en el cas de Formació Professional no sols han de contemplar-se els relacionats particulars d'esta oferta, el Centre no sols acull alumnat del barri o del context pròxim, sinó que s'inscriuen en ell persones jóvens o adultes amb interés particular en una determinada família professional o cicle formatiu. La incorporació de l'oferta en horari nocturn o en modalitat semipresencial accentuen esta visió àmplia de la territorialitat, i la d'uns usuaris que no sols provenen del sistema educatiu i estan en formació inicial, sinó que són cada vegada més adults, amb experiència laboral prèvia, i amb interessos diversos. 
 
@@ -590,27 +590,27 @@ El segon element del context que diferencia esta formació de la resta és el co
 
 ## DELS DOCUMENTS DEL CENTRE A LA PROGRAMACIÓ DE MÒDUL 
 
-Una vegada situats en el centre on s'impartirà la formació, ja siga un Institut d'Educació Secundària (IES) o un Centre Integrat de Formació Professional (*CIPFP), és imprescindible elaborar el Projecte Curricular del Cicle Formatiu. Per a elaborar este document la Direcció General de Formació Professional ha publicat una guia que proporciona pautes clares per a l'elaboració del *PCCF i la programació didàctica per competències, tal com establix la nova Llei de Formació Professional. 
+Una vegada situats en el centre on s'impartirà la formació, ja siga un Institut d'Educació Secundària (IES) o un Centre Integrat de Formació Professional (CIPFP), és imprescindible elaborar el Projecte Curricular del Cicle Formatiu. Per a elaborar este document la Direcció General de Formació Professional ha publicat una guia que proporciona pautes clares per a l'elaboració del PCCF i la programació didàctica per competències, tal com establix la nova Llei de Formació Professional. 
 
-La guia publicada per la Direcció General de Formació Professional és una referència essencial per a l'elaboració del Projecte Curricular del Cicle Formatiu (*PCCF) i la programació didàctica per competències, conforme al que s'establix en la nova Llei de Formació Professional. Este document proporciona pautes clares i detallades que faciliten l'adaptació del currículum oficial a les característiques específiques del centre, de l'alumnat i de l'entorn soci-productiu. 
+La guia publicada per la Direcció General de Formació Professional és una referència essencial per a l'elaboració del Projecte Curricular del Cicle Formatiu (PCCF) i la programació didàctica per competències, conforme al que s'establix en la nova Llei de Formació Professional. Este document proporciona pautes clares i detallades que faciliten l'adaptació del currículum oficial a les característiques específiques del centre, de l'alumnat i de l'entorn soci-productiu. 
 
 La seua elaboració implica un treball conjunt de l'equip docent, que permet consensuar decisions metodològiques, organitzatives i avaluatives. A través d'este procés, s'establix un marc comú que orienta la programació docent i garantix l'adquisició de les competències professionals previstes, en coherència amb les finalitats educatives i el Projecte Educatiu del Centre (PAC). 
 
-El Projecte Curricular del Cicle Formatiu (*PCCF) és un document clau que s'elabora per cada cicle i centre, amb independència de la modalitat o horari en què s'impartisca. La seua finalitat és concretar i contextualitzar el currículum oficial, ajustant-lo a les característiques de l'entorn socioeconòmic, cultural i productiu del centre. Per a això, inclou la identificació del cicle formatiu i el marc normatiu que el regula, així com una adaptació de les competències professionals del títol al context en el qual es desenrotlla la formació. 
+El Projecte Curricular del Cicle Formatiu (PCCF) és un document clau que s'elabora per cada cicle i centre, amb independència de la modalitat o horari en què s'impartisca. La seua finalitat és concretar i contextualitzar el currículum oficial, ajustant-lo a les característiques de l'entorn socioeconòmic, cultural i productiu del centre. Per a això, inclou la identificació del cicle formatiu i el marc normatiu que el regula, així com una adaptació de les competències professionals del títol al context en el qual es desenrotlla la formació. 
 
-El *PCCF definix de forma coordinada la contribució de cada mòdul al desenrotllament de les competències professionals del cicle i a les competències clau per a l'ocupabilitat, promovent un enfocament integrador i intermodular. També arreplega els enfocaments didàctics i metodològics acordats per l'equip docent, juntament amb l'organització i distribució dels mòduls professionals al llarg del curs. 
+El PCCF definix de forma coordinada la contribució de cada mòdul al desenrotllament de les competències professionals del cicle i a les competències clau per a l'ocupabilitat, promovent un enfocament integrador i intermodular. També arreplega els enfocaments didàctics i metodològics acordats per l'equip docent, juntament amb l'organització i distribució dels mòduls professionals al llarg del curs. 
 
-Quant a l'avaluació, establix criteris comuns per a la seua organització, comunicació i desenrotllament, així com els procediments per a avaluar tant a l'alumnat com al professorat i al propi *PCCF. A més, contempla orientacions per a l'atenció a la diversitat i la inclusió educativa. 
+Quant a l'avaluació, establix criteris comuns per a la seua organització, comunicació i desenrotllament, així com els procediments per a avaluar tant a l'alumnat com al professorat i al propi PCCF. A més, contempla orientacions per a l'atenció a la diversitat i la inclusió educativa. 
 
-El document incorpora una base de dades amb les empreses o organismes que col·laboren amb el centre en la formació en empresa, i definix els criteris d'assignació de l'alumnat. També establix els criteris per a l'elaboració dels Plans Formatius Individuals, essencials en la FE i en el mòdul de projecte. Este últim compta a més amb criteris específics per a la seua organització, recollits dins del *PCCF. 
+El document incorpora una base de dades amb les empreses o organismes que col·laboren amb el centre en la formació en empresa, i definix els criteris d'assignació de l'alumnat. També establix els criteris per a l'elaboració dels Plans Formatius Individuals, essencials en la FE i en el mòdul de projecte. Este últim compta a més amb criteris específics per a la seua organització, recollits dins del PCCF. 
 
-S'inclouen, igualment, orientacions per a adaptar els mòduls de Digitalització Aplicada i Sostenibilitat a les particularitats del perfil professional del cicle, garantint així la seua contextualització. Al costat d'això, el *PCCF contempla el pla de tutoria i orientació professional, la concreció dels plans i programes institucionals vinculats al currículum, i orientacions per a l'ús pedagògic dels espais, mitjans i equipaments disponibles en el centre. 
+S'inclouen, igualment, orientacions per a adaptar els mòduls de Digitalització Aplicada i Sostenibilitat a les particularitats del perfil professional del cicle, garantint així la seua contextualització. Al costat d'això, el PCCF contempla el pla de tutoria i orientació professional, la concreció dels plans i programes institucionals vinculats al currículum, i orientacions per a l'ús pedagògic dels espais, mitjans i equipaments disponibles en el centre. 
 
 Finalment, s'arrepleguen els criteris per a la planificació d'activitats complementàries i extraescolars, amb la finalitat d'enriquir el procés formatiu més enllà de l'aula. 
 
-En el seu conjunt, el *PCCF es convertix en un marc compartit de referència per al treball docent, assegurant coherència pedagògica, coordinació i adaptació a la realitat de l'entorn educatiu i productiu. 
+En el seu conjunt, el PCCF es convertix en un marc compartit de referència per al treball docent, assegurant coherència pedagògica, coordinació i adaptació a la realitat de l'entorn educatiu i productiu. 
 
-Una vegada definit el *PCCF, el següent pas correspon a l'elaboració de les programacions didàctiques. Estes constituïxen el document pedagògic en el qual es planifica el desenrotllament de cada mòdul professional, a partir del marc establit en el *PCCF. Han de ser elaborades pel docent o l'equip docent responsable d'impartir el mòdul, i seran comuns i consensuades per a tots els grups, independentment de la modalitat o horari en què s'impartisquen. 
+Una vegada definit el PCCF, el següent pas correspon a l'elaboració de les programacions didàctiques. Estes constituïxen el document pedagògic en el qual es planifica el desenrotllament de cada mòdul professional, a partir del marc establit en el PCCF. Han de ser elaborades pel docent o l'equip docent responsable d'impartir el mòdul, i seran comuns i consensuades per a tots els grups, independentment de la modalitat o horari en què s'impartisquen. 
 
 En la programació didàctica es detallen els continguts del mòdul, la seqüència temporal d'estos, els resultats d'aprenentatge, els criteris d'avaluació, els enfocaments metodològics, les activitats formatives, així com les evidències d'aprenentatge que haurà de generar l'alumnat per a demostrar el seu progrés. Així mateix, es concreten els instruments d'avaluació que s'utilitzaran per a valorar estes evidències, garantint l'objectivitat, coherència i transparència del procés avaluador. 
 
@@ -624,9 +624,9 @@ Els punts principals de la programació del mòdul són:
 
 2. Relació entre les Unitats de Competència i mòduls del Cicle Formatiu 
 
-3. Contribució dels *RA a les competències professionals 
+3. Contribució dels RA a les competències professionals 
 
-4. Esquema general i seqüenciació de les *UP 
+4. Esquema general i seqüenciació de les UP 
 
 5. Metodologia 
 
@@ -652,8 +652,7 @@ Els punts principals de la programació del mòdul són:
 A continuació, s'exposen algunes de les definicions d'unitat didàctica:
 «La unitat didàctica o unitat de programació serà la intervenció de tots els
 elements que intervenen en el procés d'ensenyança-aprenentatge amb una coherència
-metodològica interna i per un període de temps determinat» (*Antúnez i altres, 1992,
-104).
+metodològica interna i per un període de temps determinat» (Antúnez i altres, 1992, 104).
 
 «La unitat didàctica és la interrelació de tots els elements que intervenen en el
 procés d'ensenyança-aprenentatge amb una coherència interna metodològica i per un
@@ -674,7 +673,7 @@ experiències ha de considerar la diversitat d'elements que contextualitzen el p
 recursos disponibles) per a regular la pràctica dels continguts, seleccionar els objectius
 bàsics que pretén aconseguir, les pautes metodològiques amb les quals treballarà, les
 experiències d'ensenyança-aprenentatge necessaris per a perfeccionar este procés»
-(*Escamilla, 1993, 39).
+(Escamilla, 1993, 39).
 
 Per tant, es pot dir que s'entén per unitat didàctica tota unitat de treball de
 duració variable, que organitza un conjunt d'activitats d'ensenyança i aprenentatge i
@@ -695,7 +694,7 @@ que habitualment s'ha manejat.
 El següent gràfic ens mostra la idea de la mútua implicació entre elements i el seu
 interrelació i la necessitat d'un procés de «anar i vindre».
 
-![Gràfic](./media/20.*jpg){*width="300px"}
+![Gràfic](./media/20.jpg){width="300px"}
 
 Les unitats didàctiques, qualsevol que siga l'organització, han de tindre en compte els
 següents aspectes: descripció, objectius didàctics, continguts, activitats, recursos
@@ -1066,14 +1065,14 @@ mòdul/curse.
 que s'indica als i les alumnes tot el relatiu a l'estructura, continguts i
 funcionament general del mòdul.
 
-![Logística comercial](./media/22.*jpg){*width="300px"}
+![Logística comercial](./media/22.jpg){width="300px"}
 
 * Consulta, en este apartat es posa a la disposició de l'alumnat un llistat per a
 que s'apunte a l'examen de cada una de les avaluacions, la qual cosa afavorix ajuda
 a la professora en l'organització d'espais i la preparació dels models de
 examen de les opcions de matí i vesprada de cada un dels mòduls.
 
-![Consulta](./media/23.*jpg){*width="300px"}
+![Consulta](./media/23.jpg){width="300px"}
 
 * Estructura de cada unitat i avaluació Cada unitat està composta per:
 
@@ -1086,13 +1085,13 @@ examen de les opcions de matí i vesprada de cada un dels mòduls.
  - Activitats
  - i activitats *autoevaluables
 
-![Logística comercial](./media/24.*jpg){*width="300px"}
+![Logística comercial](./media/24.jpg){width="300px"}
 
 * Recursos: inclou els continguts estructurats i dividits en diferents apartats
 i casos pràctics resolts de cada un d'estos apartats, tal com es mostra
 en la imatge.
 
-![Logística comercial](./media/25.*jpg){*width="300px"}
+![Logística comercial](./media/25.jpg){width="300px"}
 
 * Consulta: este apartat inclou una sèrie de continguts complementaris per al
 estudi de la unitat. S'estructura de la manera següent:
@@ -1105,7 +1104,7 @@ estudi de la unitat. S'estructura de la manera següent:
  els continguts de cada unitat.
  - Enllaços a pàgines web d'interés sobre alguns aspectes tractats en el tema.
 
-![Enllaços](./media/26.*jpg){*width="300px"}
+![Enllaços](./media/26.jpg){width="300px"}
 
 * Activitats: en este apartat l'alumne/a disposa de diferents tipus de tasques
 i activitats que li permetran completar l'estudi de la unitat i mitjançant els
@@ -1124,30 +1123,29 @@ proposats a l'inici de l'estudi d'esta. S'inclouen:
 
  - Activitats d'autoavaluació: com es mostra en la imatge un qüestionari d'autoavaluació, que constarà de preguntes de selecció múltiple, d'opció múltiple, de verdader i fals o d'emplenar buits.
 
-![Activitats](./media/27.*jpg){*width="300px"}
+![Activitats](./media/27.jpg){width="300px"}
 
 * Qualificacions: L'alumnat pot consultar les qualificacions de les activitats,
 qüestionaris, notes dels exàmens d'avaluació, així com la qualificació final,
 a través de l'apartat de qualificacions de l'aula virtual, tal com es mostra en la
 imatge:
 
-![Qualificacions](./media/28.*jpg){*width="300px"}
+![Qualificacions](./media/28.jpg){width="300px"}
 
-* Qüestionari de valoració del CURS: es tracta d'un formulari creat en Google
-*drive i en ell es demana als i les alumnes la seua opinió sobre diferents aspectes del
+* Qüestionari de valoració del CURS: es tracta d'un formulari creat en Google drive i en ell es demana als i les alumnes la seua opinió sobre diferents aspectes del
 curs i que servirà a la professora com a ferramenta per a millorar, tant la
 estructura, com els continguts del tema.
 
-![Qüestionari](./media/29.*jpg){*width="300px"}
+![Qüestionari](./media/29.jpg){width="300px"}
 
-![Qüestionari](./media/30.*jpg){*width="300px"}
+![Qüestionari](./media/30.jpg){width="300px"}
 
 # CRITERIS I INSTRUMENTS D'AVALUACIÓ
 
 Hem vist al llarg del desenrotllament del nostre epígraf, com l'enfocament constructivista
 de l'aprenentatge posa l'accent en un aprenentatge per competències, que hem anomenat
 competències d'innovació (basades en les huit competències bàsiques), a la recerca del
-caràcter *profesionalizador de la Formació Professional.
+caràcter profesionalitzador de la Formació Professional.
 
 Però sobre la base de què podem avaluar tots estos sabers, habilitats, capacitats,
 actituds i, per tant, competències?
@@ -1156,10 +1154,7 @@ Hem de referir-nos sens dubte als criteris d'avaluació.
 Els criteris d'avaluació són paràmetres de referència que funcionen com a base de
 comprovació per a interpretar l'acompliment de l'o de l'estudiant respecte a la seua
 aprenentatge. Fa referència al domini de continguts, però no ens referim
-únicament als establits en els Decrets de títol dels *CF, si no que ampliem la
-visió del concepte. Quan parlem de les característiques de l'avaluació veurem
-que esta té un caràcter *criterial, això és, els resultats d'aprenentatge es comparen
-amb estàndards o criteris del sector productiu.
+únicament als establits en els Decrets de títol dels CF, si no que ampliem la visió del concepte. Quan parlem de les característiques de l'avaluació veurem que esta té un caràcter criterial, això és, els resultats d'aprenentatge es comparen amb estàndards o criteris del sector productiu.
 
 Quan apliquem criteris d'avaluació, avaluem no sols l'adquisició de
 coneixements, sinó també el correcte desenrotllament de les competències.
@@ -1193,7 +1188,7 @@ actualitzats la qual cosa es convertix en tot un desafiament per al professorat.
 
 Tal com ja vam dir en l'apartat de metodologia i aprenentatge, este repte suposa una
 reformulació de les metodologies docents, que han d'estar basades en l'aprenentatge
-i no sols en l'ensenyança; pel que en l'actualitat parlem de procés de *enseñanzaaprendizaje, tenint en compte el caràcter bidireccional del procés.
+i no sols en l'ensenyança; pel que en l'actualitat parlem de procés de ensenyament-aprenentatge, tenint en compte el caràcter bidireccional del procés.
 En este model, l'estudiantat passa a ocupar el centre o eix vertebrador del procés
 d'aprenentatge, participant de manera proactiva en la construcció del seu propi
 coneixement, i sens dubte, en la nostra opinió, la pedra angular del sistema recau sobre
@@ -1235,7 +1230,7 @@ processos d'aprenentatge i els seus resultats, perquè, després de la seua anà
 donar suport a un juí de valor sobre el disseny, l'execució i els resultats de la formació amb
 la fi de servir de base per a la presa de decisions”
 
-![Avaluació educativa](./media/31.png){*width="300px"}
+![Avaluació educativa](./media/31.png){width="300px"}
 
 Estes decisions es prendran en tres sentits:
 
@@ -1274,7 +1269,7 @@ dels alumnes i alumnes. Per a entendre-ho millor, ens ajudarem d'un exemple.
 Suposem que plantegem a un alumne o alumna si és capaç d'obtindre quina seria la
 quantitat que hauria de pagar mensualment si vol finançar-se amb un préstec
 hipotecari per a la compra de la seua vivenda. Esta competència estaria relacionada amb el
-mòdul de Gestió Financera en el *CFGS d'Administració i Finances.
+mòdul de Gestió Financera en el CFGS d'Administració i Finances.
 Seguint el nostre enfocament, hauríem d'avaluar a l'alumnat tenint en compte els
 següents objectius de l'aprenentatge
 Avaluar el saber (Avaluació Teòrica). Els objectius de coneixement fan referència a
@@ -1326,7 +1321,7 @@ funcions:
 1. Motivadora: Estimula per a aconseguir millorar els resultats i superar les dificultats en l'aprenentatge.
 2. Diagnòstica: Possibilita la identificació d'insuficiències acadèmiques en les destreses i coneixements previs dels i les estudiants per a iniciar el procés d'ensenyança aprenentatge.
 3. Pronòstica: Ens permet predir el desenrotllament futur dels i les estudiants a partir de les evidències o informació obtinguda. Facilita la determinació de possibles assoliments a aconseguir a través de l'acció educativa.
-4. *Retroalimentadora: Assegura el reajustament immediat requerit per a l'assoliment dels objectius d'aprenentatge i la millora del currículum.
+4. Retroalimentadora: Assegura el reajustament immediat requerit per a l'assoliment dels objectius d'aprenentatge i la millora del currículum.
 
 I al mateix temps, ens està donant resposta a la nostra pregunta, donant lloc a els
 diferents tipus d'avaluació, que segons el moment de realització i coincidint amb la seua
@@ -1340,19 +1335,19 @@ adequades per a cada estudiant particular, tenint en compte el nivell del qual p
 que servisca per a aconseguir els objectius sobre els quals li mesuraran.
 Podem considerar que els seus propòsits principals són:
 
-![Avaluació](./media/33.*jpg){*width="300px"}
+![Avaluació](./media/33.jpg){width="300px"}
 
 Per a la realització de l'estratègia diagnòstica podem desenrotllar alguna de les següents activitats d'avaluació:
 
-![Avaluació](./media/32.*jpg){*width="300px"}
+![Avaluació](./media/32.jpg){width="300px"}
 
 I la nostra avaluació diagnòstica ha d'estar orientada per algun criteri, com ara:
 
-![Avaluació](./media/34.*jpg){*width="300px"}
+![Avaluació](./media/34.jpg){width="300px"}
 
 ### B. Avaluació, Processal o Formativa
 
-Es realitza de manera contínua durant el procés i servix per a detectar problemes d'aprenentatge, regular i millorar el procés d'ensenyança aprenentatge duent a terme un seguiment d'este; en funció del qual es realitzen activitats correctores, per a ajudar a l'abast dels objectius formatius. L'avaluació formativa s'utilitza amb finalitats de *retroinformación que pot servir tant per a millorar l'aprenentatge dels i les estudiants com per a millorar l'ensenyança impartida. Permet identificar els errors en el procés, ajustant-lo i reorientant-lo, proporcionant un *feed *back tant per a l'estudiant com per al docent.
+Es realitza de manera contínua durant el procés i servix per a detectar problemes d'aprenentatge, regular i millorar el procés d'ensenyança aprenentatge duent a terme un seguiment d'este; en funció del qual es realitzen activitats correctores, per a ajudar a l'abast dels objectius formatius. L'avaluació formativa s'utilitza amb finalitats de retroinformació que pot servir tant per a millorar l'aprenentatge dels i les estudiants com per a millorar l'ensenyança impartida. Permet identificar els errors en el procés, ajustant-lo i reorientant-lo, proporcionant un feed back tant per a l'estudiant com per al docent.
 
 En esta mena d'avaluació s'afavorix la “pràctica distribuïda” de l'aprenentatge (estudi de
 unitats d'aprenentatge reduïdes i distribuïdes al llarg d'amplis períodes de
@@ -1371,9 +1366,9 @@ decisió a prendre quant a superació dels mòduls per part de l'alumnat
 (avaluació final de mòdul) i al final del cicle la que ens indicarà si l'estudiantat està
 en disposició d'obtindre el títol corresponent (avaluació final de cicle).
 
-![Avaluació](./media/35.*jpg){*width="300px"}
+![Avaluació](./media/35.jpg){width="300px"}
 
-![Avaluació](./media/36.*jpg){*width="300px"}
+![Avaluació](./media/36.jpg){width="300px"}
 
 Basant-nos perquè, en l'enfocament per competències, partim que l'avaluació, és un
 component decisiu, ja que orienta tot el procés formatiu, a l'ésser l'expressió
@@ -1383,7 +1378,7 @@ Les característiques que definixen l'avaluació segons este enfocament són les
 
 * Té per objecte principal les capacitats terminals (LOGSE), o els resultats d'aprenentatge (LOE), que són públics, així com els criteris d'avaluació.
 
-* Es troba referenciada per criteris (no per normes): els resultats es comparen amb estàndard o criteris del sector productiu. És *criterial.
+* Es troba referenciada per criteris (no per normes): els resultats es comparen amb estàndard o criteris del sector productiu. És criterial.
 
 * Té caràcter individualitzat, per tant, s'adapta tant a les característiques de les persones com als mitjans. És flexible.
 
@@ -1399,12 +1394,12 @@ Contínua, i s'organitza per etapes, per tant, podem dir que és sistemàtica.
 * Procura establir situacions d'avaluació el més pròximes possibles a els
 escenaris reals.
 
-![Avaluació](./media/37.png){*width="300px"}
+![Avaluació](./media/37.png){width="300px"}
 
 Paral·lelament, i tal com avançàvem en l'apartat de metodologia, serà necessari
 recórrer a noves metodologies docents més enfocades al desenrotllament de destreses,
-habilitats i competències per part de l'o de l'estudiant (*skills) i resultats de
-aprenentatge (*learning *outcomes), i serà el propi docent el que haja de fixar tots aquells
+habilitats i competències per part de l'o de l'estudiant (skills) i resultats de
+aprenentatge (learning outcomes), i serà el propi docent el que haja de fixar tots aquells
 aspectes que l'estudiant haurà de superar per a aconseguir els objectius previstos,
 havent d'establir, com a pas previ, la càrrega lectiva per al professorat i per al
 estudiantat, la qual cosa no sempre és fàcil.
@@ -1431,7 +1426,7 @@ adequada tot el treball que ha realitzat l'estudiantat i que, per coherència, d
 tindre una sistemàtica similar al procés d'aprenentatge que ha realitzat.
 
 D'altra banda, situant-nos en els entorns virtuals, les teories constructivistes,
-advertixen els *metodólogos, són més adequades a este nou sistema, pretenent que
+advertixen els metodòlegs, són més adequades a este nou sistema, pretenent que
 l'estudiantat adquirisca al llarg de la seua formació unes determinades competències
 que ho preparen per a la vida professional (perquè no oblidem que este és la fi última
 que es perseguix amb la formació), la qual cosa exigix un disseny curricular per competències i
@@ -1719,7 +1714,7 @@ està concebut més per a aprovar que per a aprendre. És per això que no sols 
 avaluar en el final de procés d'aprenentatge l'assimilació de coneixements i desenrotllament
 de competències, sinó que l'o la professora, ha de proposar amb una certa periodicitat
 activitats avaluables que faciliten l'assimilació i desenrotllament progressiu de els
-continguts i de les competències a aconseguir (“*learning *by *doing”), de manera que la
+continguts i de les competències a aconseguir (“learning by doing”), de manera que la
 avaluació es convertix en contínua o progressiva i el professorat pot realitzar un millor
 seguiment del progrés d'aprenentatge de l'o de l'estudiant permetent així una
 valoració integral, apostant així per un aprenentatge significatiu, seguint les teories
@@ -1755,13 +1750,13 @@ Al seu torn, l'avaluació contínua proporciona al professorat informació que l
 intervindre per a millorar i reorientar el procés d'aprenentatge, ja que disposa d'una
 visió de les dificultats i progressos dels i les estudiants en este, informar sobre
 el mateix i, finalment, qualificar el rendiment de l'o de l'estudiant, produint-se així
-un procés de “*feed-*back valuosíssim.
+un procés de “feed-back valuosíssim.
 
 Tant en entorns presencials com semipresencials les proves d'avaluació
 contínua permetran a l'estudiantat conéixer el grau d'autoaprenentatge i preparar les
 proves d'avaluació final. En entorns presencials, estes activitats es realitzaran
 dins de l'aula, mentres que, en entorns semipresencials, l'estudiantat realitzarà
-activitats *autoevaluables realitzades fora de l'aula o “*take *home”, a través de la
+activitats autoavaluables realitzades fora de l'aula o “take home”, a través de la
 plataforma virtual.
 
 Quant a les proves d'avaluació final, consistixen fonamentalment en l'examen
@@ -1840,7 +1835,7 @@ competències. Es tracta dels denominats “indicadors d'avaluació”.
 La formulació de tals indicadors pot realitzar-se segons la següent estructura: Verb
 present indicatiu condició/finalitat.
 
-![Indicadors](./media/38.png){*width="300px"}
+![Indicadors](./media/38.png){width="300px"}
 
 Haurà d'existir sempre una coherència interna entre capacitats terminals (LOGSE)
 resultats d'aprenentatge (LOE), criteris i indicadors d'avaluació.
@@ -1848,8 +1843,8 @@ Finalment, hem d'indicar que cada un dels criteris d'avaluació, així com els
 indicadors en els quals es desenrotllen, hauran de qualificar-se a través de “ítems de
 qualificació”, els quals establiran la qualificació total que correspon a l'avaluació.
 
-A continuació, mode d'exemple, incloem la plantilla que s'utilitza en el “*CIPFP
-MISERICÒRDIA” per a avaluar el mòdul de “Projecte” en el *CFGS d'Administració i
+A continuació, mode d'exemple, incloem la plantilla que s'utilitza en el “CIPFP
+MISERICÒRDIA” per a avaluar el mòdul de “Projecte” en el CFGS d'Administració i
 Finances, on es pot diferenciar clarament cada un d'estos aspectes.
 
 | Denominació del projecte | Estructura formal (2 punts) | Continguts (5 punts) | Exposició i Defensa (3 punts) | NOTA FINAL |
@@ -1964,7 +1959,7 @@ i oferix la informació que es requerix. “Mesura el que es desitja mesurar”.
 instrument. Avaluar amb precisió i consistència (s'obté el mateix resultat
 en diferents moments).
 
-![Avaluació](./media/*imagen2.png){*width="300px"}
+![Avaluació](./media/imagen2.png){width="300px"}
 
 Per tant, en conclusió, en el procés d'avaluació, identificarem les següents
 etapes:
@@ -2161,8 +2156,7 @@ objectiva.
 
 Les preguntes de desenrotllament consistixen en enunciats o qüestions de resposta àmplia
 on l'estudiantat disposa d'una certa llibertat per a la seua elaboració. Poden ser
-plantejades de manera oberta o guiades. En estes últimes, es determina mitjançant
-*subpreguntas el contingut principal que ha de comprendre la resposta, evitant així que
+plantejades de manera oberta o guiades. En estes últimes, es determina mitjançant subpreguntes el contingut principal que ha de comprendre la resposta, evitant així que
 l'o l'estudiant divague en la seua resolució. En qualsevol cas, la redacció de els
 enunciats ha de ser clara i formulada de manera que l'estudiantat comprenga
 fàcilment què és el que es pretén que responga.
@@ -2256,15 +2250,15 @@ específics i altres.
 
 Esta taula resumix la normativa actualitzada i que substituïx a parts o normatives parcials. També inclou les actualitzacions autonòmiques i canvis recents en l'estructura i la implantació obligatòria de la FP Dual.
 
-| *Document/Norma Vigent | Substituïx/Actualitza | Descripció/Contingut |
+| Document/Norma Vigent | Substituïx/Actualitza | Descripció/Contingut |
 |-----------------------------------------------|--------------------------------------------|---------------------------------------------------------------------------------------------------------------|
-| Llei orgànica 3/2022, de 31 de març | Llei orgànica 2/2006 (LOE) | Ordena i integra la Formació Professional, transformant el sistema, encara que les *EDRE mantenen especificitat. |
-| *LOMLOE (Llei orgànica 3/2020) | Marc educatiu anterior | Marc general per a l'educació, complementant la regulació d'FP. |
+| Llei orgànica 3/2022, de 31 de març | Llei orgànica 2/2006 (LOE) | Ordena i integra la Formació Professional, transformant el sistema, encara que les EDRE mantenen especificitat. |
+| LOMLOE (Llei orgànica 3/2020) | Marc educatiu anterior | Marc general per a l'educació, complementant la regulació d'FP. |
 | Reial decret 659/2023, de 18 de juliol | Reial decret 1363/2007 (parcial) | Desenrotllament actual de l'ordenament del Sistema de Formació Professional. |
 | Reial decret 278/2023 | - | Establix el calendari d'implantació obligatòria de la FP Dual des de setembre 2024. |
 | Reial decret 499/2024 i Reial decret 500/2024 | Normativa antiga sobre títols (2013-2018) | Actualitzen els títols de Formació Professional de Grau Mitjà i Superior per a la seua adaptació a nou orde. |
-| Decret 17/2025 (País Basc) | No aplica directament a CV | Exemple d'actualització autonòmica sobre *EDRE. |
-| DOGV 2025/40228 (Comunitat Valenciana) | - | Possibles disposicions específiques autonòmiques per a *EDRE. |
+| Decret 17/2025 (País Basc) | No aplica directament a CV | Exemple d'actualització autonòmica sobre EDRE. |
+| DOGV 2025/40228 (Comunitat Valenciana) | - | Possibles disposicions específiques autonòmiques per a EDRE. |
 | Orde 8/2025 (Comunitat Valenciana) | Sistema Avaluació anterior | Nou sistema d'avaluació per a fP (40% PAC + 60% prova final) i avaluació conjunta en FP Dual. |
 | Decret 114/2025 (Comunitat Valenciana) | Currículums anteriors d'FP | Actualitza els currículums dels cicles formatius de grau mitjà i superior en la Comunitat Valenciana. |
 
@@ -2303,7 +2297,7 @@ Anàlisi i resum de les novetats legislatives per a la formació professional en
 - [Els nous codis de la Formació Professional](https://www.ideaspropiaseditorial.com/blog/nuevos-codigos-de-la-formacion-profesional/) 
 Explicació sobre l'actualització i assignació de nous codis als títols i certificats d'FP.
 
-- [El Catàleg Nacional d'Estàndards de Competències Professionals (*CNECP) - Web *INCUAL - Educació](https://incual.educacion.gob.es/bdc) 
+- [El Catàleg Nacional d'Estàndards de Competències Professionals (*CNECP) - Web INCUAL - Educació](https://incual.educacion.gob.es/bdc) 
 Plataforma oficial del Catàleg Nacional que organitza les competències professionals d'FP.
 
 - [BOE-A-2025-13147 Reial decret 532/2025 sobre ordenació de mòduls formatius](https://www.boe.es/diario_boe/txt.php?id=boe-a-2025-13147) 
@@ -2360,7 +2354,7 @@ Decret que regula les ensenyances d'FP Bàsica per a assegurar qualitat i adapta
 - [Nova Llei de Formació Professional: Comunitat Valenciana](https://josesande.com/2024/08/21/nueva-ley-de-formacion-profesional-comunidad-valenciana/) 
 Article informatiu sobre els canvis normatius en FP a la Comunitat Valenciana després de la nova llei estatal.
 
-- [Objectius i estructura del *CNECP - Web *incual - Educació](https://incual.educacion.gob.es/objetivos) 
+- [Objectius i estructura del *CNECP - Web incual - Educació](https://incual.educacion.gob.es/objetivos) 
 Pàgina oficial amb els objectius i estructura del Catàleg Nacional d'Estàndards de Competències Professionals.
 
 - [Acreditació de Competències Professionals](https://todofp.es/acreditacion-de-competencias.html) 
@@ -2417,7 +2411,7 @@ Resum de les novetats i expectatives per al curs 2024-2025 després de la nova l
 - [EL BOE publica el Reial decret 659/2023, de 18 de juliol, pel qual es desenrotlla l'ordenació del sistema de Formació Professional](https://cecap.es/el-boe-publica-el-real-decreto-659-2023-de-18-de-julio-por-el-que-se-desarrolla-la-ordenacion-del-sistema-de-formacion-profesional) 
 Anunci oficial de publicació de normativa que establix l'ordenació actual d'FP.
 
-- [Normativa sobre el *CNECP - Web *incual - Educació](https://incual.educacion.gob.es/normativa1) 
+- [Normativa sobre el *CNECP - Web incual - Educació](https://incual.educacion.gob.es/normativa1) 
 Normativa reguladora del Catàleg Nacional d'Estàndards de Competències Professionals.
 
 - [Orde *EFD/657/2024, de 25 de juny, per la qual es regulen aspectes acadèmics en FP](https://www.boe.es/diario_boe/txt.php?id=boe-a-2024-13179) 

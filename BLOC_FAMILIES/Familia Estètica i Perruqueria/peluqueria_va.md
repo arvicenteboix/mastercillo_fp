@@ -1,7 +1,7 @@
 ---
 # Front matter
 # Metainformació del document
-title: "CERTIFICADO OFICIAL DE FORMACIÓN PEDAGÓGICA Y DIDÁCTICA PARA PROFESORADO TÉCNICO"
+title: "CERTIFICAT OFICIAL DE FORMACIÓ PEDAGÒGICA I DADÀCTICA PER AL PROFESSORAT TÈCNIC"
 # author:
 titlepage: true
 
@@ -121,15 +121,13 @@ La Formació Professional constituïx en l'actualitat un element
 vertebrador del sistema educatiu i d'ocupació a Espanya, situant-se en
 el centre de les polítiques actives d'aprenentatge al llarg de la vida.
 Sota el marc normatiu establit per la Llei orgànica 3/2022 i la seua
-desenrotllament reglamentari en l'RD 659/2023, es configura un **sistema
-unificat i flexible**, capaç de respondre a les necessitats canviants
+desenrotllament reglamentari en l'RD 659/2023, es configura un **sistema unificat i flexible**, capaç de respondre a les necessitats canviants
 de l'entorn social i productiu.
 
 Des de la perspectiva docent, este model implica un canvi
 significatiu en la concepció de l'ensenyança-aprenentatge. La Formació
 Professional ja no es limita únicament a la transmissió de coneixements
-tècnics, sinó que s'articula entorn de la **adquisició, integració
-i transferència de competències professionals**, enteses com el
+tècnics, sinó que s'articula entorn de la **adquisició, integració i transferència de competències professionals**, enteses com el
 conjunt de coneixements, destreses, habilitats, actituds i valors
 necessaris per a l'exercici qualificat d'una activitat professional,
 en contextos reals i diversos.
@@ -185,13 +183,12 @@ Entre les modalitats destaquen:
  adultes, que compatibilitzen formació amb ocupació o responsabilitats
  personals, mitjançant la combinació d'activitats no presencials i
  sessions presencials, així com recursos tecnològics de suport (encara que
- la normativa estatal posa èmfasi en *modularización, flexibilitat i
+ la normativa estatal posa èmfasi en modularització, flexibilitat i
  ritme personalitzat).
 
 ## Tipologia d'ofertes segons graus
 
-L'RD 659/2023 organitza les ofertes del sistema d'FP en **cinc
-graus** (A, B, C, D i E), la qual cosa estructura de manera clara tot el
+L'RD 659/2023 organitza les ofertes del sistema d'FP en **cinc graus** (A, B, C, D i E), la qual cosa estructura de manera clara tot el
 sistema
 
 - Grau A: Acreditació parcial de competències.
@@ -212,9 +209,7 @@ sistema
 El sistema de Formació Professional a Espanya, d'acord amb el
 establit en el **Reial decret 659/2023**, pel qual s'ordena el
 sistema de Formació Professional, i recollit a nivell autonòmic en el
-**Decret 114/2025** (Comunitat Valenciana), reconeix **tres modalitats
-d'oferta** per als cicles formatius: **presencial, semipresencial i
-virtual (a distància)**.
+**Decret 114/2025** (Comunitat Valenciana), reconeix **tres modalitats d'oferta** per als cicles formatius: **presencial, semipresencial i virtual (a distància)**.
 
 Estes modalitats responen a la necessitat d'oferir una formació
 **flexible, accessible i adaptada a diferents perfils de l'alumnat**,
@@ -226,17 +221,13 @@ així com a les condicions de l'entorn socioeconòmic i productiu.
 
 **Característiques principals:**
 
-- **Assistència regular a l'aula**: Requerix la presència habitual del
- alumnat en el centre, segons un horari establit.
+- **Assistència regular a l'aula**: Requerix la presència habitual del alumnat en el centre, segons un horari establit.
 
-- **Interacció directa**: Afavorix la comunicació cara a cara entre
- alumnat i professorat.
+- **Interacció directa**: Afavorix la comunicació cara a cara entre alumnat i professorat.
 
-- **Entorns simulats o reals**: Ús intensiu de tallers,
- laboratoris i espais específics del cicle.
+- **Entorns simulats o reals**: Ús intensiu de tallers, laboratoris i espais específics del cicle.
 
-- **Avaluació contínua**: Major facilitat per a aplicar una avaluació
- formativa i ajustada al ritme del grup.
+- **Avaluació contínua**: Major facilitat per a aplicar una avaluació formativa i ajustada al ritme del grup.
 
 **Modalitat Semipresencial**
 
@@ -283,8 +274,7 @@ recollides en el currículum oficial.
 # Nivells formatius
 
 La Formació Professional s'estructura en diferents nivells de
-qualificació professional, definits en el **Catàleg d'Estàndards de
-Competència**, que servix com a eix vertebrador per a tota l'oferta
+qualificació professional, definits en el **Catàleg d'Estàndards de Competència**, que servix com a eix vertebrador per a tota l'oferta
 formativa del sistema.
 
 **Independentment de la modalitat en la qual s'impartisca** (presencial,
@@ -306,9 +296,7 @@ nivells:
 Els cicles de Grau Bàsic estan dirigits a alumnat que necessita una
 via alternativa a l'educació secundària obligatòria convencional, i
 que requerix d'un enfocament més pràctic i adaptat a les seues necessitats
-formatives. La seua finalitat és **afavorir la permanència en el sistema
-educatiu**, reduir l'abandó escolar primerenc i facilitar la
-transició a l'ocupació.
+formatives. La seua finalitat és **afavorir la permanència en el sistema educatiu**, reduir l'abandó escolar primerenc i facilitar la transició a l'ocupació.
 
 **Característiques principals:**
 
@@ -341,8 +329,7 @@ b) Àmbit de Ciències Aplicades
 
 c) Àmbit Professional
 
-d) Projecte intermodular d'aprenentatge col·laboratiu vinculat a els
- tres àmbits.
+d) Projecte intermodular d'aprenentatge col·laboratiu vinculat a els tres àmbits.
 
 ### Grau Mitjà
 
@@ -350,8 +337,7 @@ d) Projecte intermodular d'aprenentatge col·laboratiu vinculat a els
 
 Els cicles de Grau Mitjà estan dirigits a alumnat que ha superat la
 Educació Secundària Obligatòria o que ha obtingut el títol de
-Professional Bàsic. Estos cicles proporcionen la **qualificació
-necessària per a l'acompliment d'una professió tècnica** en un entorn
+Professional Bàsic. Estos cicles proporcionen la **qualificació necessària per a l'acompliment d'una professió tècnica** en un entorn
 productiu concret. Formen part de l'educació secundària
 postobligatòria.
 
@@ -366,8 +352,7 @@ postobligatòria.
 - S'organitzen en **mòduls professionals**, tant teòrics com
  pràctics.
 
-- Poden impartir-se en modalitat **presencial, semipresencial o
- virtual**.
+- Poden impartir-se en modalitat **presencial, semipresencial o virtual**.
 
 - La seua duració també és de dos cursos.
 
@@ -375,8 +360,7 @@ postobligatòria.
 
 **Nivell 3 del Catàleg d'Estàndards de Competència**
 
-Els cicles de Grau Superior estan orientats a la **especialització
-professional avançada**, i capaciten a l'alumnat per a desenrotllar
+Els cicles de Grau Superior estan orientats a la **especialització professional avançada**, i capaciten a l'alumnat per a desenrotllar
 funcions de major complexitat tècnica i de responsabilitat en l'àmbit
 laboral. Formen part de l'educació superior.
 
@@ -384,16 +368,13 @@ laboral. Formen part de l'educació superior.
 
 - Conduïxen al **Títol de Tècnic Superior**.
 
-- Permeten l'accés a estudis universitaris, amb possibilitat de
- reconeixement de crèdits *ECTS.
+- Permeten l'accés a estudis universitaris, amb possibilitat de reconeixement de crèdits ECTS.
 
-- Inclouen formació en **emprenedoria, digitalització,
- sostenibilitat** i altres aspectes transversals.
+- Inclouen formació en **emprenedoria, digitalització, sostenibilitat** i altres aspectes transversals.
 
 - També incorporen el mòdul de **Formació en Empresa**
 
-- Poden oferir-se en modalitat **presencial, semipresencial o
- virtual**, afavorint així la conciliació laboral i formativa.
+- Poden oferir-se en modalitat **presencial, semipresencial o virtual**, afavorint així la conciliació laboral i formativa.
 
 - La seua duració també és de dos cursos.
 
@@ -519,8 +500,7 @@ poden consultar el següent enllaç:
 
 ## MÒDULS PROFESSIONALS I TITULACIONS ACADÈMIQUES REQUERIDES PER A LA SEUA IMPARTICIÓ
 
-La pàgina web de **Tot FP** i el portal de la **Conselleria d'*Educació,
-Cultura i *Esport** en la seua secció de Formació Professional constituïxen
+La pàgina web de **Tot FP** i el portal de la **Conselleria d'Educació, Cultura i Esport** en la seua secció de Formació Professional constituïxen
 una font viva i actualitzada d'informació, imprescindible per a tots
 els docents. En estos espais es disposa de tota la documentació i
 recursos necessaris per a l'elaboració i desenrotllament d'una programació
@@ -558,7 +538,7 @@ Dins de la família professional d'Imatge Personal s'oferixen set cicles formati
 
 - Títol Professional Bàsic en Perruqueria i Estètica 
 
-**2 *TITULOS DE FORMACIÓ PROFESSIONAL DE GRAU MITJÀ**
+**2 TÍTOLS DE FORMACIÓ PROFESSIONAL DE GRAU MITJÀ**
 
  - Tècnic en Estètica i Bellesa 
  - Tècnic en Perruqueria i Cosmètica Capil·lar 
@@ -913,11 +893,11 @@ Les persones que obtenen este títol exercixen la seua activitat en empreses, ma
 
 Les ocupacions i llocs de treball més rellevants són els següents: 
 
-- *Caracterizador/a 
+- Caracteritzador/a 
 - Cap/a de maquillatge per a mitjans audiovisuals i activitats i actuacions escèniques 
 - Perruquer/a per a caracterització 
-- *Maquillador/a per a mitjans audiovisuals i activitats i actuacions escèniques 
-- *Posticero/a 
+- Maquillador/a per a mitjans audiovisuals i activitats i actuacions escèniques 
+- Posticer/a 
 - Cap/a de caracterització 
 - Cap/a de perruqueria per a espectacles i mitjans audiovisuals 
 - Especialista en pròtesi i efectes especials de caracterització 
@@ -961,7 +941,7 @@ pròpia empresa.
 Les ocupacions i llocs de treball més rellevants són els següents:
 Tècnic esteticista en centres de bellesa i gabinets d'estètica.
 
-* *Maquillador/a.
+* Maquillador/a.
 * Tècnic en ungles artificials.
 * Tècnic en depilació.
 * Tècnic en manicura i pedicura.
@@ -988,10 +968,10 @@ Les ocupacions i llocs de treball més rellevants són els següents:
 * Esteticista.
 * Director tècnic en empreses estètiques i àrees d'imatge personal, de spas i balnearis.
 * Tècnic en tractaments estètics integrals.
-* Especialista en tècniques *hidroestéticas.
+* Especialista en tècniques hidroestèticas.
 * Tècnic en micropigmentació.
 * Tècnic en depilació mecànica i avançada.
-* Tècnic en *aparatología estètica.
+* Tècnic en aparatología estètica.
 * Especialista en bronzejat mitjançant radiació ultraviolada.
 * Tècnic en massatges estètics.
 * Tècnic en drenatge limfàtic estètic.
@@ -1014,7 +994,7 @@ compte alié.
 
 Les ocupacions i llocs de treball més rellevants són els següents:
 
-* *aracteritzador/a.
+* Caracteritzador/a.
 * Cap/a de maquillatge per a mitjans audiovisuals i activitats i actuacions escèniques.
 * Perruquer/a per a caracterització.
 * Maquillador/a per a mitjans audiovisuals i activitats i actuacions escèniques.

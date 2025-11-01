@@ -1,7 +1,7 @@
 ---
 # Front matter
 # Metainformació del document
-title: "CERTIFICADO OFICIAL DE FORMACIÓN PEDAGÓGICA Y DIDÁCTICA PARA PROFESORADO TÉCNICO"
+title: "CERTIFICAT OFICIAL DE FORMACIÓ PEDAGÒGICA I DADÀCTICA PER AL PROFESSORAT TÈCNIC"
 # author:
 titlepage: true
 
@@ -212,9 +212,7 @@ sistema
 El sistema de Formació Professional a Espanya, d'acord amb el
 establit en el **Reial decret 659/2023**, pel qual s'ordena el
 sistema de Formació Professional, i recollit a nivell autonòmic en el
-**Decret 114/2025** (Comunitat Valenciana), reconeix **tres modalitats
-d'oferta** per als cicles formatius: **presencial, semipresencial i
-virtual (a distància)**.
+**Decret 114/2025** (Comunitat Valenciana), reconeix **tres modalitats d'oferta** per als cicles formatius: **presencial, semipresencial i virtual (a distància)**.
 
 Estes modalitats responen a la necessitat d'oferir una formació
 **flexible, accessible i adaptada a diferents perfils de l'alumnat**,
@@ -283,8 +281,7 @@ recollides en el currículum oficial.
 # Nivells formatius
 
 La Formació Professional s'estructura en diferents nivells de
-qualificació professional, definits en el **Catàleg d'Estàndards de
-Competència**, que servix com a eix vertebrador per a tota l'oferta
+qualificació professional, definits en el **Catàleg d'Estàndards de Competència**, que servix com a eix vertebrador per a tota l'oferta
 formativa del sistema.
 
 **Independentment de la modalitat en la qual s'impartisca** (presencial,
@@ -306,8 +303,7 @@ nivells:
 Els cicles de Grau Bàsic estan dirigits a alumnat que necessita una
 via alternativa a l'educació secundària obligatòria convencional, i
 que requerix d'un enfocament més pràctic i adaptat a les seues necessitats
-formatives. La seua finalitat és **afavorir la permanència en el sistema
-educatiu**, reduir l'abandó escolar primerenc i facilitar la
+formatives. La seua finalitat és **afavorir la permanència en el sistema educatiu**, reduir l'abandó escolar primerenc i facilitar la
 transició a l'ocupació.
 
 **Característiques principals:**
@@ -341,8 +337,7 @@ b) Àmbit de Ciències Aplicades
 
 c) Àmbit Professional
 
-d) Projecte intermodular d'aprenentatge col·laboratiu vinculat a els
- tres àmbits.
+d) Projecte intermodular d'aprenentatge col·laboratiu vinculat a els tres àmbits.
 
 ### Grau Mitjà
 
@@ -350,8 +345,7 @@ d) Projecte intermodular d'aprenentatge col·laboratiu vinculat a els
 
 Els cicles de Grau Mitjà estan dirigits a alumnat que ha superat la
 Educació Secundària Obligatòria o que ha obtingut el títol de
-Professional Bàsic. Estos cicles proporcionen la **qualificació
-necessària per a l'acompliment d'una professió tècnica** en un entorn
+Professional Bàsic. Estos cicles proporcionen la **qualificació necessària per a l'acompliment d'una professió tècnica** en un entorn
 productiu concret. Formen part de l'educació secundària
 postobligatòria.
 
@@ -366,8 +360,7 @@ postobligatòria.
 - S'organitzen en **mòduls professionals**, tant teòrics com
  pràctics.
 
-- Poden impartir-se en modalitat **presencial, semipresencial o
- virtual**.
+- Poden impartir-se en modalitat **presencial, semipresencial o virtual**.
 
 - La seua duració també és de dos cursos.
 
@@ -375,8 +368,7 @@ postobligatòria.
 
 **Nivell 3 del Catàleg d'Estàndards de Competència**
 
-Els cicles de Grau Superior estan orientats a la **especialització
-professional avançada**, i capaciten a l'alumnat per a desenrotllar
+Els cicles de Grau Superior estan orientats a la **especialització professional avançada**, i capaciten a l'alumnat per a desenrotllar
 funcions de major complexitat tècnica i de responsabilitat en l'àmbit
 laboral. Formen part de l'educació superior.
 
@@ -385,15 +377,13 @@ laboral. Formen part de l'educació superior.
 - Conduïxen al **Títol de Tècnic Superior**.
 
 - Permeten l'accés a estudis universitaris, amb possibilitat de
- reconeixement de crèdits *ECTS.
+ reconeixement de crèdits ECTS.
 
-- Inclouen formació en **emprenedoria, digitalització,
- sostenibilitat** i altres aspectes transversals.
+- Inclouen formació en **emprenedoria, digitalització, sostenibilitat** i altres aspectes transversals.
 
 - També incorporen el mòdul de **Formació en Empresa**
 
-- Poden oferir-se en modalitat **presencial, semipresencial o
- virtual**, afavorint així la conciliació laboral i formativa.
+- Poden oferir-se en modalitat **presencial, semipresencial o virtual**, afavorint així la conciliació laboral i formativa.
 
 - La seua duració també és de dos cursos.
 
@@ -413,7 +403,7 @@ a) Una part troncal obligatòria
 
  - Inglés professional
 
-b\) Una part d'optativa integrada d'un mòdul dels quals s'oferiran
+b) Una part d'optativa integrada d'un mòdul dels quals s'oferiran
 en el centre educatiu que tindrà duració anual i es cursarà en segon
 curs.
 
@@ -508,7 +498,7 @@ A cada mòdul formatiu li correspon una fixació horària que es
 distribuïx en hores setmanals. Els dies de la setmana que s'impartixen
 estes hores són flexibles i venen determinats per cada centre
 educatiu. En els quadres horaris s'indica els mòduls susceptibles de
-doblatge (*DT) i també els mòduls que poden ser impartits,
+doblatge (DT) i també els mòduls que poden ser impartits,
 indistintament, per un altre docent d'una altra especialitat.
 
 La seqüenciació dels mòduls i l'horari dels diferents cicles de
@@ -519,8 +509,7 @@ poden consultar el següent enllaç:
 
 ## MÒDULS PROFESSIONALS I TITULACIONS ACADÈMIQUES REQUERIDES PER A LA SEUA IMPARTICIÓ
 
-La pàgina web de **Tot FP** i el portal de la **Conselleria d'*Educació,
-Cultura i *Esport** en la seua secció de Formació Professional constituïxen
+La pàgina web de **Tot FP** i el portal de la **Conselleria d'Educació, Cultura i Esport** en la seua secció de Formació Professional constituïxen
 una font viva i actualitzada d'informació, imprescindible per a tots
 els docents. En estos espais es disposa de tota la documentació i
 recursos necessaris per a l'elaboració i desenrotllament d'una programació
@@ -601,21 +590,21 @@ les necessitats actuals del sector.
 Segons el Ministeri d'Indústria, Energia i Turisme, el sector es
 engloba dins del grup 18 Arts Gràfiques i servicis relacionats amb
 les mateixes, de la Classificació Nacional d'Activitats Econòmiques
-(*CNAE-2009). 
+(CNAE-2009). 
 
-(Divisions 17 i 18 de la *CNAE-2009 i Rama 20 de la classificació *RAMI)
+(Divisions 17 i 18 de la CNAE-2009 i Rama 20 de la classificació *RAMI)
 comprén els següents subsectors:  
 
-- Indústria del paper (Divisió 17, *CNAE-2009) 
-- Arts gràfiques i reproducció de suports gravats (Divisió 18, *CNAE-2009)  
+- Indústria del paper (Divisió 17, CNAE-2009) 
+- Arts gràfiques i reproducció de suports gravats (Divisió 18, CNAE-2009)  
 
 El sector de paper, arts gràfiques i reproducció de suports gravats
 engloba les següents agrupacions d'altres classificacions
 estadístiques: 
 
-- *TSIO-2010. Rama 8 (Paper i productes del paper) 
+- TSIO-2010. Rama 8 (Paper i productes del paper) 
 
-- *ISIC. Codis de producte: 21 (paper i productes de paper) i 22 (arts gràfiques i reproducció de suports gravats) 
+- ISIC. Codis de producte: 21 (paper i productes de paper) i 22 (arts gràfiques i reproducció de suports gravats) 
 
 El procés de treball es pot sintetitzar en les següents tasques:  
 
@@ -792,13 +781,13 @@ detallada:
 
 | Espai Formatiu / Espai Formatiu (EN/*ES) | Superfície m² (30 alumnes) | Superfície m² (20 alumnes) |
 |---|---|---|
-| Aula *polivalent / Aula polivalent | 90 | 60 |
+| Aula polivalent / Aula polivalent | 90 | 60 |
 | Aula tècnica d'offset / Aula tècnica d'offset | 200 | 130 |
-| Aula tècnica de *impressió digital / Aula tècnica d'impressió digital | 120 | 80 |
-| Aula d'*ordinadors *amb *simuladors / Aula d'ordinadors *amb simuladors | 120 | 80 |
+| Aula tècnica de impressió digital / Aula tècnica d'impressió digital | 120 | 80 |
+| Aula d'ordinadors amb simuladors / Aula d'ordinadors amb simuladors | 120 | 80 |
 | Aula tècnica de flexografia / Aula tècnica de flexografia | 200 | 130 |
-| Aula tècnica de serigrafia i *tampografia / Aula tècnica de serigrafia i *tampografía | 120 | 80 |
-| *Laboratori de *materials / Laboratori de materials | 90 | 60 |
+| Aula tècnica de serigrafia i tampografia / Aula tècnica de serigrafia i tampografía | 120 | 80 |
+| Laboratori de materials / Laboratori de materials | 90 | 60 |
  
 
 ## ENTORN PROFESSIONAL 
@@ -814,7 +803,7 @@ Auxiliar de màquines i equips de producció gràfica.
 Operari de manipulats de paper, cartó i altres materials.  
 Operari d'oficis auxiliars de paper, cartó i altres materials.  
 Manipulador de productes de gigantografia.  
-Peó de la indústria gràfica. 
+Peó de la indústria gràfica.
 
 **Tècnic en Impressió Gràfica** 
 
@@ -845,13 +834,13 @@ embalatges
 - Tècnic en preimpressió.  
 - Tècnic en tractament de textos.  
 - Tècnic en tractament d'imatges.  
-- *Maquetador/*compaginador digital.  
+- Maquetador/compaginador digital.  
 - Tècnic en publicacions electròniques/multimèdia. 
-- Preparador d'arxius digitals. *Escanista/especialista de color. 
+- Preparador d'arxius digitals. Escanista/especialista de color. 
 - Tècnic en imposició digital.  
-- Operador d'equips de filmació d'ordinador a planxa (*computer *to *plate-*CTP).  
-- Operador d'equips de filmació d'ordinador a pantalla (*computer *to *screen-*CTS). 
-- Operador d'equips de filmació d'ordinador a *fotopolímero (*computer *to *photopolymer-*CTP). 
+- Operador d'equips de filmació d'ordinador a planxa (computer to plate-CTP).  
+- Operador d'equips de filmació d'ordinador a pantalla (computer to screen-CTS). 
+- Operador d'equips de filmació d'ordinador a fotopolímero (computer to photopolymer-CTP). 
 - Tècnic en impressió digital. 
 
 **Tècnic Superior en Disseny i Edicions de Publicacions Impreses i Multimèdia** 
@@ -876,7 +865,7 @@ embalatges
 - Verificador de productes acabats de paper i cartó. 
 - Tècnic en gestió de color en indústries gràfiques. 
 - Ajudant de producció en indústries gràfiques.  
-- *Presupuestador d'indústries gràfiques.  
+- Pressupostador d'indústries gràfiques.  
 - Tècnic d'oficina tècnica en indústries gràfiques. 
 
  

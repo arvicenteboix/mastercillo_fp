@@ -23,7 +23,7 @@ linkcolor: "blue"
 
 # configuració de l'índex
 toc-own-page: true
-toc-title: Continguts
+toc-title: Contenidos
 toc-depth: 2
 
 # capçalera i peu \thetitle pageref{LastPage}
@@ -3838,7 +3838,7 @@ destrezas en un verdadero currículum laboral, la web pone en contacto a millone
 empresas y empleados.
 
 - [Xing](https://www.xing.com/) - Red profesional líder en Alemania, Austria y Suiza, orientada al networking B2B.  
-- [Viadeo](https://www.viadeo.com/) - Red social profesional francesa con impacto en España (≈720 000 usuarios activos).  
+- [Viadeo](https://www.viadeo.com/) - Red social profesional francesa con impacto en España (720 000 usuarios activos).  
 - [beBee](https://www.bebee.com/) - Plataforma española que conecta profesionales por afinidad e intereses comunes.  
 - [Womenalia](https://www.womenalia.com/) - Comunidad centrada en el desarrollo profesional femenino, con recursos y networking para mujeres.  
 - [Meetup](https://www.meetup.com/) - Plataforma de organización de eventos y grupos por intereses; no publica ofertas de empleo pero facilita contactos profesionales.

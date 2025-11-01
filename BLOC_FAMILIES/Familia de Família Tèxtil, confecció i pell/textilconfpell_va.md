@@ -121,15 +121,13 @@ La Formació Professional constituïx en l'actualitat un element
 vertebrador del sistema educatiu i d'ocupació a Espanya, situant-se en
 el centre de les polítiques actives d'aprenentatge al llarg de la vida.
 Sota el marc normatiu establit per la Llei orgànica 3/2022 i la seua
-desenrotllament reglamentari en l'RD 659/2023, es configura un **sistema
-unificat i flexible**, capaç de respondre a les necessitats canviants
+desenrotllament reglamentari en l'RD 659/2023, es configura un **sistema unificat i flexible**, capaç de respondre a les necessitats canviants
 de l'entorn social i productiu.
 
 Des de la perspectiva docent, este model implica un canvi
 significatiu en la concepció de l'ensenyança-aprenentatge. La Formació
 Professional ja no es limita únicament a la transmissió de coneixements
-tècnics, sinó que s'articula entorn de la **adquisició, integració
-i transferència de competències professionals**, enteses com el
+tècnics, sinó que s'articula entorn de la **adquisició, integració i transferència de competències professionals**, enteses com el
 conjunt de coneixements, destreses, habilitats, actituds i valors
 necessaris per a l'exercici qualificat d'una activitat professional,
 en contextos reals i diversos.
@@ -185,13 +183,12 @@ Entre les modalitats destaquen:
  adultes, que compatibilitzen formació amb ocupació o responsabilitats
  personals, mitjançant la combinació d'activitats no presencials i
  sessions presencials, així com recursos tecnològics de suport (encara que
- la normativa estatal posa èmfasi en *modularización, flexibilitat i
+ la normativa estatal posa èmfasi en modularització, flexibilitat i
  ritme personalitzat).
 
 ## Tipologia d'ofertes segons graus
 
-L'RD 659/2023 organitza les ofertes del sistema d'FP en **cinc
-graus** (A, B, C, D i E), la qual cosa estructura de manera clara tot el
+L'RD 659/2023 organitza les ofertes del sistema d'FP en **cinc graus** (A, B, C, D i E), la qual cosa estructura de manera clara tot el
 sistema
 
 - Grau A: Acreditació parcial de competències.
@@ -212,9 +209,7 @@ sistema
 El sistema de Formació Professional a Espanya, d'acord amb el
 establit en el **Reial decret 659/2023**, pel qual s'ordena el
 sistema de Formació Professional, i recollit a nivell autonòmic en el
-**Decret 114/2025** (Comunitat Valenciana), reconeix **tres modalitats
-d'oferta** per als cicles formatius: **presencial, semipresencial i
-virtual (a distància)**.
+**Decret 114/2025** (Comunitat Valenciana), reconeix **tres modalitats d'oferta** per als cicles formatius: **presencial, semipresencial i virtual (a distància)**.
 
 Estes modalitats responen a la necessitat d'oferir una formació
 **flexible, accessible i adaptada a diferents perfils de l'alumnat**,
@@ -283,8 +278,7 @@ recollides en el currículum oficial.
 # Nivells formatius
 
 La Formació Professional s'estructura en diferents nivells de
-qualificació professional, definits en el **Catàleg d'Estàndards de
-Competència**, que servix com a eix vertebrador per a tota l'oferta
+qualificació professional, definits en el **Catàleg d'Estàndards de Competència**, que servix com a eix vertebrador per a tota l'oferta
 formativa del sistema.
 
 **Independentment de la modalitat en la qual s'impartisca** (presencial,
@@ -306,8 +300,7 @@ nivells:
 Els cicles de Grau Bàsic estan dirigits a alumnat que necessita una
 via alternativa a l'educació secundària obligatòria convencional, i
 que requerix d'un enfocament més pràctic i adaptat a les seues necessitats
-formatives. La seua finalitat és **afavorir la permanència en el sistema
-educatiu**, reduir l'abandó escolar primerenc i facilitar la
+formatives. La seua finalitat és **afavorir la permanència en el sistema educatiu**, reduir l'abandó escolar primerenc i facilitar la
 transició a l'ocupació.
 
 **Característiques principals:**
@@ -357,17 +350,13 @@ postobligatòria.
 
 **Característiques principals:**
 
-- Conduïxen a l'obtenció del **Títol de Tècnic**, amb validesa
- acadèmica i professional.
+- Conduïxen a l'obtenció del **Títol de Tècnic**, amb validesa acadèmica i professional.
 
-- Permeten l'accés directe a estudis de **Grau Superior**, una vegada
- finalitzat el cicle.
+- Permeten l'accés directe a estudis de **Grau Superior**, una vegada finalitzat el cicle.
 
-- S'organitzen en **mòduls professionals**, tant teòrics com
- pràctics.
+- S'organitzen en **mòduls professionals**, tant teòrics com pràctics.
 
-- Poden impartir-se en modalitat **presencial, semipresencial o
- virtual**.
+- Poden impartir-se en modalitat **presencial, semipresencial o virtual**.
 
 - La seua duració també és de dos cursos.
 
@@ -392,8 +381,7 @@ laboral. Formen part de l'educació superior.
 
 - També incorporen el mòdul de **Formació en Empresa**
 
-- Poden oferir-se en modalitat **presencial, semipresencial o
- virtual**, afavorint així la conciliació laboral i formativa.
+- Poden oferir-se en modalitat **presencial, semipresencial o virtual**, afavorint així la conciliació laboral i formativa.
 
 - La seua duració també és de dos cursos.
 
@@ -519,8 +507,7 @@ poden consultar el següent enllaç:
 
 ## MÒDULS PROFESSIONALS I TITULACIONS ACADÈMIQUES REQUERIDES PER A LA SEUA IMPARTICIÓ
 
-La pàgina web de **Tot FP** i el portal de la **Conselleria d'*Educació,
-Cultura i *Esport** en la seua secció de Formació Professional constituïxen
+La pàgina web de **Tot FP** i el portal de la **Conselleria d'Educació, Cultura i Esport** en la seua secció de Formació Professional constituïxen
 una font viva i actualitzada d'informació, imprescindible per a tots
 els docents. En estos espais es disposa de tota la documentació i
 recursos necessaris per a l'elaboració i desenrotllament d'una programació
@@ -564,7 +551,7 @@ El sector tèxtil, de confecció i pell ha experimentat una profunda transformac
 
 Dins d'esta família professional podem trobar cicles formatius dels tres nivells: 
 
-![FP Tèxtil Confecció Pell](*img/*image.*png)
+![FP Tèxtil Confecció Pell](img/image.png)
 
 ## REIALS DECRETS 
 
@@ -652,9 +639,9 @@ En este apartat veurem els mòduls dels cicles que pertanyen a esta especialitat
 
 | Espai Formatiu | Equipament i Recursos |
 |-------------------|------------------------|
-| Taller de confecció | Maquinària per a la confecció de peces de vestir i complements de decoració.<*br>Ferramentes i materials per a la confecció de peces de vestir i complements de decoració.<*br>Taules de treball adequades a les operacions que s'han de realitzar.<*br>Equips de planxat.<*br>Equips i mitjans de seguretat. |
-| Aula Polivalent | Ordinadors instal·lats en xarxa, canó de projecció i Internet.<*br>Mitjans audiovisuals.<*br>Programari d'aplicació. |
-| Taller de reparació i Marroquineria | Ferramentes per a la reparació de calçat i marroquineria i activitats complementàries.<*br>Banc de finalització.<*br>Màquina de formes per a *ensamchar.<*br>Màquina de rebaixar i dividir.<*br>Màquina de pegar *filis, soles i altres. Màquines auxiliars de donar adhesiu. Màquines de cosir de sabater. Màquines de rivetar.<*br>Màquines de ziga-zaga.<*br>Màquines de passador, reblons i altres. Màquina i taula de tall.<*br>*Reactivador d'adhesius.<*br>Pistoles per a pegar.<*br>Ferramentes per a gravar i relicitar. Equips i mitjans de seguretat. |
+| Taller de confecció | Maquinària per a la confecció de peces de vestir i complements de decoració.<br>Ferramentes i materials per a la confecció de peces de vestir i complements de decoració.<br>Taules de treball adequades a les operacions que s'han de realitzar.<br>Equips de planxat.<br>Equips i mitjans de seguretat. |
+| Aula Polivalent | Ordinadors instal·lats en xarxa, canó de projecció i Internet.<br>Mitjans audiovisuals.<br>Programari d'aplicació. |
+| Taller de reparació i Marroquineria | Ferramentes per a la reparació de calçat i marroquineria i activitats complementàries.<br>Banc de finalització.<br>Màquina de formes per a *ensamchar.<br>Màquina de rebaixar i dividir.<br>Màquina de pegar *filis, soles i altres. Màquines auxiliars de donar adhesiu. Màquines de cosir de sabater. Màquines de rivetar.<br>Màquines de ziga-zaga.<br>Màquines de passador, reblons i altres. Màquina i taula de tall.<br>*Reactivador d'adhesius.<br>Pistoles per a pegar.<br>Ferramentes per a gravar i relicitar. Equips i mitjans de seguretat. |
 
 #### GRAU MITJÀ
 
@@ -671,10 +658,10 @@ En este apartat veurem els mòduls dels cicles que pertanyen a esta especialitat
 
 | Espai Formatiu | Equipament |
 |-------------------|--------------|
-| Aula Polivalent | Ordinadors instal·lats en xarxa, canó de projecció i Internet.<*br>Mitjans audiovisuals.<*br>Programari d'aplicació. |
-| Aula Patronatge | Taules de dibuix.<*br>Tamborets.<*br>Llocs informàtics en xarxa amb equips per a *CAD-CAM de calçat i marroquineria.<*br>Rajola/Tauleta digitalitzadora A3<*br>Traçador per a cort i marcat.<*br>Impressora làser A3.<*br>Programes de programari.<*br>Canó de projecció.<*br>Mesa per a copiar patrons.<*br>*Taladrador per a patrons.<*br>Suports per a rotllos de paper i cartó.<*br>Escàner.<*br>Formes de calçat. |
-| Taller de confecció | Màquina plana programable. Màquina *overlock.<*br>Màquina de ziga-zaga. Etiquetadora manual. Tamboret regulable.<*br>Equip de fermalls a pressió. Màquina impressora d'etiquetes.<*br>*Termofijadora.<*br>Premsa universal.<*br>Màquina de 2 agulles de columna. Màquines planes de cosir pell.<*br>Màquina de rebaixar.<*br>Màquina de brodar.<*br>Màquines de col·locar vius amb embuts. Màquina de tallat de banda.<*br>Màquina de triple *arrastramiento.<*br>Cadires ajustables.<*br>Formes de calçat (dona, home i xiquet per a talles). Màquina de dividir.<*br>Màquina de *dobladillado.<*br>Màquina de picar.<*br>Cisalles de patrons.<*br>Taules de tall.<*br>Màquina de rivetar.<*br>Màquina d'embastar.<*br>Màquina de modelar *gom. Màquina de modelar contraforts.<*br>*Clavadora de *Palmillas.<*br>Màquina de reactivar.<*br>Màquina de centrar puntes.<*br>Màquina de muntar talons.<*br>Màquina de vaporitzar.<*br>Màquina de polir i *cardar.<*br>*Reactivador de pisos.<*br>Màquina de prefixar talons.<*br>Màquina de premsar pisos.<*br>Màquina de traure formes.<*br>Màquina d'engrapar talons.<*br>Cabina de donar adhesiu.<*br>Cabina d'acabat.<*br>Motle de vulcanitzat. |
-| Laboratori de Materials | armaris per a reactius, tamborets).<*br>Dinamòmetre electrònic.<*br>Micròmetre.<*br>Flexòmetre d'empenyes.<*br>Abrasímetre.<*br>Microscopis.<*br>Balances de precisió.<*br>Aspe per a numeració de fils.<*br>Romana per a numeració de fils.<*br>*Filocono.<*br>Torsiòmetre manual.<*br>Balança de precisió per a pes.<*br>Dinamòmetre per a fils i teixits.<*br>Equipament de química per a anàlisi de matèries.<*br>Equip per a destil·lació d'aigua.<*br>Cambra de colors o cambra de llums UV<*br>Forn o Estufa d'assecat.<*br>Equipament de laboratori (taules, mòduls d'aigüeres, vitrines, armaris per a reactius, tamborets)<*br> Dinamòmetre electrònic<*br>Micròmetre<*br>Flexòmetre d'empenyes<*br>Abrasímetre |
+| Aula Polivalent | Ordinadors instal·lats en xarxa, canó de projecció i Internet.<br>Mitjans audiovisuals.<br>Programari d'aplicació. |
+| Aula Patronatge | Taules de dibuix.<br>Tamborets.<br>Llocs informàtics en xarxa amb equips per a *CAD-CAM de calçat i marroquineria.<br>Rajola/Tauleta digitalitzadora A3<br>Traçador per a cort i marcat.<br>Impressora làser A3.<br>Programes de programari.<br>Canó de projecció.<br>Mesa per a copiar patrons.<br>*Taladrador per a patrons.<br>Suports per a rotllos de paper i cartó.<br>Escàner.<br>Formes de calçat. |
+| Taller de confecció | Màquina plana programable. Màquina *overlock.<br>Màquina de ziga-zaga. Etiquetadora manual. Tamboret regulable.<br>Equip de fermalls a pressió. Màquina impressora d'etiquetes.<br>*Termofijadora.<br>Premsa universal.<br>Màquina de 2 agulles de columna. Màquines planes de cosir pell.<br>Màquina de rebaixar.<br>Màquina de brodar.<br>Màquines de col·locar vius amb embuts. Màquina de tallat de banda.<br>Màquina de triple *arrastramiento.<br>Cadires ajustables.<br>Formes de calçat (dona, home i xiquet per a talles). Màquina de dividir.<br>Màquina de *dobladillado.<br>Màquina de picar.<br>Cisalles de patrons.<br>Taules de tall.<br>Màquina de rivetar.<br>Màquina d'embastar.<br>Màquina de modelar *gom. Màquina de modelar contraforts.<br>*Clavadora de *Palmillas.<br>Màquina de reactivar.<br>Màquina de centrar puntes.<br>Màquina de muntar talons.<br>Màquina de vaporitzar.<br>Màquina de polir i cardar.<br>*Reactivador de pisos.<br>Màquina de prefixar talons.<br>Màquina de premsar pisos.<br>Màquina de traure formes.<br>Màquina d'engrapar talons.<br>Cabina de donar adhesiu.<br>Cabina d'acabat.<br>Motle de vulcanitzat. |
+| Laboratori de Materials | armaris per a reactius, tamborets).<br>Dinamòmetre electrònic.<br>Micròmetre.<br>Flexòmetre d'empenyes.<br>Abrasímetre.<br>Microscopis.<br>Balances de precisió.<br>Aspe per a numeració de fils.<br>Romana per a numeració de fils.<br>*Filocono.<br>Torsiòmetre manual.<br>Balança de precisió per a pes.<br>Dinamòmetre per a fils i teixits.<br>Equipament de química per a anàlisi de matèries.<br>Equip per a destil·lació d'aigua.<br>Cambra de colors o cambra de llums UV<br>Forn o Estufa d'assecat.<br>Equipament de laboratori (taules, mòduls d'aigüeres, vitrines, armaris per a reactius, tamborets)<br> Dinamòmetre electrònic<br>Micròmetre<br>Flexòmetre d'empenyes<br>Abrasímetre |
 
 #### GRAU SUPERIOR 
 
@@ -723,7 +710,7 @@ Ací està la taula en *markdown:
 
 ##### TÍTOL PROFESSIONAL GRAU SUPERIOR DE VESTUARI A MESURA I D'ESPECTACLES 
 
-**Espais **
+**Espais**
 
 | Espai Formatiu | Superfície m² (30 alumnes) | Superfície m² (20 alumnes) |
 |---|---|---|
@@ -732,7 +719,7 @@ Ací està la taula en *markdown:
 | Aula Patronatge | 120 | 90 |
 | Laboratori de Materials | 90 | 60 |
 
-**Equipaments **
+**Equipaments**
 
 | Espai Formatiu | Equipament |
 |---|---|
@@ -752,13 +739,13 @@ Mitjançant este cicle de grau bàsic es pot accedir a desenrotllar llocs de tre
 * Ajudant de reparació de calçat 
 * Reparador d'articles de marroquineria 
 * Ajudant de marroquineria 
-* *Guarnicionero 
-* *Marroquinero artesanal 
+* Guarnicionero 
+* Marroquinero artesanal 
 * Operador de màquines rentadores i assecadores de roba 
 * Operador de màquines i equips de planxat de peces de vestir 
 * Costurer a mà o màquina domèstica 
-* Costurer - *zurcidor* Modista d'arranjaments i componiments 
-* Operari de confecció* Operari de *modistería 
+* Costurer - sargidor Modista d'arranjaments i componiments 
+* Operari de confecció Operari de modistería 
 
 ### Títol professional bàsic tapisseria i cortinatge 
 
@@ -776,7 +763,7 @@ Mitjançant este cicle de grau mitjà es pot accedir a desenrotllar llocs de tre
 * Tècnic o tècnica en confecció industrial de peces i complements de vestir i articles tèxtils 
 * Tècnic tallador i costurer o tècnica talladora i costurera de peces de vestir i articles tèxtils i de pell 
 * Brodador o brodadora a màquina 
-* *Planchador o *planchadora 
+* Planxador o planxadora 
 * Acabador o acabadora 
 * Tècnic o tècnica en confecció a mesura 
 
@@ -811,7 +798,7 @@ Mitjançant este cicle de grau superior es pot accedir a desenrotllar llocs de t
 * Tècnic o tècnica en confecció industrial 
 * Tècnic o tècnica en fabricació d'articles de pell i de cuir 
 * Tècnic o tècnica en organització de la producció 
-* Dissenyador tècnic o dissenyadora tècnica de patronatge i confecció amb disseny i producció assistits per a ordinador (*cad / *cam) 
+* Dissenyador tècnic o dissenyadora tècnica de patronatge i confecció amb disseny i producció assistits per a ordinador (cad / cam) 
 * Tècnic o tècnica de desenrotllament de productes de confecció (i + d + i) 
 
 ### Tècnic superior disseny i producció de calçat i complements
@@ -819,7 +806,7 @@ Mitjançant este cicle de grau superior es pot accedir a desenrotllar llocs de t
 Mitjançant este cicle de grau superior es pot accedir a desenrotllar llocs de treball del mercat laboral en empreses relacionades amb les següents activitats: 
 
 * Dissenyador tècnic de calçat i d'articles de marroquineria. 
-* Tècnic de Patronatge amb *CAD / CAM 
+* Tècnic de Patronatge amb CAD / CAM 
 * Modelista-patronista-ajustador de calçat i articles de marroquineria 
 * Tècnic de desenrotllament de productes de calçat i de marroquineria (R + D + I) 
 * Patronista-escalador de calçat i articles de marroquineria 
@@ -842,17 +829,17 @@ Mitjançant este cicle de grau superior es pot accedir a desenrotllar llocs de t
 
 1. LA INDÚSTRIA GRÀFICA 
 
-Segons el Ministeri d'Indústria, Energia i Turisme, el sector s'engloba dins del grup 18 Arts Gràfiques i servicis relacionats amb estes, de la Classificació Nacional d'Activitats Econòmiques (*CNAE-2009). 
+Segons el Ministeri d'Indústria, Energia i Turisme, el sector s'engloba dins del grup 18 Arts Gràfiques i servicis relacionats amb estes, de la Classificació Nacional d'Activitats Econòmiques (CNAE-2009). 
 
-(Divisions 17 i 18 de la *CNAE-2009 i Rama 20 de la classificació *RAMI) comprén els següents subsectors: 
+(Divisions 17 i 18 de la CNAE-2009 i Rama 20 de la classificació *RAMI) comprén els següents subsectors: 
 
-* Indústria del paper (Divisió 17, *CNAE-2009)
-* Arts gràfiques i reproducció de suports gravats (Divisió 18, *CNAE-2009) 
+* Indústria del paper (Divisió 17, CNAE-2009)
+* Arts gràfiques i reproducció de suports gravats (Divisió 18, CNAE-2009) 
 
 El sector de paper, arts gràfiques i reproducció de suports gravats engloba les següents agrupacions d'altres classificacions estadístiques: 
 
-* *TSIO-2010. Rama 8 (Paper i productes del paper) 
-* *ISIC. Codis de producte: 21 (paper i productes de paper) i 22 (arts gràfiques i reproducció de suports gravat 
+* TSIO-2010. Rama 8 (Paper i productes del paper) 
+* ISIC. Codis de producte: 21 (paper i productes de paper) i 22 (arts gràfiques i reproducció de suports gravat) 
 
 El procés de treball es pot sintetitzar en les següents tasques: 
 
@@ -903,7 +890,7 @@ Dins de la família professional d'Arts Gràfiques s'oferixen sis cicles formati
 
 - Currículum: DECRET 114/2025, de 29 de juliol, del Consell, pel qual s'establixen els currículums dels cicles formatius de grau mitjà i de grau superior de Formació Professional, en aplicació de la Llei orgànica 3/2022, de 31 de març, d'ordenació i integració de la Formació Professional. Deroga el DECRET 196/2022, de 18 de novembre. 
 
-**Tècnic en Preimpressió Digital '**
+**Tècnic en Preimpressió Digital**
 
 - Reial decret 1586/2011, de 4 de novembre, pel qual s'establix el Títol de Tècnic en Preimpressió Digital i es fixen les seues ensenyances mínimes 
 
@@ -926,7 +913,7 @@ Dins de la família professional d'Arts Gràfiques s'oferixen sis cicles formati
 
 ## INSTAL·LACIONS 
 
-Estes ensenyances s'impartixen a les aules polivalents, en el laboratori i principalment en tallers dotats d'una sèrie de mobiliari, *aparatología, materials i equips que varien en funció del mòdul formatiu. 
+Estes ensenyances s'impartixen a les aules polivalents, en el laboratori i principalment en tallers dotats d'una sèrie de mobiliari, aparatología, materials i equips que varien en funció del mòdul formatiu. 
 
 En els Reials decrets on s'establixen els títols de cada cicle formatiu, especifica les mesures que han de tindre els espais segons el nombre d'alumnes i l'equipament necessari. 
 
@@ -943,20 +930,20 @@ En el Cicle de Grau Mitjà d'Impressió Gràfica, l'RD en el seu Annex II ens pr
 | Aula tècnica d'impressió digital. |
 | Aula d'ordinadors amb simuladors. |
 | Aula tècnica de flexografia. |
-| Aula tècnica de serigrafia i *tampografía. |
+| Aula tècnica de serigrafia i tampografía. |
 | Laboratori de materials. |
 
 No obstant això, en el Decret autonòmic que establix el currículum d'este cicle, en l'annex IV, ens proporciona informació més específica i detallada: 
 
-| Espai Formatiu / Espai Formatiu (EN/*ES) | Superfície m² (30 alumnes) | Superfície m² (20 alumnes) |
+| Espai Formatiu / Espai Formatiu (EN/ES) | Superfície m² (30 alumnes) | Superfície m² (20 alumnes) |
 |---|---|---|
-| Aula *polivalent / Aula polivalent | 90 | 60 |
+| Aula polivalent / Aula polivalent | 90 | 60 |
 | Aula tècnica d'offset / Aula tècnica d'offset | 200 | 130 |
-| Aula tècnica de *impressió digital / Aula tècnica d'impressió digital | 120 | 80 |
-| Aula d'*ordinadors *amb *simuladors / Aula d'ordinadors *amb simuladors | 120 | 80 |
+| Aula tècnica de impressió digital / Aula tècnica d'impressió digital | 120 | 80 |
+| Aula d'ordinadors amb simuladors / Aula d'ordinadors amb simuladors | 120 | 80 |
 | Aula tècnica de flexografia / Aula tècnica de flexografia | 200 | 130 |
-| Aula tècnica de serigrafia i *tampografia / Aula tècnica de serigrafia i *tampografía | 120 | 80 |
-| *Laboratori de *materials / Laboratori de materials | 90 | 60 |
+| Aula tècnica de serigrafia i tampografia / Aula tècnica de serigrafia i tampografía | 120 | 80 |
+| Laboratori de materials / Laboratori de materials | 90 | 60 |
 
  
 
@@ -998,13 +985,13 @@ No obstant això, en el Decret autonòmic que establix el currículum d'este cic
 - Tècnic en preimpressió. 
 - Tècnic en tractament de textos. 
 - Tècnic en tractament d'imatges. 
-- *Maquetador/*compaginador digital. 
+- Maquetador/compaginador digital. 
 - Tècnic en publicacions electròniques/multimèdia. 
-- Preparador d'arxius digitals. *Escanista/especialista de color.
+- Preparador d'arxius digitals. Escanista/especialista de color.
 - Tècnic en imposició digital. 
-- Operador d'equips de filmació d'ordinador a planxa (*computer *to *plate-*CTP). 
-- Operador d'equips de filmació d'ordinador a pantalla (*computer *to *screen-*CTS). 
-- Operador d'equips de filmació d'ordinador a *fotopolímero (*computer *to *photopolymer-*CTP). 
+- Operador d'equips de filmació d'ordinador a planxa (computer to plate-CTP). 
+- Operador d'equips de filmació d'ordinador a pantalla (computer to screen-CTS). 
+- Operador d'equips de filmació d'ordinador a fotopolímero (computer to photopolymer-CTP). 
 - Tècnic en impressió digital. 
 
 **Tècnic Superior en Disseny i Edicions de Publicacions Impreses i Multimèdia**
@@ -1028,6 +1015,6 @@ No obstant això, en el Decret autonòmic que establix el currículum d'este cic
 - Tècnic en processos de transformats de paper, cartó i altres suports gràfics. Verificador de productes acabats de paper i cartó. 
 - Tècnic en gestió de color en indústries gràfiques. 
 - Ajudant de producció en indústries gràfiques. 
-- *Presupuestador d'indústries gràfiques. 
+- Pressupostador d'indústries gràfiques. 
 - Tècnic d'oficina tècnica en indústries gràfiques. 
 

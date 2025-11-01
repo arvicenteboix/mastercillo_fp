@@ -96,21 +96,22 @@ Generalitat Valenciana \\
 Conselleria d’Educació, Investigació, Cultura i Esport \\
 Servei de Formació del Professorat \\
 CEFIRE de Formació Professional \\[1em]
-\textbf{AUTORES REVISIÓN 25-26:} \\
+\textbf{AUTORS REVISIÓ 25-26:} \\
 Gemma Cerezo Gil\\
 Alfredo Rafael Vicente Boix \\[1em]
-\textbf{MAQUETACIÓN:} \\
+\textbf{MAQUETACIÓ:} \\
 Alfredo Rafael Vicente Boix \\[1em]
 Este material ha sido elaborado bajo una licencia de \\
 Reconocimiento-NoComercial-CompartirIgual 3.0 de Creative Commons. \\[0.5em]
 
 \includegraphics[height=8mm,keepaspectratio]{img/cc.png} \\
-El código fuente del documento se encuentra disponible en:
+El codi font es troba disponible a:
 \url{https://github.com/arvicenteboix/mastercillo_fp}
 }
 \end{mdframed}
 
 \newpage
+
 # INTRODUCCIÓ
 
 La Formació Professional constitueix en l’actualitat un element
